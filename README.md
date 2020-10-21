@@ -37,7 +37,8 @@ data/db/gametip.xml<br>
 Removes the game tips from loading screen and the tips that pop up when you use demi.
 ___
 data/db/itemdb.xml<br>
-Some fairly broad edits here.  Update some items name and/or descriptions.  Applied my own Item Filter, which consists of decreasing text size of items I don't normally pick up as well as removing the item appearance when laying on the ground.  Functionality wise, the items can still be picked up and used.  Fomor Scrolls now tell you the reward amount for collecting the set amount, it does not factor in the server gold bonus.  Evidence of Boss Monster tells you the monster it was dropped from.<br>
+Some fairly broad edits here.  Update some items name and/or descriptions.  Applied my own Item Filter, which consists of decreasing text size of items I don't normally pick up as well as removing the item appearance when laying on the ground.  Functionality wise, the items can still be picked up and used.<br>
+Fomor Scrolls now tell you the reward amount for collecting the set amount, it does not factor in the server gold bonus.  Evidence of Boss Monster tells you the monster it was dropped from.<br>
 data/db/itemdb translations.xml is included here, but by default won't do anything.  It is only meant to add/translate Item Names and Descriptions, does not include Item Filter.  Either rename this to itemdb.xml (requires removing the other itemdb first) so that you get the translations without the filter, or remove this file to keep your data folder clean.<br>
 Phoenix feathers were renamed to Life Crystal and given a unique description.  There is another mod to change appearance, data/gfx/char/item/mesh/item_feather_001.pmg.
 ___
@@ -60,12 +61,12 @@ ___
 data/db/undergroundmaze.xml<br>
 Maxes draw distance for Ant Hell and Solea.
 ___
-data/gfx/char
+data/gfx/char<br>
 Elf, Giant, and Human folders: Dummy meshes, minimizing characters makes them invisible save for weapons.  race/male/wear has swapped underwear files, unused alternate underwear models.
 ___
-data/gfx/char/item/anim
+data/gfx/char/item/anim<br>
 Item drop animations are removed, so all items instantly appear on the ground.
 ___
-data/gfx/char/item/mesh
+data/gfx/char/item/mesh<br>
 item_arenacoin.pmg increases coin size, this increases Red Coin size without having to worry about breaking frequently from updates.  Side-effect of increasing arena coin sizes as they share the model.  item_bosskey and item_roomkey files to increase dungeon room key size.  item_none is only used if you have the data/db/itemdb.xml for the item filter, if you removed the item filter you can safely remove this too.  item_feather_001.pmg changes the phoenix feather model when on the ground.
 ___
