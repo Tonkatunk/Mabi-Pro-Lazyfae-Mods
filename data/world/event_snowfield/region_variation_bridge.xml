@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<variation group="shadow">
+	<textures>
+		<texture name="snow_only">
+			<replace>data/material/terrain/skathasand01_only/skathasand01_only.dds</replace>
+		</texture>	
+		<texture name="snow02_only">
+			<replace>data/material/terrain/skathasand01_only/skathasand01_only.dds</replace>
+		</texture>			
+		<texture name="snow03_only">
+			<replace>data/material/terrain/skathasand01_only/skathasand01_only.dds</replace>
+		</texture>		
+		<texture name="beachsand02_only">
+			<replace>data/material/terrain/skathasand01_only/skathasand01_only.dds</replace>
+		</texture>		
+		<texture name="distant_tirchornail">
+			<replace>data/material/fx/distantmesh/distant_undersea.dds</replace>
+		</texture>	
+		<texture name="field_prop_bangor_ironstone01">			
+			<replace>data/material/terrain/skathasand01_only/skathasand01_only.dds</replace>
+		</texture>			
+		<texture name="dg_tircho_lock_01">
+			<replace>data/material/char/highgloss/item_strange_shard_m.dds</replace>
+		</texture>		
+		<texture name="water_staticsurface1_cave">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>			
+		<texture name="water_staticedge2">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>			
+		<texture name="water_bottomcolor_skatha">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>			
+		
+		
+		
+	</textures>			
+			
+	<props>
+		<prop classname="field_TirCho_entrance01">
+			<remove/>
+		</prop>	
+		<prop classname="event_snowman_01">
+			<replace>scene_prop_iria_se_coralstone_02</replace>
+		</prop>		
+		<prop classname="scene_plant_tree06">
+			<replace>scene_prop_iria_c_jungletree_02</replace>
+			<colors>
+				<color name="b1" red="40" green="40" blue="40" />
+				<color name="b2" red="40" green="40" blue="40" />
+			</colors>			
+		</prop>	
+		<prop classname="scene_field_streetlamp_01_1">
+			<replace>scene_prop_iria_se_coralstone_04</replace>
+		</prop>	
+		<prop classname="field_TirCho_stone03_01">
+			<remove/>
+		</prop>			
+		<prop classname="field_prop_skatha_cave_entrance_01">
+			<add x="3163" y="3319" z="-100" dir="1.9" scale="1"/>
+			<colors>
+				<color name="b1" red="70" green="70" blue="80" />
+			</colors>
+		</prop>	
+		<prop classname="dg_dyfnfor_doorway_appear">
+			<add x="3062" y="4019" z="-100" dir="1.7" scale="1"/>
+			<colors>
+				<color name="b1" red="70" green="70" blue="80" />
+			</colors>
+		</prop>	
+	
+		<prop classname="scene_prop_iria_sw_dragonbons_ston04">
+			<add x="4490" y="49349" z="-70" dir="0.1" scale="1.1"/>
+			<colors>
+				<color name="b1" red="40" green="50" blue="80" />
+			</colors>
+		</prop>		
+
+		<prop classname="field_prop_skatha_cave_entrance_01">
+			<add x="4951" y="50175" z="-100" dir="3.3" scale="0.9"/>
+			<colors>
+				<color name="b1" red="70" green="70" blue="80" />
+			</colors>
+		</prop>	
+
+		
+		<prop classname="field_prop_skatha_cave_entrance_01">
+			<add x="3573" y="98384" z="-100" dir="-2.2" scale="1"/>
+			<colors>
+				<color name="b1" red="70" green="70" blue="80" />
+			</colors>
+		</prop>			
+		<prop classname="dg_dyfnfor_doorway_appear">
+			<add x="3162" y="97684" z="-100" dir="-2.5" scale="1"/>
+			<colors>
+				<color name="b1" red="70" green="70" blue="80" />
+			</colors>
+		</prop>				
+		
+
+		
+		<prop classname="scene_field_signalpost_03_oneside_L">
+			<replace>scene_prop_iria_se_coralstone_03</replace>
+		</prop>
+		<prop classname="scene_field_signalpost_03_oneside_R">
+			<replace>scene_prop_iria_se_grass_04</replace>
+		</prop>		
+		<prop classname="scene_field_signalpost_02_oneside">
+			<replace>field_prop_skatha_crystarock02</replace>
+		</prop>
+		<prop classname="scene_field_TirChonaill_square_01_2_tree">
+			<replace>scene_prop_iria_se_coralstone_01</replace>
+		</prop>
+		<prop classname="scene_prop_iria_sw_dragonbons_ston04">
+			<add x="4940" y="16792" z="-180" dir="0.6" scale="1"/>
+			<colors>
+				<color name="b1" red="40" green="50" blue="80" />
+			</colors>
+		</prop>		
+		<prop classname="scene_prop_iria_sw_dragonbons_ston04">
+			<add x="4704" y="35803" z="-70" dir="0.7" scale="1"/>
+			<colors>
+				<color name="b1" red="40" green="50" blue="80" />
+			</colors>
+		</prop>				
+		<prop classname="scene_prop_iria_sw_dragonbons_ston04">
+			<add x="4657" y="55676" z="-80" dir="0.8" scale="1"/>
+			<colors>
+				<color name="b1" red="40" green="50" blue="80" />
+			</colors>
+		</prop>					
+		<prop classname="scene_prop_iria_sw_dragonbons_ston04">
+			<add x="1853" y="80685" z="-80" dir="1.1" scale="1"/>
+			<colors>
+				<color name="b1" red="40" green="50" blue="80" />
+			</colors>
+		</prop>					
+		<prop classname="scene_prop_iria_sw_dragonbons01_03">
+			<add x="3080" y="41120" z="-20" dir="0.9" scale="1"/>
+			<colors>
+				<color name="b1" red="60" green="65" blue="80" />
+			</colors>
+		</prop>	
+		<prop classname="scene_prop_iria_sw_dragonbons06">
+			<add x="4776" y="86640" z="-10" dir="0.9" scale="1"/>
+			<colors>
+				<color name="b1" red="60" green="65" blue="80" />
+			</colors>
+		</prop>			
+		<prop classname="scene_prop_iria_sw_dragonbons10">
+			<add x="2353" y="98365" z="-20" dir="0" scale="1"/>
+			<colors>
+				<color name="b1" red="60" green="65" blue="80" />
+			</colors>
+		</prop>				
+		<prop classname="scene_prop_iria_sw_remain_arch02">
+			<add x="4405" y="6972" z="-20" dir="0" scale="1"/>
+			<colors>
+				<color name="b1" red="55" green="65" blue="80" />
+			</colors>
+		</prop>			
+		<prop classname="scene_prop_iria_sw_remain_arch02">
+			<add x="4423" y="19116" z="-20" dir="0" scale="1"/>
+			<colors>
+				<color name="b1" red="45" green="65" blue="80" />
+			</colors>
+		</prop>					
+		<prop classname="scene_prop_iria_sw_remain_house03">
+			<add x="2658" y="23007" z="-20" dir="0" scale="1"/>
+			<colors>
+				<color name="b1" red="45" green="65" blue="80" />
+			</colors>
+		</prop>			
+		<prop classname="scene_prop_iria_sw_remain_arch03">
+			<add x="1012" y="33086" z="-20" dir="1.8" scale="1"/>
+			<colors>
+				<color name="b1" red="45" green="55" blue="80" />
+			</colors>
+		</prop>			
+		<prop classname="scene_prop_iria_sw_remain_arch01">
+			<add x="4767" y="56959" z="-20" dir="0" scale="1"/>
+			<colors>
+				<color name="b1" red="45" green="55" blue="80" />
+			</colors>
+		</prop>	
+		<prop classname="scene_prop_iria_sw_remain_mosque01_wall_f">
+			<add x="3160" y="60702" z="-20" dir="0" scale="1"/>
+			<colors>
+				<color name="b1" red="45" green="55" blue="80" />
+			</colors>
+		</prop>		
+		<prop classname="scene_prop_iria_sw_remain_arch02">
+			<add x="1462" y="68641" z="-20" dir="1.8" scale="1"/>
+			<colors>
+				<color name="b1" red="45" green="55" blue="80" />
+			</colors>
+		</prop>			
+		<prop classname="scene_prop_iria_sw_remain_mosque01_arch01">
+			<add x="2865" y="72019" z="-50" dir="0" scale="1"/>
+			<colors>
+				<color name="b1" red="45" green="55" blue="80" />
+			</colors>
+		</prop>				
+		<prop classname="scene_prop_iria_sw_remain_top02">
+			<add x="3211" y="85824" z="-20" dir="0" scale="1"/>
+			<colors>
+				<color name="b1" red="45" green="55" blue="80" />
+			</colors>
+		</prop>	
+		<prop classname="scene_prop_iria_sw_remain_arch02">
+			<add x="4746" y="95219" z="-20" dir="0" scale="1"/>
+			<colors>
+				<color name="b1" red="45" green="55" blue="80" />
+			</colors>
+		</prop>				
+	</props>
+		<prop classname="scene_prop_iria_sw_remain_arch01">
+			<add x="1605" y="45072" z="-20" dir="1.8" scale="1"/>
+			<colors>
+				<color name="b1" red="45" green="55" blue="80" />
+			</colors>
+		</prop>	
+	
+		<prop classname="scene_prop_iria_sw_tree_05">
+			<add x="2509" y="94843" z="0" dir="1.8" scale="1"/>
+			<colors>
+				<color name="b2" red="99" green="50" blue="60" />
+			</colors>
+		</prop>		
+		<prop classname="scene_prop_iria_sw_tree_05">
+			<add x="1892" y="7681" z="0" dir="1.8" scale="1"/>
+			<colors>
+				<color name="b2" red="99" green="50" blue="60" />
+			</colors>
+		</prop>		
+		<prop classname="scene_prop_iria_se_drift_boat_01">
+			<add x="4331" y="74904" z="0" dir="0" scale="1"/>
+			<colors>
+				<color name="b2" red="60" green="60" blue="80" />
+			</colors>
+		</prop>	
+		<prop classname="dg_coil_re_room_prop_01">
+			<add x="3453" y="14475" z="0" dir="0" scale="1"/>
+			<add x="2731" y="22690" z="0" dir="0" scale="1"/>
+			<add x="2751" y="30402" z="0" dir="1.1" scale="0.8"/>
+			<add x="2661" y="45609" z="0" dir="0" scale="1"/>
+			<add x="2735" y="53280" z="0" dir="1.1" scale="0.8"/>
+			<add x="4155" y="61004" z="0" dir="2.1" scale="1"/>
+			<add x="2228" y="67388" z="0" dir="0" scale="1"/>
+			<add x="3812" y="77117" z="0" dir="1.1" scale="0.8"/>
+			<add x="2014" y="88955" z="0" dir="0" scale="1"/>
+			<add x="4022" y="96644" z="0" dir="2.1" scale="0.9"/>
+			<colors>
+				<color name="b1" red="40" green="40" blue="40" />
+				<color name="b2" red="40" green="40" blue="40" />
+				<color name="b3" red="40" green="40" blue="40" />
+			</colors>
+		</prop>	
+
+	<eventboxes>
+		<eventbox name="musicplay">
+			<remove/>
+		</eventbox>	
+	</eventboxes>
+
+	<environment>
+		<!-- 하늘 그라데이션 텍스쳐 파일 data/material/fx/skydome-->
+		<skygradation>skygradation_undersea.dds</skygradation>
+
+		<!-- 시간 칼라 테이블 data/gfx/fx/atmosphere 순서대로-->
+		<!-- 이 테이블에 알파포그 색상도 들어가있다. -->
+		<timetables>
+			<timetable>timetable_clear.raw</timetable>
+			<timetable>timetable_clear.raw</timetable>
+			<timetable>timetable_clear.raw</timetable>
+			<timetable>timetable_clear.raw</timetable>
+		</timetables>
+
+		<!-- 색보정 테이블 data/gfx/fx/posteffect -->
+		<cctable>colorcorrection_underwater.png</cctable>
+		<camera>
+			<near>30</near>
+			<far>10000</far>
+			<fov>60</fov>
+		</camera>
+		<!-- 날씨 정보 -->
+		<!-- 타입에 따른 속성은 WeatherCommon / WeatherClient / WeatherServer.xml을 참고 -->
+		<weather type="table" name="type13" />
+		
+		<backgroundmusic>Dungeon_V.mp3</backgroundmusic>
+	</environment>
+	<minimap>
+		<maxzoom>4</maxzoom>
+		<fog>
+			<enable>false</enable>
+			<radius>15</radius>
+		</fog>
+	</minimap>
+	<property>
+	</property>
+
+</variation>

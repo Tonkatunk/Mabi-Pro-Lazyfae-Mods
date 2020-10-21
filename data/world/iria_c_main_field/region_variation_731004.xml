@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<variation group="shadow">
+	<areas>
+
+	</areas>
+	<textures>
+	</textures>			
+			
+	<props>
+	</props>
+
+	<eventboxes>
+	</eventboxes>
+
+	<environment>
+		<!-- 카메라 설정. 미터단위, degree단위 -->
+		<camera>
+			<near>30</near>
+			<far>750</far>
+			<fov>48</fov>
+		</camera>
+
+		<!-- 배경음악 설정 -->
+		<!-- 입장하면 바로 플레이된다. -->
+		<!-- 나중에 보스룸에서는 스크립트로 배경음악을 변경하등가.. -->
+		<backgroundmusic>Boss_Uroboros.mp3</backgroundmusic>
+		<!-- 시간 19시30-->
+		<time>1930</time>
+		<!--<locktime>true</locktime>-->
+	</environment>	
+	<minimap>
+		<maxzoom>4</maxzoom>
+		<fog>
+			<enable>false</enable>
+			<radius>15</radius>
+		</fog>
+	</minimap>
+
+	<property>
+	</property>
+
+</variation>

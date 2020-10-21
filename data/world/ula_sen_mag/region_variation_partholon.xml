@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<variation group="shadow">
+	<areas>
+	</areas>
+	<textures>
+		<texture name="grass_only">
+			<replace>data/material/terrain/skathasand01_only/skathasand01_only.dds</replace>
+		</texture>	
+		<texture name="soil_only">
+			<replace>data/material/terrain/skathasoil04_only/skathasoil04_only.dds</replace>
+		</texture>			
+		<texture name="roughsoil_shortgrass3">
+			<replace>data/material/terrain/skathasoil04_skathasoil01/skathasoil04_skathasoil01.dds</replace>
+		</texture>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	</textures>			
+	<props>
+		<prop classname="Field_Gairech_cross">
+			<remove/>
+		</prop>		
+		<prop classname="scene_field_signalpost_03_twoside">
+			<remove/>
+		</prop>	
+		<prop classname="scene_prop_housing_npc_board_01">
+			<remove/>
+		</prop>	
+		
+	
+	</props>
+	<eventboxes>
+		<eventbox name="Music_Sen_Mag_W">
+			<remove/>
+		</eventbox>
+		<eventbox name="Music_SenMag_C2">
+			<remove/>
+		</eventbox>		
+		<eventbox name="Music_SenMag_Extra1">
+			<remove/>
+		</eventbox>			
+		<eventbox name="Music_Sen_Mag_S">
+			<remove/>
+		</eventbox>			
+		<eventbox name="Music_Sen_Mag_E">
+			<remove/>
+		</eventbox>				
+	</eventboxes>
+
+	<environment>
+		<!-- 하늘 그라데이션 텍스쳐 파일 data/material/fx/skydome-->
+		<skygradation>skygradation_redcurtain.dds</skygradation>
+
+		<!-- 시간 칼라 테이블 data/gfx/fx/atmosphere 순서대로-->
+		<!-- 이 테이블에 알파포그 색상도 들어가있다. -->
+		<timetables>
+			<timetable>timetable_clear.raw</timetable>
+			<timetable>timetable_clear.raw</timetable>
+			<timetable>timetable_clear.raw</timetable>
+			<timetable>timetable_clear.raw</timetable>
+		</timetables>
+
+		<!-- 색보정 테이블 data/gfx/fx/posteffect -->
+		<cctable>colorcorrection_past.png</cctable>
+		<camera>
+			<near>200</near>
+			<far>10000</far>
+			<fov>60</fov>
+		</camera>
+		<!-- 날씨 정보 -->
+		<!-- 타입에 따른 속성은 WeatherCommon / WeatherClient / WeatherServer.xml을 참고 -->
+		<weather type="table" name="type13" />
+		
+		<backgroundmusic>Dungeon_ArduDoubhca.mp3</backgroundmusic>
+	</environment>
+	<minimap>
+		<maxzoom>4</maxzoom>
+		<fog>
+			<enable>false</enable>
+			<radius>15</radius>
+		</fog>
+	</minimap>
+	<property>
+	</property>
+	<!-- 미니맵을 교체할 때 사용한다. -->
+	<!-- 여기서 오버라이드 안된 항목은 원본 리전의 속성을 따라간다. -->
+	<minimap>
+	</minimap>
+</variation>

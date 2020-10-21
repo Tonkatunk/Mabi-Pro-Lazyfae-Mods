@@ -1,0 +1,4532 @@
+﻿1	*Tree 1
+2	*Tree 2
+3	*Tree 3
+4	*Tree 4
+5	*Tree 5
+6	*old Guild
+7	*old Inn
+8	*old School
+9	*old Store
+10	*Fence 1
+11	*Small Fence
+12	*Fence 2
+13	*Fence 3
+14	*Fence 4
+15	*Fence 5
+16	*Large Fence
+17	*Box 1
+18	*Box 2
+19	*Box 3
+20	*Bucket 1
+21	*Bucket 2
+22	*Bucket 3
+23	*Barrel 1
+24	*Barrel 2
+25	*Barrel 3
+26	*Chair 1
+27	*Chair 2
+28	*Trough 1
+29	*여Bucket 2
+30	*Pile
+31	*Laundry 1
+32	*Laundry 2
+33	*Sack 1
+34	*Sack 2
+35	*Sack 3
+36	*Sack 4
+37	*Sign Post (Do not write!)
+38	*Straw 1
+39	*Straw 2
+40	*Straw 3
+41	*Straw 4
+42	*Lamp Post
+43	*Wagon 1
+44	*Wagon 2
+45	*Wagon 3
+46	*Wagon 4
+47	*Wagon 5
+48	*Wagon 6
+49	Well
+50	*Dead Sign
+51	*Large Hut
+52	*Log Table
+53	*Tree Pile
+54	*Old Fire
+55	*<MINI>Resting </MINI>Stump
+56	*Large Stone
+57	*Tree 6
+58	*Ancient Tree 6
+59	*Tree 7
+60	*Mushroom 1
+61	*Mushroom Three
+62	*Mushroom Lots
+63	*Training Dummy
+64	*Go to Dungeon
+65	*Tir Chonaill General Store
+66	*Tir Chonaill Grocery Store
+67	*Tir Chonaill Bank
+68	*Tir Chonaill Field
+69	*Tir Chonaill Corn
+70	*Tir Chonaill Watermelon Box
+71	*Tir Chonaill Apple Box
+72	*Tir Chonaill Box1 1
+73	*Tir Chonaill Grocery Store Sign
+74	*Tir Chonaill Bank Post
+75	*Tir Chonaill General Store Sign
+76	*Tir Chonaill Box1 2
+77	*Tir Chonaill Box1 3
+78	*Tir Chonaill Square 1
+79	*Tir Chonaill Bush2 1
+80	*Tir Chonaill Bush2 2
+81	*Tir Chonaill Bush2 3
+82	*Tir Chonaill General Store Property
+83	*Tir Chonaill Grocery Store Property
+84	*Tir Chonaill Square 1 1
+85	*Tir Chonaill Square 1 2
+86	*Tir Chonaill Long Tree 1
+87	*Tir Chonaill Village Chief House
+88	*Tir Chonaill Flat Tree 1
+89	*Tir Chonaill Bush4(2m)
+90	*Tir Chonaill Chief's House Tree
+91	*Tir Chonaill Broken Rotting Tree
+92	*Tir Chonaill Flower
+93	*Tir Chonaill Trampled Weed
+94	*Tir Chonaill Weed
+95	*Tir Chonaill Berry Tree Vine
+96	*Tir Chonaill Rotting Weeded Tree 
+97	*Tir Chonaill Bush4(4m)
+98	*Tir Chonaill Bush4(8m)
+99	*Tir Chonaill Crumbled Wall 1
+100	*Tir Chonaill Crumbled Wall 2
+101	*Tir Chonaill Crumbled Wall 3
+102	*Tir Chonaill Berry Bush
+103	*Tir Chonaill Healer
+104	*Tir Chonaill Inn
+105	*Tir Chonaill School
+106	*Tir Chonaill Church
+107	*Tir Chonaill Smithy Indoors
+108	*Tir Chonaill Smithy Outdoors
+109	*Tir Chonaill Windmill
+110	*Tir Chonaill School Gate
+111	*Tir Chonaill School Bench
+112	*Tir Chonaill School Plant
+113	*Tir Chonaill Graveyard Tree
+114	*Tir Chonaill Graves
+115	*Tir Chonaill Bridge 01
+116	*Tir Chonaill Plaza Tree
+117	*Tir Chonaill Chief's House Floor
+118	*Tir Chonaill Reservoir Fish
+119	*Tir Chonaill Pasture Outdoors
+120	*Tir Chonaill Pasture Indoors
+121	*Tir Chonaill Barricade 0
+122	*Tir Chonaill Barricade -30
+123	*Tir Chonaill Barricade +30
+124	*X006
+125	*Tir Chonaill Farmland Property
+126	*Bank Indoors
+127	*Out of Bounds Tree 1
+128	*Out of Bounds Tree 2
+129	*Out of Bounds Tree 3
+130	*Tir Chonaill Barricade Door
+131	*Bank Property
+132	*Tir Chonaill Grocery Store Prop 1
+133	*Tir Chonaill Grocery Store Prop 2
+134	*Tir Chonaill Grocery Store Prop 3
+135	*Tir Chonaill School Stone Floor
+136	*Church Floor
+137	*Tir Chonaill Dungeon Entrance
+138	*Tir Chonaill Urn
+139	*Tir Chonaill Urn 2
+140	*Tir Chonaill School Plant2
+141	*Dungeon Test 16
+142	*Dungeon Test 24
+143	*Dungeon Test 32
+144	*Tir Chonaill Tool Indoors
+145	*Tir Chonaill Inn Indoors
+146	*Tir Chonaill Healer House Indoors
+147	*Tir Chonaill Grocery Store Indoors
+148	*Tir Chonaill Tir Chonaill Stream Test 
+149	*Church Indoors
+150	*Tir Chonaill School Indoors
+151	*Tir Chonaill Chief's House Indoors
+152	*Dungeon Test 1 Goddess Statue(Lobby)
+153	*Dungeon Test 2 Goddess Statue(Safe Zone)
+154	Outdoors Entry Door Bank
+155	Outdoors Entry Door Chief's House
+156	Outdoors Entry Door Church
+157	Outdoors Entry Door Grocery Store
+158	Outdoors Entry Door Inn
+159	Outdoors Entry Door General Store
+160	Indoors Entry Door Bank
+161	Indoors Entry Door Chief's House
+162	Indoors Entry Door Church
+163	Indoors Entry Door Grocery Store
+164	Indoors Entry Door School
+165	Indoors Entry Door Inn
+166	Indoors Entry Door Healer
+167	Outdoors Entry Door School
+168	Outdoors Entry Door Healer
+169	Indoors Entry Door General Store
+170	*Saemaul scale Test 01
+171	*Dunbarton Building M
+172	*Dunbarton Building S
+173	*Dunbarton Building Edge
+174	*Dunbarton Building Property
+175	*Dunbarton Bookstore
+176	*Dunbarton Grocery Store
+177	*Dunbarton General Display
+178	*Dunbarton Clothing Store
+179	*Dunbarton Administrative Office
+180	*Dunbarton School
+181	*Dunbarton Healer
+182	*Dunbarton Weapon Prop
+183	*Dunbarton Stone Statue
+184	*Dunbarton Belfry
+185	*Dunbarton Apple Tree
+186	*Dunbarton Property
+187	*Dunbarton Just Tree
+188	*Dunbarton Street Lamp
+189	*Dunbarton Bank
+190	*Dunbarton Church
+191	*3<mini>rd</mini> Event Goddess Statue-Blue Team
+192	*3<mini>rd</mini> Event Goddess Statue-Red Team
+193	*Dunbarton Laundry Line House
+194	Outdoors Entry Door Healer House
+195	Outdoors Entry Door Clothing Store
+196	Outdoors Entry Door School
+197	Indoors Entry Door Healer House
+198	Indoors Entry Door Clothing Store
+199	Indoors Entry Door School
+200	*Dunbarton Healer House Indoors
+201	*Dunbarton School Indoors
+202	*Dunbarton Clothing StoreIndoors
+203	* Camp fire
+204	*Dunbarton School Frontside
+205	*Dunbarton School Backside
+206	*Dunbarton Healer House Property
+207	*Dunbarton General Store Property
+208	*4<mini>th</mini> Event Fire Flower Column(Transparency)
+209	<mini>TOOL</mini> Spinning Wheel
+210	<mini>TOOL</mini> Loom
+211	Guild Three
+212	*Bangor scale Test
+213	*Bangor scale Test Aberration
+214	*Nao Stage TB
+215	*Crops Wheat
+216	*Crops Barley
+217	*Crops Potato
+218	*Nao Stage Owl 01
+219	*Nao Stage Owl 02
+220	*Nao Stage Owl 03
+221	*Nao Stage Owl Collected
+222	*Sign Both Sides
+223	*Sign Section
+224	*Arrow Sign Both Sides
+225	*Arrow Sign Section Left
+226	*Arrow Sign Section Right
+227	*Arrow Sign Section Forward
+228	*Arrow Sign Section Back
+229	*Field Torch 01
+230	*X-mas Snowman
+231	*Bangor scale Test Extended
+232	Arena Move Switch
+233	*Dragon Statue Test
+234	*Tir Chonaill Stream 01
+235	*Tir Chonaill Stream 02
+236	*Tir Chonaill Stream 03
+237	*Tir Chonaill Stream 04
+238	*Tir Chonaill Stream 05
+239	*Tir Chonaill Stream 06
+240	*Tir Chonaill Stream 07
+241	*Tir Chonaill Stream 08
+242	*Tir Chonaill Stream 09
+243	*Tir Chonaill Stream 10
+244	*Tir Chonaill Stream 11
+245	*Tir Chonaill Stream 12
+246	*Arena Obstacle 01
+247	*Tir Chonaill Reservoir 01
+248	*Tir Chonaill Reservoir 02
+249	*Tir Chonaill Reservoir 03
+250	*Tir Chonaill Reservoir 04
+251	*Tir Chonaill Reservoir 05
+252	*Tir Chonaill Reservoir Fish
+253	*Tir Chonaill Reservoir Reeds
+254	*Tir Chonaill Reservoir Duck Rice L
+255	*Tir Chonaill Reservoir Duck Rice S
+256	*Tir Chonaill Reservoir Fish L
+257	*Tir Chonaill Reservoir Fish S
+258	*Tir Chonaill Reservoir Big Fish
+259	*Tir Chonaill Reservoir Small Fish
+260	*Tir Chonaill Reservoir Killifish
+261	*Tir Chonaill Stream Fish
+262	*Tir Chonaill Inn Tree Basket
+263	*Tir Chonaill Inn Trash Can
+264	*Tir Chonaill Reservoir Sign
+265	*Stream Sign
+266	Well
+267	*Emain scale Test
+268	*X007
+269	Red Herb
+270	Blue Herb
+271	Yellow Herb
+272	Green Herb
+273	Golden Herb
+274	*Fishing Bobber
+275	*Effect Dummy 01
+276	*Effect Dummy 02
+277	*Effect Dummy 03
+278	*Effect Dummy 04
+279	*Effect Dummy 05
+280	*Clearly Existing Alpha Prop 
+281	*Lunar Spurt Nao는 Gas Small
+282	*Lunar Spurt Nao는 Gas Large
+283	*Emain Plaza Cutout Golem
+284	*Crops Corn
+285	*Emain Grass 01
+286	*Emain Bank Grass 02
+287	*Emain Bank Grass 03 a Lake(many)
+288	*Emain Bank Grass 03 b Withering
+289	*Emain Bank Grass 03 c Cattail
+290	*Emain Bank Grass 03 d Canary Grass(many)
+291	*Emain Bank Grass 04 a Number평
+292	*Emain Bank Grass 04 b Withering
+293	*Emain Plaza Face Cutout Nao
+294	*Emain Plaza Face Cutout Succubus
+295	*Emain Tree 01
+296	Inside 워프 Door 2X2.5
+297	*Flower Field
+298	*Flower Field AlphaProp Emain
+299	*Flower Field AlphaProp Emain Flower Island
+300	*Flower Field AlphaProp 케오 Island
+301	*Emain Grass 01 Widespread
+302	*Emain 01 Treeline
+303	Inside 워프 Door 2X2.5 Section
+304	*eyong80 test 01
+305	*eyong80 test 02 bridge
+306	*eyong80 test 03 house
+307	*Tir Chonaill Bush2
+308	*Dungeon Test Room 1 door 01
+309	*Dungeon Test Room 2 door 01
+310	*Dungeon Test Room 2 door 02
+311	*Dungeon Test Room 3 door 01
+312	*Dungeon Test Room 4 door 01
+313	*Dungeon Test Hallway 1 door 01
+314	*Dungeon Test Hallway 2 door 01
+315	*Dungeon Test Hallway 2 door 02
+316	*Dungeon Test Hallway 3 door 01
+317	*Dungeon Test Hallway 4 door 01
+318	*Dungeon Test Large Room 2 door 01
+319	*Dungeon Test Unlocked Door Lock 01
+320	*Tir Chonaill Dungeon Room 1 door 01
+321	*Tir Chonaill Dungeon Room 2 door 01
+322	*Tir Chonaill Dungeon Room 2 door 02
+323	*Tir Chonaill Dungeon Room 3 door 01
+324	*Tir Chonaill Dungeon Room 4 door 01
+325	*Tir Chonaill Dungeon Hallway 1 door 01
+326	*Tir Chonaill Dungeon Hallway 2 door 01
+327	*Tir Chonaill Dungeon Hallway 2 door 02
+328	*Tir Chonaill Dungeon Hallway 3 door 01
+329	*Tir Chonaill Dungeon Hallway 4 door 01
+330	*Tir Chonaill Dungeon Door 01
+331	*Tir Chonaill Dungeon Rising Door 01
+332	*Tir Chonaill Dungeon Lowering Door 01
+333	*Tir Chonaill Dungeon Entrance 01
+334	*Tir Chonaill Dungeon Entrance 01 
+335	*Tir Chonaill Dungeon Lobby 01
+336	*Tir Chonaill Dungeon Lobby 01 
+337	*Tir Chonaill Dungeon Lobby 02
+338	*Tir Chonaill Dungeon Lobby 02 
+339	*Tir Chonaill Dungeon Entrance 01 Goddess Statue
+340	*Tir Chonaill Dungeon Lobby 01 Goddess Statue
+341	*Tir Chonaill Dungeon Lobby 02 Goddess Statue
+342	*Tir Chonaill Dungeon Small Goddess Statue
+343	*Tir Chonaill Dungeon BossDoor 01(Temp)
+344	Tir Chonaill Dungeon Hall Alpha Door Up
+345	Tir Chonaill Dungeon Hall Alpha Door Down
+346	Tir Chonaill Dungeon Puzzle Alpha Door Up
+347	Tir Chonaill Dungeon Puzzle Alpha Door Down
+348	*Tir Chonaill Dungeon Boss Room
+349	*Tir Chonaill Dungeon Door 01s
+350	Tir Chonaill Dungeon Outside Door
+351	*Tir Chonaill Dungeon Door 02s
+352	*Tir Chonaill Dungeon Door 03s
+353	*Tir Chonaill Dungeon Door Boss ins
+354	*Tir Chonaill Dungeon Door Boss outs
+355	* Reward Chest 1
+356	* Reward Chest 2
+357	*Switch 01
+358	*Field Hill Tree 01
+359	*Field Hill Tree 02
+360	*Field Watchtower 01
+361	*Field Tent 01
+362	*Field Basic House 01
+363	*Field Small Tree 01
+364	*Field Small Tree 02
+365	*Field Large Stone 01
+366	*Field Large Stone 02
+367	*Field Crooked Tree
+368	*Field Fallen Leaves
+369	*Field Small Tree 03
+370	*Field Grass 01
+371	*Field Long Tree
+372	*Field 01 1
+373	*Field 01 2
+374	*Field 01 3
+375	*Hill Old Dummy
+376	*Field Long Tree 02
+377	*Field Long Tree 03
+378	*Field Cellar House Property 01
+379	*Field Scarecrow 01
+380	*Field Rotting Tree 01
+381	*Field Rotting Tree 02
+382	*Field Rotting Tree 03
+383	*Field Loading Point Tree
+384	*Field Jagged Tree
+385	*Field Tir Lake
+386	*Field Loading Point 02
+387	*Dugald Aisle Loading Point Entrance
+388	*Dugald Aisle Loading Point
+389	*Dugald Aisle Loading Point Entrance
+390	*Dugald Aisle Loading Point
+391	Field Loading Point
+392	*Field Border Tree Basic 
+393	*Field Border Tree 우
+394	*Field Border Tree Left
+395	*Field Straw Pile
+396	*Field Rock 03 01
+397	*Field Rock 03 02
+398	*Field Rock 03 03
+399	*Field Rock 03 04
+400	*Field Rock 03 05
+401	*Field Rock 03 06
+402	*Field Rock 03 07
+403	*Field Rock 03 08
+404	*Field Rock 03 09
+405	*Field Rock 03 10
+406	*Field Rock 03 11
+407	*Field Rock 03 12
+408	*Field Basic Weeds
+409	*Field Weeds Lake2
+410	*Field Weed 01
+411	*Field Weed 02
+412	*Field Weed 03
+413	*Field PotatoBox
+414	*Field Straw Dummy2
+415	*Field Apple Tree 01
+416	*Field Medicinal Herbs 01
+417	*Dunbarton Test Castle Wall 01
+418	*Dunbarton Test Castle Wall 02
+419	*Dunbarton Test Castle Wall 03
+420	*Dunbarton Test Castle Wall 04
+421	*Dunbarton Test Height B 01
+422	*Dunbarton Test Height B 02
+423	*Dunbarton Test Height B 03
+424	*Dunbarton Test Height C 01
+425	*Dunbarton Test Height C 02
+426	*Dunbarton Test Height C 11
+427	*Dunbarton Test Height C 12
+428	*Dunbarton Test Height C 22
+429	*Dunbarton Test Height D 01
+430	*Dunbarton Test Height D 02
+431	*Dunbarton Test Height D 11
+432	*Dunbarton Test Height D 12
+433	*Dunbarton Test Height D 22
+434	*Dunbarton Test Height E 01
+435	*Dunbarton Test Height E 02
+436	*Dunbarton Test Height E 11
+437	*Dunbarton Test Height E 12
+438	*Dunbarton Test Height E 22
+439	*Dunbarton Test 150cm Stairs
+440	*Dunbarton Test 120cm Stairs
+441	*Dunbarton Test Height B 04
+442	*Dunbarton Test Height B 00
+443	*Dunbarton Test Height C 00
+444	*Dunbarton Test Height D 00
+445	*Dunbarton Test Height E 00
+446	*Dunbarton Test Castle Wall 11
+447	*Dunbarton Test 100cm Stairs
+448	*Dunbarton Test Height C 12 Arch 
+449	*Dunbarton Test C 12 Arch
+450	*Dunbarton Test Height C 22 Arch 
+451	*Dunbarton Test Height E 11 Arch 
+452	*Dunbarton Test E 11 Arch
+453	*Dunbarton Test Height C 11 Arch 
+454	*Dunbarton Test Height E 01 Arch 
+455	*Dunbarton Test E 01 Arch
+456	*Dunbarton Test 길A 01
+457	*Dunbarton Test 길A 02
+458	*Dunbarton Test 길A 03
+459	*Dunbarton Test Castle Wall 05
+460	*Dunbarton Test Castle Wall Flag 01
+461	*Dunbarton Test MinuteNumberVersus 
+462	*Dunbarton Test Height C 54
+463	*Dunbarton Test 길A 04
+464	*Dunbarton Lake난Floor C 00 0
+465	*Dunbarton Lake난Floor C 00 2b
+466	*Dunbarton Lake난Floor C 00 3
+467	*Dunbarton Lake난Floor C 01 0
+468	*Dunbarton Lake난Floor C 01 2b
+469	*Dunbarton Lake난Floor C 02 0
+470	*Dunbarton Lake난Floor C 02 1b
+471	*Dunbarton Lake난Floor C 11 2b
+472	*Dunbarton Lake난Floor C 11 3b
+473	*Dunbarton Lake난Floor C 12 2a
+474	*Dunbarton Lake난Floor E 00 0
+475	*Dunbarton Lake난Floor E 00 2a
+476	*Dunbarton Lake난Floor E 00 2b
+477	*Dunbarton Lake난Floor E 00 3
+478	*Dunbarton Lake난Floor E 01 0
+479	*Dunbarton Lake난Floor E 01 2a
+480	*Dunbarton Lake난Floor E 01 2b
+481	*Dunbarton Lake난Floor E 11 2b
+482	*Dunbarton Lake난Floor E 01 2c
+483	*Dunbarton Lake난Floor D 00a
+484	*Dunbarton Lake난Floor D 01 0
+485	*Dunbarton Lake난Floor D 02 0
+486	*Dunbarton Lake난Floor D 00b
+487	*Dunbarton Lake난Floor D 01a
+488	*Dunbarton Lake난Floor C 01a 1b
+489	*Dunbarton Lake난Floor C 22 2a
+490	*Dunbarton Height C 12 Arch 
+491	*Dunbarton C 12 Arch
+492	*Dunbarton Lake난Floor E 01 0 Arch 
+493	*Dunbarton Lake난Floor E 01 2a Arch 
+494	*Dunbarton Lake난Floor E 01 2c Arch 
+495	*Dunbarton Lake난Floor E 11 2b Arch 
+496	*Dunbarton Height C 11 Arch 
+497	*Dunbarton Height C 22 Arch 
+498	*Dunbarton C 12 Arch B
+499	*Dunbarton Height D 12 Arch 
+500	*Dunbarton Height D 22 Arch 
+501	*Dunbarton Railing End 
+502	*Dunbarton Test Castle Wall 06
+503	*Dunbarton Height B 00a(Plaza)
+504	*Dunbarton Height B 00b(Plaza)
+505	*Dunbarton Height B 00c(Plaza)
+506	*Dunbarton 120cm long Stairs
+507	*Dunbarton 우Water (은Three씨My Production)
+508	*Dunbarton Table(지현과My )
+509	*Dunbarton Dungeon Outdoors Entrance
+510	*Dunbarton Dungeon Outdoors Entrance Sealed Door
+511	*Dunbarton Dungeon Outdoors Entrance Wall 1
+512	*Dunbarton Dungeon Outdoors Entrance Wall 2
+513	*Dunbarton Dungeon Outdoors Entrance Fomor Pillars
+514	*Dunbarton Dungeon Room 1 door 01
+515	*Dunbarton Dungeon Room 2 door 01
+516	*Dunbarton Dungeon Room 2 door 02
+517	*Dunbarton Dungeon Room 3 door 01
+518	*Dunbarton Dungeon Room 4 door 01
+519	*Dunbarton Dungeon Hallway 1 door 01
+520	*Dunbarton Dungeon Hallway 2 door 01
+521	*Dunbarton Dungeon Hallway 2 door 02
+522	*Dunbarton Dungeon Hallway 3 door 01
+523	*Dunbarton Dungeon Hallway 4 door 01
+524	*Dunbarton Dungeon Door 01s
+525	*Dunbarton Dungeon Entrance 01
+526	*Dunbarton Dungeon Entrance 01 
+527	*Dunbarton Dungeon Lobby 01
+528	*Dunbarton Dungeon Lobby 01 
+529	*Dunbarton Dungeon Lobby 02
+530	*Dunbarton Dungeon Lobby 02 
+531	*Dunbarton Dungeon Entrance 01 Goddess Statue
+532	*Dunbarton Dungeon Lobby 01 Goddess Statue
+533	*Dunbarton Dungeon Lobby 02 Goddess Statue
+534	*Dunbarton Dungeon Door 02s
+535	*Dunbarton Dungeon Door 03s
+536	*Dunbarton Dungeon Door Boss ins
+537	*Dunbarton Dungeon Door Boss outs
+538	*Dunbarton Dungeon Boss Room
+539	*Dunbarton Dungeon Rising Door 01
+540	*Dunbarton Dungeon Lowering Door 01
+541	*Dunbarton Dungeon Small Goddess Statue
+542	Dunbarton Dungeon Hall Alpha Door Up
+543	Dunbarton Dungeon Hall Alpha Door Down
+544	Dunbarton Dungeon Puzzle Alpha Door Up
+545	Dunbarton Dungeon Puzzle Alpha Door Down
+546	*Dunbarton School Dungeon Lobby
+547	*Dunbarton School Dungeon Boss Room
+548	Ore
+549	<mini>TOOL</mini> Anvil
+550	<mini>TOOL</mini> Furnace
+551	*Bangor Aberration 01
+552	*Bangor Smithy
+553	*Bangor Tool
+554	*Bangor Pub
+555	*Bangor Pub Floor
+556	*Bangor Pub House 01
+557	*Bangor Pub 술House 01
+558	*Bangor Pub 술House 02
+559	*Bangor Pub 쉼Property 01
+560	*Bangor Pub 쉼Property 02
+561	*Bangor Pub House 02
+562	*Bangor Pub House 옆으로LongHouse 01
+563	*Bangor Pub House 옆으로LongHouse 02
+564	*Bangor Pub House Warehouse 01
+565	*Bangor Pub House Warehouse 02
+566	*Bangor Pub House Warehouse 03
+567	*Bangor Pub House Warehouse 04
+568	*Bangor Tool House 01
+569	*Bangor Tool House 02
+570	*Bangor Tool House 03
+571	*Bangor Tool House 04
+572	*Bangor Tool House 05
+573	*Bangor Tool House 06
+574	*Bangor Tool House 07
+575	*Bangor Tool House 08
+576	*Bangor Smithy House 01
+577	*Bangor Smithy House 02
+578	*Bangor Smithy House 03
+579	*Bangor Smithy House 04
+580	*Bangor Aberration House 06
+581	*Bangor Aberration House 02
+582	*Bangor Aberration House 03
+583	*Bangor Aberration House 04
+584	*Bangor Aberration House 05
+585	*Bangor Aberration House 07
+586	*Bangor Aberration House 08
+587	*Bangor Aberration House 09
+588	*Bangor Aberration House 10
+589	*Bangor Aberration House 11
+590	*Bangor Aberration House 12
+591	*Bangor Aberration House 13
+592	*Bangor Tool House 09
+593	*Bangor Tool House 10
+594	*Bangor Tool House 11
+595	*Bangor Aberration House 14
+596	*Bangor Aberration House 16
+597	*Bangor Entrance 01
+598	*Bangor Wall paper Cliff 01
+599	*Bangor Wall paper Cliff 02
+600	*Bangor Wall paper Cliff 03
+601	*Bangor Wall paper Cliff 04
+602	*Bangor Wall paper Cliff 05
+603	*Bangor Wall paper Cliff 06
+604	*Bangor Wall paper Cliff high long 01
+605	*Bangor Wall paper Cliff low short 01
+606	*Bangor Wall paper Cliff low long 01
+607	*Bangor Wall paper Cliff low corner01
+608	*Bangor Wall paper Cliff low high short 01
+609	*Bangor Wall paper Cliff high low short 01
+610	*Bangor Entrance 02
+611	*Bangor Wall paper Cliff low short 02
+612	*Bangor Entrance 03
+613	*Bangor AberrationWater 
+614	Bangor Aberration House 17(Dungeon Door)
+615	*Bangor Prop FurnaceSwitch 01
+616	*Bangor Wall paper Cliff Small Backside
+617	*Bangor Wall paper Cliff Large Backside
+618	*Field Bangor Tree 06
+619	*Bangor Dungeon Hallway 2 door 02
+620	*Bangor Dungeon Hallway 2 door 01
+621	*Bangor Dungeon Hallway 1 door 01
+622	*Bangor Dungeon Hallway 3 door 01
+623	*Bangor Dungeon Hallway 4 door 01
+624	*Bangor Dungeon Room 1 door 01
+625	*Bangor Dungeon Room 2 door 01
+626	*Bangor Dungeon Room 2 door 02
+627	*Bangor Dungeon Room 3 door 01
+628	*Bangor Dungeon Room 4 door 01
+629	*Bangor Dungeon Entrance 01
+630	*Bangor Dungeon Entrance 01 
+631	*Bangor Dungeon Lobby 01
+632	*Bangor Dungeon Lobby 01 
+633	*Bangor Dungeon Lobby 02
+634	*Bangor Dungeon Lobby 02 
+635	*Bangor Dungeon Entrance 01 Goddess Statue
+636	*Bangor Dungeon Lobby 01 Goddess Statue
+637	*Bangor Dungeon Lobby 02 Goddess Statue
+638	*Bangor Dungeon Lobby 01 1
+639	*Bangor Dungeon Lobby 01 2
+640	*Bangor Dungeon Door 02s
+641	*Bangor Dungeon Door 03s
+642	*Bangor Dungeon Door Boss ins
+643	*Bangor Dungeon Door Boss outs
+644	*Bangor Dungeon Boss Room
+645	*Bangor Dungeon Rising Door 01
+646	*Bangor Dungeon Lowering Door 01
+647	*Bangor Dungeon Door 01s
+648	*Bangor Dungeon Small Goddess Statue
+649	Bangor Dungeon Hall Alpha Door Up
+650	Bangor Dungeon Hall Alpha Door Down
+651	Bangor Dungeon Puzzle Alpha Door Up
+652	Bangor Dungeon Puzzle Alpha Door Down
+653	*Bangor Dungeon Lobby 01 3
+654	*Bangor Dungeon Exit 01 Goddess Statue
+655	*Bangor Dungeon Entrance 01 (touch)
+656	*Seal to Another World
+657	<mini> </mini> Another World
+658	*Field Bangor Entrance 01
+659	*Field Bangor Tree 01
+660	*Field Bangor Tree 02
+661	*Field Bangor Tree 03
+662	*Field Bangor Tree 04
+663	*Field Bangor Tree 05
+664	*Tir Chonaill Windmill안곡 Expression 
+665	*Tir Chonaill Small Dam
+666	*Tir Chonaill Lake
+667	*Tir Chonaill Lake Stone 01
+668	*Tir Chonaill Lake Stone 02
+669	*Tir Chonaill Lake(Tall Grass)
+670	*Tir Chonaill Lake Bridge 02
+671	*Field Bangor Grave 01
+672	*Field Bangor Grave 02
+673	*Field Bangor Grave 03
+674	*Field Bangor Grave 04
+675	*Field Bangor Side Cliff32m 01
+676	*Field Bangor Entrance 02
+677	*Field Bangor Entrance 03
+678	*Field Bangor Side Cliff32m End 01
+679	*Field Bangor Side Cliff32m End 02
+680	*Field Bangor Small구덩이 01
+681	*Field Bangor Small Straw Hut 01
+682	*Field Bangor Large Stone 01
+683	*Field Bangor Unique Tree 01
+684	*Field Bangor Edge Cliff 16m 01
+685	*Field Bangor Edge Cliff 16m 02
+686	*Field Bangor Side Cliff16m 01
+687	*Field Bangor Kobold House 02
+688	*Field Bangor Kobold House 01
+689	*Field Bangor Unique Tree 01 1
+690	*Field Bangor Small Cart 01
+691	*Field Bangor SmallHouse 01
+692	*Field Bangor Weeds Lake 01
+693	*Field Bangor Timber Pile 01
+694	*Field Bangor Weeds Lake 02
+695	*Tir Na Nog Dungeon Hallway 2 door 02
+696	*Tir Na Nog Dungeon Hallway 2 door 01
+697	*Tir Na Nog Dungeon Hallway 1 door 01
+698	*Tir Na Nog Dungeon Hallway 3 door 01
+699	*Tir Na Nog Dungeon Hallway 4 door 01
+700	*Tir Na Nog Dungeon Room 1 door 01
+701	*Tir Na Nog Dungeon Room 2 door 01
+702	*Tir Na Nog Dungeon Room 2 door 02
+703	*Tir Na Nog Dungeon Room 3 door 01
+704	*Tir Na Nog Dungeon Room 4 door 01
+705	*Tir Na Nog Dungeon Lobby 01
+706	*Tir Na Nog Dungeon Lobby 01 
+707	*Tir Na Nog Dungeon Lobby 01 Goddess Statue
+708	*Tir Na Nog Dungeon Entrance 01
+709	*Tir Na Nog Dungeon Entrance 01 
+710	*Tir Na Nog Dungeon Entrance 01 Goddess Statue
+711	*Tir Na Nog Dungeon Boss Room
+712	<mini>DOWN</mini>
+713	<mini>TO</mini>Upstairs
+714	<mini>TO</mini>Downstairs
+715	<mini>TO</mini>Upstairs
+716	*Tir Na Nog Dungeon Door 02s
+717	*Tir Na Nog Dungeon Door 03s
+718	*Tir Na Nog Dungeon Door Boss ins
+719	*Tir Na Nog Dungeon Door Boss outs
+720	*Tir Na Nog Dungeon Door 01s
+721	*Tir Na Nog Dungeon Rising Door 01
+722	*Tir Na Nog Dungeon Lowering Door 01
+723	*Tir Na Nog Dungeon Small Goddess Statue
+724	*Tir Na Nog Dungeon Exit Goddess Statue
+725	*Tir Na Nog Dungeon Old Boss Room
+726	*Tir Na Nog Dungeon Black Orb Switch
+727	*티르Nao이 Bush(2m)
+728	*Tir Na Nog Plaza
+729	*Tir Na Nog Plaza Hill
+730	*Tir Na Nog Plaza Hill Tree
+731	*Tir Na Nog Thin Tree
+732	*Tir Na Nog Small Thin Tree
+733	*Tir Na Nog Boundary Tree 1개
+734	*Tir Na Nog Boundary Tree4개
+735	*Tir Na Nog Boundary Tree3개
+736	*티르Nao이 Bush(4m)
+737	*티르Nao이 Bush(8m)
+738	*Tir Na Nog Farmland
+739	*Tir Na Nog Grocery Store Floor
+740	*Tir Na Nog General Store Floor
+741	*Tir Na Nog Dungeon Entrance
+742	*Tir Na Nog RottingWall 1 1
+743	*Tir Na Nog RottingWall 1 2
+744	*Tir Na Nog RottingWall 1 3
+745	*Tir Na Nog 보Three 01
+746	*Tir Na Nog Street Lamp 01
+747	*Goddess Stage
+748	*G1MTrick
+749	*Sidhe Sneachta Warp Point 01
+750	*Tir Na Nog Healer House Door
+751	*Tir Na Nog Bank Door
+752	*Tir Na Nog Chief's House Door
+753	*Tir Na Nog School Door
+754	*Tir Na Nog Grocery House Door
+755	*Tir Na Nog General Store Door
+756	*Tir Na Nog Inn Door
+757	*Tir Na Nog Castle Party Door
+758	*Sidhe Sneachta Snowy Sapling
+759	*Sidhe Sneachta Snowy Bush
+760	*Sidhe Sneachta High Reeds
+761	*Sidhe Sneachta Grass 
+762	*Sidhe Sneachta Stone
+763	*Tir Na Nog Barricade RightM Core
+764	*Tir Na Nog School Anger Only
+765	*G1 Fire타고있는마우러스House
+766	*Sidhe Sneachta Boundary Tree3
+767	*Sidhe Sneachta Boundary Tree 1
+768	*Sidhe Sneachta Soil in the snow
+769	*Sidhe Sneachta Warp Point 02
+770	Tir Na Nog Warp Point Alpha Door
+771	*Sidhe Sneachta Warp Point 03
+772	Tir Na Nog Warp Point AlphaFloor
+773	Tir Na Nog Warp Point Alpha Door Tirchonaill
+774	Tir Na Nog Warp Point Alpha Door Seed 남
+775	Tir Na Nog Warp Point Alpha Door Seed North
+776	*Sidhe Sneachta Special X-mas Snowman
+777	*Glas Ghaibhleann 99 Percent Stop test
+778	*Glas Ghaibhleann 50 Percent
+779	*G1 Fallen Book
+780	*Glas Ghaibhleann 99 Percent State Prop 
+781	<mini>TO Another World</mini>
+782	<mini>TO Erinn</mini>
+783	*Tarlach 로켓
+784	*Forest Ruins Dungeon Hallway 2 door 02
+785	*Forest Ruins Dungeon Hallway 2 door 01
+786	*Forest Ruins Dungeon Hallway 1 door 01
+787	*Forest Ruins Dungeon Hallway 3 door 01
+788	*Forest Ruins Dungeon Hallway 4 door 01
+789	*Forest Ruins Dungeon Room 1 door 01
+790	*Forest Ruins Dungeon Room 2 door 01
+791	*Forest Ruins Dungeon Room 2 door 02
+792	*Forest Ruins Dungeon Room 3 door 01
+793	*Forest Ruins Dungeon Room 4 door 01
+794	*Forest Ruins Dungeon Lobby 01
+795	*Forest Ruins Dungeon Lobby 01 
+796	*Forest Ruins Dungeon Lobby 01 Goddess Statue
+797	*Forest Ruins Dungeon Entrance 01
+798	*Forest Ruins Dungeon Entrance 01 
+799	*Forest Ruins Dungeon Entrance 01 Goddess Statue
+800	*Forest Ruins Dungeon Boss Room
+801	*Forest Ruins Dungeon Door 02s
+802	*Forest Ruins Dungeon Door 03s
+803	*Forest Ruins Dungeon Door Boss ins
+804	*Forest Ruins Dungeon Door Boss outs
+805	*Forest Ruins Dungeon Door 01s
+806	*Forest Ruins Dungeon Rising Door 01
+807	*Forest Ruins Dungeon Lowering Door 01
+808	<mini>TO</mini>Downstairs
+809	<mini>TO</mini>Upstairs
+810	*Forest Ruins Dungeon Small Goddess Statue
+811	<mini>TO</mini>Downstairs
+812	<mini>TO</mini>Upstairs
+813	*Field Gairech 크레이Property12m
+814	*Field Gairech Burnt Tree
+815	*Field Gairech 크레이Property24m
+816	*Field Gairech 크레이Property 08m
+817	*Field Gairech Half Burnt Tree
+818	*Field Gairech Large Stone
+819	*Field Gairech M간Stone
+820	*Field Gairech Small Stone
+821	*Field Gairech 넓은Stone 01
+822	*Field Gairech 넓은Stone 02
+823	*Field Gairech 크레이Property16m
+824	*Field Gairech 크레이Property16mWater 버전
+825	*Field Gairech Small Tree 01
+826	*Field Gairech Cross 가
+827	*Field Gairech StoneGrave
+828	*Field Gairech 넙적한Tree
+829	*Field Gairech Flower
+830	*Field Gairech 무너진 01
+831	*Tir Na Nog Dungeon Gargoyle Stone Statue 01 left
+832	*Tir Na Nog Dungeon Gargoyle Stone Statue 01 right
+833	*Tir Na Nog Dungeon Gargoyle Stone Statue 02 left
+834	*Tir Na Nog Dungeon Gargoyle Stone Statue 02 right
+835	*Tir Na Nog Dungeon Gargoyle Stone Statue 03 left
+836	*Tir Na Nog Dungeon Gargoyle Stone Statue 03 right
+837	*Emain Foundation Lock downtown W2
+838	*Emain Foundation Lock downtown W3
+839	*Emain Inside Rua's House
+840	*Emain Inside Castle Lobby
+841	*Emain Rundal Dungeon Outdoors Entrance
+842	*Emain Inside Versus Castle Party 
+843	*Emain Inside Castle Reality (Occupied)
+844	*Emain Inside Castle Reality (Unoccupied)
+845	Emain Castle Inside Warp Door 1
+846	Emain Castle Inside Warp Door 2
+847	Emain Castle Inside Warp Door 3
+848	*Emain 오이드토바르 - Etc. Chapter Lobby
+849	*Emain Castle Lobby <mini>Fixed Camera</mini> 
+850	*Osna Sail TB Cliff길 B01
+851	*Osna Sail TB Cliff길 B02
+852	*Osna Sail TB Cliff길 B03
+853	*Emain Foundation Lock downtown B04
+854	*Emain Foundation Lock lakeside C00
+855	*Emain Foundation Lock lakeside C01
+856	*Emain Foundation Lock lakeside C02
+857	*Emain Foundation Lock lakeside C03
+858	*Emain Foundation Lock lakeside C04
+859	*Emain Arc Number Water 0808
+860	*EmainTB BridgeEntrance
+861	*EmainTB View Versus Base
+862	*EmainTB RestaurantBase
+863	*EmainTB Bridge 01
+864	*EmainTB Bridge 02
+865	*Emain Arc Number Water 1616
+866	*Emain Arc Number Water 2424
+867	*EmainTB Castle Party EntranceStairs
+868	*EmainTB Castle Party 00
+869	*EmainTB Castle Party 01
+870	*EmainTB Castle Party 02
+871	*EmainTB Castle Party 03
+872	*EmainTB Castle Party 04a
+873	*EmainTB Castle Party 04b
+874	*EmainTB Castle Party 05a
+875	*EmainTB Castle Party 05b
+876	*EmainTB Bridge Bank Island 에서 EmainRoom 면
+877	*EmainTB Bridge 150 to 200 (X)
+878	*Emain Foundation Lock downtown A
+879	*Emain Foundation Lock downtown B
+880	*Emain Foundation Lock downtown e 1
+881	*Emain Foundation Lock downtown E2
+882	*Emain Foundation Lock downtown F1
+883	*Emain Foundation Lock downtown F2
+884	*Emain Foundation Lock downtown G
+885	*Emain Foundation Lock downtown I
+886	*Emain Foundation Lock downtown J1
+887	*Emain Foundation Lock downtown J2
+888	*Emain Foundation Lock downtown K
+889	*Emain Foundation Lock downtown L
+890	*Emain Foundation Lock downtown M
+891	*Emain Foundation Lock downtown N
+892	*Emain Foundation Lock downtown O
+893	*Emain Foundation Lock downtown V1
+894	*Emain Foundation Lock downtown V2
+895	*Emain Foundation Lock downtown W
+896	*Emain Foundation Lock downtown X
+897	*Emain Foundation Lock downtown Y
+898	*Emain Foundation Lock downtown Z
+899	*EmainTB Bridge 03
+900	*EmainTB Bridge 03 a
+901	*EmainTB Bridge 03 b
+902	*Emain Foundation Lock downtown Square 1
+903	*Emain Foundation Lock downtown Plaza2
+904	*Emain Foundation Lock downtown Plaza3
+905	*Emain Foundation Lock downtown Plaza4
+906	*EmainTB Town Suburb A01
+907	*EmainTB Town Suburb A02
+908	*EmainTB Town Suburb A03
+909	*EmainTB Town Suburb B01
+910	*EmainTB Town Suburb Small Door West
+911	*EmainTB Town Suburb Small Door East
+912	*EmainTB Town Suburb Large Door West1
+913	*EmainTB Town Suburb Large Door West2 (X)
+914	*EmainTB Town Suburb Large Door East1
+915	*EmainTB Town Suburb Large Door East2 (X)
+916	*EmainTB Arc Number Around C01
+917	*EmainTB Arc Number Around C02
+918	*EmainTB Arc Number Around C03
+919	*EmainTB Arc Number Around C04
+920	*EmainTB Arc Number Around C05
+921	*EmainTB Club Base
+922	*EmainTB Arc Number Around d 01
+923	*EmainTB Arc Number Around d 02
+924	*EmainTB Arc Number Around d 03
+925	*EmainTB Arc Number Around d 04
+926	*EmainTB Arc Number Around d 05
+927	*EmainTB Arc Number Around d 06
+928	*EmainTB Field A
+929	*EmainTB Field B
+930	*EmainTB Field C
+931	*EmainTB Field D
+932	*EmainTB Field E
+933	*Emain Arc Number Water 0808 Shallow
+934	*EmainTB Town Suburb Large Door North
+935	*Emain View Versus Roof
+936	*Emain House A 01 Property
+937	*Emain ClubWall 01
+938	*Emain House B low
+939	*Emain ClubWall 02
+940	*Emain House C1 02 Property
+941	*Emain ClubWall 03
+942	*Emain Basic Arch 1
+943	*Emain Restaurant Deck
+944	*Emain House A 02 Property
+945	*Emain Restaurant Arch 
+946	*Emain House C1 01 Property
+947	*Emain Restaurant 2 Property
+948	*Emain House C2 02 Property
+949	*Emain Fish Chapter Zero floor
+950	*Emain House D1 01 Property
+951	*Emain Fish Chapter Zero building 01
+952	*Emain House D2 01 Property
+953	*Emain Fish Chapter Zero building 02
+954	*Emain House C2 01 Property
+955	*Emain Fish Chapter Zero building 03
+956	*Emain House C3 01 Property
+957	*Emain Fish Chapter Zero pillar 01
+958	*Emain House D1 02 Property
+959	*Emain Fish Chapter Zero pillar 02
+960	*Emain House D2 02 Property
+961	*Emain Fish Chapter Zero pillar 03
+962	*Emain Bank Property
+963	*Emain Plaza MinuteNumberVersus 
+964	*Emain Loss Property
+965	*Emain Barrels 01
+966	*Emain Weapon Shop Property
+967	*Emain Barrels 02
+968	*Emain Healer House Property
+969	*Emain Castle Party 
+970	*Emain Castle 
+971	*Emain Fish Chapter Zero
+972	*Emain Street Lamp
+973	*Emain Bird House
+974	*Emain Fence End
+975	*Emain Fence 01
+976	*Emain Corn Field
+977	*Emain Barrels 03
+978	*Emain Box 01
+979	*Emain Box 02
+980	*Emain Box 03
+981	*Emain Street Flags
+982	*Emain Rectangle Tree
+983	*Emain Castle Party Indoors Garden
+984	*Emain Bench
+985	*Emain Healer House arch
+986	*Emain Healer House build
+987	*Emain Far off Bush High
+988	*Emain Far off Bush Low
+989	*Emain Far off Cross Tree
+990	*Emain Far off Tree 02
+991	*Emain Far off Tree 01
+992	*Emain Far off Border 01
+993	*Emain Far off Weeds
+994	*Emain Far off Border 02
+995	*Emain Inside Club
+996	*Emain Inside View Versus 1 Property
+997	*Emain Inside View Versus 2 Property
+998	*Emain Restaurant Table
+999	*Emain Castle Party 01
+1000	*Emain Castle Party 02
+1001	*Emain Castle Party 03
+1002	*Emain Castle Party 04
+1003	*Emain Castle Party 05
+1004	*Emain Castle Party 06
+1005	*Emain Castle Party 07
+1006	*Emain Castle Party 08
+1007	*Emain Castle Party 09
+1008	*Emain Castle Party 10
+1009	*Emain Trash Can
+1010	*Emain Water Fish Bone 01
+1011	*Emain Water Fish Bone 02
+1012	*Emain Water Fish Bone 03
+1013	*Emain View Versus <mini>Fixed Camera</mini> 1 Property
+1014	*Emain View Versus <mini>Fixed Camera</mini> 2 Property
+1015	Seal Stone
+1016	Moon Gate
+1017	*Emain Water Fish 1 - Large Rough
+1018	*Emain Water Fish 2 - Small Rough
+1019	*Emain Water <mini>Gathering A</mini> 
+1020	*Emain Water <mini>Gathering B</mini>
+1021	*Emain Water <mini>Gathering C</mini>
+1022	*Rua's Small House
+1023	Mythril Ore
+1024	*Emain Rundal Dungeon Lobby 01
+1025	*Emain Rundal Dungeon Lobby 01
+1026	*Emain Rundal Dungeon Lobby Goddess Statue 01
+1027	*Emain Rundal Dungeon Entrance 01
+1028	*Emain Rundal Dungeon Entrance 01
+1029	*Emain Rundal Dungeon Entrance Goddess Statue 01
+1030	*G2 Cutscene Prop Cooking Plate
+1031	*G2 Cutscene Prop 바스타드 S드
+1032	*G2 Cutscene Prop 루안 Bridge에 꽂히는 Knife
+1033	*G2 Cutscene Prop Fallen Golem 속에서 Nao는 루안
+1034	*G2 Cutscene Prop 유저와 결합하to되는 Paladin 껍질
+1035	*Emain Rundal Dungeon Room 1 door 01
+1036	*Emain Rundal Dungeon Room 2 door 01
+1037	*Emain Rundal Dungeon Room 2 door 02
+1038	*Emain Rundal Dungeon Room 3 door 01
+1039	*Emain Rundal Dungeon Room 4 door 01
+1040	*Emain Rundal Dungeon Boss Room
+1041	*Emain Rundal Dungeon Hallway 1 door 01
+1042	*Emain Rundal Dungeon Hallway 2 door 01
+1043	*Emain Rundal Dungeon Hallway 2 door 02
+1044	*Emain Rundal Dungeon Hallway 3 door 01
+1045	*Emain Rundal Dungeon Hallway 4 door 01
+1046	Emain Rundal Dungeon Hall Alpha Door Up
+1047	Emain Rundal Dungeon Hall Alpha Door Down
+1048	Emain Rundal Dungeon Puzzle Alpha Door Up
+1049	Emain Rundal Dungeon Puzzle Alpha Door Down
+1050	Emain Rundal Dungeon Outdoors Alpha Door
+1051	*Emain Rundal Dungeon Rising Door 01
+1052	*Emain Rundal Dungeon Lowering Door 01
+1053	*Emain Rundal Dungeon Door 01s
+1054	*Emain Rundal Dungeon Door 02s
+1055	*Emain Rundal Dungeon Door 03s
+1056	*Emain Rundal Dungeon Door Boss ins
+1057	*Emain Rundal Dungeon Door Boss outs
+1058	*Field Gairech 이정표01
+1059	*Field Gairech 이정표02
+1060	*Field Gairech 우Water 01
+1061	*Field Gairech Stone담01
+1062	*Field Gairech Stone담02
+1063	*Field Gairech Stone담03
+1064	*Field Gairech Stone담04
+1065	*Field Gairech Stone담05
+1066	*Emain Paladin Training Flags
+1067	*Field Gairech 해골Grave
+1068	*Osna Sail TB Cliff길 A01
+1069	*Osna Sail TB Cliff길 A02
+1070	*Osna Sail TB Cliff길 A03
+1071	*Emain Rundal Dungeon Water Only Lock
+1072	*Emain Rundal Dungeon Small Goddess Statue
+1073	*Emain Rundal Dungeon Reward Room Goddess Statue
+1074	*Login Stage
+1075	*Dungeon Puzzle Minute Number Versus 
+1076	*Dungeon Puzzle 
+1077	*케릭Property My Production Stage FloorProp 
+1078	*Field Border Tree TutorialField 
+1079	*Emain Castle Door
+1080	*Emain Castle 초SL
+1081	*Emain Castle 초SR
+1082	*Emain Castle 곽L
+1083	*Emain Castle 곽R
+1084	*Emain Castle Wall 01(Camera Room)
+1085	*Emain Castle Wall 02
+1086	*Emain Castle Wall 03
+1087	*Emain Castle Wall 04
+1088	*Emain Castle Wall 05
+1089	*Emain Castle Wall 06
+1090	*Emain Castle Wall 07
+1091	*Emain Castle Wall 08
+1092	*Emain Rundal Dungeon Lobby Iron Gate L
+1093	*Emain Rundal Dungeon Lobby Iron Gate R
+1094	*Emain 오이드토바르 - Iron Gate L
+1095	*Emain 오이드토바르 - Iron Gate R
+1096	*Tir Chonaill Warp Point 01 TutorialField 
+1097	*Emain Plaza Tree
+1098	Unfolded Kiosk Set
+1099	Cooking Oven
+1100	*Emain Rundal Dungeon Boss Room 세이렌전 
+1101	<mini>TOOL</mini> Oven
+1102	*우Water 
+1103	Unfolded Personal Store Kit
+1122	Small Camp 
+1123	*S Type Camp Inside Floor
+1124	*S Type Camp Inside Tent 01
+1125	*S Type Camp Inside Tent 02
+1126	*S Type Camp Inside Tent 03
+1127	*S Type Camp Inside Tent 04
+1128	*S Type Camp Inside Tent 05
+1129	*S Type Camp Inside Tent 06
+1130	 Camp fire
+1131	OUT
+1149	Peaca Dungeon Hall Alpha Door Up
+1150	Peaca Dungeon Hall Alpha Door Down
+1151	Peaca Dungeon Puzzle Alpha Door Up
+1152	Peaca Dungeon Puzzle Alpha Door Down
+1153	Peaca Dungeon Outdoors Alpha Door
+1163	*Peaca Dungeon Lobby 01
+1164	*Peaca Dungeon Lobby 01
+1165	*Peaca Dungeon Lobby Goddess Statue 01
+1166	*Peaca Dungeon Entrance 01
+1167	*Peaca Dungeon Entrance 01
+1168	*Peaca Dungeon Entrance Goddess Statue 01
+1169	*Peaca Dungeon Room 1 door 01
+1170	*Peaca Dungeon Room 2 door 01
+1171	*Peaca Dungeon Room 2 door 02
+1172	*Peaca Dungeon Room 3 door 01
+1173	*Peaca Dungeon Room 4 door 01
+1174	*Peaca Dungeon Boss Room
+1175	*Peaca Dungeon Hallway 1 door 01
+1176	*Peaca Dungeon 2 door 01
+1177	*Peaca Dungeon 2 door 02
+1178	*Peaca Dungeon Hallway 3 door 01
+1179	*Peaca Dungeon Hallway 4 door 01
+1180	*Peaca Dungeon Rising Door 01
+1181	*Peaca Dungeon Lowering Door 01
+1182	*Peaca Dungeon Door 01s
+1183	*Peaca Dungeon Door 02s
+1184	*Peaca Dungeon Door 03s
+1185	*Peaca Dungeon Door Boss ins
+1186	*Peaca Dungeon Door Boss outs
+1187	*Peaca Dungeon Small Goddess Statue
+1188	*Peaca Dungeon Reward Room Goddess Statue
+1189	*Field Sen Mag Peaca Dungeon Entrance
+1191	*Dunbarton School Dungeon Scary Library
+1192	Ore
+1193	*Peaca Dungeon Reward Chest 1
+1194	*Peaca Dungeon Reward Chest 2
+1196	White Herb
+1197	*S Type Camp InsideCamera
+1198	*(Temp)Housing 76
+1199	*(Temp)Housing 65
+1200	*가라 Dungeon
+1201	*Dungeon Test 16
+1202	*Dungeon Test 24
+1203	*Dungeon Test 32
+1204	*Dungeon Test Hall1 Goddess Statue(Lobby)
+1205	*Dungeon Test Hall2 Goddess Statue(Safe Zone)
+1206	*Dungeon Test Room 1 door 01
+1207	*Dungeon Test Room 2 door 01
+1208	*Dungeon Test Room 2 door 02
+1209	*Dungeon Test Room 3 door 01
+1210	*Dungeon Test Room 4 door 01
+1211	*Dungeon Test Hallway 1 door 01
+1212	*Dungeon Test Hallway 2 door 01
+1213	*Dungeon Test Hallway 2 door 02
+1214	*Dungeon Test Hallway 3 door 01
+1215	*Dungeon Test Hallway 4 door 01
+1216	*Dungeon Test Large Room 2 door 01
+1217	*Dungeon Test Unlocked Door Lock 01
+1218	*Tir Chonaill Dungeon Room 1 door 01
+1219	*Tir Chonaill Dungeon Room 2 door 01
+1220	*Tir Chonaill Dungeon Room 2 door 02
+1221	*Tir Chonaill Dungeon Room 3 door 01
+1222	*Tir Chonaill Dungeon Room 4 door 01
+1223	*Tir Chonaill Dungeon Hallway 1 door 01
+1224	*Tir Chonaill Dungeon Hallway 2 door 01
+1225	*Tir Chonaill Dungeon Hallway 2 door 02
+1226	*Tir Chonaill Dungeon Hallway 3 door 01
+1227	*Tir Chonaill Dungeon Hallway 4 door 01
+1228	*Tir Chonaill Dungeon Door 01
+1229	*Tir Chonaill Dungeon Rising Door 01
+1230	*Tir Chonaill Dungeon Lowering Door 01
+1231	*Tir Chonaill Dungeon Entrance 01
+1232	*Tir Chonaill Dungeon Entrance 01 
+1233	*Tir Chonaill Dungeon Lobby 01
+1234	*Tir Chonaill Dungeon Lobby 01 
+1235	*Tir Chonaill Dungeon Lobby 02
+1236	*Tir Chonaill Dungeon Lobby 02 
+1237	*Tir Chonaill Dungeon Entrance 01 Goddess Statue
+1238	*Tir Chonaill Dungeon Lobby 01 Goddess Statue
+1239	*Tir Chonaill Dungeon Lobby 02 Goddess Statue
+1240	*Tir Chonaill Dungeon Small Goddess Statue
+1241	*Tir Chonaill Dungeon BossDoor 01(Temp)
+1242	Tir Chonaill Dungeon Hall Alpha Door Up
+1243	Tir Chonaill Dungeon Hall Alpha Door Down
+1244	Tir Chonaill Dungeon Puzzle Alpha Door Up
+1245	Tir Chonaill Dungeon Puzzle Alpha Door Down
+1246	*Tir Chonaill Dungeon Boss Room
+1247	*Tir Chonaill Dungeon Door 01s
+1248	Tir Chonaill Dungeon Outside Door
+1249	*Tir Chonaill Dungeon Door 02s
+1250	*Tir Chonaill Dungeon Door 03s
+1251	*Tir Chonaill Dungeon Door Boss ins
+1252	*Tir Chonaill Dungeon Door Boss outs
+1253	*Dunbarton Dungeon Room 1 door 01
+1254	*Dunbarton Dungeon Room 2 door 01
+1255	*Dunbarton Dungeon Room 2 door 02
+1256	*Dunbarton Dungeon Room 3 door 01
+1257	*Dunbarton Dungeon Room 4 door 01
+1258	*Dunbarton Dungeon Hallway 1 door 01
+1259	*Dunbarton Dungeon Hallway 2 door 01
+1260	*Dunbarton Dungeon Hallway 2 door 02
+1261	*Dunbarton Dungeon Hallway 3 door 01
+1262	*Dunbarton Dungeon Hallway 4 door 01
+1263	*Dunbarton Dungeon Door 01s
+1264	*Dunbarton Dungeon Entrance 01
+1265	*Dunbarton Dungeon Entrance 01 
+1266	*Dunbarton Dungeon Lobby 01
+1267	*Dunbarton Dungeon Lobby 01 
+1268	*Dunbarton Dungeon Lobby 02
+1269	*Dunbarton Dungeon Lobby 02 
+1270	*Dunbarton Dungeon Entrance 01 Goddess Statue
+1271	*Dunbarton Dungeon Lobby 01 Goddess Statue
+1272	*Dunbarton Dungeon Lobby 02 Goddess Statue
+1273	*Dunbarton Dungeon Door 02s
+1274	*Dunbarton Dungeon Door 03s
+1275	*Dunbarton Dungeon Door Boss ins
+1276	*Dunbarton Dungeon Door Boss outs
+1277	*Dunbarton Dungeon Boss Room
+1278	*Dunbarton Dungeon Rising Door 01
+1279	*Dunbarton Dungeon Lowering Door 01
+1280	*Dunbarton Dungeon Small Goddess Statue
+1281	Dunbarton Dungeon Hall Alpha Door Up
+1282	Dunbarton Dungeon Hall Alpha Door Down
+1283	Dunbarton Dungeon Puzzle Alpha Door Up
+1284	Dunbarton Dungeon Puzzle Alpha Door Down
+1285	*Dunbarton School Dungeon Lobby
+1286	*Dunbarton School Dungeon Boss Room
+1287	*Bangor Dungeon Hallway 2 door 02
+1288	*Bangor Dungeon Hallway 2 door 01
+1289	*Bangor Dungeon Hallway 1 door 01
+1290	*Bangor Dungeon Hallway 3 door 01
+1291	*Bangor Dungeon Hallway 4 door 01
+1292	*Bangor Dungeon Room 1 door 01
+1293	*Bangor Dungeon Room 2 door 01
+1294	*Bangor Dungeon Room 2 door 02
+1295	*Bangor Dungeon Room 3 door 01
+1296	*Bangor Dungeon Room 4 door 01
+1297	*Bangor Dungeon Entrance 01
+1298	*Bangor Dungeon Entrance 01 
+1299	*Bangor Dungeon Lobby 01
+1300	*Bangor Dungeon Lobby 01 
+1301	*Bangor Dungeon Lobby 02
+1302	*Bangor Dungeon Lobby 02 
+1303	*Bangor Dungeon Entrance 01 Goddess Statue
+1304	*Bangor Dungeon Lobby 01 Goddess Statue
+1305	*Bangor Dungeon Lobby 02 Goddess Statue
+1306	*Bangor Dungeon Lobby 01 1
+1307	*Bangor Dungeon Lobby 01 2
+1308	*Bangor Dungeon Door 02s
+1309	*Bangor Dungeon Door 03s
+1310	*Bangor Dungeon Door Boss ins
+1311	*Bangor Dungeon Door Boss outs
+1312	*Bangor Dungeon Boss Room
+1313	*Bangor Dungeon Rising Door 01
+1314	*Bangor Dungeon Lowering Door 01
+1315	*Bangor Dungeon Door 01s
+1316	*Bangor Dungeon Small Goddess Statue
+1317	Bangor Dungeon Hall Alpha Door Up
+1318	Bangor Dungeon Hall Alpha Door Down
+1319	Bangor Dungeon Puzzle Alpha Door Up
+1320	Bangor Dungeon Puzzle Alpha Door Down
+1321	*Bangor Dungeon Lobby 01 3
+1322	*Bangor Dungeon Exit 01 Goddess Statue
+1323	*Bangor Dungeon Entrance 01 (touch)
+1324	*Tir Na Nog Dungeon Hallway 2 door 02
+1325	*Tir Na Nog Dungeon Hallway 2 door 01
+1326	*Tir Na Nog Dungeon Hallway 1 door 01
+1327	*Tir Na Nog Dungeon Hallway 3 door 01
+1328	*Tir Na Nog Dungeon Hallway 4 door 01
+1329	*Tir Na Nog Dungeon Room 1 door 01
+1330	*Tir Na Nog Dungeon Room 2 door 01
+1331	*Tir Na Nog Dungeon Room 2 door 02
+1332	*Tir Na Nog Dungeon Room 3 door 01
+1333	*Tir Na Nog Dungeon Room 4 door 01
+1334	*Tir Na Nog Dungeon Lobby 01
+1335	*Tir Na Nog Dungeon Lobby 01 
+1336	*Tir Na Nog Dungeon Lobby 01 Goddess Statue
+1337	*Tir Na Nog Dungeon Entrance 01
+1338	*Tir Na Nog Dungeon Entrance 01 
+1339	*Tir Na Nog Dungeon Entrance 01 Goddess Statue
+1340	*Tir Na Nog Dungeon Boss Room
+1341	*Tir Na Nog Dungeon Door 02s
+1342	*Tir Na Nog Dungeon Door 03s
+1343	*Tir Na Nog Dungeon Door Boss ins
+1344	*Tir Na Nog Dungeon Door Boss outs
+1345	*Tir Na Nog Dungeon Door 01s
+1346	*Tir Na Nog Dungeon Rising Door 01
+1347	*Tir Na Nog Dungeon Lowering Door 01
+1348	*Tir Na Nog Dungeon Small Goddess Statue
+1349	*Tir Na Nog Dungeon Exit Goddess Statue
+1350	*Tir Na Nog Dungeon Old Boss Room
+1351	*Tir Na Nog Dungeon Black Orb Switch
+1352	*Tir Na Nog Dungeon Entrance
+1353	*Forest Ruins Dungeon Hallway 2 door 02
+1354	*Forest Ruins Dungeon Hallway 2 door 01
+1355	*Forest Ruins Dungeon Hallway 1 door 01
+1356	*Forest Ruins Dungeon Hallway 3 door 01
+1357	*Forest Ruins Dungeon Hallway 4 door 01
+1358	*Forest Ruins Dungeon Room 1 door 01
+1359	*Forest Ruins Dungeon Room 2 door 01
+1360	*Forest Ruins Dungeon Room 2 door 02
+1361	*Forest Ruins Dungeon Room 3 door 01
+1362	*Forest Ruins Dungeon Room 4 door 01
+1363	*Forest Ruins Dungeon Lobby 01
+1364	*Forest Ruins Dungeon Lobby 01 
+1365	*Forest Ruins Dungeon Lobby 01 Goddess Statue
+1366	*Forest Ruins Dungeon Entrance 01
+1367	*Forest Ruins Dungeon Entrance 01 
+1368	*Forest Ruins Dungeon Entrance 01 Goddess Statue
+1369	*Forest Ruins Dungeon Boss Room
+1370	*Forest Ruins Dungeon Door 02s
+1371	*Forest Ruins Dungeon Door 03s
+1372	*Forest Ruins Dungeon Door Boss ins
+1373	*Forest Ruins Dungeon Door Boss outs
+1374	*Forest Ruins Dungeon Door 01s
+1375	*Forest Ruins Dungeon Rising Door 01
+1376	*Forest Ruins Dungeon Lowering Door 01
+1377	*Forest Ruins Dungeon Small Goddess Statue
+1378	*Tir Na Nog Dungeon Gargoyle Stone Statue 01 left
+1379	*Tir Na Nog Dungeon Gargoyle Stone Statue 01 right
+1380	*Tir Na Nog Dungeon Gargoyle Stone Statue 02 left
+1381	*Tir Na Nog Dungeon Gargoyle Stone Statue 02 right
+1382	*Tir Na Nog Dungeon Gargoyle Stone Statue 03 left
+1383	*Tir Na Nog Dungeon Gargoyle Stone Statue 03 right
+1384	*Emain Rundal Dungeon Room 1 door 01
+1385	*Emain Rundal Dungeon Room 2 door 01
+1386	*Emain Rundal Dungeon Room 2 door 02
+1387	*Emain Rundal Dungeon Room 3 door 01
+1388	*Emain Rundal Dungeon Room 4 door 01
+1389	*Emain Rundal Dungeon Boss Room
+1390	*Emain Rundal Dungeon Hallway 1 door 01
+1391	*Emain Rundal Dungeon Hallway 2 door 01
+1392	*Emain Rundal Dungeon Hallway 2 door 02
+1393	*Emain Rundal Dungeon Hallway 3 door 01
+1394	*Emain Rundal Dungeon Hallway 4 door 01
+1395	Emain Rundal Dungeon Hall Alpha Door Up
+1396	Emain Rundal Dungeon Hall Alpha Door Down
+1397	Emain Rundal Dungeon Puzzle Alpha Door Up
+1398	Emain Rundal Dungeon Puzzle Alpha Door Down
+1399	Emain Rundal Dungeon Outdoors Alpha Door
+1400	*Emain Rundal Dungeon Rising Door 01
+1401	*Emain Rundal Dungeon Lowering Door 01
+1402	*Emain Rundal Dungeon Door 01s
+1403	*Emain Rundal Dungeon Door 02s
+1404	*Emain Rundal Dungeon Door 03s
+1405	*Emain Rundal Dungeon Door Boss ins
+1406	*Emain Rundal Dungeon Door Boss outs
+1407	*Emain Rundal Dungeon Water Only Lock
+1408	*Emain Rundal Dungeon Small Goddess Statue
+1409	*Emain Rundal Dungeon Reward Room Goddess Statue
+1410	*Emain Rundal Dungeon Boss Room 세이렌전 
+1411	*Dunbarton School Dungeon Scary Library
+1412	*Tir Na Nog 2 Dungeon Hallway 1 door 01
+1413	*Tir Na Nog 2 Dungeon Hallway 2 door 02
+1414	*Tir Na Nog 2 Dungeon Hallway 2 door 01
+1415	*Tir Na Nog 2 Dungeon Hallway 3 door 01
+1416	*Tir Na Nog 2 Dungeon Hallway 4 door 01
+1417	*Tir Na Nog 2 Dungeon Room 1 door 01
+1418	*Tir Na Nog 2 Dungeon Room 2 door 01
+1419	*Tir Na Nog 2 Dungeon Room 2 door 02
+1420	*Tir Na Nog 2 Dungeon Room 3 door 01
+1421	*Tir Na Nog 2 Dungeon Room 4 door 01
+1422	*Tir Na Nog 2 Dungeon Rising Door 01
+1423	*Tir Na Nog 2 Dungeon Lowering Door 01
+1424	<mini>TO</mini>Downstairs
+1425	<mini>TO</mini>Upstairs
+1426	*Tir Na Nog 2 Dungeon Door 01s
+1427	*Tir Na Nog 2 Dungeon Door 02s
+1428	*Tir Na Nog 2 Dungeon Door 03s
+1429	*Housing House 01 A
+1430	*Housing House 01 B
+1431	*Housing House 01 C
+1432	*Housing House 02 A
+1433	*Housing House 02 B
+1434	*Housing House 02 C
+1435	*Housing House 03 A
+1436	*Housing House 03 B
+1437	*Housing House 03 C
+1438	*Housing Roof01 A
+1439	*Housing Roof01 B
+1440	*Housing Roof01 C
+1441	*Housing Roof02 A
+1442	*Housing Roof02 B
+1443	*Housing Roof02 C
+1444	*Housing Roof03 A
+1445	*Housing Roof03 B
+1446	*Housing Roof03 C
+1447	*Housing Interior 01 A
+1448	*Housing Interior 01 B
+1449	*Housing Interior 01 C
+1450	*Housing Interior 02 A
+1451	*Housing Interior 02 B
+1452	*Housing Interior 02 C
+1453	*Housing Interior 03 A
+1454	*Housing Interior 03 B
+1455	*Housing Interior 03 C
+1456	*Tir Na Nog 2 Dungeon Lobby 01
+1457	*Tir Na Nog 2 Dungeon Lobby 01
+1458	*Tir Na Nog 2 Dungeon Lobby Goddess Statue 01
+1459	*Tir Na Nog 2 Dungeon Entrance 01
+1460	*Tir Na Nog 2 Dungeon Entrance 01
+1461	*Tir Na Nog 2 Dungeon Entrance Goddess Statue 01
+1463	*Tir Na Nog 2 Dungeon Hall Alpha Door Down
+1464	*Wedding Ceremony Lobby
+1465	*Wedding Hall
+1466	*Field Tir Na Nog2 Town Entrance 01
+1467	*Field Tir Na Nog2 Tree 01
+1468	*Field Tir Na Nog2 Tree 02
+1469	*Field Tir Na Nog2 Grave 01
+1470	*Field Tir Na Nog2 Grave 02
+1471	*Field Tir Na Nog2 Grave 03
+1472	*Field Tir Na Nog2 Grave 04
+1473	*Field Tir Na Nog2 Side Cliff32m 01
+1474	*Field Tir Na Nog2 Town Entrance 02
+1475	*Field Tir Na Nog2 Town Entrance 03
+1476	*Field Tir Na Nog2 Side Cliff32m End 01
+1477	*Field Tir Na Nog2 Side Cliff32m End 02
+1478	*Field Tir Na Nog2 Stone 01
+1479	*Field Tir Na Nog2 Minute Anger 구 01
+1480	*Field Tir Na Nog2 Edge Cliff 16m 01
+1481	*Field Tir Na Nog2 Edge Cliff 16m 02
+1482	*Field Tir Na Nog2 Side Cliff16m 01
+1483	*Tir Na Nog2 Entrance 01
+1484	*Tir Na Nog2 Wall paper Cliff 01
+1485	*Tir Na Nog2 Wall paper Cliff 02
+1486	*Tir Na Nog2 Wall paper Cliff 03
+1487	*Tir Na Nog2 Wall paper Cliff 04
+1488	*Tir Na Nog2 Wall paper Cliff 05
+1489	*Tir Na Nog2 Wall paper Cliff 06
+1490	*Tir Na Nog2 Wall paper Cliff high long 01
+1491	*Tir Na Nog2 Wall paper Cliff low short 01
+1492	*Tir Na Nog2 Wall paper Cliff low long 01
+1494	*Tir Na Nog2 Wall paper Cliff low high short 01
+1495	*Tir Na Nog2 Wall paper Cliff high low short 01
+1496	*Tir Na Nog2 Entrance 02
+1497	*Tir Na Nog2 Wall paper Cliff low short 02
+1498	*Tir Na Nog2 Entrance 03
+1499	*Tir Chonaill Dungeon Small Goddess Statue Broken
+1500	*Dunbarton Dungeon Small Goddess Statue Broken
+1501	*Bangor Dungeon Small Goddess Statue Broken
+1502	*Forest Ruins Dungeon Small Goddess Statue Broken
+1503	*Emain Rundal Dungeon Small Goddess Statue Broken
+1504	*Peaca Dungeon Small Goddess Statue Broken
+1505	*Tir Na Nog2 Wall paper Cliff Small Backside
+1506	*Tir Na Nog2 Wall paper Cliff Large Backside
+1507	*Tir Na Nog2 Aberration 01
+1508	*Tir Na Nog2 Pub 01
+1509	*Tir Na Nog2 Etc. 01
+1510	*Tir Na Nog2 Smithy 01
+1511	*Tir Na Nog2 Aberration(Dungeon Door)
+1512	*Tir Na Nog 2 Dungeon Boss Room
+1513	*Wedding Hall Floor
+1514	*Wedding Hall Ceiling
+1515	*Wedding Hall East
+1516	*Wedding Hall West
+1517	*Wedding Hall North
+1518	*Wedding Hall South
+1521	*Wedding Hall Pink Flag 01
+1522	*Wedding Hall Blue Flag 01
+1531	*Wedding Hall Pink Flag 02
+1532	*Wedding Hall Pink Flag 03
+1533	*Wedding Hall Pink Flag 04
+1534	*Wedding Hall Pink Flag 05
+1535	*Wedding Hall Blue Flag 02
+1536	*Wedding Hall Blue Flag 03
+1537	*Wedding Hall Blue Flag 04
+1538	*Wedding Hall Blue Flag 05
+1539	*Tir Na Nog 2 Dungeon 리아파르
+1541	*Tir Na Nog 2 Dungeon 크로아크Rua's흐
+1542	*Tir Na Nog 2 Dungeon Door Boss ins
+1543	*Tir Na Nog 2 Small Goddess Statue
+1544	*Bangor Dungeon Entrance 01 Goddess Statue Broken
+1545	*Tutorial Zone Warp Point
+1546	*Housing House Property 01
+1547	*Housing Tree Stump
+1548	*Housing Tree Low
+1549	*Housing Tree High
+1550	*Housing to Commercial
+1551	*Housing Town Entrance
+1552	*Housing 초Dummy1개
+1553	*Housing 초Dummy2개
+1554	*Housing 초Dummy3개
+1555	*Housing Jar(Empty)
+1556	*Housing Jar(Straw Only)
+1557	*Housing Sign
+1558	*Housing Street Lamp
+1559	*Housing General Store
+1560	*Housing Castle Property 01
+1561	*Housing Guild Management Room
+1565	Purple Herb
+1566	Ivory Herb
+1567	Orange Herb
+1568	*Housing Castle 01
+1569	*Housing Castle Hall
+1571	<mini>TOOL</mini> Cooking Oven
+1572	*Housing Castle Cellar
+1576	*Housing Castle Property Loading
+1577	*Housing Castle Property View Map
+1578	*Housing House Property Info Board
+1583	*Housing Water 레
+1584	*Housing Loom
+1585	*Housing Furnace
+1586	*Housing Anvil
+1587	*Housing Flowerpot 01
+1588	*Housing Flowerpot 02
+1589	*Housing Flowerpot 03
+1590	*Housing Flowerpot 04
+1591	*Housing Jar
+1596	*Housing Castle Property Door Stone TB
+1597	*Housing Castle Property Door Stone Prop
+1599	*Housing Guild Management Room Guild Three
+1600	*Housing Stone Statue 01
+1601	*Housing Pot 01
+1602	*Housing Light 01
+1603	*Housing Table 01
+1604	*Housing Cage 01
+1612	*Housing Castle Inside Hall Guild Management Room Alpha Door 01
+1613	*Housing Castle Inside Hall Underground-Storage Alpha Door 02
+1614	*Housing Castle Inside Guild Management Room Alpha Door 03
+1615	*Housing Castle Inside Underground-Storage Alpha Door 04
+1616	*Disappearing by Season Fence
+1617	*Housing Inside Camera 01
+1619	ENTER
+1620	ENTER
+1621	ENTER
+1622	*Housing Castle Inside Outdoors-Hall05
+1623	EXIT
+1624	*Housing Inside Nak's Stone Box
+1625	*Housing Water Nak's House 
+1626	*Housing Furnace Nak's House 
+1627	*Housing Anvil Nak's House 
+1628	Information Office
+1629	*Housing Sign Nak's House 
+1630	<mini>ENTER</mini> Dugald Castle
+1632	*Housing M Castle 01
+1633	*Housing Oven
+1634	Menu for Spinning Wheel
+1635	Menu for Loom
+1636	Menu for Furnace
+1637	Menu for Anvil
+1638	*Field Morva Aisle Edge Cliff 01
+1639	*Field Morva Aisle Edge Cliff 02
+1640	*Field Morva Aisle SideCliff01
+1641	*Field Morva Aisle Bangor-M Cliff02
+1642	*Field Morva Aisle M Cliff03
+1643	*Field Morva Aisle M Gan-Morva Cliff04
+1644	*Field Morva Aisle Diagonal Cliff01
+1645	*Field Morva Aisle Diagonal Cliff02
+1646	*Field Morva Aisle Bangor-M간Cliff02-1
+1647	*Field Morva Aisle M Gan-Morva Cliff04-1
+1648	*Field Morva Aisle Diagonal Cliff01-1
+1649	*Field Morva Aisle Diagonal Cliff02-1
+1650	*Field Sand Chapter 16X32
+1651	*Field Sea Water 8 X 8
+1652	*Field Sea Water 16 X 16
+1653	*Field Sea Water 32 X 32
+1654	*pvp Event Arena 30 X 30
+1655	*pvp Event Lobby
+1657	*Field Sand Chapter 08X32
+1659	*Field Sand Chapter 32X32 Small 코너
+1660	*Field Sand Chapter 32X32 Large 코너
+1661	*Field Coast Cliff 16X16
+1662	*Field Coast Cliff 08X16
+1665	*Field Coast Cliff 16X16 Small 코너
+1666	*Field Coast Cliff 16X16 Large 코너
+1667	*Field Beach ->Cliff 16X32
+1668	*Field Cliff->Beach 16X32
+1670	*Field Sand Chapter 16X40 A
+1671	*Field Sand Chapter 16X40 B
+1672	*Field Coast Cliff 16X24 A
+1673	*Field Coast Cliff 16X24 B
+1675	*Field Coast Cliff 선착Chapter
+1676	*Field Sea Water 24 X 24
+1677	*Field Sea Water 64 X 64
+1678	*Field Rock Small
+1679	*Field Rock Large
+1680	*Field Morva Aisle Land Mark
+1681	*Field Morva Aisle Rock 01
+1682	*Field Morva Aisle Rock 02
+1683	*Housing Succubus Chapter Expression 01
+1684	*Housing Succubus Chapter Expression 02
+1685	*Housing Succubus Chapter Expression 03
+1686	*Housing Succubus Chapter Expression 04
+1687	*Field Morva Aisle Tree 01
+1688	*Field Morva Aisle BangorCliff
+1689	*Field Port Ceann Dissolution Water Field Prop 01
+1690	*Field Port Ceann Dissolution Water Field Prop 02
+1691	*Field Port Ceann Dissolution Water Field Prop 03
+1693	*Housing Castle Property Door Stone Prop Sen Mag Rough Gist 
+1694	*Field Wood Dummy
+1695	*Port Ship
+1696	*Field Morva Aisle Tree 01 Green Gem 
+1697	*Housing Castle Property 02
+1698	*Field Port Ceann Cracked Barrel
+1699	*Iria Sand Chapter 16X32
+1700	*Iria Sand Chapter 08X32
+1701	*Iria Sand Chapter 16X40 A
+1702	*Iria Sand Chapter 16X40 B
+1703	*Iria Sand Chapter 32X32 Small 코너
+1704	*Iria Sand Chapter 32X32 Large 코너
+1705	*Iria Coast Cliff 16X16
+1706	*Iria Coast Cliff 08X16
+1707	*Iria Coast Cliff 16X24 A
+1708	*Iria Coast Cliff 16X24 B
+1709	*Iria Coast Cliff 16X16 Small 코너
+1710	*Iria Coast Cliff 16X16 Large 코너
+1711	*Iria Beach ->Cliff 16X32
+1712	*Iria Cliff->Beach 16X32
+1713	*Iria Coast Cliff 선착Chapter
+1714	*Iria Sea Water 8 X 8
+1715	*Iria Sea Water 16 X 16
+1716	*Iria Sea Water 24 X 24
+1717	*Iria Sea Water 32 X 32
+1718	*Iria Sea Water 64 X 64
+1719	*Iria 윗Cliff08
+1720	*Iria 윗Cliff16
+1721	*Iria 윗Cliff 90 01
+1722	*Iria 윗Cliff 90 02
+1723	*Iria 윗Cliff Long 01
+1724	*Iria 윗Cliff Long 02
+1725	*Iria 남West 관Door 01
+1726	*Iria 남West Fence 01
+1727	<mini>ENTER</mini> Sen Mag Castle
+1728	*Iria 남West Tent 01
+1729	*Field Iria항구 Dissolution Water Field Prop 01
+1730	*Field Iria항구 Dissolution Water Field Prop 02
+1731	*Field Iria항구 Dissolution Water Field Prop 03
+1732	*Field Iria항구 Tree 01
+1733	*Field Iria항구 Tree 01 Green Gem 
+1734	*Field Iria항구 Rock 01
+1735	*Field Iria항구 Rock 02
+1736	*Field Iria항구 Plant 01
+1737	*Field Iria항구 Plant 02
+1738	*Iria 탐사Fish 표
+1740	*Field Iria 사막 묘하to생Long Stone Statue
+1741	*Field Iria Forest Water 흐르는Stone Statue
+1745	*Field Iria Prop 유적 B Column01
+1746	*Field Iria Prop 유적 B Stone Statue 01
+1749	*Field Iria Prop 유적 B Column type 01 step2 texZ D
+1750	*Field Iria Prop 유적 B Column type 01 step3 texY BF
+1751	*Field Iria Prop 유적 B Column type 01 step3 texZ DF
+1752	*Field Iria Prop 유적 B Column type 01 step4 texY CI
+1753	*Field Iria Prop 유적 B Column type 01 step4 texZ AFH
+1754	*Field Iria Prop 유적 B Column type 01 step4 texZ BI
+1755	*Field Iria Prop 유적 B Column type 01 step4 texZ DEG
+1756	*Field Iria Prop 유적 B Column type 01 step5 texY AE
+1757	*Field Iria Prop 유적 B Column type 01 step5 texZ CH
+1758	*Field Iria Prop 유적 B Column type 02 step3 texZ D
+1759	*Field Iria Prop 유적 B Column type 02 step4 texZ GI
+1760	*Field Iria Prop 유적 B Column type 02 step5 texY FH
+1761	*Field Iria Prop 유적 B Column type 03 step3 texY CH
+1762	*Field Iria Prop 유적 B Column type 03 step3 texZ EF
+1763	*Field Iria Prop 유적 B Column type 03 step4 texZ BD
+1764	*Field Iria Prop 유적 B Column type 03 step5 texY AG
+1779	*C2 test birdtree
+1780	*Field Iria 강Water area 49
+1781	*Field Iria 강Water area 59
+1782	*Field Iria 강Water area 69
+1783	*Field Iria 강Water area 79
+1784	*Field Iria 강Water area 89
+1785	*Field Iria 강Water area 99
+1786	*Field Iria 강Water area 109
+1787	*Field Iria 강Water area 108
+1788	*Field Iria 강Water area 107
+1789	*Field Iria 강Water area 117
+1790	*Field Iria 강Water area 116
+1791	*Field Iria 강Water area 126
+1792	*Field Iria 강Water area 125
+1793	*Field Iria 강Water area 135
+1794	*Field Iria 강Water area 134
+1795	*Field Iria 강Water area 133
+1796	*Field Iria 강Water area 132
+1797	*Field Iria 강Water area 121
+1798	*Field Iria 강Water area 120
+1799	*Field Iria 강Water area 130
+1800	*Field Iria Prop 유적 B Column default
+1801	*Field Iria Prop 유적 B Stone Statue default
+1805	*Field Iria Prop 유적 B Stone Statue type 01 headA 02
+1806	*Field Iria Prop 유적 B Stone Statue type 01 headA 03
+1807	*Field Iria Prop 유적 B Stone Statue type 01 headB 01
+1808	*Field Iria Prop 유적 B Stone Statue type 01 headB 02
+1809	*Field Iria Prop 유적 B Stone Statue type 01 headB 04
+1810	*Field Iria Prop 유적 B Stone Statue type 01 headC 01
+1811	*Field Iria Prop 유적 B Stone Statue type 01 headC 02
+1812	*Field Iria Prop 유적 B Stone Statue type 01 headC 03
+1813	*Field Iria Prop 유적 B Stone Statue type 01 headC 04
+1814	*Field Iria Prop 유적 B Stone Statue type 02 headA 01
+1815	*Field Iria Prop 유적 B Stone Statue type 02 headB 02
+1816	*Field Iria Prop 유적 B Stone Statue type 02 headC 02
+1817	*Field Iria Prop 유적 B Stone Statue type 02 headC 04
+1818	*Field Iria Prop 유적 B Stone Statue type 01 headA brok 01
+1819	*Field Iria Prop 유적 B Stone Statue type 01 headA brok 02
+1820	*Field Iria Prop 유적 B Stone Statue type 01 headA brok 03
+1834	*Field Iria Prop 선인Chapter01
+1835	*Field Iria Prop 선인Chapter02
+1849	*에린 Iria M간바다와배
+1856	*Field Iria Prop 유적 B Stone Statue type 01 headA 01
+1857	*Field Iria Prop 유적 B Stone Statue type 01 headB 03
+1858	*Field Iria Prop 유적 B Stone Statue type 01 headA 04
+1859	*Iria Dungeon Room 1 door 01
+1860	*Iria Dungeon Room 2 door 01
+1861	*Iria Dungeon Room 2 door 02
+1862	*Iria Dungeon Room 3 door 01
+1863	*Iria Dungeon Room 4 door 01
+1864	*Iria Dungeon Hallway 1 door 01
+1865	*Iria Dungeon Hallway 2 door 01
+1866	*Iria Dungeon Hallway 2 door 02
+1867	*Iria Dungeon Hallway 3 door 01
+1868	*Iria Dungeon Hallway 4 door 01
+1869	*Iria Dungeon Rising Door 01
+1870	*Iria Dungeon Lowering Door 01
+1871	*Iria Dungeon Door 01s
+1872	*Iria Dungeon Door 02s
+1873	*Iria Dungeon Door 03s
+1874	*Iria Dungeon Door Boss ins
+1875	*Iria Dungeon Door Boss outs
+1876	*Iria Dungeon Boss Room
+1877	*Iria Dungeon Lobby 01
+1878	*Iria Dungeon Entrance 01
+1879	*탑승 배
+1880	*돛 펼친 배
+1881	*Field Iria Prop 유적 Entrance
+1882	*Dead Tree Husks
+1883	*Fallen Tree Husks
+1884	* Forest Rock
+1885	* Forest Shrub
+1888	*Iria Dungeon Room Alpha Door Up
+1889	*Iria Dungeon Room Alpha Door Down
+1890	*Field Iria East Forest 안쪽High Tree 01
+1891	*사막Lake 동그란 Bush
+1892	*사막Lake Furnace란 Grass 스러운 Weed
+1893	*사막Lake 동그란 나뭇가지
+1894	*사막Lake Bush과 가시Tree
+1895	*사막Lake 약간 High Lake과 Reeds
+1896	*초원Lake 낮은Lake
+1897	*초원Lake High Lake
+1898	*초원Lake 뾰족Lake
+1899	*초원Lake 들Flower 네송이
+1900	* ForestLake 고사리
+1902	*FloorLake 12(선Etc. 록 후My Production-메쉬없음)
+1903	*FloorLake 13(선Etc. 록 후My Production-메쉬없음)
+1904	*FloorLake 14(선Etc. 록 후My Production-메쉬없음)
+1905	*사막Tree 잎사귀 붙어있음
+1906	*사막Tree 가지만 앙상
+1907	*사막Tree 땅에 박혀있는 낮은 Tree
+1908	*사막Tree High 야자Number
+1909	*사막Tree 낮은 야자Number
+1910	*초원Tree 범 
+1911	*Field Iria East Forest Outside 쪽낮은Tree
+1912	*Iria 워프 Alpha Door01 Section
+1913	*Iria 워프 Alpha Door01 Both Sides
+1914	*Field Iria Prop 유적 C Wall 01 Tutorial
+1915	*Iria Dungeon Prop Switch 01s
+1918	*Iria 배경 Cross Boundary  Tree
+1919	*낙Three(사막Rock->Outside 사막)
+1920	*낙Three(고원Rock->고원Lake)
+1921	*Iria Dungeon Prop 세이브포인트
+1922	A marked pillar
+1923	*Field Iria Prop 유적 A 태양Door 01 State 없는것
+1924	*Field Iria Prop 유적 A 태양Door 01-1 State 없는것
+1925	*Field Iria Prop 유적 A 태양Door 01-2 State 없는것
+1926	*Field Iria Prop 유적 A 태양Door 01-3 State 없는것
+1927	*Field Iria Prop 유적 A 태양Door 02 State 없는것
+1928	*Field Iria Prop 유적 A 태양Door 02-1 State 없는것
+1929	*Field Iria Prop 유적 A 태양Door Set State 있는것
+1930	*Iria Dungeon Prop Reward Chest 1
+1931	*Iria Dungeon Prop Reward Chest 2
+1932	*Iria Dungeon Prop 
+1933	*Field Iria Prop 유적 A 고인Stone 01 State 없는것
+1934	*Field Iria Prop 유적 A 고인Stone 02 State 없는것
+1935	*Field Iria Prop 유적 A 고인Stone 03 State 없는것
+1936	*Field Iria Prop 유적 A 고인Stone 04 State 없는것
+1937	*Field Iria Prop 유적 A 마야Stone Statue여자 01
+1938	*Field Iria Prop 유적 A 마야Stone Statue남자 01
+1940	*Field Iria Prop 유적 A 고인StoneSet State 있는것
+1941	*Field Iria Prop 유적 Entrance 02
+1942	*Tutorial 유적Entrance Tree
+1947	*Field Iria Prop 유적 C Stone Statue머리set State 있는것
+1949	*Field Iria Prop 유적 A Wall 에갇힌Bird State 있는것
+1950	*Field Iria Prop 유적 A 봉헌ThreeSet State 있는것
+1951	*Field Iria Prop 유적 A 봉헌Three 01 State 없는것
+1952	*Field Iria Prop 유적 A 봉헌Three 02 State 없는것
+1953	*Field Iria Prop 유적 A 봉헌Three 03 State 없는것
+1954	*Field Iria Prop 유적 A 봉헌Three 04 State 없는것
+1955	*Field Iria Prop 유적 A 봉헌Three 05 State 없는것
+1956	*Field Iria Prop 유적 A 날씨Set State 있는것
+1957	*Field Iria Prop 유적 A 날씨Prop 01 State 없는것
+1958	*Field Iria Prop 유적 A 날씨Prop 02 State 없는것
+1959	Mana Tunnel
+1960	*Base Camp Tent 속 Water 품 01
+1961	*Base Camp Tent 속 Water 품 02
+1963	*Iria Dungeon Hall Alpha Door Down
+1964	Test 유적 Entrance (위치 Move 예정)
+1966	*Water 흐르는Stone Statue
+1967	OUT
+1968	Entrance to Karu Forest Ruins
+1969	* ForestLake 고원 고사리
+1970	*Far off 바다 256x256
+1975	*배경 Boundary  평원Tree
+1976	*배경 Boundary  High 야자Tree
+1977	*배경 Boundary  낮은야자Tree
+1978	*배경 Boundary  Lake
+1980	*Field Iria Prop 유적 A 해시계 01 State 없는것
+1981	*Field Iria Prop 유적 A 해시계 02 State 없는것
+1984	*Field Iria Prop 유적 A Wall 에갇힌Bird 01 State 없는것
+1985	*Field Iria Prop 유적 A Wall 에갇힌Bird 02 State 없는것
+1986	*Field Iria Prop 유적 A 솟Versus Bird State 없는것
+1987	*Field Iria Prop 유적 A 솟Versus 뱀 State 없는것
+1988	*Field Iria Prop 유적 A 솟Versus 원숭이 State 없는것
+1989	*Iria 우Water 
+1990	*Field Iria Prop 유적 A 솟Versus 여우 State 없는것
+1991	*Field Iria LoginStage Tree 001
+1994	*Iria Field Prop Reward Chest 01
+1995	*Field Iria Prop 유적 C Stone Statue머리 angry State 없는것
+2000	*Field Iria Prop 유적 C Stone Statue머리 sad State 없는것
+2001	*Field Iria Prop 유적 C Stone Statue머리 sleep State 없는것
+2002	*Field Iria Prop 유적 C Stone Statue머리 smile State 없는것
+2003	*Field Iria Prop 유적 C Stone Statue머리 surprise State 없는것
+2004	*Field Iria Prop 유적 A 발자국 M간사막 State 없는것
+2005	*Field Iria Prop 유적 A 발자국 Outside 사막 State 없는것
+2006	*Field Iria Prop 유적 A 발자국 LakeField State 없는것
+2007	*Iria Camp Box01
+2008	*Iria Camp Box02
+2009	*Field Iria Prop 유적 A 솟Versus 도마뱀 State 없는것
+2010	*Field Iria Prop 유적 A 솟Versus 누우 State 없는것
+2011	*Field Iria Prop 유적 A 솟Versus Empty것 State 없는것
+2012	*케릭Property My Production Stage 검은배경
+2013	*케릭Property My Production Stage 하얀배경
+2014	*GM 충Stone Box설치 Stone Box
+2015	*Field Iria Prop 유적 A Wall 을타는뱀 01 State 없는것
+2016	*Field Iria Prop 유적 A Wall 을타는뱀 02 State 없는것
+2017	*Field Iria Prop 유적 A Wall 을타는뱀 03 State 없는것
+2018	*Field Iria Prop 유적 A Wall 을타는뱀 04 State 없는것
+2019	*Field Iria Prop 유적 A 양Stone Statue State 없는것
+2020	*Field Iria Property레인 Field A
+2021	*Field Iria Property레인 Field B
+2023	*Iria Corn Field
+2024	*Iria Corn Field 
+2025	*Iria Potato Field 
+2026	*Field Iria Property레인 Field E
+2027	*Iria Field Prop Reward Chest 02
+2028	*Field Iria LoginStage 마나Property널(애니Event없는것)
+2029	*Field Iria LoginStage 이펙트 Dummy
+2030	*Login Stage 야자Number (절Versus 일반 월드에 박지 마시오!!!-알파블렌딩)
+2033	*캐릭Property 크기 가늠 Dummy (절Versus 일반 월드에 박지 마시오!!)
+2035	*Field Iria LoginStage 002 Stone StatueProp 
+2036	*Field Iria LoginStage 002 Property레인 Prop 
+2038	*Field Iria Prop 유적Dungeon Entrance
+2039	Entrance to Maiz Prairie Ruins
+2040	*Field Iria LoginStage 003 Water 흐르는Stone Statue
+2041	*Field Iria LoginStage 003 이펙트 Dummy
+2042	*Field Iria Prop 유적 A 뱀머리Entrance State 없는것
+2043	*Field Iria Prop 유적 A 썬타워 State 없는것
+2044	*Field Iria Prop 유적 A 원숭이Tree 01 State 없는것
+2045	*Field Iria Prop 유적 A 원숭이Tree 02 State 없는것
+2046	*Field Iria Prop 유적 A 원숭이Tree 03 State 없는것
+2047	*Field Iria Prop 유적 A 원숭이Tree 04 State 없는것
+2048	*Field Iria Prop 유적 A 원숭이Tree 00 State 없는것
+2049	*Field Iria LoginStage 004 관Door
+2050	*Field Iria LoginStage 002 이펙트 Dummy
+2051	*Field Iria LoginStage 004 이펙트 Dummy
+2052	*Field Iria Property레인 초보자 Dungeon Entrance
+2053	*Field Iria Property레인 초보자Dungeon Entrance
+2054	*Field Iria Property레인 초보자Dungeon Entrance Alpha Door
+2055	*Iria Warp Point 01 TutorialField 
+2056	*Housing 원형Table
+2057	*Housing Chair
+2058	*Housing Dungeon Room 1 door 01
+2059	*Housing Dungeon Room 2 door 01
+2060	*Housing Dungeon Room 2 door 02
+2061	*Housing Dungeon Room 3 door 01
+2062	*Housing Dungeon Room 4 door 01
+2063	*Housing Dungeon Hallway 1 door 01
+2064	*Housing Dungeon Hallway 2 door 01
+2065	*Housing Dungeon Hallway 2 door 02
+2066	*Housing Dungeon Hallway 3 door 01
+2067	*Housing Dungeon Hallway 4 door 01
+2068	*Housing Dungeon Rising Door 01
+2069	*Housing Dungeon Lowering Door 01
+2070	*Housing Dungeon Door 01s
+2071	*Housing Dungeon Door 02s
+2072	*Housing Dungeon Door 03s
+2073	*Housing Dungeon Door Boss ins
+2074	*Housing Dungeon Door Boss outs
+2075	*Housing Dungeon Boss Room
+2076	*Housing Dungeon Lobby 01
+2077	*Housing Dungeon Entrance 01
+2078	*Housing Dungeon Lobby 01
+2079	*Housing Dungeon Lobby Goddess Statue 01
+2080	*Housing Dungeon Entrance 01
+2081	*Housing Dungeon Entrance Goddess Statue 01
+2082	*Housing Dungeon Small Goddess Statue
+2083	*Housing Dungeon Reward Room Goddess Statue
+2084	Housing Dungeon Hall Alpha Door Up
+2085	Housing Dungeon Hall Alpha Door Down
+2088	Housing Dungeon Room Alpha Door Up
+2089	Housing Dungeon Room Alpha Door Down
+2091	*Housing to Commercial02
+2092	*Housing House 04 A(초저가)
+2093	*Housing Roof04 A(초저가)
+2095	*Iria 바다 어선
+2096	*Iria to 어선
+2097	*Field Iria Prop 유적 쌍KnifeStone Statue
+2098	*숨겨진Beach 돛이접힌배
+2099	*Field Iria Prop 유적 A 구름이그려진날씨Set State 있는것
+2100	*Field Iria Prop 유적 A 태양이그려진날씨Set State 있는것
+2101	*(Test)Iria SE Filia Town House 
+2102	*(Test)Iria SE Filia Town Fence
+2103	*(Test)Iria SE Underground Maze Broken Wall 
+2104	*(Test)Iria SE Underground Maze Open Door
+2105	*(Test)Iria SE Underground Maze 흘러내리는 Sand
+2106	*(Test)Iria SE Underground Maze 미로Lock 01
+2107	*(Test)Iria SE Underground Maze 미로Lock 02
+2108	*(Test)Iria SE Underground Maze 빛 01
+2109	*(Test)Iria SE Underground Maze 안개 01
+2110	*Iria 표류하는배
+2111	*(Test)Iria SE Underground Maze Broken 긱둥
+2112	*(Test)Iria SE Underground Maze 미로Locklong Rough 01
+2113	*(Test)Iria SE Underground Maze Arc NumberWater 01
+2114	*Field Iria Prop Filia SealSet State 있는것
+2115	*(Test)Iria SE Underground Maze Exit Alpha Door
+2116	*(Test)Iria SE Underground Maze Exit 빛
+2117	*개미지옥 이펙트 AlphaProp 
+2118	*(Test)Iria Lutra Bridge Test
+2119	*Iria SE Filia Town 민가001
+2120	*Iria SE Underground Maze 시Production지점
+2121	*Iria SE Underground Maze End지점
+2122	*(Test)Iria Lutra Bridge Test Rest
+2123	*Iria SE Underground Maze 시Production지점Stone Wall 01
+2124	*Iria SE Underground Maze 시Production지점Stone Wall 02
+2125	*Iria SE Underground Maze 시Production지점Stone Wall 03
+2126	*Iria SE Underground Maze 시Production지점빛Column 01
+2127	*Iria SE Underground Maze Small Stone Wall 01
+2128	*Iria SE Underground Maze Small Stone Wall 02
+2129	*Iria SE Underground Maze Small Stone Wall 03
+2130	*Iria SE Underground Maze Small Stone Wall 04
+2131	*Iria SE Filia Town 민가002
+2132	*Iria SE Filia Town General Store
+2133	*Iria SE Filia Town Weapon Prop
+2134	*Iria SE Filia Town Clothing Store
+2135	*Iria SE Filia Town Healer House
+2136	*Iria SE Filia Town Bank
+2137	*Iria SE Filia Town Chief's House
+2147	*Iria SE Underground Maze Long Stone Wall 01
+2148	*Iria SE Underground Maze Long Stone Wall 02
+2149	*Iria SE Underground Maze Long Stone Wall 03
+2150	*Iria SE Underground Maze Long Stone Wall 04
+2151	*Iria SE Underground Maze Long Stone Wall 05
+2152	*Iria SE Underground Maze Long Stone Wall 06
+2153	*Iria SE Underground Maze Long Stone Wall 07
+2154	*Iria SE Underground Maze longFloor 01
+2157	*Iria SE Prop 사구Water Fish Stone Statue
+2158	*Iria SE Prop 사구탑
+2159	*Iria SE Prop 사구사람Stone Statue
+2160	*Iria SE Tree 01
+2166	*Iria Lutra Bridge
+2167	*Iria Lutra Bridge Rest
+2168	*Iria SE Prop Discovered Water Rough Body 01
+2169	*Iria SE Prop Discovered Water Rough Body 02
+2170	*Iria SE Prop Discovered Water Rough Body 안녕포즈
+2171	* Rough리Zero Fish Prop 
+2172	*Iria SE Prop Discovered Water Rough Body Left절OTL포즈
+2173	*Iria SE Prop Discovered Water Rough Body 만세포즈
+2174	*Iria SE Underground Maze Small Sand 01
+2175	*Iria SE Underground Maze Small Floor 01
+2176	*Iria SE Prop Discovered Water Rough Body Praying Pose
+2177	*Iria SE Filia Town Fence 01
+2178	*Iria SE Filia Town Fence 02
+2179	*Iria SE Filia Town Fence 03
+2180	*Iria SE Filia Town Memorial Tower 01
+2181	*Iria SE Prop Discovered Water Rough Body 무릅잡고 앉아있는포즈
+2182	*Iria SE Underground Maze Small Stone Wall 05
+2183	*Iria Sea Water 64 X 64 (애니없는것)
+2184	*Iria Sea Water 32 X 32 (애니없는것)
+2185	*Iria Sea Water 24 X 24 (애니없는것)
+2186	*Iria Sea Water 16 X 16 (애니없는것)
+2187	*Iria Sea Water 8 X 8 (애니없는것)
+2188	*Iria SE Sea Water 82
+2189	*Iria SE Sea Water 95
+2190	*Iria SE Sea Water 96
+2191	*Iria SE Filia Town Street Lamp01
+2192	*Iria SE Filia Town Flowerpot 01
+2193	*Iria SE Filia Town Flowerpot 02
+2194	*Iria SE Filia Town 빨랫Versus 01
+2195	*Iria SE Filia Town 빨랫Versus 02
+2196	*Iria SE Underground Maze Small Floor 02
+2197	*Iria SE Underground Maze Small Floor 03
+2198	*Iria SE Underground Maze Falling Sand 01
+2199	*Iria SE Prop Discovered Water 태양을이고있는Stone Statue
+2200	*Iria SE Underground Maze Long Stone Wall 08
+2201	*Iria SE Underground Maze longFloor 02
+2202	*Iria SE Filia Town 굴러가는 Bush01
+2203	*Iria SE Filia Town Tree 02
+2204	*Iria SE Filia Town Tree 03
+2205	*Iria SE Filia Town Tree 04
+2206	*Iria SE RockProp 01
+2207	*Iria SE Sea Water 124
+2208	*Iria SE Sea Water 137
+2209	*Iria SE RockProp 02
+2210	*Iria SE Prop Discovered Water Chair에앉아있는Stone Statue
+2211	*Iria SE Filia Town Fish 못01
+2212	*Iria SE Underground Maze Broken Wall 
+2213	*Iria SE Underground Maze Rotating Door
+2214	*Iria SE Underground Maze Warp Point 01
+2215	*Iria SE Underground Maze 조있는 Broken Wall 
+2216	*Iria SE 조난Party 한 보트 01
+2217	*Iria SE Filia Town Plaza 01
+2218	*Iria SE Prop Discovered Water 코브라 Basic 형
+2219	*Iria SE Prop Discovered Water Water  Guild Water  Prop 
+2220	*Iria SE Underground Maze Exit Alpha Door
+2221	*Iria SE Prop Guild Stone Prop 
+2222	*Iria SE Oasis 01
+2223	*Iria SE Oasis 02
+2224	*Iria SE Oasis 03
+2225	*Iria SE Oasis 04
+2226	*Iria SE Prop Discovered Water 코브라 Face벌린
+2227	*Iria SE Prop Discovered Water 코브라 혀내민
+2232	*Iria SE Underground Maze 조있는 Open Wall 
+2233	*Iria SE Underground Maze 조있는 말로여는Wall 
+2234	*사막 지형변Anger 스킬 AlphaProp 
+2235	*사막 지형변Anger Prop 묻힘
+2236	*사막 지형변Anger Prop 드러남
+2237	*Iria SE Prop Discovered Water Filia SealProp 
+2238	*Iria SE Prop Discovered Water 코브라 Column
+2239	*Iria SE Prop Discovered Water 코브라 Column Face벌린
+2240	*Iria SE Prop Discovered Water 코브라 Column 혀내민
+2241	*Iria SE Prop Discovered Water 신기한Plant 01
+2242	*Iria SE Prop Discovered Water 신기한Plant 02
+2243	*Iria SE Underground Maze Oasis로가는Alpha Door
+2244	*Iria SE Underground Maze Lake들
+2245	*Iria SE Underground Maze Sunlight 01
+2248	Green Herb
+2249	*Iria SE Prop Discovered Water 뱀 한마리
+2250	*Iria SE Prop Discovered Water 뱀 두마리
+2251	*Iria SE Prop Discovered Water 뱀 세마리
+2252	*Iria SE Underground Maze Reward Chest 1
+2254	<mini>TOOL</mini> Old Furnace
+2255	*사막 지형변Anger 스킬 이펙트 AlphaProp 
+2256	*Iria SE Prop Discovered Water 두상탑 01
+2257	*Iria SE 사막RockProp 01
+2258	*Iria SE 사막RockProp 02
+2278	*Iria SE Prop Discovered Water 두상탑 01
+2279	*Iria SE Prop Discovered Water 두상탑 02
+2280	*Iria SE Prop Discovered Water 두상탑 03
+2281	*Iria SE Prop Discovered Water 두상탑 04
+2282	*Iria SE Prop Discovered Water 두상탑 05
+2283	*Iria SE Prop Discovered Water 두상탑 06
+2284	*Iria SE Prop Discovered Water 두상탑 07
+2285	*Iria SE Prop Discovered Water 두상탑 08
+2286	*Iria SE Prop Discovered Water 두상탑 09
+2287	*Iria SE Prop Discovered Water 두상탑 10
+2288	*Iria SE Prop Discovered Water 두상탑 11
+2289	*Iria SE Prop Discovered Water 두상탑 12
+2290	*Iria SE Prop Discovered Water 두상탑 13
+2291	*Iria SE Prop Discovered Water 두상탑 14
+2292	*Iria SE Prop Discovered Water 두상탑 15
+2293	*Field Iria Prop 유적 A 마야Stone Statue여자 01 State 있는것
+2294	*Field Iria Prop 유적 A 마야Stone Statue남자 01 State 있는것
+2295	*Iria SE Prop 사구Water Fish Stone Statue(State 있음)
+2296	*Iria SE Prop 사구탑(State 있음)
+2297	*Iria SE Prop 사구사람Stone Statue(State 있음)
+2298	*Iria SE Prop Discovered Water Filia SealProp (State 있음)
+2299	*Iria SE Prop Discovered Water 빛나는황S 어깨
+2300	*Iria SE Prop Discovered Water 빛나는황S 머리
+2301	*Iria SE Prop Discovered Water 빛나는황S 가슴
+2302	*Iria SE Prop Discovered Water 빛나는황S 뿔
+2303	*Iria SE Prop Discovered Water 빛나는황S Bridge
+2304	*Test Arena
+2306	Magic Bean
+2307	*Iria SE Prop 사구사람Stone Statue(State 있음)
+2308	*Iria SE Wedding Hall 외관 01
+2309	*Iria 사막Dungeon Room 1 door 01
+2310	*Iria 사막Dungeon Room 2 door 01
+2311	*Iria 사막Dungeon Room 2 door 02
+2312	*Iria 사막Dungeon Room 3 door 01
+2313	*Iria 사막Dungeon Room 4 door 01
+2314	*Iria 사막Dungeon Hallway 1 door 01
+2315	*Iria 사막Dungeon Hallway 2 door 01
+2316	*Iria 사막Dungeon Hallway 2 door 02
+2317	*Iria 사막Dungeon Hallway 3 door 01
+2318	*Iria 사막Dungeon Hallway 4 door 01
+2319	*Iria 사막Dungeon Door 01
+2320	*Iria 사막Dungeon Door 02
+2321	*Iria 사막Dungeon Door 03
+2322	*Iria 사막Dungeon Door Boss Room Entrance
+2323	*Iria 사막Dungeon Door Boss Room Exit
+2324	*Iria 사막Dungeon Stairs 올라가기
+2325	*Iria 사막Dungeon Stairs Lowering 기
+2326	*Iria 사막Dungeon Lobby 워프전
+2327	*Iria 사막Dungeon Lobby 워프후
+2328	*Iria SE Wedding Hall Lobby 01
+2329	*Iria SE Wedding Hall Wedding Hall 01
+2330	*Field Iria Prop 유적 Stone Statue 02 State 없는것
+2331	Burnt Knight Mushroom
+2332	Golden Mushroom
+2333	Brick Top Mushroom
+2334	*Iria SE Prop Discovered Water 코브라 Column 혀내민
+2335	*Iria SE Prop Discovered Water 코브라 Column 혀내민 (State 있음)
+2336	*Iria SE Prop Discovered Water 코브라 Column Face다Door (State 있음)
+2338	*Iria SE Prop Discovered Water 코브라 Column Face벌린 (State 있음)
+2339	*Field Iria Prop 유적 Stone Statue 02 (State 있음)
+2340	*Iria 사막Dungeon Boss Room
+2341	*Iria 사막Dungeon 
+2342	*Iria 사막Dungeon Reward Room
+2343	*Iria 사막Dungeon Hall Alpha Door Down
+2344	*Iria 사막Dungeon Room Alpha Door Up
+2345	*Iria 사막Dungeon Room Alpha Door Down
+2346	*담갈색송이버섯
+2347	*황금버섯
+2348	*개암버섯
+2349	*Iria SE Prop 사막Dungeon Entrance
+2350	*Iria SE Prop 사막Dungeon Entrance Alpha Door
+2351	*밖으로
+2352	*Iria Filia Wedding Hall Alpha Door Small것
+2353	*Iria Filia Wedding Hall Alpha Door Large 것
+2354	*Iria 사막Dungeon Prop Reward Chest 1
+2355	*Iria 사막Dungeon Prop Reward Chest 2
+2356	*Iria 사막Dungeon Prop Switch 01s
+2358	*Iria Filia Wedding Hall Tree nopick
+2359	*Iria Filia Wedding Hall Tree nopick
+2360	*Iria Filia Wedding Hall C 01
+2361	*Iria Filia Wedding Hall E 01
+2362	*Iria Filia Wedding Hall N 01
+2363	*Iria Filia Wedding Hall N 02
+2364	*Iria Filia Wedding Hall N 03
+2365	*Iria Filia Wedding Hall S 01
+2366	*Iria Filia Wedding Hall W 01
+2367	*Iria Filia Wedding Hall f 01
+2368	*Iria Filia Wedding Hall Street Lamp
+2369	*Iria Filia Wedding Hall 꺼진Street Lamp
+2370	*Iria SE Prop 사구말Stone Statue(State 있음)
+2371	*Iria Arena Lobby 01
+2372	*Iria Arena Entrance 01
+2373	*Iria Arena 경기Chapter 01
+2374	*Iria Arena 01
+2375	*Iria Arena  Sand 01
+2376	Grill Menu
+2377	*Iria 몬스Property레이드 Tree 05
+2378	*Emain 요리Versus 회Prop 스토브 01
+2379	*Iria 몬스Property레이드 몬스Property구멍
+2380	*Emain 요리Versus 회Prop 요리Tent 01
+2381	*Emain 요리Versus 회Prop 요리Wagon 01
+2382	*Emain 요리Versus 회Prop 깃Versus 01
+2383	*Emain 요리Versus 회Prop Entrance 01
+2384	*Emain 요리Versus 회Prop Table 01
+2385	*Iria 몬스Property레이드 Cliff틈
+2386	*Iria 몬스Property레이드 Entrance 01
+2388	*Iria SE Prop 휘파람Rock 01
+2389	*Iria 몬스Property레이드 Cracked유적Floor 01
+2390	*Iria SE Prop 휘파람RockA
+2391	*Iria SE Prop 휘파람RockAC
+2392	*Iria SE Prop 휘파람RockB
+2393	*Iria SE Prop 휘파람RockBD
+2394	*Iria SE Prop 휘파람RockC
+2395	*Iria SE Prop 휘파람RockCE
+2396	*Iria SE Prop 휘파람RockCG
+2397	*Iria SE Prop 휘파람RockD
+2398	*Iria SE Prop 휘파람RockE
+2399	*Iria SE Prop 휘파람RockEG
+2400	*Iria SE Prop 휘파람RockF
+2401	*Iria SE Prop 휘파람RockFA
+2402	*Iria SE Prop 휘파람RockFC
+2403	*Iria SE Prop 휘파람RockG
+2404	*Iria SE Prop 휘파람RockGB
+2405	*Iria SE Prop 휘파람RockGD
+2406	*파티생Castle Prop 01
+2407	*파티생Castle Prop 02
+2408	<mini>TOOL</mini> Stove
+2409	*Iria Arena Empty곳메꾸기
+2410	*Iria 몬스Property레이드 Thin TreeLake 01
+2411	*Iria 몬스Property레이드 이펙트
+2413	*Iria 몬스Property레이드 CrackedEntrance 01
+2414	*Iria 몬스Property레이드 CrackedEntrance 02
+2415	*Iria 몬스Property레이드 Cracked유적Floor 02
+2416	*Iria Arena Chapter애Water 
+2417	*Iria Arena to이트
+2418	*Iria Arena 난간01
+2419	*Iria Arena 난간02
+2420	*Iria Arena 난간03
+2421	*Iria Arena SignProp 01
+2422	*Iria SE TB Arena Entrance
+2423	*Iria SE Property레인 초보자Dungeon Entrance Alpha Door
+2424	*Emain 요리Versus 회Prop Table 02
+2427	*Iria Test 자이언트 램프01
+2428	*Iria 자이언트 Test 민가01
+2429	*Iria 자이언트 Test 램프01
+2430	*Iria 자이언트 Test 민가02
+2431	*Iria 자이언트 Test Tree 01
+2432	*Iria 자이언트 Test Tree 02
+2433	*Iria 자이언트 Test 폭포
+2434	*Iria NW Prop 램프01
+2435	*Iria NW Prop 민가01
+2436	*Iria NW Prop 민가02
+2437	*Iria NW Prop Tree 01
+2438	*Iria NW Prop Tree 02
+2439	*Iria NW 폭포
+2440	*Iria 자이언트 Test Dungeon02 02
+2441	*(Test)Iria SW 유적
+2442	*프로덕션 주사위Prop 
+2443	*(Test)Iria SW 유적 01
+2444	*(Test)Iria SW 유적 02
+2445	*Dungeon Boss Board 01
+2447	*S Type Camp S Type Camp 01
+2448	Bonfire
+2449	*(Test)Iria CrackedCliff 01
+2450	*(Test)Iria 조Tree 01
+2451	*Iria NW Prop Tree 03
+2452	* Rough리Zero Fish Prop 02
+2453	*Iria NW Prop Stone 01
+2454	Iria SE Underground Maze Oasis로가는Alpha Door
+2455	*Iria NW Prop Tree 03-1
+2456	*Iria NW Prop Tree 03-2
+2457	*Iria NW Prop 얼음낚시 01
+2458	*Iria 누베스Property널 출Entrance 01
+2459	*Iria 누베스Property널 출Entrance 01
+2460	*Iria 누베스Property널 출Entrance 02
+2461	*Iria NW Prop 바디체크Tree 01
+2462	*Iria NW Prop Tree 03-3
+2463	*Iria NW Prop 눈Column
+2464	*Iria NW Prop 눈Column01
+2465	*Iria NW Prop 눈Column02
+2466	*Iria NW Prop 눈Column03
+2467	*Iria NW Prop 눈Column04
+2468	*Iria NW Prop 바다 08
+2469	*Iria NW Prop 바다 02
+2470	*Iria NW Prop 바다 07
+2471	*Iria NW Prop 바다 01
+2472	*Iria NW Prop 바다 10
+2473	*Iria NW Prop 바다 11
+2474	*Iria NW Prop 바다 03
+2476	*Iria NW Prop 민가 03
+2477	*Iria NW Prop 바다 95
+2478	*Iria NW Prop 바다 96
+2479	*Iria 누베스Property널 Reward Chest 01
+2480	*Iria 누베스Property널 Alpha Door 01
+2492	*Iria NW Prop 얼음강 69
+2493	*Iria NW Prop 얼음강 68
+2494	*Iria NW Prop 얼음강 74
+2495	*Iria NW Prop 얼음강 73
+2496	*Iria NW Prop 얼음강 66
+2497	*Iria NW Prop 얼음강 59
+2498	*Iria NW Prop 얼음강 58
+2499	*Iria NW Prop 얼음강 57
+2500	*Iria NW Prop 얼음강 56
+2501	*Iria NW Prop 얼음강 64
+2502	*Iria NW Prop 얼음강 71
+2503	*Iria NW Property널M간지Versus 출Entrance 01
+2504	*Iria NW Property널피시스쪽 출Entrance 01
+2505	*Iria 누베스Property널 M간지Versus Alpha Door
+2506	*Iria NW 자이언트Town NumberChapter댁
+2507	*Iria NW 자이언트Town NumberChapter댁
+2508	*Iria NW 누베스쪽 출Entrance 01
+2509	*Iria NW Prop 얼음강 76
+2510	*Iria NW Prop 얼음강 75
+2511	*Iria NW Prop 얼음강 67
+2512	*Iria NW Prop 얼음강 52
+2513	*Iria NW Prop 얼음강 51
+2514	*Iria NW Prop 얼음강 58
+2516	*Iria NW Prop 얼음강 64
+2517	*Iria NW Prop 얼음강 71
+2518	*Iria SE Prop Discovered Water Rough Body Left절OTL포즈
+2519	*Iria SE Prop Discovered Water 태양을이고있는Stone Statue
+2524	*Iria NW Prop 눈덮힌 Tree 01
+2525	*Iria NW Prop 눈덮힌 Tree 02
+2526	*Iria NW Prop 눈덮힌 Tree 03
+2528	*Iria NW Prop Discovered Water 빛나는 열매Tree
+2529	*Iria NW 유적 그릇형Discovered Water 
+2530	*Iria NW 유적 말Stone Statue
+2534	*Iria NW 유적 태양Stone Statue
+2535	*Iria NW 자이언트Town Bank점
+2538	*Iria NW 자이언트Town Pub
+2539	*Iria NW 자이언트Town General Store
+2540	*Iria NW 자이언트Town Weapon Prop
+2541	*Iria NW Prop Straw 01
+2542	*Iria NW Prop Straw 02
+2543	*Iria NW Prop Straw 03
+2544	*Iria NW Prop Box 01
+2545	*Iria NW Prop Box 02
+2546	*Iria NW Prop Bucket 01
+2547	*Iria NW Prop Bucket 02
+2548	*Iria NW Prop Bucket 03
+2549	*Iria NW 유적 태양Stone Statue
+2550	*Iria NW 유적 태양Stone Statue
+2551	*Iria NW Prop 죽순Discovered Water 
+2552	*Iria SW Prop 바다 153
+2553	*Iria NW Prop 얼음강 64(사 안함)
+2554	*Iria NW Prop 얼음강 71(사 안함)
+2555	*Housing Table 03
+2556	*Housing Chair02
+2557	*Housing Jar02
+2558	*Housing 토기02
+2559	*Housing Flowerpot 05
+2560	*Housing Flowerpot 06
+2561	*Housing Flowerpot 07
+2562	*Iria NW Prop Stone-02
+2563	*Iria NW Prop 죽순Discovered Water 
+2564	*Housing Table 03
+2565	*Housing Flowerpot 05
+2566	*Housing Flowerpot 06
+2567	*Housing Flowerpot 07
+2568	*Housing Chair02
+2569	*Iria DG Dungeon Prop Reward Chest 1
+2570	*Iria DG Dungeon Prop Reward Chest 1
+2574	*Field Iria LoginStage 005 유적01
+2575	*Field Iria LoginStage 005 유적02
+2576	*Field Iria LoginStage 005 이펙트 Dummy
+2577	*Iria 빙하Dungeon01 Switch
+2578	*Iria DG Dungeon Prop Reward Chest 2
+2579	*Iria DG Dungeon Prop Reward Chest 2
+2580	*Iria DG Dungeon Prop Reward Chest 2
+2581	*Housing 황금복돼지
+2582	*Iria DG Dungeon Prop Reward Chest 2
+2583	*Iria DG Dungeon Prop Reward Chest 1
+2584	*Iria DG Dungeon Lobby얼음Stone Statue 1
+2585	*Iria 빙하Dungeon01 Lobby 워프전
+2586	*Iria DG Dungeon 라이트Prop 1
+2587	*Iria 빙하Dungeon01 Outdoors Entrance 01
+2588	*Iria 빙하Dungeon01 Room 1 door 01
+2589	*Iria 빙하Dungeon01 Room 2 door 01
+2590	*Iria 빙하Dungeon01 Room 2 door 02
+2591	*Iria 빙하Dungeon01 Room 3 door 01
+2592	*Iria 빙하Dungeon01 Room 4 door 01
+2593	*Iria 빙하Dungeon01 Hallway 1 door 01
+2594	*Iria 빙하Dungeon01 Hallway 2 door 01
+2595	*Iria 빙하Dungeon01 Hallway 2 door 02
+2596	*Iria 빙하Dungeon01 Hallway 3 door 01
+2597	*Iria 빙하Dungeon01 Hallway 4 door 01
+2598	*Iria 빙하Dungeon01 Boss Room
+2599	*Iria 빙하Dungeon01 Lobby 01
+2600	*Iria 빙하Dungeon01 Lobby 01 
+2601	*Iria 빙하Dungeon01 Lobby 01 Stone Statue
+2602	*Iria 빙하Dungeon01 Entrance 01 
+2603	*Iria 빙하Dungeon01 Entrance 01 Stone Statue
+2604	*Iria 빙하Dungeon01 Small Stone Statue
+2605	*Iria 빙하Dungeon01 Door 01s
+2606	*Iria 빙하Dungeon01 Door 02s
+2607	*Iria 빙하Dungeon01 Door 03s
+2608	*Iria 빙하Dungeon01 Door Boss ins
+2609	*Iria 빙하Dungeon01 Door Boss outs
+2610	*Iria 빙하Dungeon01 Rising Stairs 01
+2611	*Iria 빙하Dungeon01 Lowering Stairs 01
+2612	Iria GlacierDungeon01 Home TransparentDoor Up
+2613	Iria GlacierDungeon01 Home TransparentDoor Down
+2614	Iria GlacierDungeon01 Puzzle TransparentDoor Up
+2615	Iria GlacierDungeon01 Puzzle TransparentDoor Down
+2616	*Iria 빙하Dungeon01 Boss Room Rough울Prop 
+2617	*Iria 빙하Dungeon01 Lobby Entrance 01
+2618	Iria GlacierDungeon01 Etrance TransparentDoor Down
+2620	*no data
+2621	*Iria 빙하Dungeon01 Prop 
+2622	*Iria 빙하Dungeon01 Door 01s
+2623	*Iria 빙하Dungeon01 Door 02s
+2624	*Iria 빙하Dungeon01 Door 03s
+2625	*Iria 빙하Dungeon01 Door Boss ins
+2626	*Iria 빙하Dungeon01 Door Boss outs
+2627	*Iria 빙하Dungeon01 ExitStone Statue
+2628	*Iria 빙하Dungeon01 Prop Switch 01s
+2629	*no data
+2630	*Iria 빙하Dungeon01 Entrance 01 
+2631	*S Type Camp 이글루 01
+2632	*Field Iria LoginStage 005 선인Chapter01
+2633	*S Type Camp 이글루Inside Floor
+2634	*Iria Test 강 07
+2635	*Iria Test 강 08
+2636	*Iria Test 강 09
+2637	*Iria Test 강 16
+2638	이글루 Fire
+2639	*Iria Test 강 13
+2640	*Iria Test 강 20
+2641	*Iria Test 강 19
+2642	*Iria Test 강 12
+2643	*Iria Test 강 11
+2644	*Iria Test 강 18
+2645	*Iria Test 강 17
+2646	*Tir Chonaill Dungeon Rough미LineBoss Room
+2647	*Iria 자이언트Wedding Hall Lobby 01
+2648	*Iria 자이언트Wedding Hall Hall 01
+2649	*김Castle My 과My Water to Commercial
+2650	*김Castle My 과My Water 유적
+2651	*Iria 자이언트Wedding Hall Prop 01
+2652	*Iria 자이언트Wedding Hall Prop 02
+2653	*Iria 자이언트Wedding Hall Prop Flowerpot 01
+2654	*Iria 자이언트Wedding Hall Prop 주례Versus 01
+2655	*Iria 자이언트Wedding Hall Prop 카펫 01
+2656	*Iria 자이언트Wedding Hall Prop 샹들리에 01
+2657	*Tir Chonaill 상급Dungeon Rough미LineBoss Room
+2658	*Tir Chonaill 상급Dungeon Water 레
+2665	*Iria 자이언트Wedding Hall Hall 01 f
+2666	*Iria 자이언트Wedding Hall Hall 01 E
+2667	*Iria 자이언트Wedding Hall Hall 01 W
+2668	*Iria 자이언트Wedding Hall Hall 01 S
+2669	*Iria 자이언트Wedding Hall Hall 01 N
+2670	*Iria 자이언트Wedding Hall Hall 01 C
+2671	*김Castle My 과My Water Tree
+2672	*Iria 자이언트Wedding Hall Prop Flowerpot 02
+2673	*Iria 자이언트Wedding Hall Prop 초 01
+2674	*Iria 자이언트Wedding Hall Prop Flowerpot 03
+2675	*김Castle My 과My Water Property
+2676	*늪지Versus Camera Test 관련강
+2677	*쿠키트리
+2678	*김Castle My 과My Water 리콘바다10
+2679	*김Castle My 과My Water 리콘바다02
+2680	*김Castle My 과My Water 리콘바다18
+2681	*Guild Three 02
+2682	*Guild Three 03
+2683	*Field Iria Prop 고Versus BoxSet State 있는것
+2684	*Iria Field Prop 고Versus Box State 있음
+2685	*Iria Wheat림 Large Tree 01
+2686	*Iria Wheat림 열Versus Tree 01
+2687	*Iria 사바나 Tree 01
+2688	*Iria Wheat림 늪지Tree 01
+2689	*Iria Wheat림 잎이Large Plant 01
+2690	*Iria 사바나 Bush01
+2691	*Iria 사바나 Bush과 Lake 01
+2692	*Iria 사바나 Bush01
+2693	*Iria 사바나 Lake 01
+2694	*Iria Field Prop Reward Chest 03
+2695	*Iria Wheat림 Bush01
+2696	*Iria Wheat림 Vine달린 Small Tree 01
+2697	*Iria 고원 고원지Versus Tree 01
+2698	*Iria Wheat림 Vine달린 M간Tree 01
+2699	*Iria Wheat림 Bush02
+2700	*Iria Wheat림 FloorLake 01
+2701	*Iria Wheat림 FloorLake 02
+2702	*Iria Wheat림 Bush01
+2703	*Iria 고원 고원지Versus Rock 01
+2704	*Iria Wheat림 커피Tree 01
+2705	*Iria 원주민Town Light 01
+2706	*Iria 원주민Town 생활Prop 접시01
+2707	*Iria 원주민Town 생활Prop 접시02
+2708	*Iria 원주민Town 생활Prop Water Fish Basket 01
+2709	*Iria 원주민Town 생활Prop 과일Basket 01
+2710	*Iria 원주민Town 생활Prop 과일Basket 02
+2711	*Iria 원주민Town 생활Prop 잎포Versus 01
+2712	*Iria 원주민Town 생활Prop 잎포Versus 02
+2713	*Iria 원주민Town 생활Prop 잎포Versus 03
+2714	*Iria 원주민Town 생활Prop 잎포Versus 04
+2715	*Iria 원주민Town 생활Prop 저Chapter 기01
+2716	*Iria 원주민Town 생활Prop 저Chapter 기02(Water)
+2717	*Iria 원주민Town 생활Prop 저Chapter 기02(empty)
+2718	*Iria 원주민Town 생활Prop 저Chapter 기03
+2719	*Iria 원주민Town 생활Prop 저Chapter 기04
+2724	*Iria 빼앗long원주민Town LightProp 01
+2725	*Iria 빼앗long원주민Town LightProp 02
+2726	*Iria 빼앗long원주민Town LightProp 03
+2727	*Iria 빼앗long원주민Town 생활Prop Box01
+2728	*Iria 빼앗long원주민Town 생활Prop Box02
+2729	*Iria 빼앗long원주민Town 생활Prop Box03
+2730	*Iria 빼앗long원주민Town 생활Prop Box04
+2731	*Iria 빼앗long원주민Town 생활Prop 초01
+2732	*Iria Number정 Field Prop 
+2733	*(Test)Iria 선착Chapter
+2734	*Iria 원주민Town Basic 민가01
+2736	*선착Chapter 배출발
+2737	*선착Chapter Alpha Door
+2738	*Iria 원주민Town Clothing Store
+2739	*Iria Wheat림 Large Tree Far off 
+2740	*Iria 얼음Bridge
+2741	*Iria Wheat림 강 19
+2742	*Iria Wheat림 강 20
+2743	*Iria Wheat림 강 21
+2744	*Iria Wheat림 강 28
+2745	*Iria Wheat림 강 29
+2746	*Iria Wheat림 강 30
+2747	*Iria Wheat림 강 31
+2748	*Iria Wheat림 강 41
+2749	*Iria Wheat림 강 42
+2750	*Iria Wheat림 강 53
+2751	*Iria Wheat림 강 65
+2752	*Iria Wheat림 강 76
+2753	*Iria Wheat림 강 77
+2754	*Iria Wheat림 강 88
+2755	*Iria Wheat림 강 100
+2756	*Iria Wheat림 강 101
+2757	*Iria Wheat림 강 113
+2758	*Iria Wheat림 강 125
+2759	*Iria Wheat림 강 126
+2760	*Iria Wheat림 강 127
+2761	*Iria 원주민Town Chief's House 01
+2764	*선착Chapter
+2765	*선착Chapter Alpha메시
+2766	*Iria 뺴앗long원주민Town Chief's House 01
+2767	*Iria 빼앗long 원주민Town Basic 민가01
+2768	*배경 Boundary  Wheat림 Tree 01
+2769	*Iria 원주민Town Chief's House솟Versus 01
+2770	*Iria 원주민Town 생활Prop 빨랫Versus 01
+2771	*Iria 원주민Town 생활Prop 빨랫Versus 02
+2772	*Iria 원주민Town 생활Prop 저Chapter 기06(dyeing)
+2773	*Iria 원주민Town Weapon Prop
+2774	*쿠르클레 Temp 유적
+2775	*Iria 원주민Town 유적감정사House
+2776	*Iria 원주민Town 늑Versus S년House
+2777	*Iria 원주민Town Property레인 Field B
+2778	*Iria 원주민Town Property레인 Field E
+2779	*Iria Wheat림 Large Tree 01 윗쪽나뭇잎추가
+2780	*Iria Wheat림 강 41-1
+2781	*Iria Wheat림 강 29
+2782	*Iria 원주민Town 생활Prop Flower01
+2783	*Iria Wheat림 폭포 01
+2784	*Iria Wheat림 폭포 02
+2785	*Iria 빼앗long 원주민Town 부서진 마나Property널01
+2786	*Iria Wheat림 강 27 28
+2787	*Iria 사바나 바다 164
+2788	*Iria 사바나 바다 176
+2790	*Iria 뺴앗long원주민Town 막사
+2791	*Iria 늪지Versus 고인Water 51
+2792	*Iria Wheat림 늪지Lake 01
+2793	*Iria 늪지Versus 고인Water 52
+2794	*Iria 늪지Versus 고인Water 63
+2795	*Iria 늪지Versus 고인Water 64
+2796	*Iria Wheat림 늪지Lake 02(뿌리내린)
+2797	*Iria Wheat림 늪지Lake 03(Bush)
+2798	*Iria Wheat림 늪지Lake 04(SmallLake)
+2799	*Iria 폭포 사운드 AlphaBox
+2800	*Iria 유적Bridge 콘누스쪽(State 있음)
+2801	*초원Tree 떡갈Tree
+2802	*Iria 유적Bridge 라Furnace쪽(State 있음)
+2803	*Iria 유적Bridge AlphaProp 
+2804	<mini>ORE</mini> 광Three 02
+2805	*Iria Wheat림 강 27
+2806	ORE
+2807	*Iria 폭포아래 유적
+2808	*Iria 원주민Town Property레인 Fish 못 01
+2809	*Iria 폭포아래 유적 Production동프
+2810	*스토브 01
+2811	*열Versus Tree
+2812	*잎이무Castle 한Tree
+2813	*TreeCart
+2814	*빛나는 Stone Statue(State 있음)
+2815	*Iria Wheat림 강 15
+2816	*Iria 폭포아래 유적 Production동Prop 
+2817	*Iria 폭포아래유적 Door 01s
+2818	*Iria Wheat림 FloorStone 01
+2819	*Iria 폭포아래유적 파편 01
+2820	*Iria 폭포아래유적 파편 02
+2821	*엔젤인어스 Event
+2822	*Iria 폭포아래유적 Alpha Door01
+2823	*Iria Wheat림 Reservoir Duck Rice 01
+2824	*하드모드 Reward Chest 01
+2825	*하드모드 Switch 01
+2828	*망자 함 01
+2829	*FieldEvent 금 01
+2830	*FieldEvent 은 01
+2831	*야금Prop 철
+2832	*야금Prop 금
+2833	*Emain 승OnlyLobby
+2834	*Emain 승OnlyTest Room f
+2835	*Emain 승OnlyChapter
+2836	Closet Menu
+2837	*Iria C Discovered Water 01
+2838	*Emain 승OnlyTest Room S01
+2839	*Emain 승OnlyTest Room S02
+2840	*Emain 승OnlyTest Room S03
+2841	*Emain 승OnlyTest Room N01
+2842	*Emain 승OnlyTest Room N02
+2843	*Emain 승OnlyTest Room N03
+2844	*Emain 승OnlyTest Room W
+2845	*Emain 승OnlyTest Room E
+2846	*Emain 승OnlyTest Room C
+2847	*Basket 01
+2848	*유적 01
+2849	*과My Tree 01
+2850	*Test Box 01
+2851	*Event Only풍Tree
+2852	*승Only 낚시 TestProp 
+2853	*과My Wall StoneHouse
+2854	<mini>TOOL</mini>Anvil
+2855	*과My 암혈
+2856	*종이비행기AlphaProp 
+2857	*Cutscene Prop Cracked 약병
+2858	*하드모드알비 Dungeon Room 1 door 01
+2859	*하드모드알비 Dungeon Room 2 door 01
+2860	*하드모드알비 Dungeon Room 2 door 02
+2861	*하드모드알비 Dungeon Room 3 door 01
+2862	*하드모드알비 Dungeon Room 4 door 01
+2863	*하드모드알비 Dungeon Hallway 1 door 01
+2864	*하드모드알비 Dungeon Hallway 2 door 01
+2865	*하드모드알비 Dungeon Hallway 2 door 02
+2866	*하드모드알비 Dungeon Hallway 3 door 01
+2867	*하드모드알비 Dungeon Hallway 4 door 01
+2868	*하드모드알비 Dungeon Rising Stairs 01
+2869	*하드모드알비 Dungeon Lowering Stairs 01
+2870	*하드모드알비 Dungeon Entrance 01 Goddess Statue
+2871	*하드모드알비 Dungeon Small Goddess Statue 01
+2872	*하드모드알비 Dungeon Reward Room Goddess Statue 01
+2873	*하드모드알비 Dungeon Entrance 01
+2874	*하드모드알비 Dungeon Entrance 01 
+2875	*하드모드알비 Dungeon Boss Room
+2876	*하드모드알비 Dungeon Door 01s
+2877	*하드모드알비 Dungeon Door 02s
+2878	*하드모드알비 Dungeon Door 03s
+2879	*하드모드알비 Dungeon Door Boss ins
+2880	*하드모드알비 Dungeon Door Boss outs
+2881	Hard Mode Alby Dungeon Hall Clear Door Down
+2882	Hard Mode Alby Dungeon Puzzle Clear Door Up
+2883	Hard Mode Alby Dungeon Puzzle Clear Door Down
+2884	*하드모드키아 Dungeon Room 1 door 01
+2885	*하드모드키아 Dungeon Room 2 door 01
+2886	*하드모드키아 Dungeon Room 2 door 02
+2887	*하드모드키아 Dungeon Room 3 door 01
+2888	*하드모드키아 Dungeon Room 4 door 01
+2889	*하드모드키아 Dungeon Hallway 1 door 01
+2890	*하드모드키아 Dungeon Hallway 2 door 01
+2891	*하드모드키아 Dungeon Hallway 3 door 01
+2892	*하드모드키아 Dungeon Hallway 4 door 01
+2893	*하드모드키아 Dungeon Rising Stairs 01
+2894	*하드모드키아 Dungeon Lowering Stairs 01
+2895	*하드모드키아 Dungeon Entrance 01 Goddess Statue
+2896	*하드모드키아 Dungeon Small Goddess Statue 01
+2897	*하드모드키아 Dungeon Reward Room Goddess Statue 01
+2898	*하드모드키아 Dungeon Entrance 01
+2899	*하드모드키아 Dungeon Entrance 01 
+2900	*하드모드키아 Dungeon Boss Room
+2901	*하드모드키아 Dungeon Door 01s
+2902	*하드모드키아 Dungeon Door 02s
+2903	*하드모드키아 Dungeon Door 03s
+2904	*하드모드키아 Dungeon Door Boss ins
+2905	*하드모드키아 Dungeon Door Boss outs
+2906	Hard Mode Ciar Dungeon Hall Clear Door Down
+2907	Hard Mode Ciar Dungeon Puzzle Clear Door Up
+2908	Hard Mode Ciar Dungeon Puzzle Clear Door Down
+2909	*Anger 산지Versus 죽은Tree
+2910	*Event Snowman
+2911	*Event 눈Dummy
+2912	*Knife데라Arc FlowerBush
+2913	*Anger 산지Versus 죽은Tree 01
+2914	*Anger 산지Versus 죽은Tree 02
+2915	*하드모드Rundal Dungeon Room 1 door 01
+2916	*하드모드Rundal Dungeon Room 2 door 01
+2917	*하드모드Rundal Dungeon Room 2 door 02
+2918	*하드모드Rundal Dungeon Room 3 door 01
+2919	*하드모드Rundal Dungeon Room 4 door 01
+2920	*하드모드Rundal Dungeon Hallway 1 door 01
+2921	*하드모드Rundal Dungeon Hallway 2 door 01
+2922	*하드모드Rundal Dungeon Hallway 2 door 02
+2923	*하드모드Rundal Dungeon Hallway 3 door 01
+2924	*하드모드Rundal Dungeon Hallway 4 door 01
+2925	*하드모드Rundal Dungeon Rising Stairs 01
+2926	*하드모드Rundal Dungeon Lowering Stairs 01
+2927	*하드모드Rundal Dungeon Entrance 01 Goddess Statue
+2928	*하드모드Rundal Dungeon Small Goddess Statue 01
+2929	*하드모드Rundal Dungeon Reward Room Goddess Statue 01
+2930	*하드모드Rundal Dungeon Entrance 01
+2931	*하드모드Rundal Dungeon Entrance 01 
+2932	*하드모드Rundal Dungeon Boss Room
+2933	*하드모드Rundal Dungeon Door 01s
+2934	*하드모드Rundal Dungeon Door 02s
+2935	*하드모드Rundal Dungeon Door 03s
+2936	*하드모드Rundal Dungeon Door Boss ins
+2937	*하드모드Rundal Dungeon Door Boss outs
+2938	Hard Mode Rundal Dungeon Hall Clear Door Down
+2939	Hard Mode Rundal Dungeon Puzzle Clear Door Up
+2940	Hard Mode Rundal Dungeon Puzzle Clear Door Down
+2941	*Knife데라Arc Thin TreeBush 01
+2942	*Knife데라Arc Thin TreeBush 02
+2943	*Knife데라Arc 평원Rock 01
+2944	*Knife데라Arc 평원Rock 02
+2945	*Knife데라Arc 평원Rock 03
+2946	*Knife데라Arc Small Lake
+2947	*Knife데라Arc Small Lake 02
+2948	*Event 크리스마스 트리
+2949	*유황지Versus FieldStone 01
+2950	*유황지Versus FieldStone 02
+2951	*간헐천지Versus 간헐천01
+2952	*간헐천지Versus 간헐천02
+2953	*간헐천지Versus 간헐천03
+2954	*메테오이펙트 AlphaProp 01
+2955	*유황지Versus Gas구멍 01
+2956	*간헐천지Versus 웅덩이 01
+2957	*Anger 산지Versus 강Water area 49
+2958	*Anger 산지Versus 발Anger Three 01
+2959	*Anger 산지Versus 강Water area 41
+2960	*Anger 산지Versus Sand Chapter 16X32
+2961	*Anger 산지Versus Sand Chapter 08X32
+2962	*Anger 산지Versus Sand Chapter 16X40 A
+2963	*Anger 산지Versus Sand Chapter 16X40 B
+2964	*Anger 산지Versus Sand Chapter 32X32 Small 코너
+2965	*Anger 산지Versus Sand Chapter 32X32 Large 코너
+2966	*Anger 산지Versus Sea Water 8 X 8
+2967	*Anger 산지Versus Sea Water 16 X 16
+2968	*Anger 산지Versus Sea Water 24 X 24
+2969	*Anger 산지Versus Sea Water 32 X 32
+2970	*Anger 산지Versus Sea Water 64 X 64
+2971	*크레이Property지Versus 크레이Property 01
+2972	*크레이Property지Versus 크레이Property 02
+2973	*Anger 산지Versus 활Anger 산A
+2974	*Anger 산재섞인 Stone 01
+2975	*Anger 산재섞인 Stone 02
+2976	*Anger 산재섞인 Stone 03
+2978	*Anger 산재지Versus Stone 01
+2979	*Anger 산재지Versus Stone 02
+2980	*Anger 산재지Versus Stone 03
+2983	*Anger 산지Versus 암MinuteExit 01
+2984	*Anger 산지Versus 암MinuteExit 02
+2986	*Anger 산지Versus 출현 Dummy 01
+2988	*Anger 산지Versus 암구멍 01
+2989	*Anger 산지Versus 발Anger Three 02
+2990	*Anger 산지Versus 발Anger Three 03
+2991	*Anger 산지Versus Knife데라Arc Number 01
+2992	*Iria NN 강시Production부Minute폭포
+2993	*Anger 산지Versus 암구멍 02
+2994	*NN지역 Fish 결관Door 01
+2995	*NN지역 Fish 결관Door 02
+2996	*Iria NN 바다 43
+2997	*Anger 산지Versus 떨어진Rock 01
+2998	*Anger 산지Versus 떨어진Rock 02
+2999	*Anger 산지Versus 관Door지Versus 암area20
+3000	*Anger 산지Versus 관Door지Versus 암area28
+3001	*백사Chapter지Versus Stone 01
+3002	*백사Chapter지Versus Stone 02
+3003	*백사Chapter지Versus Stone 03
+3004	*Iria NN 바다 51
+3005	*Iria NN 바다 60
+3006	*크레이Property지역 Bridge
+3007	*Iria NN 바다 52
+3008	NN Region Mana Tunnel
+3009	*유황지Versus 이펙트 AlphaProp 01
+3010	*휴Anger 산 이펙트 AlphaProp 01
+3011	* 굴 Entrance 01
+3012	*Iria NN 바다 59
+3014	* 굴 Inside
+3015	*Anger 산지Versus Cutscene 암구멍 01
+3016	*Anger 산지Versus Cutscene 암구멍 01 noeffect
+3017	* 굴Inside Column 01
+3018	* 굴Inside Column 02
+3019	* 굴Inside Column 03
+3020	* 굴Inside Column 04
+3021	* 굴Inside Column 05
+3022	* 굴Inside Column 06
+3023	* 굴Inside Column 07
+3024	* 굴Inside Column 08
+3025	* 굴Inside Column 09
+3026	* 암폭포 area 25
+3027	* 굴 알 01
+3028	* 굴 InsideEntrance
+3029	* 굴 InsideExit
+3030	*Iria NN 바다 42
+3031	*피시스 떨어지는Rock 01
+3032	*Iria NN 바다 35
+3033	*Iria NN 바다 50
+3034	* 암폭포 area 26
+3035	* 굴 위 Door자
+3036	*S원Tree
+3037	*강 시Production 지점 사운드 메시
+3038	*활Anger 산 사운드 메시
+3039	*유황지Versus Dummy 01
+3040	*Iria Field Prop Reward Chest 04
+3041	Magic Cacao
+3042	*Hard Mode Alby Dungeon Lobby 01
+3043	*Hard Mode Alby Dungeon Lobby 01 Goddess Statue
+3044	*Hard Mode Alby Dungeon Lobby 01 Altar
+3045	*Hard Mode Ciar Dungeon Lobby 01
+3046	*Hard Mode Ciar Dungeon Lobby 01 Goddess Statue
+3047	*Hard Mode Ciar Dungeon Lobby 01 Altar
+3048	*Hard Mode Ciar Dungeon Hall 2 door 02
+3049	*Hard Mode Alby Dungeon Clear Door
+3051	*Hard Mode Rundal Dungeon Lobby 01
+3052	*Hard Mode Rundal Dungeon Lobby Altar 01
+3053	*Hard Mode Rundal Dungeon Lobby Goddess Statue 01
+3054	*Hard Mode Rundal Dungeon Lobby Iron Plate L
+3055	*Hard Mode Rundal Dungeon Lobby Iron Plate R
+3056	*Hard Mode Ciar Dungeon Clear Door
+3057	*Hard Mode Alby Dungeon Boss Room Arachne
+3058	*Hard Mode Rundal Dungeon Hall Clear Door Up
+3059	*Hard Mode Rundal Dungeon Boss Room Siren
+3060	Cherry Blossom Trees
+3061	*설날 Event 널뛰기
+3062	*Tir Chonaill Dungeon Lobby 01 시즌처리 Door
+3063	*Emain Rundal Dungeon Lobby 01 시즌처리 Door
+3064	*Tir Chonaill 키아Dungeon Lobby 01 시즌처리 Door
+3065	*Bangor Morva Aisle 시즌Fence
+3066	*프로토타Face House 01
+3067	*프로토타Face 낡은 01
+3068	*Sidhe Sneachta Snowy Tree
+3069	*캡쳐 더 플래그 Event Prop 
+3070	승OnlyChapter Inside 워프 Door 2X2.5
+3071	*Event Reward Chest 
+3072	*Party Board
+3073	*온천Sign Section
+3074	*몬스Property스폰 이펙트Prop 
+3075	* 굴 몬스Property속도스폰Prop 01
+3076	*Event 벚Tree
+3077	Party Board
+3078	* 굴 RoughVersus 알 충Stone메쉬
+3079	*TownSide Cliff16m 01
+3080	*Town코너Cliff16m 01
+3081	*Town코너Cliff16m 02
+3082	*STree 01
+3083	*둥근Tree 02 a
+3084	*둥근Tree 02 b
+3085	*들Flower 01 a
+3086	*들Flower 01 b
+3087	*들Flower 02 a
+3088	*들Flower 02 b
+3089	*덩치Large Tree 01 a
+3090	*Shrub 01 a
+3091	*들Flower 03 a
+3092	*들Flower 03 b
+3093	*Hall쭉한Tree 03 a
+3094	*Hall쭉한Tree 03 b
+3095	*LakeDummy 02 a
+3096	*LakeDummy 02 b
+3097	*Reeds 01 a
+3098	*Reeds 01 b
+3099	*Far off STree 01 a
+3100	*Far off STree 01 b
+3101	*Far off Reeds 01 a
+3102	*Far off 둥근Tree 02 a
+3103	*Far off 둥근Tree 02 b
+3104	*Far off LakeDummy 02 a
+3105	*탈틴 지형Rock 01
+3106	*탈틴 지형Rock 02
+3107	*탈틴 지형Rock 03
+3108	*탈틴 Arc Number 01
+3109	*탈틴 Arc Number 02
+3110	*탈틴 Arc Number 03
+3111	*탈틴 Arc Number 04
+3112	*탈틴 Arc Number 05
+3113	*탈틴 Arc Number 06
+3114	*탈틴 Arc Number 07
+3115	*탈틴 Arc Number 08
+3116	*탈틴 Arc 숫Water 0808
+3117	*탈틴 Arc 숫Water 1616
+3118	*탈틴 Arc 숫Water 2424
+3119	*Dungeon2.0 Boss Room Wall 01
+3120	*임프 꿈 Event 임프Golem
+3121	*RoomArc Wall 01
+3122	*Dungeon2.0 구슬Prop 01
+3123	*Dungeon2.0 일반Room Wall 01
+3124	*승OnlyChapter 시즌처리 Wall 
+3125	*탈틴 Rock 01
+3126	*탈틴 지형Rock 03
+3127	*탈틴 지형Rock 02
+3128	*탈틴 Rock 02
+3129	*탈틴 채ThreeChapterRock 01
+3130	*탈틴 채ThreeChapterRock 02
+3131	*LakeDummy 03 a
+3132	*TreeBucket 01
+3133	*TreeBarrels 01
+3134	*TreeBox 01
+3135	*탈틴 House A 01
+3136	*LakeDummy 03 b
+3137	*탈틴 채ThreeChapterRock 03
+3138	*탈틴 채ThreeChapterRock 04
+3139	*아이스마인 01
+3140	*Far off Hall쭉Tree 03 a
+3141	*Far off Hall쭉Tree 03 b
+3143	*탈틴 Rock 03 a
+3144	*탈틴 Rock 03 b
+3145	*탈틴 Rock 03 c
+3146	*탈틴 Rock 03 d
+3147	*탈틴 Rock 03 e
+3148	Field 탈틴 SE Alpha Door 01
+3149	*탈틴 Rock 03 f
+3150	*Land Mark Stone헨지 01
+3151	*Land Mark Stone헨지 02
+3152	Field 탈틴 E Alpha Door 01
+3153	*STree 01 a
+3154	*STree 01 b
+3155	*Dungeon2.0 일반Room Stairs 01
+3156	*Dungeon2.0 일반Room Stairs 02
+3157	*Dungeon2.0 일반Room Stairs 03
+3158	*Dungeon2.0 일반Room Stairs 04
+3159	*LakeDummy 04 a
+3160	*LakeDummy 04 b
+3161	*탈틴 House A 02
+3164	*Lake 02 a
+3165	*Lake 02 b
+3166	*둥근Tree 02 c
+3167	*Stone 01 a
+3168	*탈틴 House B 01
+3169	*Stone 02 a
+3170	*Stone 02 b
+3171	*Stone 02 c
+3172	*탈틴 우Water 
+3176	*야금Prop 철 Event 
+3177	*Iria Field Prop Reward Chest 05
+3179	*Land Mark 01
+3180	*Land Mark Column 01
+3181	*Land Mark Stone헨지 03
+3182	*Land Mark Stone헨지 04
+3183	*Land Mark Stone헨지 05
+3184	*Land Mark Stone헨지 06
+3185	*Land Mark Stone헨지 07
+3186	*Land Mark Stone헨지 08
+3187	*Land Mark Stone헨지 09
+3189	*스튜디오 Emain Rundal Dungeon Boss Room
+3190	*탈틴 House B 02
+3191	*탈틴 Field A
+3192	*탈틴 Field B
+3193	*탈틴 Street Lamp
+3194	*XXX 열매Tree
+3195	<mini>TOOL</mini> Taillteann Oven 01
+3197	*TreeChair 01 a
+3198	<mini>TOOL</mini> Taillteann Oven 02
+3200	Shadow Mission Bulletin
+3201	*탈틴 Castle Party 01 a
+3202	*탈틴 Castle Party 01 b
+3203	*Lake 03 a
+3204	*Lake 03 b
+3205	*Land Mark Column 02
+3206	*탈틴 사령부 01
+3207	*삽 01
+3208	*갈퀴 01
+3209	*탈틴 사령부 Tent 01
+3210	*탈틴 사령부 Flags
+3211	*탈틴 General Store 01
+3212	*탈틴 사령부 02
+3213	*탈틴 사령부 03
+3214	*탈틴 사령부 04
+3215	*탈틴 사령부 Tent 02
+3216	*스키Event 출발
+3217	*스키Event 기Door
+3218	*둥근Tree 02 a 그림자세계
+3219	*둥근Tree 02 a 그림자세계
+3220	*탈틴 사령부 05
+3221	*탈틴 Castle Wall 01
+3222	*탈틴 Castle Wall 02
+3223	*탈틴 Castle Wall 03
+3224	*탈틴 Castle Wall 04
+3225	<mini>TOOL</mini> Extractor
+3226	<mini>TOOL</mini> Heater
+3227	*탈틴 병영 01
+3228	*탈틴 병영 02
+3229	*탈틴 병영 03
+3231	*탈틴 Castle Door 01
+3232	*탈틴 Castle Wall Column 01
+3233	*RoomArc Wall 레벨01
+3234	*탈틴 Castle Wall Column 02
+3235	*탈틴 Castle Wall Roof 01
+3236	*탈틴 Castle Wall Roof 02
+3237	*탈틴 Castle Wall Roof 03
+3238	<mini>TOOL</mini> Steam Oven
+3239	<mini>TOOL</mini> Dry Oven
+3240	*캡쳐 더 플래그 Watermelon Event Prop 01
+3241	*캡쳐 더 플래그 Watermelon Event Prop 02
+3242	*탈틴 Castle Wall 04
+3243	<mini>Stone</mini> Stone
+3244	<mini>Stone</mini> Stone
+3245	*회전다트 01
+3246	*회전다트 02
+3247	*회전다트 03
+3248	*RoomArc Wall level 01
+3249	*RoomArc Wall level 02
+3250	*RoomArc Wall level 03
+3251	*TreeBox 02
+3252	*탈틴 Clothing Store 01
+3253	*탈틴 그림자세계 암Three 01
+3254	*탈틴 그림자세계 암Three 02
+3255	*탈틴 봉Anger Versus 01
+3256	*탈틴 Healer House 01
+3257	*탈틴 Castle Wall Stairs 01
+3258	*Cutscene 아이스마인 01
+3259	*탈틴 Castle Wall Stairs 02
+3260	*탈틴 Castle Wall Stairs 03
+3261	*탈틴 Reward Chest 01
+3262	*탈틴 Healer House 02
+3263	*탈틴 Healer House Tent 01
+3264	*탈틴 Healer House Tent 02
+3265	*탈틴 Healer House Laundry 01
+3266	*탈틴 Healer House 책상 01
+3267	*탈틴 Alpha Door 01
+3268	*탈틴 Fish 금술사House 01
+3269	*탈틴 PlazaAnger Only 01
+3270	*탈틴 봉Anger Versus Alpha Door 01
+3271	*탈틴 PlazaAnger Only 02
+3272	*탈틴Plaza Anger OnlyTree2개
+3273	*탈틴Plaza Anger OnlyTree3개
+3274	*탈틴 봉Anger Versus Alpha Door 02
+3275	*탈틴 PlazaAnger Only 03
+3276	*탈틴 Dungeon 구슬Prop 01
+3277	*탈틴 사령부 인간Flags
+3278	*탈틴 사령부 Filia Flags
+3279	*탈틴 사령부 자이언트Flags
+3283	*탈틴 Castle Wall PropertyBox 02
+3284	*탈틴 Castle Wall PropertyBox 01
+3285	*Sign Section 스키Event
+3286	*탈틴 Castle Wall PropertyBox 03
+3287	*탈틴 사령부 책상 01
+3288	*탈틴 사령부 책상 02
+3289	*탈틴 사령부 무기Box 01
+3290	*탈틴 Healer House 선Water Box 01
+3292	*탈틴 Fish 금술사House 02
+3293	*탈틴 Fish 금술사House 03
+3294	*탈틴 묘지안 비Three 01
+3295	*탈틴 Reward Chest 02
+3296	*Emain Rundal Dungeon 감옥Column
+3297	*Emain Rundal Dungeon 감옥Wall N
+3298	*Emain Rundal Dungeon 감옥Wall S
+3299	*Emain Rundal Dungeon 감옥Wall E
+3300	*Emain Rundal Dungeon 감옥Wall W
+3301	*탈틴 묘지안 비Three 02
+3302	*탈틴 봉Anger Versus 02
+3303	*탈틴 마족 Camp 01
+3304	*탈틴 Bank 01
+3305	*탈틴 Bank 02
+3306	*탈틴 묘지안 비Three 03
+3307	*탈틴 드루이드House 01
+3308	*탈틴 LoginStage 007 Fish 금술사Room
+3309	*탈틴 Castle Wall 05
+3310	*Heart of Courcle
+3311	*탈틴 Fish 금술 Camp 01
+3312	*탈틴 Fish 금술 Camp 02
+3313	*탈틴 Fish 금술 Camp 03
+3314	*탈틴 Fish 금술 Camp 04
+3315	*탈틴 Fish 금술 Camp 05
+3316	*탈틴 Fish 금술 Camp 06
+3317	*탈틴 Fish 금술 Camp 07
+3318	*탈틴 Fish 금술 Camp 08
+3319	*탈틴 클라우솔라스 Fish Castle Chapter치
+3320	*탈틴 클라우솔라스 구덩이
+3321	*탈틴 클라우솔라스 Fish 금술 Camp 01
+3322	*탈틴 클라우솔라스 컷신 Prop 01
+3323	*탈틴 클라우솔라스 컷신 Prop 02
+3324	*Dungeon2.0 Boss Room Wall 02
+3325	*탈틴 Castle Wall PropertyBox 04
+3326	*Dungeon2.0 Boss Room Wall 02 컷신 
+3327	*탈틴 사령부 무기Box 02
+3328	*탈틴 Event AlphaBox 01
+3329	*스킬 Test Test 리전 01
+3330	*스킬 Test Test 리전 02
+3331	*Tara Arc 박 01
+3332	*Tara 포도Tree 01
+3333	*Tara 포도Tree 02
+3334	*Tara Arc 박 02
+3335	*Tara Arc 박 03
+3336	*Tara 사이프러스 01
+3337	*Tara 사이프러스 02
+3338	*Tara Flower(Number국) 01
+3339	*Tara Flower(Number국) 02
+3340	*Tara Flower(Number국) 03
+3341	*Tara Flower(Number국) 04
+3342	*Tara Flower(루피) 01
+3343	*Tara Flower(루피) 02
+3344	*Tara Flower(루피) 03
+3345	*Tara Flower(루피) 04
+3346	*Tara FlowerBush 01
+3347	*탈틴 그림자미션 Oven
+3348	*Tara 포도Box 01
+3349	*Tara Flower(Number선Anger ) 01
+3350	*Tara Flower(Number선Anger ) 02
+3351	*Tara 딸기 01
+3352	*Tara 딸기 02
+3353	*Tara 딸기 03
+3354	*Tara 가지 01
+3355	*Tara Test 농Production지 01
+3356	*Tara Test Crops 01
+3357	Oven
+3358	*Tara 양배추 01
+3359	*Tara 양배추 02
+3360	*Tara 양배추 03
+3361	*Tara 양배추 04
+3362	*Halloween Event Dummy
+3363	*경Production Arc 박 01
+3364	*경Production 포도Tree 01
+3365	*경Production 포도Tree 02
+3366	*경Production Arc 박 02
+3367	*경Production Arc 박 03
+3368	*경Production 포도Box 01
+3369	*경Production 딸기 01
+3370	*경Production 딸기 02
+3371	*경Production 딸기 03
+3372	*경Production 가지 01
+3373	*경Production 탈틴 농Production지 01
+3374	*경Production 탈틴 Crops 01
+3375	*경Production 양배추 01
+3376	*경Production 양배추 02
+3377	*경Production 양배추 03
+3378	*경Production 양배추 04
+3379	*Halloween Event Arc 박 01
+3380	*Halloween Event Arc 박 02
+3381	*Halloween Event Arc 박 03
+3382	*Halloween Event 유령마네킨 01
+3383	*Halloween Event 유령마네킨 02
+3384	*Halloween Event 축My Flags 01
+3385	*경Production 토마토 01
+3386	*경Production 토마토 02
+3387	*Tara 서양배Tree 01
+3388	*탈틴 바이올렛 01
+3389	*경Production Fence 01
+3390	*경Production Fence 02
+3391	*경Production 딸기 01
+3392	*경Production 양배추 01
+3393	*경Production Sign
+3394	*경Production 가지 01
+3395	*경Production Entrance
+3396	*삽 02
+3397	*갈퀴 02
+3398	*Cart 01
+3399	*Cart 02
+3400	*Dummy 01
+3401	Violet
+3402	*아브네아 Housing Castle Property Door Stone TB
+3403	Field Taillteann SE Transparentdoor 02
+3404	*Tara Tree 01
+3405	*Tara Rock 01
+3406	*Tara Tree 01
+3407	*Tara Rock 01
+3408	*Tara Hill TreeDummy 01
+3409	*Tara Hill TreeDummy 02
+3410	*Tara Rock 02
+3411	*Tara Rock 03
+3412	*Tara Water Lake 01
+3413	*Tara Rock 04
+3414	*Tara Tree 02
+3415	*Tara Tree 03
+3416	*Tara Tree 04
+3417	*Tara 폭포 01
+3418	*Housing Castle Property 03
+3419	*Housing Castle Property 아브 네아 Rough Gist 
+3420	*Emain 시즌처리 Fence
+3421	*Tara Shrub 01
+3422	*Tara Shrub 02
+3423	*Tara Lake 01
+3424	*Tara Lake 02
+3425	*Emain 시즌처리 to Commercial
+3426	*Tara Bench 01
+3427	*탈틴 Castle Property Arc Number 03
+3428	*탈틴 Castle Property Arc Number 04
+3429	*탈틴 Castle Property Arc Number 05
+3430	*탈틴 Castle Property Arc Number 07
+3431	*탈틴 Castle Property Arc Number 08
+3432	*탈틴 Castle Property Arc 숫Water 0808
+3433	*탈틴 Castle Property Arc 숫Water 1616
+3434	*탈틴 Castle Property Arc 숫Water 2424
+3435	*Housing Castle Property Door Stone 아브 네아 Rough Gist 
+3436	*DoorStone
+3437	*Tara Tree 05
+3438	*Tara Tree 06
+3439	*Tara Tree 07
+3440	*Tara Tree 08
+3441	*Tara Tree 09
+3442	*Tara Tree 10
+3443	Moon Stone
+3444	*Tara Rock 05
+3445	*Tara Trash Can 01
+3446	*Tara 아카시아Tree
+3447	*Tara Rock 06
+3448	*Tara Rock 07
+3449	*Tara TreeBarrels 01
+3450	*Tara TreeBox 01
+3451	*Field Tara 계곡 area 06
+3452	*Field Tara 계곡 area 05
+3453	<mini>ENTER</mini> Abb Neagh Castle
+3454	*크리스마스 Event 01
+3455	*크리스마스 Event 트리
+3456	*Tara Street Lamp 01
+3457	*Tara Rectangle Number 01
+3458	*Tara Sign 01
+3459	*Tara Flowerpot 01
+3460	*Tara Flowerpot 02
+3461	*Tara Flowerpot 03
+3462	*Dungeon 일반Room 8각Dummy 01
+3463	*Dungeon Boss Room 8각Dummy 01
+3464	*Tara House A 01
+3465	*크리스마스 Event 02
+3466	*크리스마스 Event 03
+3467	*Tara House B 01
+3468	*Tara Foundation Lock downtown W2
+3469	*Tara Foundation Lock downtown A
+3470	*Tara Foundation Lock downtown B
+3471	*Tara Foundation Lock downtown B04
+3472	*Tara Foundation Lock downtown e 1
+3473	*Tara Foundation Lock downtown E2
+3474	*Tara Foundation Lock downtown F1
+3475	*Tara Foundation Lock downtown F2
+3476	*Tara Foundation Lock downtown G
+3477	*Tara Foundation Lock downtown I
+3478	*Tara Foundation Lock downtown J1
+3479	*Tara Foundation Lock downtown J2
+3480	*Tara Foundation Lock downtown K
+3481	*Tara Foundation Lock downtown L
+3482	*Tara Foundation Lock downtown M
+3483	*Tara Foundation Lock downtown N
+3484	*Tara Foundation Lock downtown O
+3485	*Tara Foundation Lock downtown V1
+3486	*Tara Foundation Lock downtown V2
+3487	*Tara Foundation Lock downtown W2
+3488	*Tara Foundation Lock downtown W3
+3489	*Tara Foundation Lock downtown W
+3490	*Tara Foundation Lock downtown X
+3491	*Tara Foundation Lock downtown Y
+3492	*Tara Foundation Lock downtown Z
+3493	*크리스마스 Event 04
+3494	*크리스마스 Event 05
+3495	Field Tara Clear Door 01
+3496	*Tara 경기Chapter 펜스
+3497	*Tara SuburbLock A01
+3498	*Tara SuburbLock A02
+3499	*Tara SuburbLock A03
+3500	*Tara SuburbLock B01
+3501	*크리스마스 Event 05 1
+3502	*Tara Castle Wall Lock Castle Door01
+3503	*Tara Foundation Lock Water 가00
+3504	*Tara Foundation Lock Water 가01
+3505	*Tara Foundation Lock 강Dam02
+3506	*Tara Foundation Lock 강Dam03
+3507	*Tara Castle Wall Lock BridgeEntrance
+3508	*Tara Foundation Lock Height E 00
+3509	*Tara Foundation Lock Height E 01
+3510	*Tara Foundation Lock Height E 02
+3511	*Tara Foundation Lock Height E 11
+3512	*Tara Foundation Lock Height E 12
+3513	*Tara Foundation Lock Height E 22
+3514	*Tara 경기Chapter 귀EmptyThree
+3515	*Tara Foundation Lock downtown W4
+3516	*Tara Rock 08
+3517	*Tara Rock 09
+3518	*Tara Foundation Lock Height E 03
+3519	*Tara Rock 10
+3520	*Tara 경기Chapter 일반Three
+3521	*Tara House A 02
+3522	*Tara House B 02
+3523	*Tara House A 02 반전
+3524	*Tara House B 02 반전
+3525	*Tara Foundation Lock Height C 00
+3526	*Tara Foundation Lock Height C 01
+3527	*Tara Foundation Lock Height C 02
+3528	*Tara 경기Chapter 귀EmptyThree Roof
+3529	*Tara 경기Chapter Fence
+3530	*Tara House A 03
+3531	*Tara House B 01 반전
+3532	*Tara 경기Chapter Fence 01
+3533	*Tara 경기Chapter Fence 02
+3534	*Tara 경기Chapter Wall 01
+3535	*Tara Stone헨지 Column
+3536	*Tara House A 04
+3537	*탈틴 봉Anger Versus 03
+3538	*Tara House B 03
+3539	*Tara 경기Chapter Wall 02
+3540	*Tara 경기Chapter Door 01
+3541	Shadow Mission Bulletin Tara
+3542	*신년 Event 광Three
+3543	*신년 Event 우Water 
+3544	*신년 Event 목인
+3545	*신년 Event Tree
+3546	*Tara Sign 02
+3547	*Tara Anger 가Chair 01
+3548	*Tara House B 04
+3549	*Tara 경기Chapter Number상Versus 01
+3550	*Tara Bank 01
+3551	*Tara Foundation Lock downtown P
+3552	*Tara Foundation Lock downtown E3
+3553	*Tara Anger Only 01
+3554	*Tara SuburbLock townWall 01
+3555	*Tara Foundation Lock downtown E4
+3556	*Tara Stairs 01
+3557	*Tara 백Anger 점Entrance 01
+3558	*Tara 백Anger 점 01
+3559	*Tara *Tara SuburbLock townWall 01 Prop 
+3560	*Tara Suburb Castle Wall 01
+3561	*Tara SuburbLock A04
+3562	*Tara SuburbLock A05
+3563	*Tara 법황청 01
+3564	*Tara Foundation Lock Height C 11
+3565	*Tara Suburb Castle Wall 02
+3566	*Tara Suburb Castle Wall 03
+3567	*Tara Suburb Castle Wall 04
+3568	*Tara Field 01
+3569	*Tara Foundation Lock Stairs옆Wall 01
+3570	*Tara Stairs 02
+3571	*Tara Foundation Lock Stairs옆Wall 02
+3572	*Tara Stairs 03
+3573	*Tara Stairs 04
+3574	*Tara 강 area 07
+3575	*Tara 강 area 08
+3576	*Tara 강 area 10
+3577	*Tara 강 area 11
+3578	*Tara SuburbLock to이트 01
+3579	*Tara SuburbLock to이트Fish 결 01
+3580	*Tara SuburbLock to이트Fish 결 02
+3581	*Tara Lake난2 PropertyLock C 00
+3582	Soulstream for Login Stage
+3583	*Tara 법황청 02
+3584	*Tara 법황청 03
+3585	*Tara 법황청 04
+3586	*Tara 법황청 05
+3587	*Tara 법황청 06
+3588	*Tara 법황청 07
+3589	*Tara 법황청 08
+3590	*Tara Suburb Castle Door 01
+3591	*Tara Lake난2 PropertyLock C 00 0
+3592	*Tara Lake난2 PropertyLock C 00 2b
+3593	*Tara Lake난2 PropertyLock C 00 3
+3594	*Tara Lake난2 PropertyLock C 01 0
+3595	*Tara Lake난2 PropertyLock e 00 0
+3596	*Tara Lake난2 PropertyLock e 00 2a
+3597	*Tara Lake난2 PropertyLock e 00 2b
+3598	*Tara Lake난2 PropertyLock e 00 3
+3599	*Tara Lake난2 PropertyLock e 01 0
+3600	*Tara Lake난2 PropertyLock e 01 2a
+3601	*Tara Lake난2 PropertyLock e 01 2b
+3602	*Tara Lake난2 PropertyLock e 11 2b
+3603	*Tara Suburb b02
+3604	*Tara Suburb b03
+3605	*Tara Suburb Castle Door 02
+3606	*Tara Lake난2 PropertyLock e 01 2c
+3607	*Tara Anger 가이젤 01
+3608	*Tara Foundation Lock downtown Plaza01
+3609	*Tara Foundation Lock downtown Plaza02
+3610	*Tara Foundation Lock downtown Plaza03
+3611	*Tara 백Anger 점 02
+3612	*Tara 백Anger 점 03
+3613	*Tara 난간 01
+3614	*Tara Foundation Lock Stairs옆Wall 03
+3615	*Tara MinuteNumberVersus 01
+3616	*Tara MinuteNumberVersus 02
+3617	*Tara Barley
+3618	*Tara 아카시아Tree 그림자세계 
+3619	*Tara 마창Versus 회 Sign 02
+3620	*Tara 마창Versus 회 Sign 03
+3621	*Tara Bank Floor
+3622	*Tara SuburbLock b02
+3623	*Tara SuburbLock b03
+3624	*Tara Sign 02
+3625	*Tara 법황청 Property 01
+3626	*Tara 법황청 09
+3627	*S울스트림 Stage 01
+3628	*S울스트림 Stage 02
+3629	*Tara SuburbLock b04
+3630	*Tara SuburbLock b05
+3631	*Tara 백Anger 점 03
+3632	*쿠르클레 CoreChapter G10컷신 
+3633	*Tara 백Anger 점 Clothing Store
+3634	*LoginStage 네반
+3635	*Tara Sign 05 Arrow표 L
+3636	*Tara Sign 05 Arrow표 R
+3637	*Tara Bench 02
+3638	*Tara Street Lamp 02
+3639	*Tara 백Anger 점 기능Castle 01
+3640	<mini>TOOL</mini> Stove for Cooking
+3641	*LoginStage 네반 Wall 
+3642	*Tara 백Anger 점 기능Castle 02
+3643	*Tara 백Anger 점 기능Castle 03
+3644	*Tara 백Anger 점 잡Anger 
+3645	*Tara 백Anger 점 마법 품
+3646	*Tara 백Anger 점 Healer 품
+3647	*Tara 백Anger 점 명품관
+3648	*Tara 백Anger 점 Weapon Prop
+3649	*Tara 백Anger 점 Fish 금술
+3650	*Tara Anger Only 02
+3651	*Tara Anger Only 03
+3652	*Tara 백Anger 점 04
+3653	*Tara FlowerBush 02
+3654	*S울스트림 Stairs Back
+3655	*S울스트림 Stairs Forward
+3656	*컷신 블랙보드
+3657	*발렌타인 Event 쵸콜릿Rock
+3658	*발렌타인 Event 사탕 Rock
+3659	*Tara Suburb Castle Door 03
+3660	*Tara FlowerBush 03
+3661	*Tara FlowerBush 04
+3662	*Neko Dungeon Room 1 door 01
+3663	*Neko Dungeon Room 2 door 01
+3664	*Neko Dungeon Room 2 door 02
+3665	*Neko Dungeon Room 3 door 01
+3666	*Neko Dungeon Room 4 door 01
+3667	*Neko Dungeon Hallway 1 door 01
+3668	*Neko Dungeon Hallway 2 door 01
+3669	*Neko Dungeon Hallway 2 door 02
+3670	*Neko Dungeon Hallway 3 door 01
+3671	*Neko Dungeon Hallway 4 door 01
+3672	*Neko Dungeon Door 01
+3673	*Neko Dungeon Door 02
+3674	*Neko Dungeon Door 03
+3675	*Neko Dungeon Door Boss Room Entrance
+3676	*Neko Dungeon Door Boss Room Exit
+3677	*Neko Dungeon Stairs 올라가기
+3678	*Neko Dungeon Stairs Lowering 기
+3679	*Neko Dungeon Boss Room
+3680	*Neko Dungeon Room Alpha Door Up
+3681	*Neko Dungeon Room Alpha Door Down
+3682	*Neko Dungeon 
+3683	*Neko Dungeon Prop Reward Chest 1
+3684	*Neko Dungeon Prop Reward Chest 2
+3685	*Neko Dungeon Prop Switch 01s
+3686	*Neko Dungeon Reward Room
+3687	*경Production Far off 포도Tree 01
+3688	*Event 넥슨슬로 풍선 01
+3689	*경Production 포도Tree 03
+3690	*Tara SE Hill Fence 01
+3691	*Tara SE Hill Fence 02
+3692	*Tara SE Hill Fence 03
+3693	*Tara SE Hill Fence 04
+3694	*Tara Bush 05
+3695	*Tara SE 포도주통 01
+3696	*Tara SE 포도주통 02
+3697	*Tara SE 포도주통 03
+3698	*Tara Far off Bush 05
+3699	*Tara SE FlowerBush 01
+3700	*Tara SE 농가 01
+3701	*Tara SE 푸Versus 자루 01
+3702	*Tara SE 푸Versus 자루 02
+3703	*경Production 포도FieldSign 01
+3704	*Tara 패션쇼 런웨이 01
+3705	*Tara LakeBush 01
+3706	*Neko Dungeon Door Boss Room Exit
+3707	*Tara 샹들리에 01
+3708	*Tara SE Hill Fence 05
+3709	*Tara Resting 01
+3710	*Neko Dungeon Lobby
+3711	*Tara SE 땅경계 01
+3712	*Tara SE FlowerBush 02
+3713	*Tara SE 농가 02
+3714	*Event Reward Chest 02
+3715	*네코지마 TreeStairs01
+3716	*네코지마 TreeStairs02
+3717	*네코지마 Rock 01
+3718	*네코지마 Small IslandA
+3719	*네코지마 Small IslandB
+3720	*네코지마 쥐구멍
+3721	*네코지마 TreeBridge
+3722	*네코지마 사Party 
+3723	*네코지마 개다래Tree
+3724	*네코지마 Town Stone Statue
+3725	*네코지마 민가
+3726	*네코지마 벚Tree
+3727	*네코지마 생선조Versus 
+3728	*네코지마 Stone Statue 02
+3729	*네코지마 우Water 
+3730	*네코지마 해송
+3731	*Tara SE 미니겜 Sign 01
+3732	*Tara SE 미니겜 Sign 02
+3733	*Tara House A 04 패션쇼 시즌처리 
+3734	*Tara House B 01 패션쇼 시즌처리 
+3735	*Tara 패션쇼 Floor 01
+3736	*Tara 패션쇼 동상Only 01
+3737	*Tara 패션쇼 Sign 01
+3738	*Tara 패션쇼 Chair 01
+3739	*네코지마 Dungeon Entrance 마네키네코Stone Statue
+3740	*Tara 패션쇼 동상Only(스몰사이즈) 02
+3741	*Tara 패션쇼 Light 01
+3742	*Emain 시즌처리 Fence 02
+3743	*Tara SE 그림자세계 Fence 01
+3744	*Emain 시즌처리 to Commercial 02
+3745	*경Production 포도TreeA 01
+3746	*경Production 포도TreeA 02
+3747	*경Production Far off 포도TreeA 01
+3748	*경Production 포도TreeA 03
+3749	*네코지마 Water 길
+3750	*경Production 포도TreeB 01
+3751	*경Production 포도TreeB 02
+3752	*경Production 포도TreeB 03
+3753	*경Production Far off 포도TreeB 01
+3754	*Tara 패션쇼 Barricade 01
+3755	*Tara Resting 오르막길 01
+3756	*네코지마 Far offTree
+3757	*네코지마 민가02
+3758	*네코지마 Stone Statue 03
+3759	*Neko Dungeon PropertyMove
+3760	*Neko Dungeon Reward Room
+3761	*Neko Dungeon Lobby
+3762	*패션쇼 우승자 동상
+3763	*네코지마 Street Lamp
+3764	*네코지마 Street Lamp02
+3765	*마쯔리 해머to임 Prop 
+3766	*마쯔리 다트to임 Prop 
+3767	*Iria Field Prop Reward Chest 06
+3768	*Tara Resting Street Lamp 01
+3769	*네코지마 Fence
+3770	*네코지마 Sign01
+3771	*네코지마 Sign02
+3772	*네코지마 야금Prop 
+3773	*Tara Resting Anger Only 01
+3774	*Tara Resting Anger Only 02
+3775	*Tara Resting Anger Only 03
+3776	*Tara Resting MinuteNumberVersus 01
+3777	*Tara Resting MinuteNumberVersus 02
+3778	*Tara Resting Anger Only 02
+3779	*Tara Resting Anger Only 03
+3780	*Tara Resting Bush 01
+3781	*Tara Resting MinuteNumberVersus 01
+3782	*Tara Resting MinuteNumberVersus 02
+3783	*마쯔리Event 야타이01
+3784	*마쯔리Event 야타이02
+3785	*Tara RestingLock b01
+3786	*Tara RestingLock b02
+3787	*Tara RestingLock b03
+3788	*Tara RestingLock b04
+3789	*Tara RestingLock b05
+3790	*Tara RestingLock b06
+3791	*Tara Resting 떡갈Tree 01
+3792	*Housing 초상Anger Wall 걸이 01
+3793	*네코지마 Sign(State )
+3794	*네코지마 Only상
+3795	*Housing 초상Anger Face Cutout 01
+3796	*네코지마 Fish Chapter ZeroProp 01
+3797	*네코지마 Fish Chapter ZeroProp 02
+3798	*네코지마 Wall 붙Tree
+3799	*Tara Resting Only풍Tree 01
+3800	*마네키네코 AlphaFloor(컷신)
+3801	*Housing 초상Anger Wall 걸이 01
+3802	*개인Store 초상Anger Face Cutout 01
+3803	*네코지마 Dungeon Entrance AlphaFloor
+3804	*Tara Resting GardenNumber 01
+3805	*Tara Resting GardenNumber 02
+3806	*5월Event RoughVersus 풍선
+3807	*5월Event Water 풍선
+3808	*5월Event Water 풍선보급통
+3809	*5월Event RoughVersus 풍선주 Red Team
+3810	*5월Event RoughVersus 풍선주 Blue Team
+3811	*5월Event RoughVersus 풍선주 옐로팀
+3812	*5월Event Water 풍선보급통 Red Team
+3813	*네코지마 LoginStage
+3814	*네코지마 Login 이펙트 Dummy
+3815	*5월Event Water 풍선보급통 Blue Team
+3816	*Tara Resting 01
+3817	*Tara Resting 02
+3818	*Tara Resting 03
+3819	*Tara Resting 04
+3820	*Tara Resting 샹들리에 01
+3821	*Tara Resting 05
+3822	*Tara Resting 06
+3823	*Tara Resting 07
+3824	*Tara Resting 08
+3825	*Tara Resting 09
+3826	*Tara Resting Inside 일반Room 1F 01
+3827	*Tara Resting Wall Etc. 01
+3828	*Tara Resting Inside to이트Hall 01
+3829	*Versus 만 Event 추억Tree
+3830	*Tara Resting 샹들리에 크리스탈 01
+3831	*Wall 시야처리 Test 01
+3832	*Tara Resting Inside RoomDoor 1F 01
+3833	*Tara Resting Inside 철창 1F 01
+3834	*Tara Resting Inside Hallway 1F 001
+3835	*Tara Resting Inside Hallway 1F East
+3836	*Tara Resting Inside Hallway 1F West
+3837	*Tara Resting Inside Room 1F 001
+3838	*Tara Resting Inside Room 1F 004
+3839	*Tara Resting Inside Room 1F 007
+3840	*Tara Resting Inside Room 1F 008
+3841	*Tara Resting Inside Room 1F 010
+3842	*Tara Resting Inside Room 1F 020
+3843	*검은Box 컷신Test 01
+3844	*Tara Resting 냄비Dungeon 01
+3845	*Tara Resting Inside 조리실 01
+3846	*Tara Resting Inside 일반Room 1F 08
+3847	*Tara Resting 냄비Dungeon 02
+3848	*Tara Resting 냄비Dungeon 03
+3849	*Tara Resting 냄비Dungeon 04
+3850	*컷신 Prop 브류Nak
+3851	*Tara Resting Inside 무기실 01
+3852	*Tara Resting Inside 그레이트Hall 01
+3853	*Tara Resting Inside 무기실 02
+3854	*Tara Resting Inside 무기실 03
+3855	*Tara Resting Inside Hallway Wall 01
+3856	*Tara Resting Inside 무기실 04 플라잉S드
+3857	*Tara Resting 1F Alpha Door 01
+3858	*Tara to이트Hall to 1F Alpha Door 01
+3859	*Tara to이트Hall to 2F Alpha Door 01
+3860	*Tara Resting Inside 무기실 04 플라잉S드
+3861	*펼쳐진 우사Only고 개인Store 세트
+3862	*Tara Resting Inside to이트Hall Column R
+3863	*Tara Resting Inside to이트Hall Column L
+3864	*Tara Suburb Castle Door 02 닫힘
+3865	*Tara Suburb Castle Door 02 열림
+3866	*Tara Resting 냄비Dungeon 05
+3867	*Tara Resting Inside 조리실 02
+3868	*Far off Tree
+3869	*Tara Resting Inside 보Water Warehouse 01
+3870	*Tara Resting Inside 보Water Warehouse 02 쥐구멍
+3871	*Tara Resting Inside 보Water Warehouse 03 금Anger 이펙트
+3872	*Far off Tree 01
+3873	*Tara Resting 1F Property 01
+3874	*Far off Tree 02
+3875	*Tara Resting to이트Hall 그림자세계 철창 01
+3876	*Tara Resting 그림자세계 MinuteNumberVersus 01
+3877	*Tara Resting Inside 보Water Warehouse 02 쥐구멍
+3878	*Tara Resting Inside Hallway 쥐구멍
+3879	Mouse Hole
+3880	Mouse Hole
+3881	*Tara 이펙트달린Alpha Door
+3882	Warp Portal
+3883	*Tara Resting Inside GuildHall 01(Floor)
+3884	*Tara Resting Inside GuildHall 02(Wall N)
+3885	*Tara Resting Inside GuildHall 03(Wall S)
+3886	*Tara Resting Inside GuildHall 04(Wall E)
+3887	*Tara Resting Inside GuildHall 05(Wall S)
+3888	*Tara Resting Inside Chair 01
+3889	*Tara Resting Inside GuildHall 06(Ceiling)
+3890	*Tara Resting Inside GuildHall 07(Indoors Prop )
+3891	*Tara Resting AlphaProp 
+3892	*Tara Resting Inside 샹들리에 02
+3893	*Tara Resting Inside GuildHall 05(Wall W)
+3894	*Tara Resting Inside 도서관 01(Floor)
+3895	*Tara Resting Inside 도서관 02(Wall N)
+3896	*Tara Resting Inside 도서관 03(Wall S)
+3897	*Tara Resting Inside 도서관 04(Wall E)
+3898	*Tara Resting Inside 도서관 05(Wall W)
+3899	*Tara Resting Inside 도서관 06(Ceiling)
+3900	*Tara Resting Inside 도서관 07(Prop )
+3901	*Tara Resting Inside 귀족Room 01
+3902	*Tara Resting Inside 귀족Room 02
+3903	*Tara Resting Inside 그레이트Hall 01(Wall E)
+3904	*Tara Resting Inside 그레이트Hall 01(Wall W)
+3905	*Tara Resting Inside 그레이트Hall 01(Wall N)
+3906	*Tara Resting Inside 그레이트Hall 01(Wall S)
+3907	*Tara Resting Inside 그레이트Hall 01(CeilingC)
+3908	*Tara Resting Inside 그레이트Hall 01(Prop 01)
+3909	*Tara Resting Inside 침Versus 01
+3910	*Tara Resting Inside GuildHall 05(Wall W)
+3911	*Tara Resting Inside 도서관 01(Floor)
+3912	*Tara Resting Inside 도서관 02(Wall N)
+3913	*Tara Resting Inside 도서관 03(Wall S)
+3914	*Tara Resting Inside 도서관 04(Wall E)
+3915	*Tara Resting Inside 도서관 05(Wall W)
+3916	*Tara Resting Inside 도서관 06(Ceiling)
+3917	*Tara Resting Inside 도서관 07(Prop )
+3918	*Tara Resting Inside 귀족Room 01
+3919	*Tara Resting Inside 귀족Room 02
+3920	*Tara Resting Inside 그레이트Hall 01(Wall E)
+3921	*Tara Resting Inside 그레이트Hall 01(Wall W)
+3922	*Tara Resting Inside 그레이트Hall 01(Wall N)
+3923	*Tara Resting Inside 그레이트Hall 01(Wall S)
+3924	*Tara Resting Inside 그레이트Hall 01(CeilingC)
+3925	*Tara Resting Inside 그레이트Hall 01(Prop 01)
+3926	*Tara Resting Inside 침Versus 세트 01
+3927	*Tara Resting 2 PropertyGarden 철창
+3928	*Tara Resting Inside 옷정리함 01
+3929	*Tara Resting Inside 옷Chapter 01
+3930	*Tara Resting Inside 에린지도
+3931	*Tara Resting Inside Resting지도
+3932	*Tara Resting Inside 이Property침Versus 
+3933	*Tara Resting Inside 술잔세트
+3934	*Tara Resting Inside Warehouse Table 01
+3935	*Tara Resting Inside Warehouse Chair 01
+3936	*Tara Resting Inside Warehouse Chair 02
+3937	*Tara Resting Inside Warehouse Barrels 01
+3938	*Tara Resting Inside Warehouse Barrels 02
+3939	*Tara Resting Inside TreeBox 02
+3940	*Tara Resting 2 PropertyGarden Bench 01
+3941	*Tara Resting 2 PropertyGarden 티Table 01
+3942	*<mini>Rest Spot</mini>
+3943	*Tara Resting Inside 침Versus 01
+3944	*Tara Resting Inside TreeBox 01
+3945	*Tara Resting Inside 협탁 01
+3946	*Tara Resting Inside long Expression 탁 01
+3947	*Tara Resting Inside 병사Restaurant Room패Wall Chapter Expression 
+3948	*Tara Resting Inside 경비Versus Chapter실 01
+3949	*Tara Resting Inside 책상 01
+3950	*Tara Resting Inside 책상 02
+3951	*Tara Resting Inside 술병 01
+3952	*Tara Resting Inside 원형Table 01
+3953	*Tara Resting Inside 재료Warehouse 01
+3954	*Tara Resting Inside 홍차 01
+3955	*Tara Resting Inside Light 02
+3956	*Tara Resting Inside 귀족Room 01(Wall E)
+3957	*Tara Resting Inside 귀족Room 02(Wall E)
+3958	*Tara Resting Inside 귀족Room 01(Wall N)
+3959	*Tara Resting Inside 귀족Room 02(Wall N)
+3960	*Tara Resting Inside 귀족Room 01(Wall S)
+3961	*Tara Resting Inside 귀족Room 02(Wall S)
+3962	*Tara Resting Inside 귀족Room 01(Wall W)
+3963	*Tara Resting Inside 귀족Room 02(Wall W)
+3964	*Tara Resting Inside 귀족Room 01(CeilingC)
+3965	*Tara Resting Inside 귀족Room 02(CeilingC)
+3966	*Tara Resting Inside long Expression 탁 02
+3967	*Tara Resting Inside 귀족Room 01(Prop 01)
+3968	*Tara Resting Inside 귀족Room 02(Prop 02)
+3969	*Provisional Camp 01(Zombie Attack Event)
+3970	*Fence 01(Zombie Attack Event)
+3971	*Tent 01(Zombie Attack Event)
+3972	*Tara Resting 10
+3973	*Tara Knife리Time 01
+3974	*Tara Resting 우로보로스 01
+3975	*Tara Resting 우로보로스 02
+3976	*Tara Resting 우로보로스 01
+3977	*Tara Resting Inside 도서관 08(촛Versus )
+3978	*컷신 Prop 우로보로스 01
+3979	*Tara Resting Inside 도서관 09(사Bridge)
+3980	*Flag 01(Zombie Attack Event)
+3981	*Tara Resting Inside longChair 01
+3982	*Tara Resting Login 그레이트Hall 02
+3983	*Tara Resting 시즌처리 철창 01
+3984	Guild Stone
+3985	*Tara Resting 2 PropertyGarden Bench 02
+3986	*마쯔리 해머to임 Prop (Tara)
+3987	*마쯔리 다트to임 Prop (Tara)
+3988	*마쯔리Event 야타이01(Tara)
+3989	*마쯔리Event 야타이02(Tara)
+3990	<mini>ORE</mini> Wood
+3991	*모탕
+3992	*Tara Resting 2 PropertyGarden 01
+3993	*Tara Resting 2 PropertyGarden 02
+3994	*Tara Resting 2 PropertyGardenNumber 03
+3995	*Tara Resting 2 PropertyGardenNumber 04
+3996	*Tara Resting 2 PropertyGardenNumber 05
+3997	*Tara Resting 2 PropertyGardenNumber 06
+3998	Moon Gate For Handling Seasons
+3999	<mini>TOOL</mini> Carpentry Workbench
+4000	*Tara Resting Dungeon Number로Entrance 01
+4001	*Tara Resting Dungeon Number로Entrance 01(Wall W)
+4002	*Tara Resting Dungeon Boss Room 01
+4003	
+4004	
+4005	
+4006	
+4007	
+4008	*Tara Resting Inside 피아Furnace 01
+4009	*Tara Resting Inside 인포데스크 01
+4010	*Tara Resting Dungeon Number로Entrance 난간 01
+4011	*Tara Resting Inside long Expression 탁 02 파티 
+4012	*Tara Resting Dungeon Door Stone 01
+4013	*Tara Resting Dungeon 포탈옷Chapter 01
+4014	*Tara Resting Inside 원형Table 01 파티 
+4015	Altar
+4016	Closet
+4017	*Tara Resting Dungeon Number로Entrance Stairs 01
+4018	*Tara Resting Dungeon 1F to B1enter Alpha Door
+4019	Wood Bottom
+4020	*Tara Resting Dungeon 철창 01
+4021	*Tara Resting Dungeon 철창 02
+4022	*탈틴 클라우솔라스 Fish Castle Chapter치(컷신 )
+4023	*Tara Resting 지하Number로 옷Chapter 02
+4024	Chopping Block
+4025	Underground Waterway
+4026	*Tara Resting Dungeon Boss RoomEntrance 01
+4027	*Tara Resting Inside 파티 Versus Anger 알림판 01
+4028	*Tara Resting 지하Number로 Property
+4029	*Tara Resting Dungeon Boss RoomEntranceStairs 01
+4030	*팔리아스 Entrance/to이트
+4031	Earring Snowman
+4032	*팔리아스 Entrance/to이트 01
+4033	*Tara 법황청 Inside Floor 01
+4034	*Tara 법황청 Inside Wall E 01
+4035	Ski Jump Platform
+4036	*팔리아스 Entrance/to이트 02
+4037	*팔리아스 Entrance/to이트 03
+4038	*팔리아스 Entrance/to이트 04
+4039	*팔리아스 Entrance/to이트 05
+4040	*팔리아스 Boss 01
+4041	*Tara Resting 토피어리 손질전
+4042	*Tara Resting 토피어리 1Only계 망침
+4043	*Tara Resting 토피어리 1Only계
+4044	*Tara Resting 토피어리 2Only계
+4045	*Tara Resting 토피어리 3Only계
+4046	*Tara Resting 토피어리 4Only계
+4047	*Tara Resting 토피어리 5Only계
+4048	*팔리아스 MinuteNumberVersus 01
+4049	*팔리아스 Plaza 지형
+4050	*팔리아스 Boss전Stage
+4051	Ski Jump Platform Stairs
+4052	*팔리아스 Plaza 암Three 01
+4053	Ski Jump Platform Tent
+4054	*Tara 법황청 Inside Wall E 02
+4055	*Tara 법황청 Inside Wall W 01
+4056	*Tara 법황청 Inside Wall W 02
+4057	*Tara 법황청 Inside Wall N 01
+4058	*Tara 법황청 Inside Wall S 01
+4059	*Tara 법황청 Inside FrontDoor 01
+4060	*Tara 법황청 Inside 뒷Door 02
+4061	*Tara 법황청 Inside HallEntrance 01
+4062	*Tara 법황청 Inside Only상 01
+4063	*Tara 법황청 Inside Roof 01
+4064	*Tara 법황청 Inside Roof 02
+4065	Ski Jump Platform Reverse
+4066	Ski Jump Platform Stairs Reverse
+4067	*Tara 법황청 Inside Only상 02
+4068	*Tara 법황청 Inside Arch HallEntrance 01
+4069	*Tara 법황청 Inside Water Only상
+4070	*Tara Resting 토피어리
+4071	*Tara 법황청 Inside Water 스탠딩촛Versus 
+4072	*팔리아스 Plaza MinuteNumberVersus 01
+4073	*팔리아스 Plaza MinuteNumberVersus 02
+4074	Tower Cylinder Base
+4075	*팔리아스 Alpha Door 01
+4076	*팔리아스 구름이펙트 01
+4077	Tower Cylinder Base Giant
+4078	*팔리아스 Plaza 02
+4079	*Tara 법황청 Inside Water 기부함
+4080	*Tara 법황청 Inside Water to Commercial
+4081	*Tara 법황청 Inside Water 고해S
+4082	Ski Jump Arrival Flag
+4083	*Tara 법황청 Inside Water FlowerFlowerpot
+4084	*Tara 법황청 Inside Alpha Door 01
+4085	*팔리아스 Plaza Column 01
+4086	*팔리아스 Plaza Column 02
+4087	*팔리아스 포탈 01
+4088	*팔리아스 Plaza Column 01
+4089	*Tara 법황청 Inside Chapter Expression Arch 01
+4090	*Tara Bank to Commercial 01
+4091	*Tara 법황청 Inside 샹들리에 01
+4092	*팔리아스 Plaza 02
+4093	*Tara 법황청 Inside Water 기부함
+4094	*Tara 법황청 Inside Water to Commercial
+4095	*Tara 법황청 Inside Water 고해S
+4096	스키 점프 도착 Flags
+4097	*Tara 법황청 Inside Water FlowerFlowerpot
+4098	*Tara 법황청 Inside Alpha Door 01
+4099	*팔리아스 Plaza Column 01
+4100	*팔리아스 Plaza Column 02
+4101	*팔리아스 포탈 01
+4102	*팔리아스 Plaza Column 01
+4103	*Tara 법황청 Inside Chapter Expression Arch 01
+4104	*Tara Bank to Commercial 01
+4105	*Tara 법황청 Inside 샹들리에 01
+4106	*팔리아스 Plaza 지형2
+4107	*타워실린더 컷신 
+4108	*타워실린더 컷신 01
+4109	*팔리아스 신들 보Water 
+4110	*타워실린더 컷신 02
+4111	*타워실린더 컷신 03
+4112	*타워실린더 컷신 04
+4113	*타워실린더 컷신 05
+4114	*타워실린더 컷신 06
+4115	*팔리아스 Plaza 지형3
+4116	*팔리아스 Plaza MinuteNumberVersus Column 01
+4117	네코 정월 STreeChapter Expression 
+4118	네코 정월 Light 01
+4119	네코 정월 Light 02
+4120	네코 정월 Light 03
+4121	*팔리아스 Plaza Column 02
+4122	*팔리아스 Plaza Column 03
+4123	*팔리아스 Plaza Column 04
+4124	*팔리아스 Plaza Column 05
+4125	*팔리아스 Plaza Column 06
+4126	*팔리아스 Plaza Cliff 01
+4127	*팔리아스 이펙트 AlphaProp 
+4128	*팔리아스 Stone헨지1
+4129	*팔리아스 Stone헨지2
+4130	*팔리아스 Plaza Puzzle State 있는것
+4131	*팔리아스 Entrance/to이트 06(PropertyBox)
+4132	*팔리아스 Plaza 02 Floor
+4133	*팔리아스 Plaza Column 07
+4134	*팔리아스 Plaza Cliff 02
+4135	*팔리아스 Entrance/to이트 07(PropertyBox)
+4136	*팔리아스 Plaza 지형4(AlphaProp )
+4137	*팔리아스 결계이펙트
+4138	*팔리아스 Boss전Stage Cutscene 
+4139	*Tara 법황청 Inside 고해SIndoors
+4140	*Tara 법황청 Inside 고해SIndoors Door
+4141	*팔리아스 to이트 결계
+4142	*Tara Resting Inside Fish 금술사Room 01
+4143	*팔리아스 Boss전Stage Column
+4144	*팔리아스 포탈
+4145	*팔리아스 Seal
+4146	*팔리아스 Seal해My 
+4147	*Tara Resting1 Property Fish 금술사Room 습 Expression Oven
+4148	*Tara Resting1 Property Fish 금술사Room Expression Oven
+4149	*Tara Resting1 Property Fish 금술사Room 클라우솔라스 Fish Castle Chapter치
+4150	*Tara Fish 금술사Room 타워실린더
+4151	*Tara 법황청 Inside 고해SIndoors LeftRoom
+4152	*팔리아스 Boss Stage Column 01
+4153	*팔리아스 Boss Stage Column 02
+4154	*팔리아스 Boss Stage Column 03
+4155	*Tara Resting Inside 충Stone Box있는AlphaProp 
+4156	*팔리아스 Login스테이 Plaza
+4157	*Tara Resting1 Property Fish 금술사Room 닫혀진 RoomDoor
+4158	*팔리아스 Stone헨지1 1
+4159	*팔리아스 Stone헨지1 2
+4160	Jousting Arena Tara Invisible Door 01
+4161	*Carpentry Workbench Roof
+4162	*Tara Awning 01
+4163	*Tara Jousting Tournament Flag 01
+4164	*Tara Jousting Tournament Flag 02
+4165	*Tara Jousting Tournament Flag 03
+4166	*Tara Jousting Tournament Flag 04
+4167	*Tara Jousting Tournament Curtain 01
+4168	*Tara Awning 02
+4169	*Tara Awning 03
+4170	*Tara Town Flag 01
+4171	*Tara Town Sign 01
+4172	*Dunbarton Studio Rabbie Dungeon Weapon 01
+4173	*Dunbarton Studio Rabbie Dungeon Weapon 02
+4174	*Dunbarton Studio Rabbie Dungeon Weapon 03
+4175	*Tara Town Sign 02
+4176	*Tara Town Marketplace Magic Store Sign
+4177	*Tara Town Marketplace Healer's House
+4178	*Tara Town Marketplace Clothing Store
+4179	*Short Fence Season Handling 01
+4180	*Arrow Sign Side Right Season Handling 01
+4181	Field Tara Invisible Door 01 Season Handling 01
+4182	*Tara Healer's House Inside 01
+4183	*Tara Bell Tower 01
+4184	*Tara Town Marketplace Alchemy Store Sign
+4185	*Tara Town Marketplace General Store Sign
+4186	*Tara Town Marketplace Weapons Store Sign
+4187	*Tara Town Marketplace Auction House Sign
+4188	*Tara Clothing Store Inside 01
+4189	*Tara Bank Inside 01
+4190	Internal Entrance Tara Clothing Store
+4191	Internal Entrance Tara Bank
+4192	External Entrance Tara Clothing Store
+4193	External Entrance Tara Bank
+4194	Jousting Arena Tara Nameless Invisible Door 01
+4195	*Tara Town Marketplace Weapons Store Shield Sign
+4196	*White Test Region 01
+4197	*Tara Town Store Sign Image Sun
+4198	*Tara Town Store Sign Image Cat
+4199	*Tara Jousting Tournament Flag 011
+4200	*Tara Jousting Tournament Flag 012
+4201	*Tara Jousting Tournament Flag 013
+4202	*Tara Jousting Tournament Flag 014
+4203	*Tara Town Sign 03
+4204	*Tara Town Store Sign Image Bell
+4205	*Tara Town Store Sign Image Cow
+4206	*Tara Town Store Sign Image Cross
+4207	*Tara Town Store Sign Image Deer
+4208	*Tara Town Store Sign Image Wooden Horse
+4209	*Tara Town Store Sign Image Wing
+4210	*Tara Jousting Tournament Flag 021
+4211	*Tara Jousting Tournament Flag 022
+4212	*Tara Jousting Tournament Flag 023
+4213	*Tara Jousting Tournament Flag 024
+4214	*Tara Jousting Tournament Flag 025
+4215	*Tara Jousting Tournament Flag 026
+4216	*Tara Jousting Tournament Flag 027
+4217	*Tara Jousting Tournament Flag 028
+4218	*Tara Jousting Tournament Flag 029
+4219	*Tara Jousting Tournament Flag 0210
+4220	*Tara Jousting Tournament Flag 0211
+4221	*Tara Jousting Tournament Flag 031
+4222	*Tara Jousting Tournament Flag 032
+4223	*Tara Jousting Tournament Flag 033
+4224	*Tara Jousting Tournament Flag 034
+4225	*Tara Jousting Tournament Flag 041
+4226	*Tara Jousting Tournament Flag 042
+4227	*Tara Jousting Tournament Flag 043
+4228	*Tara Jousting Tournament Flag 044
+4229	*Tara Jousting Tournament Flag 045
+4230	*Tara Jousting Tournament Flag 046
+4231	*Tara Alchemist House Inside 01
+4232	*Tara Gallery 01
+4233	*Tara Bookstore 01
+4234	*Tara General Store Inside 01
+4235	*Tara Storeping Area Flags
+4236	*Tara Gallery 02
+4237	*Tara Gallery 03
+4238	*Tara Flower Bush 06
+4239	*Tara Gallery 04
+4240	*Tara Gallery 05
+4241	*Tara Gallery 06
+4242	*Tara Anger Room 07
+4243	*S원Tree 03
+4244	*Tara BookstoreStreet Lamp 01
+4245	*Tara 와인샵 01
+4246	*Tara 와인샵 Prop 01
+4247	*Tara 와인샵 Prop 02
+4248	*Tara 와인샵 Prop 03
+4249	*Tara 와인Street Lamp 01
+4250	*Tara 와인샵 02
+4251	*Tara 와인샵 03
+4252	*Tara 와인샵 04
+4253	*Tara 와인샵 05
+4254	*Tara 와인샵 06
+4255	*Tara 와인샵 07
+4256	*Tara 와인샵 08
+4257	*Tara 와인샵 Prop 04
+4258	*Tara 와인샵 Prop 05
+4259	*Tara 와인샵 Prop 06
+4260	*Tara 마법 품점 Inside 01
+4261	*Tara Weapon Prop Inside 01
+4262	Shadow Realm Entrance
+4263	Do you wish to enter the Shadow Realm?
+4264	Confessional
+4265	Entering the Confessional.
+4266	Falias Portal
+4267	Use Falias Portal.
+4268	Leaving the Confessional.
+4269	*Event 풍선부활 풍선 01
+4270	*아본 Sea Water 01
+4271	*아본 Dungeon Fish 극무Versus 01
+4272	*아본 비극 Island Flower01
+4273	*아본 비극 Island Flower02
+4274	*아본 Dungeon Anger 톳Fire 01
+4275	*아본 Dungeon Fish 극무Versus Castle Wall 01
+4276	*아본 Dungeon Fish 극무Versus Castle Wall 02
+4277	*아이템 강Anger Prop 01
+4278	*아본 Dungeon 횃Fire 01
+4279	*아본 Dungeon Fish 극무Versus Floor01
+4280	*전직 Prop 01
+4281	*아본 Dungeon 안개 01
+4282	*아본 세익스피어 극Chapter01
+4283	*아본 세익스피어 희극 House 01
+4284	*아본 세익스피어 희극 House Garden 길01
+4285	*아본 세익스피어 희극 House Garden 펜스01
+4286	*아본 희극 Island Flower01
+4287	*아본 M앙Plaza01
+4288	*아본 Dungeon 관01
+4289	*아본 Dungeon BossChair
+4290	*아본 희극 Island Tree 01
+4291	*아본 희극 Island Tree 02
+4292	*아본 Entrance Arch 01
+4293	*아본 비극 Island Tree 01
+4294	*아본 비극 Island Tree 02
+4295	*아본 Dungeon Fish 극무Versus Castle 01
+4296	*아본 Dungeon Rough울01
+4297	*Kiosk
+4298	*아본 Dungeon Fish 극무Versus 02
+4299	*아본 Dungeon 궁전 Indoors 01
+4300	*아본 Dungeon 국경지Versus 01
+4301	*아본 Dungeon Fish 극무Versus 03
+4302	*아본 Dungeon 궁전 Hall 01
+4303	*아본 Dungeon Fish 극무Versus 04
+4304	*아본 Dungeon 폴로니어스 Room 01
+4305	*아본 Dungeon 궁전 Room 01
+4306	*아본 Dungeon 해적선 01
+4307	*아본 Dungeon 궁전 접견실 01
+4308	*아본 Dungeon Fish 극무Versus 05
+4309	*아본 Dungeon 왕비침실 01
+4310	*아본 Dungeon Fish 극무Versus 06
+4311	*아본 Dungeon 묘지 01
+4312	*아본 Dungeon Boss Room01
+4313	*아본 Dungeon Boss Room Stage 01
+4314	*아본 Dungeon Wall 면촛Versus 
+4315	*아본 비극 Island Tree 03
+4316	*아본 비극 Island Tree 04
+4317	*아본 비극 Island Tree 05
+4318	*아본 희극 Island Flower잎01
+4319	*아본 비극 Island Flower잎01
+4320	*펼쳐진 월드컵 개인Store 세트
+4321	*아본 Dungeon 국경지Versus 02
+4322	*아본 Dungeon Fish 극무Versus 07
+4323	*무기 강Anger Prop 01
+4324	*무기 강Anger Prop 02 바리에이션
+4325	*무기 강Anger Prop 03 바리에이션
+4326	*아본 햄릿 검
+4327	*아본 Dungeon 샹들리에 01
+4328	*아본 햄릿 해골
+4329	*아본 햄릿 검 01
+4330	*아본 햄릿 해골 01
+4331	*아본 Dungeon Fish 극무Versus 08
+4332	*아본 햄릿 검 02
+4333	<mini>CRYSTAL</mini> Mysterious Ore
+4334	*아본 Dungeon 국경지Versus 01 낮
+4335	*아본 무Versus Camera Alpha Prop 
+4336	*아본 Dungeon 국경지Versus 01 미션 
+4337	*아본 Dungeon Fish 극무Versus 09
+4338	*아본 Dungeon 해적선 01 낮
+4339	*아본 Dungeon 국경지Versus 01 낮 미션 
+4340	*아본 희극 Island Tree 03
+4341	*아본 희극 Island Tree 04
+4342	*아본 희극 Island Flower02
+4343	*무기 강Anger Sign 01
+4344	*아본 Versus 본 01
+4345	*아본 Versus 본 02
+4346	*아본 Dungeon 샹들리에 02
+4347	*아본 Dungeon 궁전 Hall 01 미션 
+4348	*아본 Dungeon Barricade 01
+4349	*아본 희극 Island Tree 04
+4350	*아본 극Chapter Alpha Door 01
+4351	*아본 술잔 컷신 세로
+4352	*아본 술잔 컷신 Rectangle 
+4353	*아본 레어티스 검 컷신 
+4354	*아본 햄릿 검 컷신 
+4355	*아본 비Three 01
+4356	*아본 앵무Bird 둥지 01
+4357	*아본 Dungeon 궁전 접견실 01 미션 
+4358	*아본 Entrance Arch 02
+4359	*아본 Entrance Arch 03
+4360	*아본 Dungeon 궁전 Room 01 미션 
+4361	*아본 세익스피어 비극 House 01
+4362	*아본 세익스피어 비극 House Garden 길01
+4363	*아본 Dungeon 해적선 01 미션 
+4364	*아본 세익스피어 비극 House 01
+4365	*아본 세익스피어 비극 House Garden 길01
+4366	*아본 Dungeon 해적선 01 미션 
+4367	*아본 까마귀 Tree
+4368	Enhancement Anvil
+4369	Enhancement Anvil
+4370	Enhancement Anvil
+4371	*아본 희극 파빌리온01(Wall )
+4372	*아본 희극 파빌리온02(Roof)
+4373	*아본 비극 파빌리온01(Wall )
+4374	*아본 비극 파빌리온02(Roof)
+4375	*아본 희극 파빌리온03(Floor)
+4376	*아본 비극 파빌리온03(Floor)
+4377	*아본 Dungeon Reward Chest 01
+4378	*무기 강Anger Sign 02
+4379	*아본 Dungeon 국경지Versus 01 무Versus Floor 미션 
+4380	*아본 Dungeon 국경지Versus 01 무Versus Wall 미션 
+4381	*아본 Dungeon 국경지Versus 01 낮 무Versus Floor 미션 
+4382	*아본 Dungeon 국경지Versus 01 낮 무Versus Wall 미션 
+4383	*아본 Dungeon 궁전 Hall 01 무Versus Floor 미션 
+4384	*무기 강Anger Sign 03
+4385	*아본 Dungeon 궁전 Hall 01 무Versus Wall 미션 
+4386	*아본 Dungeon 궁전 Hall 01 Column 미션 
+4387	*아본 Dungeon 궁전 Hall 01 Fish 극무Versus 미션 
+4388	*아본 Dungeon 궁전 Hall 01 Column02 미션 
+4389	*아본 Dungeon 국경지Versus 01 무Versus Column 미션 
+4390	*아본 Dungeon 국경지Versus 01 Tree 01 미션 
+4391	*아본 Dungeon 국경지Versus 01 Tree 02 미션 
+4392	*아본 Dungeon 국경지Versus 01 Tree 03 미션 
+4393	*아본 Dungeon 국경지Versus 01 Tree 04 미션 
+4394	*아본 Dungeon 국경지Versus 01 Tree 05 미션 
+4395	*아본 Dungeon 국경지Versus 01 Tree 06 미션 
+4396	*아본 Dungeon 국경지Versus 01 Tree 07 미션 
+4397	*아본 Dungeon 국경지Versus 01 Flags 미션 
+4398	*아본 Sea Water 02
+4399	*아본 Sea Water 03
+4400	*아본 Dungeon 궁전 Hall 01 무Versus Column 미션 
+4401	*아본 Dungeon 궁전 Hall 01 Column03 미션 
+4402	*아본 Dungeon 궁전 Hall 01 Column04 미션 
+4403	*아본 Dungeon 궁전 Hall 01 Column05 미션 
+4404	*아본 Dungeon 궁전 Hall 01 Column06 미션 
+4405	*아본 Dungeon 궁전 Hall 01 Column07 미션 
+4406	*아본 희극 Number몰된 House 01
+4407	*아본 희극 Number몰된 House 02
+4408	*아본 희극 Number몰된 House 03
+4409	*아본 비극 Number몰된 House 01
+4410	*아본 비극 Number몰된 House 02
+4411	*아본 비극 Number몰된 House 03
+4412	*아본 Dungeon 궁전 접견실 01 무Versus Floor 미션 
+4413	*아본 Dungeon 궁전 접견실 01 무Versus Column 미션 
+4414	*아본 Dungeon 궁전 접견실 01 무Versus Wall 미션 
+4415	*아본 Dungeon 궁전 접견실 01 Prop 01 미션 
+4416	*아본 Dungeon 궁전 접견실 01 Prop 02 미션 
+4417	*아본 Dungeon 궁전 Room 01 무Versus Floor 미션 
+4418	*아본 Dungeon 궁전 Room 01 무Versus Column 미션 
+4419	*아본 Dungeon 궁전 Room 01 무Versus Wall 미션 
+4420	*아본 Dungeon 궁전 Room 01 Prop 01 미션 
+4421	*아본 Dungeon 궁전 Room 01 Prop 02 미션 
+4422	*아본 Dungeon 국경지Versus 01 낮 무Versus Column 미션 
+4423	*아본 Dungeon 국경지Versus 01 낮 Tree 01 미션 
+4424	*아본 Dungeon 국경지Versus 01 낮 Tree 02 미션 
+4425	*아본 Dungeon 국경지Versus 01 낮 Tree 03 미션 
+4426	*아본 Dungeon 국경지Versus 01 낮 Tree 04 미션 
+4427	*아본 Dungeon 국경지Versus 01 낮 Tree 05 미션 
+4428	*아본 Dungeon 국경지Versus 01 낮 Tree 06 미션 
+4429	*아본 Dungeon 국경지Versus 01 낮 Tree 07 미션 
+4430	*아본 Dungeon 국경지Versus 01 낮 Flags 미션 
+4431	*아본 Dungeon Boss Room01 무Versus Floor
+4432	*아본 Dungeon Boss Room01 무Versus Column
+4433	*아본 Dungeon Boss Room01 무Versus Wall 
+4434	*블리자드 이펙트
+4435	*아본 무지개 AlphaProp 
+4436	*아본 흰구름 AlphaProp 
+4437	*아본 먹구름 AlphaProp 
+4438	*아본 Dungeon Boss Room01 Column02
+4439	*아본 Dungeon Boss Room01 Column03
+4440	*아본 Dungeon Boss Room01 Column04
+4441	*아본 Dungeon Boss Room01 Column05
+4442	*아본 Dungeon Boss Room01 Column06
+4443	*아본 Dungeon Boss Room01 Column07
+4444	*아본 Dungeon Boss Room01 Column08
+4445	*아본 Dungeon Boss Room01 Column09
+4446	*아본 Dungeon 해적선 01 Column01 미션 
+4447	*아본 Dungeon 해적선 01 Column02 미션 
+4448	*아본 Dungeon 해적선 01 Column03 미션 
+4449	*아본 Dungeon 해적선 01 갑판01 미션 
+4450	*아본 Dungeon 해적선 01 갑판02 미션 
+4451	*아본 Dungeon 해적선 01 Prop 01 미션 
+4452	*아본 Dungeon Fish 극무Versus 09 무Versus Column
+4453	*아본 Dungeon Fish 극무Versus 09 무Versus Floor
+4454	*아본 Dungeon 해적선 01 낮 Prop 01
+4455	*아본 Dungeon 해적선 01 낮 Prop 02
+4456	*아본 Dungeon Fish 애편지 01
+4457	*아본 Dungeon Castle Wall 01 Prop 01 미션 
+4458	*아본 Dungeon Castle Wall 01 Prop 02 미션 
+4459	*아본 Dungeon Castle Wall 01 Prop 03 미션 
+4460	*아본 Dungeon Castle Wall 01 무Versus Floor 미션 
+4461	*아본 Dungeon Castle Wall 01 무Versus Column 미션 
+4462	*아본 Dungeon Castle Wall 01 무Versus Wall 미션 
+4463	*아본 Dungeon 묘지 01 무Versus Floor 미션 
+4464	*아본 Dungeon 묘지 01 무Versus Column 미션 
+4465	*아본 Dungeon 묘지 01 무Versus Wall 미션 
+4466	*아본 Dungeon 묘지 01 Tree 01 미션 
+4467	*아본 Dungeon 묘지 01 Tree 02 미션 
+4468	*아본 Dungeon 묘지 01 Tree 03 미션 
+4469	*아본 Dungeon 묘지 01 Tree 04 미션 
+4470	*아본 Dungeon 묘지 01 Tree 05 미션 
+4471	*아본 Dungeon 묘지 01 Prop 01 미션 
+4472	*아본 세익스피어 극Chapter02 Floor
+4473	*아본 세익스피어 극Chapter01 Lobby 
+4474	*아본 세익스피어 극Chapter02 Floor Lobby 
+4475	*아본 M앙Plaza01 Lobby 
+4476	*아본 Dungeon 커텐
+4477	*마법 Water 레
+4478	*Housing Castle Property 퀼린 Rough Gist 
+4479	<mini>ENTER</mini> Cuilin Castle
+4480	*아본 Sea Water 04
+4481	*아본 Sea Water 05
+4482	*아본 Sea Water 06
+4483	*아본 Sea Water 07
+4484	*퀼린 Housing Castle Property Door Stone TB
+4485	Magical Spinning Wheel
+4486	*아본 Water Fish 1
+4487	*아본 Water Fish 2
+4488	*동양 General Store
+4489	*동양 약Room
+4490	*동양 Weapon Prop
+4491	*동양 Street Lamp 01
+4492	*동양 Versus Tree 01
+4493	*동양 to이트
+4494	*아본 Fish 난간 01
+4495	*아본 Fish 난간 02
+4496	*블리자드 이펙트 G
+4497	<mini>TOOL</mini> Magical Spinning Wheel
+4498	*동양 Versus Tree 펜스01
+4499	*동양 Versus Tree 펜스02
+4500	*동양 Versus Tree 펜스03
+4501	*동양 Versus Tree 02
+4502	*동양 Versus Tree 03
+4503	*퍼 Rough스 망치 컷신 
+4504	*아본 유적 01
+4505	Upgrade Anvil
+4506	Upgrade Anvil
+4507	Upgrade Anvil
+4508	*개조 Sign 01
+4509	*개조 Sign 02
+4510	*개조 Sign 03
+4511	Old Ruin
+4512	*Housing Board
+4513	*그림리퍼 컷신 Only상
+4514	*아본 Dungeon 궁전 Hall 02 무Versus Floor 컷신 
+4515	*아본 Dungeon MinuteChapter실
+4516	*태극기Flags 01(8 15Event)
+4517	*Tara Wagon 주차Sign 01
+4518	*Tara Wagon 주차Pile 01
+4519	*Tara Wagon 주차Pile 02
+4520	*태극기Flags 02(8 15Event)
+4521	*아본 Dungeon MinuteChapter실 Ceiling 01
+4522	*아본 Dungeon MinuteChapter실 Ceiling 02
+4523	*아본 Dungeon MinuteChapter실 Wall E
+4524	*아본 Dungeon MinuteChapter실 Wall W
+4525	*아본 Dungeon MinuteChapter실 Wall S
+4526	*아본 Dungeon MinuteChapter실 Wall N
+4527	*아본 Dungeon MinuteChapter실 Prop 01
+4528	*아본 Dungeon MinuteChapter실 Floor 01
+4529	*아본 Dungeon MinuteChapter실 Prop 02
+4530	*아본 Dungeon MinuteChapter실 Prop 03
+4531	*아본 Dungeon MinuteChapter실 샹들리에 01
+4532	*아본 Dungeon MinuteChapter실 Prop 04
+4533	*아본 Dungeon Rough울02 컷신 
+4534	*자르딘 유Water 
+4535	*아본 Dungeon MinuteChapter실 Prop 05
+4536	*2Ne 1 스피커
+4537	*아본 Dungeon MinuteChapter실 Prop 06
+4538	*아본 Dungeon MinuteChapter실 Prop 07
+4539	*사절Only 가판
+4540	*사절Only Wagon
+4541	*사절Only Camp 
+4542	*사절Only 플래카드
+4543	*사절Only Camp 
+4544	*사절Only 선Water Box 01
+4545	*Portable Chair 01
+4546	*Portable Chair 02
+4547	*Portable Chair 03
+4548	*Avon Dungeon CastleWall 01 StageWall Left MissionUse
+4549	*Avon Dungeon CastleWall 01 StageWall Right MissionUse
+4550	*Avon Dungeon CastleWall 01 StageCeiling MissionUse
+4551	*Avon Dungeon BorderArea 01 StageWall Left MissionUse
+4552	*Avon Dungeon BorderArea 01 StageWall Right MissionUse
+4553	*Avon Dungeon BorderArea 01 StageCeiling MissionUse
+4554	*Avon Dungeon StageProp Moon 01
+4555	*Avon G14 CharnelHouse Interior CutSceneUse
+4556	*Avon G14 LongCandlestick 01
+4557	*Avon G14 CharnelHouse Entrance Front MissionUse
+4558	*Avon G14 CharnelHouse Entrance Left MissionUse
+4559	*Avon G14 CharnelHouse Entrance Right MissionUse
+4560	*Avon G14 CharnelHouse Entrance Floor MissionUse
+4561	*Avon G14 CharnelHouse Entrance Ceiling MissionUse
+4562	*Avon G14 CharnelHouse Entrance Prop MissionUse
+4563	*Private Farm Green Herb
+4564	*Avon Dungeon BorderArea 01 Day LeftWall MissionUse
+4565	*Avon Dungeon BorderArea 01 Day RightWall MissionUse
+4566	*Avon Dungeon BorderArea 01 Day Ceiling MissionUse
+4567	*Avon Dungeon Palace Hall 01 LeftWall MissionUse
+4568	*Avon Dungeon Palace Hall 01 RightWall MissionUse
+4569	*Avon Dungeon Palace Hall 01 Ceiling MissionUse
+4570	*Avon Dungeon Graveyard 01 LeftWall MissionUse
+4571	*Avon Dungeon Graveyard 01 RightWall MissionUse
+4572	*Avon Dungeon Graveyard 01 StageCeiling MissionUse
+4573	*Avon G14 Capulet's Garden MissionUse
+4574	*Avon G14 Juliet'sTerrace CutSceneUse
+4575	*Avon G14 Torchlight 01
+4576	*Avon G14 TownSquare CutSceneUse Day
+4577	*Avon G14 TownSquare CutSceneUse Night
+4578	*Avon G14 Stage CutSceneUse Night
+4579	*Avon G14 Juliet'sTerrace Floor
+4580	*Avon G14 Torchlight 01
+4581	*Avon G14 TownSquareBuilding1 MissionUse Day
+4582	*Avon G14 TownSquareBuilding2 MissionUse Day
+4583	*Avon G14 TownSquareBuilding3 MissionUse Day
+4584	*Avon G14 TownSquareBuilding4 MissionUse Day
+4585	*Avon G14 TownSquareBuilding5 MissionUse Day
+4586	*Avon G14 TownSquareBuilding6 MissionUse Day
+4587	*Avon G14 TownSquareBuilding7 MissionUse Day
+4588	*Avon G14 TownSquareProp1 MissionUse Day
+4589	*Avon G14 TownSquareProp2 MissionUse Day
+4590	*Avon G14 TownSquareProp3 MissionUse Day
+4591	*Avon G14 TownSquareProp4 MissionUse Day
+4592	*Avon G14 TownSquareProp5 MissionUse Day
+4593	*Avon G14 TownSquareProp6 MissionUse Day
+4594	*Avon G14 Ballroom CutSceneUse
+4595	*Avon G14 TownSquareStage CutSceneUse Day
+4596	*Avon G14 Apothecary Of Mantua CutSceneUse
+4597	*Avon G14 TownSquareFloor
+4598	*Avon G14 Capulet's CutSceneUse
+4599	*Avon G14 TownSquareStairs MissionUse Day
+4600	*Avon G14 TownSquareStage Day
+4601	*Avon G14 TownSquareFloor Night
+4602	*Avon G14 CharnelHouse Interior Front MissionUse
+4603	*Avon G14 CharnelHouse Interior LeftWall MissionUse
+4604	*Avon G14 CharnelHouse Interior RightWall MissionUse
+4605	*Avon G14 CharnelHouse Interior Floor MissionUse
+4606	*Avon G14 CharnelHouse Interior Ceiling MissionUse
+4607	*Avon G14 CharnelHouse Interior Pillar MissionUse
+4608	*Avon G14 Ballroom FrontWall MissionUse
+4609	*Avon G14 Ballroom Stairs MissionUse
+4610	*Avon G14 Ballroom Pillar Right MissionUse
+4611	*Avon G14 Ballroom Pillar Left MissionUse
+4612	*Avon G14 Ballroom Floor MissionUse
+4613	*Avon G14 Boss Room Floor MissionUse
+4614	*Avon G14 Boss Room Prop Front
+4615	*Avon G14 Boss Room Prop Left
+4616	*Avon G14 Boss Room Prop Right
+4617	*Avon G14 TownSquareBuilding8 MissionUse Day
+4618	*Farm level01 Camp 01
+4619	*Farm level01 Camp 02
+4620	*Farm level02 House 01
+4621	*Farm level02 House 02
+4622	*Farm level01 Camp 01
+4623	*Farm level01 Camp 02
+4624	*Farm level02 House Basic Style 01
+4625	*Farm level02 House Basic Style 02
+4626	*Farm level02 House CityStyle 01
+4627	*Farm level02 House FarmType 01
+4628	*Farm level02 House ConnousType 01
+4629	*Farm level02 House PhysisType 01
+4630	*Farm Tree PrairieUse 01
+4631	*Farm Tree PrairieUse 02
+4632	*Farm Tree PrairieUse 03
+4633	*Farm Tree Desert 01
+4634	*Farm Tree Desert 02
+4635	*Farm Grass PrairieUse 01
+4636	*Farm Grass PrairieUse 02
+4637	*Farm Grass DesertUse 01
+4638	*Farm Grass DesertUse 01
+4639	*Farm Tree Snowfield 01
+4640	*Farm Tree Snowfield 02
+4641	*Farm Well FarmType 01
+4642	*Farm Well CityStyle 01
+4643	*Farm Well ConnousType 01
+4644	*Farm ChoppingBlockStyle 01
+4645	*Farm SpinningWheel 01
+4646	*Farm Loom 01
+4647	*Farm Furnace 01
+4648	*Farm Anvil 01
+4649	*Farm Fence 01 1
+4650	*Farm Fence 01 2
+4651	*Farm Fence 03 1 ConnousStyle
+4652	*Farm Fence 02 1
+4653	*Farm Fence 02 2
+4654	*Farm Fence 04 1 PhysisStyle
+4655	*Farm Fence 04 2 PhysisStyle
+4656	*Farm Fence 03 2 ConnousStyle
+4657	*Farm Field FarmType 01
+4658	*Farm Field Connous 01
+4659	*Farm Field Snowfield 01
+4660	*Farm Wagon 01
+4661	*Farm Wagon 02
+4662	*Farm Shovel 01
+4663	*Farm Rake 01
+4664	*Farm Snowfield WaterBucket 01
+4665	*Farm WoodenBarrel 01
+4666	*Farm WoodenBox 01
+4667	*Farm Flower 01
+4668	*Farm Flower 02
+4669	*Farm Flower 03
+4670	*Farm AppleTree 01
+4671	*Farm AppleTree 02 Physis
+4672	*Farm SnowfieldUse WoodenBox 01
+4673	*Farm Well PhysisType 01
+4674	*Avon G14 Church CutSceneUse
+4675	*Avon G14 Church Friar'sRoom CutSceneUse
+4676	*Farm Cabbage 01
+4677	*Farm Strawberry 01
+4678	*Farm Tomato 01
+4679	*Farm Eggplant 01
+4680	*Farm Pumpkin 01
+4681	*Avon G14 Church Wedding CutSceneUse
+4682	*Farm SpinningWheel 01
+4683	*Farm Cabbage 01
+4684	*Farm Strawberry 01
+4685	*Farm Tomato 01
+4686	*Farm Eggplant 01
+4687	*Farm Pumpkin 01
+4688	*Farm Ground GrassType 16x16 01
+4689	*Farm Ground GrassType 24x24 01
+4690	*Farm Ground GrassType 32x32 01
+4691	*Avon Dungeon Boss Room01 StageWall Left
+4692	*Avon Dungeon Boss Room01 StageWall Right
+4693	*Avon Dungeon Boss Room01 StageCeiling
+4694	*Avon G14 WayToChurch Tree 1 MissionUse
+4695	*Avon G14 WayToChurch Tree2 MissionUse
+4696	*Avon G14 WayToChurch Floor MissionUse
+4697	*Farm Ground Connous GrassType 16x16 01
+4698	*Farm Ground Connous GrassType 24x24 01
+4699	*Farm Ground Connous GrassType 32x32 01
+4700	*Avon G14 Juliet'sRoom 01 CutSceneUse
+4701	<mini>Farm Stone</mini> Farm Stone
+4702	*Farm Ground GrassType 8x8 01
+4703	*Farm Ground Connous GrassType 8x8 01
+4704	*Farm Ground Physis GrassType 8x8 01
+4705	*Farm Ground Physis GrassType 16x16 01
+4706	*Farm Ground Physis GrassType 24x24 01
+4707	*Farm Ground Physis GrassType 32x32 01
+4708	*Avon G14 Juliet'sRoom 01 CutSceneUse
+4709	<mini>Farm Stone</mini> Farm Stone
+4710	*Farm Ground GrassType 8x8 01
+4711	*Farm Ground Connous GrassType 8x8 01
+4712	*Farm Ground Physis GrassType 8x8 01
+4713	*Farm Ground Physis GrassType 16x16 01
+4714	*Farm Ground Physis GrassType 24x24 01
+4715	*Farm Ground Physis GrassType 32x32 01
+4716	*Farm level03 House CityStyle 01
+4717	*Farm level03 House ConnousType 01
+4718	Well
+4719	Desert Well
+4720	Chopping Block
+4721	Spinning Wheel
+4722	Loom
+4723	Furnace
+4724	Anvil
+4725	Snowfield Well
+4726	Homestead Stone
+4727	Homestead Entrance
+4728	*Farm level03 House PhysisType 01
+4729	*Avon G14 Stage LogInUse Night
+4730	*Avon G14 Terrace LogInUse Night
+4731	*Avon G14 Terrace LogInUse EffectInvisProp
+4732	*Avon G14 Capulet's GardenBuilding MissionUse
+4733	*Avon G14 Capulet's GardenTree 1 MissionUse
+4734	*Avon G14 Capulet's GardenTree2 MissionUse
+4735	*Avon G14 Capulet's GardenTree3 MissionUse
+4736	*Avon G14 Capulet's GardenWall 1 MissionUse
+4737	*Avon G14 Capulet's GardenWall 2 MissionUse
+4738	*Avon G14 Dungeon Chandelier 01
+4739	*Avon G14 Capulet'sGardenBuilding MissionUse
+4740	*Avon G14 Capulet'sGardenTree 1 MissionUse
+4741	*Avon G14 Capulet'sGardenTree2 MissionUse
+4742	*Avon G14 Capulet'sGardenTree3 MissionUse
+4743	*Avon G14 Capulet'sGardenWall 1 MissionUse
+4744	*Avon G14 Capulet'sGardenWall 2 MissionUse
+4745	*Avon G14 Capulet'sGardenStageCeiling MissionUse
+4746	*Avon G14 WayToChurch StageFloor MissionUse
+4747	*Avon G14 Juliet'sRoomNight 02 CutSceneUse
+4748	*Avon G14 Stage Barricade 01
+4749	*Homestead Red Herb
+4750	*Homestead Blue Herb
+4751	*Homestead Yellow Herb
+4752	*Homestead Gold Herb
+4753	정월 Light 01
+4754	정월 Light 02
+4755	정월 Light 03
+4756	정월 STreeChapter Expression 01
+4757	정월 Light 04
+4758	정월 Light 05
+4759	정월 Light 01
+4760	정월 Light 02
+4761	정월 Light 03
+4762	정월 STreeChapter Expression 
+4763	정월 Light 04
+4764	정월 Light 05
+4765	Red Herb
+4766	Blue Herb
+4767	Yellow Herb
+4768	Gold Herb
+4769	Green Herb
+4770	*Avon Dungeon DressingRoom 01 CutSceneUse
+4771	*Avon Dungeon DressingRoom Prop 01 CutSceneUse
+4772	*Avon Dungeon DressingRoom Prop 02 CutSceneUse
+4773	*Avon Dungeon DressingRoom Prop 03 CutSceneUse
+4774	*Avon Dungeon DressingRoom Prop 04 CutSceneUse
+4775	*Avon Dungeon DressingRoom Prop 05 CutSceneUse
+4776	*Avon Dungeon DressingRoom Prop 06 CutSceneUse
+4777	*Avon Dungeon DressingRoom Prop 07 CutSceneUse
+4778	*Avon Dungeon Stage 01 CutSceneUse
+4779	Mantua Poison Herb
+4780	Mysterious Herb
+4781	*Farm Physis Ice Fishing 01
+4782	*Farm Swamp 01
+4783	*Farm Connous Swamp 01
+4784	*Farm Kettle 01
+4785	*Farm Trash Can
+4786	*Farm Trash Can City
+4787	*Farm Trash Can Physis
+4788	*Farm Moon 01
+4789	Wild Honey
+4790	*Farm Quarry Rock 01
+4791	*Farm Quarry Rock 02
+4792	*Farm Basic Street Light
+4793	*Farm Farm Street Light
+4794	*Farm City Street Light
+4795	*Farm Connous Street Light
+4796	*Farm Physis Street Light
+4797	*Farm Snowman 01
+4798	Ice Fishing Hole
+4799	Prairie Swamp
+4800	Desert Swamp
+4801	Paint Mixing Kettle
+4802	Prairie Trash Can
+4803	City Trash Can
+4804	Snowfield Trash Can
+4805	Ladeca
+4806	Low Cuilin Rock
+4807	Round Cuilin Rock
+4808	Street Light (Basic )
+4809	Street Light (Farm)
+4810	Street Light (City)
+4811	Street Light (Desert)
+4812	Street Light (Snowfield)
+4813	Snowman
+4814	*Farm Invisible Door 01
+4815	*Farm Invisible Door 02
+4816	*Farm Ladder 01
+4817	*OXQuiz Floor
+4818	*OXQuiz Sign1
+4819	*OXQuiz Sign2
+4820	*OXQuiz Fence 1
+4821	*OXQuiz Fence2
+4822	*아본 고르반이야기 잉크우Water Cutscene 
+4823	*아본 고르반이야기 House필책상 Cutscene 
+4832	*S울스트림 Stage 01 컷신 
+4833	*Sign Section 블랙스미스시즌 
+4834	*휴Versus 자이언트Chair 01
+4835	*휴Versus 자이언트Chair 02
+4836	*휴Versus 자이언트Chair 03

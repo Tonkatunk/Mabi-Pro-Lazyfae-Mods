@@ -1,0 +1,1015 @@
+﻿<?xml version="1.0" encoding="utf-16" standalone="yes"?>
+<!--Edited by Lazyfae-->
+<debug_effect3 version="7" classname="EffectGroup[7]" name="particles2">
+	<!-- 나오등장 샤방 (옛날꺼) -->
+	<nao_appear_ring classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="100 100 100">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="0" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionOuterRangeController>
+		<EffectType classname="CDiskType[7]" partition="1" pivot="0.5 0">
+			<Texture texture="common_effect_alpha" tas_classname="tas_grid[7]" x="1" y="0" column="2" row="4" />
+			<Life classname="CLifeController[7]" variance="1" min="0.1" max="0.6">0 5000</Life>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360</Angle>
+			<Size classname="CSizeController[7]" variance="0" min="0" max="1">0 200 100 300 1000 600 5000 1200</Size>
+			<Spin classname="CSpinController[7]" variance="1" min="0" max="1">0 500 800 300 1000 120 2000 0</Spin>
+			<Color classname="CColorController[7]" variance="0">0.000000 FFeeefef 3000 40e0efef 4000 00fffffF</Color>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 0 1.0 0</SpinOverLife>
+		</EffectType>
+	</nao_appear_ring>
+	<!-- 나오등장 샤방 슈퍼이미터 (옛날꺼) -->
+	<nao_appear_ring_sp classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="500 500 500">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionInnerRangeController>
+		<EffectType classname="CSuperEmitterType[7]" emitter_name="nao_appear_ring" gravity_scale="0.4" life_randomness="50">
+			<Life classname="CLifeController[7]" variance="0">0 5000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 200 100 70 101 0</Number>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.7" max="1.1">0 200</Speed>
+			<Angle classname="CAngleController[7]" variance="0">0 0.000000 </Angle>
+			<Spin classname="CSpinController[7]" variance="1" min="0" max="1">0 360 </Spin>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0.0 1 0.1 0.5 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpinOverLife>
+		</EffectType>
+	</nao_appear_ring_sp>
+	<!-- Hellhound Black Aura -->
+	<mon_hellhound_aura classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="400 400 400">
+		<EmitterShape classname="CEmitterShapeHemisphere[7]" link_to_emitter="1" area_type="0" radius="40.0 20.0 80.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="-0.04" life_randomness="50" pivot="0.5 0.5">
+			<Texture texture="common_effect_subtract" tas_classname="tas_grid[7]" x="0" y="1" column="8" row="8" />
+			<Life classname="CLifeController[7]" variance="0">0 5000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 2</Number>
+			<Size classname="CSizeController[7]" variance="0">0 200.000000</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 0.000000 </Speed>
+			<Spin classname="CSpinController[7]" variance="0" min="-1" max="1">0 0.000000 </Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360.000000 </Angle>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0.000000 0.0 0.5 0.9 1 1.0 </SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 1 0.5 1 1 0 </SpeedOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FF000000 0.5 FF808080 1 00000000 </ColorOverLife>
+		</EffectType>
+	</mon_hellhound_aura>
+	<!-- 횃불대의 횃불(빌보드) -->
+	<torchlight1 classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="100 100 100">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0 0 0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionOuterRangeController>
+		<EffectType classname="CBillboardType[7]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect_subtract" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="0" ani_time_type="1" />
+			<Size classname="CSizeController[7]" variance="0">0 40</Size>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<Color classname="CColorController[7]" variance="0">0.000000 FF909090</Color>
+		</EffectType>
+		<EffectType classname="CBillboardType[7]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="0" ani_time_type="1" />
+			<Size classname="CSizeController[7]" variance="0">0 40</Size>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<Color classname="CColorController[7]" variance="0">0.000000 FFFFFFFF</Color>
+		</EffectType>
+	</torchlight1>
+	<!-- 횃불대의 횃불(빌보드 좀더 큼) -->
+	<torchlight2 classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="100 100 100">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0 0 0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionOuterRangeController>
+		<EffectType classname="CBillboardType[7]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect_subtract" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="0" ani_time_type="1" />
+			<Size classname="CSizeController[7]" variance="0">0 100</Size>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<Color classname="CColorController[7]" variance="0">0.000000 FF909090</Color>
+		</EffectType>
+		<EffectType classname="CBillboardType[7]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="0" ani_time_type="1" />
+			<Size classname="CSizeController[7]" variance="0">0 100</Size>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<Color classname="CColorController[7]" variance="0">0.000000 FFFFFFFF</Color>
+		</EffectType>
+	</torchlight2>
+	<!-- 횃불대의 횃불(룬다던전용) -->
+	<torchlight_runda classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="100 100 100">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0 0 0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionOuterRangeController>
+		<EffectType classname="CBillboardType[7]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect_subtract" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="-1" ani_time_type="1" />
+			<Size classname="CSizeController[7]" variance="0">0 70</Size>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<Color classname="CColorController[7]" variance="0">0.000000 FF909090</Color>
+		</EffectType>
+		<EffectType classname="CBillboardType[7]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="-1" ani_time_type="1" />
+			<Size classname="CSizeController[7]" variance="0">0 70</Size>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<Color classname="CColorController[7]" variance="0">0.000000 FFFFFFFF</Color>
+		</EffectType>
+	</torchlight_runda>
+	<!-- 불화살의 화살에 붙은 불 -->
+	<firearrow_arrow classname="CEmitterType[7]" rotation_axis="0 1 0" emission_dirtype="3" bsphere_radius="100 100 100">
+		<EmitterShape classname="CEmitterShapeHemisphere[7]" link_to_emitter="1" area_type="0" radius="0 0 0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="-2" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="256" height="32" x="0" y="64" column="8" row="1" ani_loop_per_sec="2" ani_start_frame="-1" ani_time_type="1" />
+			<Life classname="CLifeController[7]" variance="0">0 600 </Life>
+			<Number classname="CNumberController[7]" variance="0">0 6</Number>
+			<Size classname="CSizeController[7]" variance="0">0 15</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 0 </Speed>
+			<Spin classname="CSpinController[7]" variance="0" min="-1" max="1">0 0.000000 </Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360 </Angle>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 1 1 0.5</SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 1 </SpeedOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FFffffff 0.7 FFA0A0A0 1 FF000000</ColorOverLife>
+		</EffectType>
+		<EffectType classname="CGlareType[7]" screen="1" size=".06" color="FFFFFFFF" appear="125 " disappear="250">
+			<Texture texture="common_effect_add_nozbuffer" tas_classname="tas_grid[7]" row="2" column="2" x="0" y="0" />
+			<SizeOverDist classname="CSizeOverDistanceController[7]" variance="0 " min="0.000000 " max="1.000000 ">0.0 2.0 2000.0 0.5</SizeOverDist>
+			<ColorOverDist classname="CColorOverDistanceController[7]" variance="0 " min="0.000000 " max="1.000000 ">2500 FF605030 5000.0 FF000000</ColorOverDist>
+		</EffectType>
+	</firearrow_arrow>
+	<!-- 불화살에 맞았을때의 이펙트 -->
+	<firearrow_hit classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="200 200 200">
+		<EmitterShape classname="CEmitterShapeHemisphere[7]" link_to_emitter="1" area_type="0" radius="0 0 0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 -90</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 20</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="-0.3" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="256" height="32" x="0" y="64" column="8" row="1" ani_loop_per_sec="0.5" ani_start_frame="-1" ani_time_type="0" />
+			<Life classname="CLifeController[7]" variance="1" min="0.2" max="1">0 2000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 100 50 0</Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.5" max="1">0 20</Size>
+			<Speed classname="CSpeedController[7]" variance="1" min="-1" max="1">0 40 </Speed>
+			<Spin classname="CSpinController[7]" variance="1" min="-1" max="1">0 60 </Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360 </Angle>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.6 1 1.0</SizeOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0 2 0.8 0.9 1 0.4</SpinOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 6 0.1 1 1 0</SpeedOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FFffffff 1 FF000000</ColorOverLife>
+		</EffectType>
+	</firearrow_hit>
+	<!-- 크리티컬 히트 이펙트 -->
+	<critical_hit classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="200 200 200">
+		<EmitterShape classname="CEmitterShapeHemisphere[7]" link_to_emitter="1" area_type="0" radius="0 0 0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 -90</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 20</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="-0.3" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="256" height="32" x="0" y="64" column="8" row="1" ani_loop_per_sec="0.5" ani_start_frame="-1" ani_time_type="0" />
+			<Life classname="CLifeController[7]" variance="1" min="0.2" max="1">0 2000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 100 50 0</Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.5" max="1">0 20</Size>
+			<Speed classname="CSpeedController[7]" variance="1" min="-1" max="1">0 40 </Speed>
+			<Spin classname="CSpinController[7]" variance="1" min="-1" max="1">0 60 </Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360 </Angle>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.6 1 1.0</SizeOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0 2 0.8 0.9 1 0.4</SpinOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 6 0.1 1 1 0</SpeedOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FFffffff 1 FF000000</ColorOverLife>
+		</EffectType>
+	</critical_hit>
+	<!-- 위습 -->
+	<mon_wisp classname="CEmitterType[7]" rotation_axis="0 1 0" emission_dirtype="3" bsphere_radius="200 200 200">
+		<EmitterShape classname="CEmitterShapeHemisphere[7]" link_to_emitter="1" area_type="1" radius="0 0 0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 100</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 180.0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="-1" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="160" height="32" x="256" y="64" column="5" row="1" ani_loop_per_sec="0" ani_start_frame="-1" ani_time_type="1" />
+			<Life classname="CLifeController[7]" variance="0">0 900 </Life>
+			<Number classname="CNumberController[7]" variance="0">0 100</Number>
+			<Size classname="CSizeController[7]" variance="0">0 9</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 20 </Speed>
+			<Spin classname="CSpinController[7]" variance="0" min="-1" max="1">0 0.000000 </Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360 </Angle>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 2.5 2.5 1.15</SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 5 </SpeedOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">1 3F081F4A 1 FF466399 1 FF000000</ColorOverLife>
+		</EffectType>
+		<EffectType classname="CParticleType[7]" gravity_scale="-1" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="160" height="32" x="256" y="64" column="5" row="1" ani_loop_per_sec="0" ani_start_frame="-1" ani_time_type="1" />
+			<Life classname="CLifeController[7]" variance="0">0 900 </Life>
+			<Number classname="CNumberController[7]" variance="0">0 100</Number>
+			<Size classname="CSizeController[7]" variance="0">0 9</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 -20 </Speed>
+			<Spin classname="CSpinController[7]" variance="0" min="-1" max="1">0 0.000000 </Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360 </Angle>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 2.5 2.5 1.15</SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 5 </SpeedOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">1 3F081F4A 1 FF466399 1 FF000000</ColorOverLife>
+		</EffectType>
+	<!-- 광부 코볼트 헬멧 촛불 -->
+	<kobold_candle classname="CEmitterType[7]" rotation_axis="0 1 0" emission_dirtype="3" bsphere_radius="100 100 100">
+		<EmitterShape classname="CEmitterShapeHemisphere[7]" link_to_emitter="1" area_type="0" radius="0 0 0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="-1" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="256" height="32" x="0" y="64" column="8" row="1" ani_loop_per_sec="2" ani_start_frame="-1" ani_time_type="1" />
+			<Life classname="CLifeController[7]" variance="0">0 600 </Life>
+			<Number classname="CNumberController[7]" variance="0">0 6</Number>
+			<Size classname="CSizeController[7]" variance="0">0 7</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 0 </Speed>
+			<Spin classname="CSpinController[7]" variance="0" min="-1" max="1">0 0.000000 </Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360 </Angle>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 1 1 0.5</SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 1 </SpeedOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FFffffff 0.7 FFA0A0A0 1 FF000000</ColorOverLife>
+		</EffectType>
+		<EffectType classname="CGlareType[7]" screen="1" size=".03" color="FFFFFFFF" appear="125 " disappear="250">
+			<Texture texture="common_effect_add_nozbuffer" tas_classname="tas_grid[7]" row="2" column="2" x="0" y="0" />
+			<SizeOverDist classname="CSizeOverDistanceController[7]" variance="0 " min="0.000000 " max="1.000000 ">0.0 2.0 2000.0 0.5</SizeOverDist>
+			<ColorOverDist classname="CColorOverDistanceController[7]" variance="0 " min="0.000000 " max="1.000000 ">2500 FF605030 5000.0 FF000000</ColorOverDist>
+		</EffectType>
+	</kobold_candle>
+	<!-- 반호르 수차의 쏟아지는 물 -->
+	<waterwheel_dropwater classname="CEmitterType[7]" rotation_axis="0 0 1" emission_dirtype="3" bsphere_radius="200 200 200">
+		<EmitterShape classname="CEmitterShapeHemisphere[7]" link_to_emitter="1" area_type="0" radius="0 0 0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 90</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 20</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="2" life_randomness="50" pivot="0.5 0.5">
+			<Texture texture="common_effect_alpha" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="64" height="64" x="128" y="0" column="1" row="1" ani_loop_per_sec="0" ani_start_frame="-1" ani_time_type="2" />
+			<Life classname="CLifeController[7]" variance="0">0 1000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 5</Number>
+			<Size classname="CSizeController[7]" variance="0">0 100.000000</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 100 </Speed>
+			<Spin classname="CSpinController[7]" variance="0" min="-1" max="1">0 0 </Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360.000000 </Angle>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.5 1 1.0 </SizeOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FFFFFFFF 1 00FFFFFF </ColorOverLife>
+		</EffectType>
+	</waterwheel_dropwater>
+	<!-- 인챈트 성공 서브 이미터 -->
+	<enchant_success_sub classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="200 200 200">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="0" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionOuterRangeController>
+		<EffectType classname="CDiskType[7]" partition="1" pivot="0.5 0">
+			<Texture texture="common_effect" tas_classname="tas_grid[7]" x="0" y="7" column="4" row="8" />
+			<Life classname="CLifeController[7]" variance="1" min="0.1" max="0.6">0 5000</Life>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360</Angle>
+			<Size classname="CSizeController[7]" variance="0" min="0" max="1">0 500 1000 300 3000 200 5000 100</Size>
+			<Spin classname="CSpinController[7]" variance="1" min="0" max="1">0 500 800 300 1000 120 2000 50</Spin>
+			<Color classname="CColorController[7]" variance="0">0 ff000000 1000 ffffffff 3000 ff404040 4000 ff000000</Color>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 0 1.0 0</SpinOverLife>
+		</EffectType>
+	</enchant_success_sub>
+	<!-- 인챈트 성공 슈퍼 이미터 -->
+	<enchant_success classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="500 500 500">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionInnerRangeController>
+		<EffectType classname="CSuperEmitterType[7]" emitter_name="enchant_success_sub" gravity_scale="0.4" life_randomness="50">
+			<Life classname="CLifeController[7]" variance="0">0 5000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 200 100 70 101 0</Number>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.6" max="1.3">0 200</Speed>
+			<Angle classname="CAngleController[7]" variance="0">0 0.000000 </Angle>
+			<Spin classname="CSpinController[7]" variance="1" min="0" max="1">0 360 </Spin>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0.0 1 0.1 0.5 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpinOverLife>
+		</EffectType>
+	</enchant_success>
+	<!-- 반호르 모루의 연기 -->
+	<bangor_anvil_smoke classname="CEmitterType[7]" rotation_axis="1 0 0" emission_dirtype="3" bsphere_radius="150 150 150">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect_alpha" tas_classname="tas_grid[7]" x="0" y="0" column="8" row="8" />
+			<Life classname="CLifeController[7]" variance="0">0 2000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 1.5</Number>
+			<Size classname="CSizeController[7]" variance="0">0 200</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 20 </Speed>
+			<Spin classname="CSpinController[7]" variance="0" min="-1" max="1">0 0 </Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360.000000 </Angle>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.5 1 0.7 </SizeOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 00FFFFFF 0.3 80FFFFFF 1 00FFFFFF </ColorOverLife>
+		</EffectType>
+	</bangor_anvil_smoke>
+	<!-- 반호르 노의 연기 -->
+	<bangor_forge_smoke classname="CEmitterType[7]" rotation_axis="1 0 0" emission_dirtype="3" bsphere_radius="150 150 150">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect_alpha" tas_classname="tas_grid[7]" x="3" y="0" column="8" row="8" />
+			<Life classname="CLifeController[7]" variance="0">0 2000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 1.5</Number>
+			<Size classname="CSizeController[7]" variance="0">0 100</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 50 </Speed>
+			<Spin classname="CSpinController[7]" variance="1" min="-1" max="1">0 50 </Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360.000000 </Angle>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.5 1 1 </SizeOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 00FFC0C0 0.1 B0FFC0C0 1 00FFC0C0 </ColorOverLife>
+		</EffectType>
+	</bangor_forge_smoke>
+	<!-- 고스트아머 -->
+	<mon_ghostarmor classname="CEmitterType[7]" rotation_axis="0 1 0" emission_dirtype="3" bsphere_radius="3000 3000 3000">
+		<EmitterShape classname="CEmitterShapeHemisphere[7]" link_to_emitter="1" area_type="0" radius="0 0 0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 100</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 100.0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionInnerRangeController>
+		<EffectType classname="CGlareType[7]" screen="1" size=".03" color="FFFF0000" appear="125 " disappear="250">
+			<Texture texture="common_effect_add_nozbuffer" tas_classname="tas_grid[7]" row="2" column="2" x="0" y="0" />
+			<SizeOverDist classname="CSizeOverDistanceController[7]" variance="0 " min="0.000000 " max="1.000000 ">0.0 2.0 2000.0 0.2</SizeOverDist>
+			<ColorOverDist classname="CColorOverDistanceController[7]" variance="0 " min="0.000000 " max="1.000000 ">2500 FFFFFFFF 5000.0 FFFFFFFF</ColorOverDist>
+		</EffectType>
+	</mon_ghostarmor>
+	<!-- 마우러스 불타는 집의 연기 -->
+	<Mores_burninghouse_smoke classname="CEmitterType[7]" rotation_axis="1 0 0" emission_dirtype="3" bsphere_radius="150 150 150">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 20.0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect_alpha" tas_classname="tas_grid[7]" x="0" y="0" column="8" row="8" />
+			<Life classname="CLifeController[7]" variance="0">0 6000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 2</Number>
+			<Size classname="CSizeController[7]" variance="0">0 800</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 60</Speed>
+			<Spin classname="CSpinController[7]" variance="1" min="-1" max="1">0 30</Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360</Angle>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 2.5 0.2 1.9 0.25 0.85</SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0 1 0.2 0.2</SpinOverLife>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.2 0.1 0.3 0.4 0.3 1 1 </SizeOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 00FFF200 0.35 ffff0000 0.47 ff000000 0.7 ff121212 1 00505050 </ColorOverLife>
+		</EffectType>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect_alpha" tas_classname="tas_grid[7]" x="2" y="15" column="16" row="16" />
+			<Life classname="CLifeController[7]" variance="0">0 6000</Life>
+			<Number classname="CNumberController[7]" variance="1" min="0.7" max="5">0 0.7</Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.7" max="1.2">0 60</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 120</Speed>
+			<Spin classname="CSpinController[7]" variance="1" min="-1" max="1">0 120</Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360</Angle>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 2 0.3 1 0.4 0.7</SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0 1 1 1</SpinOverLife>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 1.5 0.3 1 </SizeOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 ffffaa00 0.3 ffff0000 0.9 ffff0000 1 00ff0000 </ColorOverLife>
+		</EffectType>
+		<EffectType classname="CBillboardType[7]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect_subtract" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="-1" ani_time_type="1" />
+			<Size classname="CSizeController[7]" variance="0">0 100</Size>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<Color classname="CColorController[7]" variance="0">0.000000 FF909090</Color>
+		</EffectType>
+		<EffectType classname="CBillboardType[7]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="-1" ani_time_type="1" />
+			<Size classname="CSizeController[7]" variance="0" min="0.8" max="1">0 100</Size>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<Color classname="CColorController[7]" variance="0">0.000000 FFFFFFFF</Color>
+		</EffectType>
+	</Mores_burninghouse_smoke>
+	<!-- 토치에 붙어있는 불 -->
+	<tool_torch_fire classname="CEmitterType[7]" rotation_axis="1 0 0" emission_dirtype="3" bsphere_radius="150 150 150">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 10.0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect_alpha" tas_classname="tas_grid[7]" x="3" y="0" column="8" row="8" />
+			<Life classname="CLifeController[7]" variance="0">0 4000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 1.5</Number>
+			<Size classname="CSizeController[7]" variance="0">0 90</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 15</Speed>
+			<Spin classname="CSpinController[7]" variance="1" min="-1" max="1">0 60</Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360</Angle>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 2 0.2 1.5 0.25 1</SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0 1 0.2 0.2</SpinOverLife>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.3 0.1 0.35 0.4 0.35 1 0.8 </SizeOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 00FFF200 0.2 ffff0000 0.6 aa121212 1 00505050 </ColorOverLife>
+		</EffectType>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect_alpha" tas_classname="tas_grid[7]" x="2" y="15" column="16" row="16" />
+			<Life classname="CLifeController[7]" variance="0">0 6000</Life>
+			<Number classname="CNumberController[7]" variance="1" min="0.7" max="5">0 0.2</Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.7" max="1.2">0 15</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 16</Speed>
+			<Spin classname="CSpinController[7]" variance="1" min="-1" max="1">0 120</Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360</Angle>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 2 0.3 1 0.4 0.7</SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0 1 1 1</SpinOverLife>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 1.5 0.3 1 </SizeOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 ffffaa00 0.3 ffff0000 0.9 ffff0000 1 00ff0000 </ColorOverLife>
+		</EffectType>
+		<EffectType classname="CBillboardType[7]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect_subtract" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="3" ani_start_frame="-1" ani_time_type="1" />
+			<Size classname="CSizeController[7]" variance="0">0 20</Size>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<Color classname="CColorController[7]" variance="0">0.000000 FF909090</Color>
+		</EffectType>
+		<EffectType classname="CBillboardType[7]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="3" ani_start_frame="-1" ani_time_type="1" />
+			<Size classname="CSizeController[7]" variance="0">0 20</Size>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<Color classname="CColorController[7]" variance="0">0.000000 FFFFFFFF</Color>
+		</EffectType>
+	</tool_torch_fire>
+	<!-- 모닥불에 아이템 소각 -->
+	<item_burnup classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="500 500 500">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 10.0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect_alpha" tas_classname="tas_grid[7]" x="3" y="0" column="8" row="8" />
+			<Life classname="CLifeController[7]" variance="0">0 6000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 7 1600 0</Number>
+			<Size classname="CSizeController[7]" variance="0">0 75 1500 195</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 19</Speed>
+			<Spin classname="CSpinController[7]" variance="1" min="-1" max="1">0 60</Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360</Angle>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 2 0.2 1.5 0.25 1</SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0 2 0.25 0.2</SpinOverLife>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.2 0.4 0.5 1 1.5 </SizeOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 00FFFf00 0.1 dddd1100 0.2 dd222222 1 00757575 </ColorOverLife>
+		</EffectType>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect_alpha" tas_classname="tas_grid[7]" x="2" y="15" column="16" row="16" />
+			<Life classname="CLifeController[7]" variance="1" min="0.7" max="1.4">0 7000</Life>
+			<Number classname="CNumberController[7]" variance="1" min="0.7" max="5">0 0 300 1.5 3000 0</Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.7" max="1.2">0 32</Size>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.5" max="1.2">0 17</Speed>
+			<Spin classname="CSpinController[7]" variance="1" min="-1" max="1">0 120</Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360</Angle>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 2 0.3 1 0.4 0.6</SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0 1 0.3 0.8 1 0.2</SpinOverLife>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 1.5 0.4 1 </SizeOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 33ffaa00 0.15 bbff0000 0.3 ff000000 0.8 ff000000 1 00000000 </ColorOverLife>
+		</EffectType>
+	</item_burnup>
+	<!-- 모닥불에 아이템 소각 + 인첸트 성공 -->
+	<item_burnup_enchant classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="500 500 500">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 10.0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect_alpha" tas_classname="tas_grid[7]" x="3" y="0" column="8" row="8" />
+			<Life classname="CLifeController[7]" variance="0">0 6000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 7 1600 0</Number>
+			<Size classname="CSizeController[7]" variance="0">0 75 1500 195</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 19</Speed>
+			<Spin classname="CSpinController[7]" variance="1" min="-1" max="1">0 60</Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360</Angle>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 2 0.2 1.5 0.25 1</SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0 2 0.25 0.2</SpinOverLife>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.2 0.4 0.5 1 1.5 </SizeOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 00FFFf00 0.1 dddd1100 0.2 dd222222 1 00757575 </ColorOverLife>
+		</EffectType>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect_alpha" tas_classname="tas_grid[7]" x="2" y="15" column="16" row="16" />
+			<Life classname="CLifeController[7]" variance="1" min="0.7" max="1.4">0 7000</Life>
+			<Number classname="CNumberController[7]" variance="1" min="0.7" max="5">0 0 300 1.5 3000 0</Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.7" max="1.2">0 32</Size>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.5" max="1.2">0 17</Speed>
+			<Spin classname="CSpinController[7]" variance="1" min="-1" max="1">0 120</Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360</Angle>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 2 0.3 1 0.4 0.6</SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0 1 0.3 0.8 1 0.2</SpinOverLife>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 1.5 0.4 1 </SizeOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 33ffaa00 0.15 bbff0000 0.3 ff000000 0.8 ff000000 1 00000000 </ColorOverLife>
+		</EffectType>
+		<EffectType classname="CSuperEmitterType[7]" emitter_name="enchant_success_sub" gravity_scale="0.4" life_randomness="50">
+			<Life classname="CLifeController[7]" variance="0">0 5000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 200 100 70 101 0</Number>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.6" max="1.3">0 140</Speed>
+			<Angle classname="CAngleController[7]" variance="0">0 0.000000 </Angle>
+			<Spin classname="CSpinController[7]" variance="1" min="0" max="1">0 360 </Spin>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0.0 1 0.1 0.5 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpinOverLife>
+		</EffectType>
+	</item_burnup_enchant>
+	<!-- 나오의 서포트 서비스 등장 Sub (반짝이링) 안쓰는것임 -->
+	<nao_support_appear_sub_test classname="CEmitterType[7]" rotation_axis="0 0 1" emission_dirtype="1" bsphere_radius="100 100 100">
+		<EmitterShape classname="CEmitterShapeCircle[7]" link_to_emitter="1" area_type="0" radius="100.0" />
+		<EmitterShapeSize classname="CSizeController[7]" variance="0">0 0.7 500 1 2000 1</EmitterShapeSize>
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_grid[7]" x="11" y="2" column="16" row="16" />
+			<Life classname="CLifeController[7]" variance="0">0 1000</Life>
+			<Angle classname="CAngleController[7]" variance="0">0 0</Angle>
+			<Number classname="CNumberController[7]" variance="0">3000 100 3500 0</Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.4" max="1.5">0 20</Size>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.5" max="1.5">0 30 </Speed>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 1 1 1 </SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpinOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FF000000 0.3 FF303030 1 00000000 </ColorOverLife>
+		</EffectType>
+	</nao_support_appear_sub_test>
+	<!-- 나오의 서포트 서비스 등장 Sub 01 (빛기둥 과 무엇)-->
+	<nao_support_appear_sub_01 classname="CEmitterType[7]" rotation_axis="0 0 1" emission_dirtype="1" bsphere_radius="100 100 100">
+		<EmitterShape classname="CEmitterShapeCircle[7]" link_to_emitter="1" area_type="0" radius="50.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_grid[7]" x="11" y="3" column="16" row="4" />
+			<Life classname="CLifeController[7]" variance="0">0 1500</Life>
+			<Angle classname="CAngleController[7]" variance="0">0 0</Angle>
+			<Number classname="CNumberController[7]" variance="0">0 10 1800 10 2200 0</Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.4" max="1.5">0 60</Size>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.5" max="1.5">0 60 </Speed>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 1 1 1 </SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpinOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FF000000 0.3 FFD8CD91 0.8 ff091C64 1 ff000000 </ColorOverLife>
+		</EffectType>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_grid[7]" x="10" y="3" column="16" row="4" />
+			<Life classname="CLifeController[7]" variance="0">0 500</Life>
+			<Angle classname="CAngleController[7]" variance="0">0 0</Angle>
+			<Number classname="CNumberController[7]" variance="0">1000 0 1300 20 3000 0</Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.6" max="1.5">0 10</Size>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.5" max="1.5">0 100 </Speed>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.6 1 1 </SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 1 1 3 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpinOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FF000000 0.1 FFffffff 0.85 ffffffff 1 ff000000 </ColorOverLife>
+		</EffectType>
+	</nao_support_appear_sub_01>
+	<!-- 나오의 서포트 서비스 등장 Sub Wind (회오리 서브이미터)-->
+	<nao_support_appear_sub_wind classname="CEmitterType[7]" rotation_axis="0 0 1" emission_dirtype="3" bsphere_radius="100 100 100">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="0" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionInnerRangeController>
+		<EffectType classname="CDiskType[7]" partition="1" pivot="0 1">
+			<Texture texture="common_effect" tas_classname="tas_grid[7]" x="3" y="3" column="4" row="4" />
+			<Life classname="CLifeController[7]" variance="1" min="0.1" max="0.6">0 2000</Life>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360</Angle>
+			<Size classname="CSizeController[7]" variance="0" min="0.7" max="1.3">0 250  2000 300</Size>
+			<Spin classname="CSpinController[7]" variance="1" min="0" max="1">0 900 2000 0</Spin>
+			<Color classname="CColorController[7]" variance="0">0 ff000000 200 ffffffff 2000 ff000000</Color>
+		</EffectType>
+	</nao_support_appear_sub_wind>
+	<!-- 나오의 서포트 서비스 등장 Sub 02 (회오리 슈퍼이미터)-->
+	<nao_support_appear_sub_02 classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="300 300 300">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 20</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 10</EmissionInnerRangeController>
+		<EffectType classname="CSuperEmitterType[7]" emitter_name="nao_support_appear_sub_wind" gravity_scale="0" life_randomness="50">
+			<Life classname="CLifeController[7]" variance="0">0 2000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 30 800 0 </Number>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.3" max="1.3">0 -60</Speed>
+			<Angle classname="CAngleController[7]" variance="0">0 0.000000 </Angle>
+			<Spin classname="CSpinController[7]" variance="1" min="0" max="1">0 0</Spin>
+		</EffectType>
+	</nao_support_appear_sub_02>
+	<!-- 나오의 서포트 서비스 퇴장 Sub 01 ( 빛기둥 과 무엇)-->
+	<nao_support_disappear_sub_01 classname="CEmitterType[7]" rotation_axis="0 0 1" emission_dirtype="1" bsphere_radius="100 100 100">
+		<EmitterShape classname="CEmitterShapeCircle[7]" link_to_emitter="1" area_type="0" radius="40.0" />
+		<EmitterShapeSize classname="CSizeController[7]" variance="0">0 1 2000 0.5</EmitterShapeSize>
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_grid[7]" x="11" y="3" column="16" row="4" />
+			<Life classname="CLifeController[7]" variance="0">0 1000</Life>
+			<Angle classname="CAngleController[7]" variance="0">0 0</Angle>
+			<Number classname="CNumberController[7]" variance="0">0 10 1200 10 1500 0</Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.4" max="1.5">0 40</Size>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.5" max="1.5">0 100 </Speed>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 1 1 1 </SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 1.5 1 0.7 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpinOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FF000000 0.3 FFA2C4B5 0.8 ff00025C 1 ff000000 </ColorOverLife>
+		</EffectType>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_grid[7]" x="10" y="3" column="16" row="4" />
+			<Life classname="CLifeController[7]" variance="0">0 500</Life>
+			<Angle classname="CAngleController[7]" variance="0">0 0</Angle>
+			<Number classname="CNumberController[7]" variance="0">1000 0 1000 16 3500 0</Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.6" max="1.5">0 15</Size>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.5" max="1.5">0 120 </Speed>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.6 1 1 </SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 1 1 3 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpinOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FF000000 0.1 FFffffff 0.85 ffffffff 1 ff000000 </ColorOverLife>
+		</EffectType>
+	</nao_support_disappear_sub_01>
+	<!-- 나오의 서포트 서비스 퇴장 Sub Wind (회오리 서브이미터)-->
+	<nao_support_disappear_sub_wind classname="CEmitterType[7]" rotation_axis="0 0 1" emission_dirtype="3" bsphere_radius="100 100 100">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="0" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionInnerRangeController>
+		<EffectType classname="CDiskType[7]" partition="1" pivot="0 1">
+			<Texture texture="common_effect" tas_classname="tas_grid[7]" x="3" y="3" column="4" row="4" />
+			<Life classname="CLifeController[7]" variance="1" min="0.1" max="0.6">0 2000</Life>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360</Angle>
+			<Size classname="CSizeController[7]" variance="0" min="0.7" max="1.3">0 250  2000 300</Size>
+			<Spin classname="CSpinController[7]" variance="1" min="0" max="1">0 900 2000 0</Spin>
+			<Color classname="CColorController[7]" variance="0">0 ff000000 200 ffffffff 2000 ff000000</Color>
+		</EffectType>
+	</nao_support_disappear_sub_wind>
+	<!-- 나오의 서포트 서비스 퇴장 Sub 02 (회오리 슈퍼이미터)-->
+	<nao_support_disappear_sub_02 classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="300 300 300">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 20</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 10</EmissionInnerRangeController>
+		<EffectType classname="CSuperEmitterType[7]" emitter_name="nao_support_disappear_sub_wind" gravity_scale="0" life_randomness="50">
+			<Life classname="CLifeController[7]" variance="0">0 2000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 50 800 0 </Number>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.3" max="1.3">0 70</Speed>
+			<Angle classname="CAngleController[7]" variance="0">0 0.000000 </Angle>
+			<Spin classname="CSpinController[7]" variance="1" min="0" max="1">0 0</Spin>
+		</EffectType>
+	</nao_support_disappear_sub_02>
+	<!-- 나오의 서포트 서비스 부활 (플레이어의 stance)-->
+	<nao_support_healing classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="300 300 300">
+		<EmitterShape classname="CEmitterShapeCircle[7]" link_to_emitter="1" area_type="0" radius="30.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="160" height="32" x="320" y="192" column="5" row="1" ani_loop_per_sec="4" ani_start_frame="0" ani_time_type="1" />
+			<Life classname="CLifeController[7]" variance="0">0 2500</Life>
+			<Angle classname="CAngleController[7]" variance="0">0 0</Angle>
+			<Number classname="CNumberController[7]" variance="0">0 2 2000 2 2500 0 </Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.7" max="1.3">0 30</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 -40 </Speed>
+			<Spin classname="CSpinController[7]" variance="0">0 0.000000 </Spin>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 1 1 1 </SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpinOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FF000000 0.6 FFffffff 0.8 FF0000ff 1 00000000 </ColorOverLife>
+		</EffectType>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_grid[7]" x="11" y="3" column="16" row="4" />
+			<Life classname="CLifeController[7]" variance="0">0 1000</Life>
+			<Angle classname="CAngleController[7]" variance="0">0 0</Angle>
+			<Number classname="CNumberController[7]" variance="0">0 20 700 20 900 0</Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.4" max="1.5">0 40</Size>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.5" max="1.5">0 -50 </Speed>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 1 1 1 </SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpinOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FF000000 0.3 ff96B679 0.8 ff613928 1 ff000000 </ColorOverLife>
+		</EffectType>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_grid[7]" x="10" y="3" column="16" row="4" />
+			<Life classname="CLifeController[7]" variance="0">0 350</Life>
+			<Angle classname="CAngleController[7]" variance="0">0 0</Angle>
+			<Number classname="CNumberController[7]" variance="0">700 0 900 10 2000 0</Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.6" max="1.5">0 10</Size>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.5" max="1.5">0 100 </Speed>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.6 1 1 </SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 1 1 3 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpinOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FF000000 0.1 FFffffff 0.85 ffffffff 1 ff000000 </ColorOverLife>
+		</EffectType>
+	</nao_support_healing>
+	<!-- 아이템 업그레이드시 (플레이어의 stance)-->
+	<item_upgrade classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="300 300 300">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionInnerRangeController>
+		<EffectType classname="CSuperEmitterType[7]" emitter_name="enchant_success_sub" gravity_scale="0.4" life_randomness="50">
+			<Life classname="CLifeController[7]" variance="0">0 5000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 200 100 70 101 0</Number>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.6" max="1.3">0 200</Speed>
+			<Angle classname="CAngleController[7]" variance="0">0 0.000000 </Angle>
+			<Spin classname="CSpinController[7]" variance="1" min="0" max="1">0 360 </Spin>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0.0 1 0.1 0.5 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpinOverLife>
+		</EffectType>
+	</item_upgrade>
+	<!-- 철광석 캐기 (기술적 불가) -->
+	<gather_ore classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="300 300 300">
+	</gather_ore>
+	<!-- 철광석 마지막 캐기 (기술적 불가) -->
+	<gather_ore_done classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="300 300 300">
+	</gather_ore_done>
+	<!-- 다크 로드의 제로 시프트 사라지는 쪽 (stance)-->
+	<mon_darklord_zeroshift_in classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="300 300 300">
+		<EmitterShape classname="CEmitterShapeCircle[7]" link_to_emitter="1" area_type="0" radius="120.0" />
+		<EmitterShapeSize classname="CSizeController[7]" variance="0">0 1 500 0</EmitterShapeSize>
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" pivot="0.5 0.5">
+			<Texture texture="common_effect_subtract" tas_classname="tas_grid[7]" x="8" y="2" column="16" row="16" />
+			<Life classname="CLifeController[7]" variance="0">0 800 400 800</Life>
+			<Number classname="CNumberController[7]" variance="0">0 120 400 100 750 100 1000 0</Number>
+			<Angle classname="CAngleController[7]" variance="1" min="-1" max="1">0 360</Angle>
+			<Size classname="CSizeController[7]" variance="0">0 100 400 80 750 80 1000 0</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 80</Speed>
+			<Spin classname="CSpinController[7]" variance="1" min="-1" max="1">0 360 </Spin>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 1 0.3 0.5 1 0</SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 0 1 2 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0 1 1 1 </SpinOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 00000000 0.2 ffffff99 1.0 ff000000 </ColorOverLife>
+		</EffectType>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_grid[7]" x="10" y="3" column="16" row="4" />
+			<Life classname="CLifeController[7]" variance="0">0 500</Life>
+			<Angle classname="CAngleController[7]" variance="0">0 0</Angle>
+			<Number classname="CNumberController[7]" variance="0">0 0 800 20 1100 0</Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.6" max="1.5">0 15</Size>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.5" max="1.5">0 100 </Speed>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.6 1 1 </SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 1 1 3 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpinOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FF000000 0.1 FF808080 0.85 808080 1 ff000000 </ColorOverLife>
+		</EffectType>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" pivot="0.5 0.5">
+			<Texture texture="common_effect" tas_classname="tas_grid[7]" x="10" y="3" column="16" row="4" />
+			<Life classname="CLifeController[7]" variance="0">0 500</Life>
+			<Angle classname="CAngleController[7]" variance="0">0 0</Angle>
+			<Number classname="CNumberController[7]" variance="0">0 0 800 20 1100 0</Number>
+			<Size classname="CSizeController[7]" variance="1" min="0.6" max="1.5">0 15</Size>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.5" max="1.5">0 -120 </Speed>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.6 1 1 </SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 1 1 3 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpinOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 FF000000 0.1 FF808080 0.85 808080 1 ff000000 </ColorOverLife>
+		</EffectType>
+	</mon_darklord_zeroshift_in>
+	<!-- 다크 로드의 제로 시프트 나타나는 쪽 (stance) -->
+	<mon_darklord_zeroshift_out classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="1" bsphere_radius="300 300 300">
+		<EmitterShape classname="CEmitterShapeCircle[7]" link_to_emitter="1" area_type="0" radius="80.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 90</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 90</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" pivot="0.5 0.5">
+			<Texture texture="common_effect_subtract" tas_classname="tas_grid[7]" x="8" y="2" column="16" row="16" />
+			<Life classname="CLifeController[7]" variance="0">0 500</Life>
+			<Number classname="CNumberController[7]" variance="0">0 120 200 120 250 0</Number>
+			<Angle classname="CAngleController[7]" variance="1" min="-1" max="1">0 360</Angle>
+			<Size classname="CSizeController[7]" variance="0">0 100 200 60 250 0</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 60</Speed>
+			<Spin classname="CSpinController[7]" variance="1" min="-1" max="1">0 180 </Spin>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.5 0.2 1 1 0.8</SizeOverLife>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 7 0.1 0.1 1 0 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0 1 1 1 </SpinOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 00000000 0.2 ffaaffff 0.9 ffaaffff 1.0 ff000000 </ColorOverLife>
+		</EffectType>
+	</mon_darklord_zeroshift_out>
+	<!-- 라이트닝 볼트에 맞음 (COM) -->
+	<hit_lightning_bolt classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="300 300 300">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0">
+		</ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" life_randomness="0" pivot="0 1">
+			<Texture texture="common_effect" tas_classname="tas_grid[7]" x="3" y="3" column="4" row="4" />
+			<Life classname="CLifeController[7]" variance="0">0 1500</Life>
+			<Size classname="CSizeController[7]" variance="0">0 50</Size>
+			<Number classname="CNumberController[7]" variance="0">0 50 200 0 </Number>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.6" max="1.3">0 0</Speed>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360 </Angle>
+			<Spin classname="CSpinController[7]" variance="1" min="0" max="1">0 0 </Spin>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 1 1 1 </SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0.000000 1.000000 1.0000 1.000000 </SpinOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 ffffffff 0.1 ffddddff 0.3 ffff5577 1 ff000000 </ColorOverLife>
+		</EffectType>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" life_randomness="0" pivot="0 0.5">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="224" column="4" row="1" ani_loop_per_sec="0" ani_start_frame="-1" ani_time_type="1" />
+			<Life classname="CLifeController[7]" variance="0">0 1500</Life>
+			<Size classname="CSizeController[7]" variance="0" min="1" max="2">0 50</Size>
+			<Number classname="CNumberController[7]" variance="0">0 40 200 0</Number>
+			<Speed classname="CSpeedController[7]" variance="1" min="0.6" max="1.3">0 0</Speed>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360 </Angle>
+			<Spin classname="CSpinController[7]" variance="1" min="-1" max="1">0 20 </Spin>
+			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">
+			</SpeedOverLife>
+			<SpinOverLife classname="CSpinOverLifeController[7]" variance="0">0 1 1 0 </SpinOverLife>
+			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">0 ffffffff 0.1 ffddddff 0.3 ffff5577 1 ff000000 </ColorOverLife>
+		</EffectType>
+	</hit_lightning_bolt>
+	<torchlight_runda classname="CEmitterType[10]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="100 100 100" name="torchlight_arena_blue">
+		<EmitterShape classname="CEmitterShapePoint[10]" link_to_emitter="1" area_type="0" position="0 0 0" />
+		<ActiveController classname="CActiveController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" />
+		<EmissionAngleController classname="CEmissionAngleController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0.0</EmissionOuterRangeController>
+		<EffectType classname="CBillboardType[10]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect_subtract" tas_classname="tas_dynamicgrid[10]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="-1" ani_time_type="1" />
+			<Size classname="CSizeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 55 </Size>
+			<Spin classname="CSpinController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </Spin>
+			<Color classname="CColorController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="색상">0 FFFF0000 </Color>
+		</EffectType>
+		<EffectType classname="CBillboardType[10]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[10]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="-1" ani_time_type="1" />
+			<Size classname="CSizeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 55 </Size>
+			<Spin classname="CSpinController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </Spin>
+			<Color classname="CColorController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="색상">0 FF0158FF </Color>
+		</EffectType>
+	</torchlight_runda>
+	<torchlight_runda classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="100 100 100" name="torchlight_arena_red">
+		<EmitterShape classname="CEmitterShapePoint[10]" link_to_emitter="1" area_type="0" position="0 0 0" />
+		<ActiveController classname="CActiveController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" />
+		<EmissionAngleController classname="CEmissionAngleController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0.0</EmissionOuterRangeController>
+		<EffectType classname="CBillboardType[10]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect_subtract" tas_classname="tas_dynamicgrid[10]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="-1" ani_time_type="1" />
+			<Size classname="CSizeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 55 </Size>
+			<Spin classname="CSpinController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </Spin>
+			<Color classname="CColorController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="색상">0 FF0B8CFF </Color>
+		</EffectType>
+		<EffectType classname="CBillboardType[10]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[10]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="-1" ani_time_type="1" />
+			<Size classname="CSizeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 55 </Size>
+			<Spin classname="CSpinController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </Spin>
+			<Color classname="CColorController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="색상">0 FFE1682D </Color>
+		</EffectType>
+	</torchlight_runda>
+	<torchlight_runda classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="100 100 100" name="torchlight_arena_main">
+		<EmitterShape classname="CEmitterShapePoint[10]" link_to_emitter="1" area_type="0" position="0 0 0" />
+		<ActiveController classname="CActiveController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" />
+		<EmissionAngleController classname="CEmissionAngleController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0.0</EmissionOuterRangeController>
+		<EffectType classname="CBillboardType[10]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect_subtract" tas_classname="tas_dynamicgrid[10]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="-1" ani_time_type="1" />
+			<Size classname="CSizeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 90 </Size>
+			<Spin classname="CSpinController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </Spin>
+			<Color classname="CColorController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="색상">0 FF3F1A5A </Color>
+		</EffectType>
+		<EffectType classname="CBillboardType[10]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[10]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="-1" ani_time_type="1" />
+			<Size classname="CSizeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 100 </Size>
+			<Spin classname="CSpinController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </Spin>
+			<Color classname="CColorController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="색상">0 FF1570FF </Color>
+		</EffectType>
+	</torchlight_runda>
+	<glare_field_torchlight classname="CEmitterType[7]" rotation_axis="0.000000 0.000000 1.000000 " emission_dirtype="3 " bsphere_radius="200.000000 " name="glare_arena_torch_main">
+		<ActiveController classname="CActiveController[7]" variance="0 " min="0.000000 " max="1.000000 ">0 1 </ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0 " min="0.000000 " max="1.000000 ">0 0.000000 </EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0 " min="0.000000 " max="1.000000 ">0 0.000000 </EmissionOuterRangeController>
+		<EffectType classname="CGlareType[7]" screen="1" size=".2" color="FFFFFFFF" appear="125 " disappear="250">
+			<Texture texture="common_effect_add_nozbuffer" tas_classname="tas_grid[10]" row="2" column="2" x="0" y="0" />
+			<SizeOverDist classname="CSizeOverDistanceController[11]" variance="0 " min="0.000000 " max="1.000000 " interpolation="1" repeat="0" repeat_from="0">0 2 2000.0 0.5 </SizeOverDist>
+			<ColorOverDist classname="CColorOverDistanceController[11]" variance="0 " min="0.000000 " max="1.000000 " interpolation="1" repeat="0" repeat_from="0">2500 FF0080B3 5000.0 FF000000 </ColorOverDist>
+		</EffectType>
+		<EmitterShape classname="CEmitterShapePoint[10]" link_to_emitter="1" area_type="0" position="0 45 0" name="EmitterShape" />
+	</glare_field_torchlight>
+	<torchlight1 classname="CEmitterType[7]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="100 100 100" name="torchlight1_03">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0 0 0" />
+		<ActiveController classname="CActiveController[7]" variance="0" />
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionOuterRangeController>
+		<EffectType classname="CBillboardType[7]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect_subtract" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="0" ani_time_type="1" />
+			<Size classname="CSizeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 30 </Size>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<Color classname="CColorController[7]" variance="0">0.000000 FF909090</Color>
+		</EffectType>
+		<EffectType classname="CBillboardType[7]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="0" ani_time_type="1" />
+			<Size classname="CSizeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 30 </Size>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<Color classname="CColorController[7]" variance="0">0.000000 FFFFFFFF</Color>
+		</EffectType>
+	</torchlight1>
+	<glare_field_torchlight2 classname="CEmitterType[7]" rotation_axis="0.000000 0.000000 1.000000 " emission_dirtype="3 " bsphere_radius="200.000000 " name="glare_torchlight1_04">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1 " area_type="0 " position="0.000000 45.000000 0.000000 " />
+		<ActiveController classname="CActiveController[7]" variance="0 " min="0.000000 " max="1.000000 ">0 1 </ActiveController>
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0 " min="0.000000 " max="1.000000 ">0 0.000000 </EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0 " min="0.000000 " max="1.000000 ">0 0.000000 </EmissionOuterRangeController>
+		<EffectType classname="CGlareType[7]" screen="1" size=".4" color="FFFFFFFF" appear="125 " disappear="250">
+			<Texture texture="common_effect_add_nozbuffer" tas_classname="tas_grid[7]" row="2" column="2" x="0" y="0" />
+			<SizeOverDist classname="CSizeOverDistanceController[11]" variance="0 " min="0.000000 " max="1.000000 " interpolation="1" repeat="0" repeat_from="0">0.0 0.8 2000.0 0.7 </SizeOverDist>
+			<ColorOverDist classname="CColorOverDistanceController[11]" variance="0 " min="0.000000 " max="1.000000 " interpolation="1" repeat="0" repeat_from="0">2500 FF484024 5000.0 7A464646 </ColorOverDist>
+		</EffectType>
+	</glare_field_torchlight2>
+	<torchlight_runda classname="CEmitterType[10]" rotation_axis="0.0 0.0 1.0" emission_dirtype="3" bsphere_radius="100 100 100" name="drinkhouse_fire">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0 0 0" />
+		<ActiveController classname="CActiveController[7]" variance="0" />
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionOuterRangeController>
+		<EffectType classname="CBillboardType[7]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect_subtract" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="-1" ani_time_type="1" />
+			<Size classname="CSizeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 150 </Size>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<Color classname="CColorController[7]" variance="0">0.000000 FF909090</Color>
+		</EffectType>
+		<EffectType classname="CBillboardType[7]" angle="0" pivot="0.5 0.3">
+			<Texture texture="common_effect" tas_classname="tas_dynamicgrid[7]" tex_width="512" tex_height="512" width="512" height="64" x="0" y="0" column="16" row="1" ani_loop_per_sec="2" ani_start_frame="-1" ani_time_type="1" />
+			<Size classname="CSizeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 150 </Size>
+			<Spin classname="CSpinController[7]" variance="0">0 0 </Spin>
+			<Color classname="CColorController[7]" variance="0">0.000000 FFFFFFFF</Color>
+		</EffectType>
+	</torchlight_runda>
+	<bangor_anvil_smoke classname="CEmitterType[7]" rotation_axis="1 0 0" emission_dirtype="3" bsphere_radius="150 150 150" name="magicpot_smoke_01">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0" />
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect_alpha" tas_classname="tas_grid[7]" x="0" y="0" column="8" row="8" />
+			<Life classname="CLifeController[7]" variance="0">0 2000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 1.5</Number>
+			<Size classname="CSizeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 300 </Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 20 </Speed>
+			<Spin classname="CSpinController[7]" variance="0" min="-1" max="1">0 0 </Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360.000000 </Angle>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.5 1 0.7 </SizeOverLife>
+			<ColorOverLife classname="CColorOverLifeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 005FC5AB 0.3 80359969 1 003AB85A </ColorOverLife>
+		</EffectType>
+	</bangor_anvil_smoke>
+	<bangor_anvil_smoke classname="CEmitterType[7]" rotation_axis="1 0 0" emission_dirtype="3" bsphere_radius="150 150 150" name="altar_smoke_01">
+		<EmitterShape classname="CEmitterShapePoint[7]" link_to_emitter="1" area_type="0" position="0.0 0.0 0.0" />
+		<ActiveController classname="CActiveController[7]" variance="0" />
+		<EmissionAngleController classname="CEmissionAngleController[7]" variance="0">0 0</EmissionAngleController>
+		<EmissionOuterRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionOuterRangeController>
+		<EmissionInnerRangeController classname="CEmissionRangeController[7]" variance="0">0 0.0</EmissionInnerRangeController>
+		<EffectType classname="CParticleType[7]" gravity_scale="0" life_randomness="0" pivot="0.5 0.5">
+			<Texture texture="common_effect_alpha" tas_classname="tas_grid[7]" x="0" y="0" column="8" row="8" />
+			<Life classname="CLifeController[7]" variance="0">0 2000</Life>
+			<Number classname="CNumberController[7]" variance="0">0 1.5</Number>
+			<Size classname="CSizeController[7]" variance="0">0 200</Size>
+			<Speed classname="CSpeedController[7]" variance="0">0 20 </Speed>
+			<Spin classname="CSpinController[7]" variance="0" min="-1" max="1">0 0 </Spin>
+			<Angle classname="CAngleController[7]" variance="1" min="0" max="1">0 360.000000 </Angle>
+			<SizeOverLife classname="CSizeOverLifeController[7]" variance="0">0 0.5 1 0.7 </SizeOverLife>
+			<ColorOverLife classname="CColorOverLifeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 00EB6DEB 0.3 809DEFFB 1 006B2DDF </ColorOverLife>
+		</EffectType>
+	</bangor_anvil_smoke>
+</debug_effect3>

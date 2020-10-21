@@ -1,0 +1,3 @@
+By Lazyfae
+Removes fog in a few regions, primarily instances like shadow missions.
+To remove the mod, either delete data/world folder.  Or go through the folders in the listed directory, and look for all .xml files and remove those.  It is encouraged to back up your files, at least temporarily, before making any removals.  That way if you accidentally delete a mod you wanted to keep, you can still restore it.

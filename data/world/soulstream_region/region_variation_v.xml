@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<variation group="shadow">
+	<textures>
+		<texture name="soulstream_stage_floor_01">
+			<replace>data/material/terrain/mtgrass01_only/mtgrass01_only.dds</replace>
+		</texture>		
+		<texture name="naostage_white">
+			<replace>data/material/terrain/mtrock01_only/mtrock01_only.dds</replace>
+		</texture>			
+		<texture name="naostage_metal">
+			<replace>data/material/terrain/mtgrass01_only/mtgrass01_only.dds</replace>
+		</texture>			
+		<texture name="naostage_white_noshadow">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>		
+		<texture name="studio_background_white">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>
+		<texture name="terrain_white">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>		
+		<texture name="terrain_whiteback">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>			
+		<texture name="scene_prop_whitezone_01">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>	
+		<texture name="effect_add_falias_altar02">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>			
+	</textures>			
+			
+	<props>
+		<prop classname="soulstream_stage_01">
+			<replace>soulstream_stage_nl</replace>
+		</prop>	
+		<prop classname="soulstream_stage_stair_01">
+			<remove/>
+		</prop>		
+	
+	
+	
+	
+	</props>
+
+	<!-- 배경 음악 원래 나는 부분 제거 -->
+	<eventboxes>
+		<eventbox name="BGM">
+			<remove/>
+		</eventbox>
+	</eventboxes>
+
+	<property>
+	</property>
+
+	<environment>
+		<camera>
+			<near>30</near>
+			<far>10000</far>
+			<fov>60</fov>
+		</camera>
+	</environment>
+	<minimap>
+		<maxzoom>4</maxzoom>
+		<fog>
+			<enable>false</enable>
+			<radius>15</radius>
+		</fog>
+	</minimap>
+
+</variation>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<!-- TabFrame for CharacterInfo.xml -->
+<ComboCardProgressView name="ComboCardFrame" x="0" y="0" width="62+60+16" height="66" visible="true" border="true">
+		<Image name="ArrowImage" 
+				x="32" y="408" 
+				frameWidth="50" frameHeight="30" 
+				file="data/gfx/gui/gui_combo_card_etc.dds" pickable="false">
+			<Layer index="1" originX="195" originY="0" />
+		</Image>
+		<!-- Curr -->
+		<IconBox name="CurrSkillIcon" x="([ArrowImage x])-32" y="0" width="32" height="32">
+			<IconBoxImage file="data/gfx/image/gui_icon_skill_000.dds" gridAll="false" imageX="2" imageY="402" frameWidth="30" frameHeight="30">
+				<Layer index="1" originX="64" originY="0" />
+			</IconBoxImage>
+		</IconBox>
+		<!-- Next -->
+		<IconBox name="NextSkillIcon" x="[ArrowImage x]+[ArrowImage frameWidth]" y="400" width="32" height="32">
+			<IconBoxImage file="data/gfx/image/gui_icon_skill_000.dds" gridAll="false" imageX="2" imageY="2" frameWidth="30" frameHeight="30">
+				<Layer index="1" originX="96" originY="0" />
+			</IconBoxImage>
+		</IconBox>
+</ComboCardProgressView>

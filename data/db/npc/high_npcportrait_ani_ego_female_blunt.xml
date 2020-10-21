@@ -1,0 +1,249 @@
+﻿<portraitAnimation image="high_npcportrait_ego_female_blunt.dds">
+
+<clipInformations number='9'>
+	<clipinformation x1=" 459" y1="   0" x2=" 894" y2=" 511" originX="   0" originY="   0" /> <!-- Clip 0 Cheerful 1  -->
+	<clipinformation x1=" 921" y1="   0" x2="1320" y2=" 511" originX="   0" originY="   0" /> <!-- Clip 1 Cheerful 2  -->
+	<clipinformation x1=" 430" y1="1024" x2=" 866" y2="1513" originX="   0" originY="   0" /> <!-- Clip 2 Cheerful 3  -->
+	<clipinformation x1="   0" y1="   0" x2=" 426" y2=" 511" originX="   0" originY="   0" /> <!-- Clip 3 Sorry       -->
+	<clipinformation x1="   0" y1=" 512" x2=" 448" y2="1023" originX="   0" originY="   0" /> <!-- Clip 4 Despair     -->
+	<clipinformation x1=" 464" y1=" 512" x2=" 886" y2="1023" originX="   0" originY="   0" /> <!-- Clip 5 Furious     -->
+	<clipinformation x1="   0" y1="1024" x2=" 412" y2="1514" originX="   0" originY="   0" /> <!-- Clip 6 Sulky        -->
+	<clipinformation x1=" 905" y1=" 512" x2="1333" y2="1023" originX="   0" originY="   0" /> <!-- Clip 7 Exasperated -->
+	<clipinformation x1=" 893" y1="1024" x2="1303" y2="1514" originX="   0" originY="   0" /> <!-- Clip 8 Surprised   -->
+</clipInformations>
+<animations number='23'>
+    <animation index='0' name='base'>
+        <background>
+            <clips number='1'>
+                <clip value=" 0 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='1' name='normal'>
+        <background>
+            <clips number='2'>
+                <clip value=" 0 " />
+                <clip value=" 1 " />
+            </clips>
+        </background>
+        <frame index='0' duration='5'>
+            <clips number='1'>
+                <clip value=" 0 " />
+            </clips>
+        </frame>
+        <frame index='1' duration='2'>
+            <clips number='1'>
+                <clip value=" 1 " />
+            </clips>
+        </frame>
+    </animation>
+    <animation index='2' name='smile1'>
+        <background>
+            <clips number='2'>
+                <clip value=" 0 " />
+                <clip value=" 1 " />
+            </clips>
+        </background>
+        <frame index='0' duration='5'>
+            <clips number='1'>
+                <clip value=" 0 " />
+            </clips>
+        </frame>
+        <frame index='1' duration='2'>
+            <clips number='1'>
+                <clip value=" 1 " />
+            </clips>
+        </frame>
+    </animation>
+    <animation index='3' name='smile2'>
+        <background>
+            <clips number='2'>
+                <clip value=" 0 " />
+                <clip value=" 1 " />
+            </clips>
+        </background>
+        <frame index='0' duration='5'>
+            <clips number='1'>
+                <clip value=" 0 " />
+            </clips>
+        </frame>
+        <frame index='1' duration='2'>
+            <clips number='1'>
+                <clip value=" 1 " />
+            </clips>
+        </frame>
+    </animation>
+    <animation index='4' name='smile3'>
+        <background>
+            <clips number='2'>
+                <clip value=" 0 " />
+                <clip value=" 1 " />
+            </clips>
+        </background>
+        <frame index='0' duration='5'>
+            <clips number='1'>
+                <clip value=" 0 " />
+            </clips>
+        </frame>
+        <frame index='1' duration='2'>
+            <clips number='1'>
+                <clip value=" 1 " />
+            </clips>
+        </frame>
+    </animation>
+    <animation index='5' name='smile4'>
+        <background>
+            <clips number='1'>
+                <clip value=" 2 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='6' name='relief1'>
+        <background>
+            <clips number='1'>
+                <clip value=" 8 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='7' name='relief2'>
+        <background>
+            <clips number='1'>
+                <clip value=" 8 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='8' name='preach'>
+        <background>
+            <clips number='1'>
+                <clip value=" 7 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='9' name='sorry1'>
+        <background>
+            <clips number='1'>
+                <clip value=" 3 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='10' name='sorry2'>
+        <background>
+            <clips number='1'>
+                <clip value=" 3 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='11' name='sorry3'>
+        <background>
+            <clips number='1'>
+                <clip value=" 3 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='12' name='sorry4'>
+        <background>
+            <clips number='1'>
+                <clip value=" 3 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='13' name='sorry5'>
+        <background>
+            <clips number='1'>
+                <clip value=" 3 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='14' name='despair'>
+        <background>
+            <clips number='1'>
+                <clip value=" 4 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='15' name='sulky1'>
+        <background>
+            <clips number='1'>
+                <clip value=" 6 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='16' name='sulky2'>
+        <background>
+            <clips number='1'>
+                <clip value=" 6 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='17' name='jeer1'>
+        <background>
+            <clips number='1'>
+                <clip value=" 7 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='18' name='jeer2'>
+        <background>
+            <clips number='1'>
+                <clip value=" 7 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='19' name='anger1'>
+        <background>
+            <clips number='1'>
+                <clip value=" 5 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='20' name='anger2'>
+        <background>
+            <clips number='1'>
+                <clip value=" 5 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='21' name='anger3'>
+        <background>
+            <clips number='1'>
+                <clip value=" 5 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='22' name='anger4'>
+        <background>
+            <clips number='1'>
+                <clip value=" 5 " />
+            </clips>
+        </background>
+    </animation>
+	<animation index='5' name='good'>
+        <background>
+            <clips number='1'>
+                <clip value=" 2 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='19' name='bad1'>
+        <background>
+            <clips number='1'>
+                <clip value=" 4 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='16' name='bad2'>
+        <background>
+            <clips number='1'>
+                <clip value=" 4 " />
+            </clips>
+        </background>
+    </animation>
+    <animation index='21' name='wrath'>
+        <background>
+            <clips number='1'>
+                <clip value=" 5 " />
+            </clips>
+        </background>
+    </animation>
+</animations>
+</portraitAnimation>

@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<variation group="shadow">
+	<textures>
+		<texture name="taracliff01_only">
+			<replace>data/material/terrain/taracliff01_only/taracliff01_only_rep.dds</replace>
+		</texture>
+		<texture name="taragrass03_only">
+			<replace>data/material/terrain/taragrass03_only/taragrass03_only_rep.dds</replace>
+		</texture>
+		<texture name="taragrass02_taracliff01">
+			<replace>data/material/terrain/taragrass02_taracliff01/taragrass02_taracliff01_rep.dds</replace>
+		</texture>
+		<texture name="taracliff01_taragrass03">
+			<replace>data/material/terrain/taracliff01_taragrass03/taracliff01_taragrass03_rep.dds</replace>
+		</texture>
+		<texture name="taragrass03_tarafloor01">
+			<replace>data/material/terrain/taragrass03_tarafloor01/taragrass03_tarafloor01_rep.dds</replace>
+		</texture>
+		<texture name="taragrass03_tarasoil02">
+			<replace>data/material/terrain/taragrass03_tarasoil02/taragrass03_tarasoil02_rep.dds</replace>
+		</texture>
+		<texture name="tarasoil02border01_only">
+			<replace>data/material/terrain/tarasoil02border01_only/tarasoil02border01_only_rep.dds</replace>
+		</texture>
+		<texture name="tarasoil02border02_only">
+			<replace>data/material/terrain/tarasoil02border02_only/tarasoil02border02_only_rep.dds</replace>
+		</texture>
+		<texture name="taragrass02_only">
+			<replace>data/material/terrain/taragrass02_only/taragrass02_only_rep.dds</replace>
+		</texture>
+		<texture name="tarafloor01_only">
+			<replace>data/material/terrain/tarafloor01_only/tarafloor01_only_rep.dds</replace>
+		</texture>
+		<texture name="taragrass02_only">
+			<replace>data/material/terrain/tarasoil02border02_only/taragrass02_only_rep.dds</replace>
+		</texture>
+		<texture name="tarafloor01_taragrass02">
+			<replace>data/material/terrain/tarafloor01_taragrass02/tarafloor01_taragrass02_rep.dds</replace>
+		</texture>
+		<texture name="tarasoil02_only">
+			<replace>data/material/terrain/tarasoil02_only/tarasoil02_only_rep.dds</replace>
+		</texture>
+		<!-- 필드 프랍 텍스쳐 전환-->
+		<texture name="Field_prop_tara_leaf_01">
+			<replace>data/material/obj/Field/Tara/Field_prop_tara_leaf_01_rep.dds</replace>
+		</texture>
+		<texture name="Field_prop_taill_leaf_01">
+			<replace>data/material/obj/Field/Taillteann/Field_prop_taill_leaf_01_rep.dds</replace>
+		</texture>
+		<texture name="Field_prop_taill_leaf_03">
+			<replace>data/material/obj/Field/Taillteann/Field_prop_taill_leaf_03_rep.dds</replace>
+		</texture>
+		<texture name="Field_prop_tara_leaf_02">
+			<replace>data/material/obj/Field/Tara/Field_prop_tara_leaf_02_rep.dds</replace>
+		</texture>
+		<texture name="Field_prop_tara_outsidertree_01">
+			<replace>data/material/obj/Field/Tara/Field_prop_tara_outsidertree_01_rep.dds</replace>
+		</texture>
+		<texture name="Field_prop_tara_stone_01">
+			<replace>data/material/obj/Field/Tara/Field_prop_tara_stone_01_rep.dds</replace>
+		</texture>
+		<texture name="scene_prop_emain_leaf_01">
+			<replace>data/material/obj/Field/Tara/scene_prop_emain_leaf_01_rep.dds</replace>
+		</texture>
+		<texture name="scene_prop_emain_trunk_01">
+			<replace>data/material/obj/Field/Tara/scene_prop_emain_trunk_01_rep.dds</replace>
+		</texture>
+		<texture name="scene_build_emain_wall_01">
+			<replace>data/material/obj/Field/Tara/scene_build_emain_wall_01_rep.dds</replace>
+		</texture>
+		<texture name="Field_prop_tara_stone_02">
+			<replace>data/material/obj/Field/Tara/Field_prop_tara_stone_02_rep.dds</replace>
+		</texture>
+		<texture name="Field_prop_tara_stone_03">
+			<replace>data/material/obj/Field/Tara/Field_prop_tara_stone_03_rep.dds</replace>
+		</texture>
+		<texture name="Field_prop_tara_trunk_01">
+			<replace>data/material/obj/Field/Tara/Field_prop_tara_trunk_01_rep.dds</replace>
+		</texture>
+		<texture name="Field_prop_farming_trunk_01">
+			<replace>data/material/obj/Field/farming/Field_prop_farming_trunk_01_rep.dds</replace>
+		</texture>
+		<texture name="scene_build_taill_wall_05">
+			<replace>data/material/obj/Taillteann/flat/scene_build_taill_wall_05_rep.dds</replace>
+		</texture>
+		<texture name="scene_build_taill_wall_06">
+			<replace>data/material/obj/Taillteann/flat/scene_build_taill_wall_06_rep.dds</replace>
+		</texture>
+		<texture name="scene_build_taill_wall_07">
+			<replace>data/material/obj/Taillteann/flat/scene_build_taill_wall_07_rep.dds</replace>
+		</texture>
+		<texture name="Field_prop_farming_trunk_01">
+			<replace>data/material/obj/Field/farming/Field_prop_farming_trunk_01_rep.dds</replace>
+		</texture>
+		<texture name="Field_prop_farming_stuff_01">
+			<replace>data/material/obj/Field/farming/Field_prop_farming_stuff_01_rep.dds</replace>
+		</texture>
+		<texture name="scene_prop_tail_stuff_01">
+			<replace>data/material/obj/Taillteann/flat/scene_prop_tail_stuff_01_rep.dds</replace>
+		</texture>
+
+	</textures>					
+			
+	<props>
+		<!-- prop의 attribute는 다음을 가질 수 있다.
+			name : 특정 인스턴스를 지칭할 때
+			classname : 같은 클래스 name을 모두 지칭할 때
+		-->
+		<!-- prop의 자식 노드는 다음을 가질 수 있다.
+			replace : 교체
+			add : 추가
+			remove : 제거
+			colors : 칼라 오버라이드. replace, add, remove보다 나중에 와야한다.
+			예제
+				<prop classname="scene_building_taill_default_A_01">
+					<replace>scene_building_emain_default_A_01_L</replace>
+					<colors>
+						<color name="b1" red="80" green="80" blue="80" />
+					</colors>
+				</prop>
+				<prop name="var_test2">
+					<remove/>
+				</prop>
+				<prop classname="scene_building_TirChonaill_bank">
+					<add x="8344" y="37285" dir="0" scale="1"/>
+					<colors>
+						<color name="b1" red="80" green="80" blue="80" />
+					</colors>
+				</prop>
+				<prop name="var_test1">
+					<replace>scene_building_TirChonaill_miscellaneous-goods-store</replace>
+				</prop>
+		-->
+		<prop classname="scene_prop_tara_cypress_01">
+			<replace>Field_prop_tara_tree_03</replace>	
+		</prop>
+		<prop classname="scene_prop_tara_cypress_02">
+			<replace>Field_prop_tara_tree_03</replace>
+		</prop>
+		<!-- 나무,포도밭관련 일반세계의 프랍 제거-->
+		<prop classname="Field_prop_tara_SE_sack_01">
+			<remove/>
+		</prop>
+		<prop classname="Field_prop_tara_SE_sack_02">
+			<remove/>
+		</prop>
+		<prop classname="Field_prop_Tara_alphadoor_01">
+			<remove/>
+		</prop>
+		<prop classname="Field_prop_tara_SE_winebarrel_01">
+			<remove/>
+		</prop>
+		<prop classname="Field_prop_tara_SE_winebarrel_02">
+			<remove/>
+		</prop>
+		<prop classname="Field_prop_tara_SE_winebarrel_03">
+			<remove/>
+		</prop>
+		<prop classname="Field_prop_tara_SE_flowerbush_01">
+			<remove/>
+		</prop>
+		<prop classname="Field_prop_tara_SE_flowerbush_02">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_farm_grapevine_01">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_farm_grapevine_02">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_farm_grapebucket_01">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_farm_bgmash_grapevine_01">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_tara_bush_02">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_tara_bush_03">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_tara_bush_04">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_farm_grapevine_03">
+			<remove/>
+		</prop>
+		<prop classname="Field_prop_tara_grass_04">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_taill_shovel_01">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_taill_rake_01">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_taill_shovel_02">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_taill_rake_02">
+			<remove/>
+		</prop>
+		<prop classname="field_prop_tara_outsidertree_01">
+			<remove/>
+		</prop>
+		<prop classname="field_prop_tara_outsidertree_02">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_tara_flowerpot_03">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_housing_signalpost01">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_farm_grapevine_04">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_farm_grapevine_05">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_farm_bgmash_grapevine_02">
+			<remove/>
+		</prop>
+		<prop classname="scene_prop_farm_grapevine_06">
+			<remove/>
+		</prop>
+		<prop classname="Field_prop_minigame_signalpost_01">
+			<remove/>
+		</prop>
+		<prop classname="Field_prop_minigame_signalpost_02">
+			<remove/>
+		</prop>
+
+
+
+
+
+
+		<!-- 그림자세계에서 타라 쪽 리전 경계 막느라 추가되는 프랍들-->
+		<prop classname="Field_prop_tara_SE_fence_rep_01">
+			<add x="16099.6" y="16812" dir="5.89" scale="1"/>
+		</prop>
+		<prop classname="Field_prop_tara_SE_fence_rep_01">
+			<add x="16514.4" y="17903.6" dir="2.77" scale="1"/>
+		</prop>
+	
+
+		<!-- 그림자세계에서 이멘마하쪽 리전 경계 막느라 추가되는 프랍들-->
+		<prop classname="Field_prop_tara_SE_fence_rep_01">
+			<add x="90663.1" y="22642.5" dir="3.01" scale="0.7"/>
+		</prop>
+		<prop classname="Field_prop_tara_SE_fence_rep_01">
+			<add x="91003.2" y="23054.8" dir="2.46" scale="0.7"/>
+		</prop>
+		<prop classname="Field_prop_tara_SE_fence_rep_01">
+			<add x="91286.3" y="23501.5" dir="2.6" scale="0.7"/>
+		</prop>
+
+
+	</props>
+	<eventboxes>
+		<!-- 음악 플레이 이벤트 박스 삭제-->
+		<eventbox name="Blago_PlayMusic_00">
+			<remove/>
+		</eventbox>
+		<eventbox name="Blago_PlayMusic_01">
+			<remove/>
+		</eventbox>
+		<eventbox name="Blago_PlayMusic_02">
+			<remove/>
+		</eventbox>
+		<eventbox name="Blago_PlayMusic_03">
+			<remove/>
+		</eventbox>
+		<eventbox name="Blago_PlayMusic_04">
+			<remove/>
+		</eventbox>
+		<eventbox name="Blago_PlayMusic_05">
+			<remove/>
+		</eventbox>
+		<eventbox name="Blago_PlayMusic_06">
+			<remove/>
+		</eventbox>
+		<eventbox name="Blago_PlayMusic_07">
+			<remove/>
+		</eventbox>
+
+	</eventboxes>
+	<environment>
+		<!-- 하늘 그라데이션 텍스쳐 파일 data/material/fx/skydome-->
+		<skygradation>skygradation_taillteann.dds</skygradation>
+
+		<!-- 시간 칼라 테이블 data/gfx/fx/atmosphere 순서대로-->
+		<!-- 이 테이블에 알파포그 색상도 들어가있다. -->
+		<timetables>
+			<timetable>timetable_clear_taillteann.raw</timetable>
+			<timetable>timetable_cloudy_taillteann.raw</timetable>
+			<timetable>timetable_rainy_taillteann.raw</timetable>
+			<timetable>timetable_lightning_taillteann.raw</timetable>
+		</timetables>
+
+		<!-- 색보정 테이블 data/gfx/fx/posteffect -->
+		<cctable>color_corrector_table_taillteann.png</cctable>
+
+		<!-- 날씨 정보 -->
+		<!-- 타입에 따른 속성은 WeatherCommon / WeatherClient / WeatherServer.xml을 참고 -->
+		<weather type="table" name="type11" />
+
+		<!-- 카메라 설정. 미터단위, degree단위 -->
+		<camera>
+			<near>60</near>
+			<far>10000</far>
+			<fov>50</fov>
+		</camera>
+
+		<!-- 배경음악 설정 -->
+		<!-- 입장하면 바로 플레이된다. -->
+		<!-- 나중에 보스룸에서는 스크립트로 배경음악을 변경하등가.. -->
+		<backgroundmusic>Dungeon_16.mp3</backgroundmusic>
+
+	</environment>
+
+	<property>
+		<pvp enable="false"/>
+		<lrod enable="true"/>
+	</property>
+	<!-- 미니맵을 교체할 때 사용한다. -->
+	<!-- 여기서 오버라이드 안된 항목은 원본 리전의 속성을 따라간다. -->
+            <minimap>
+		<files>
+			<file locale="korea" name="data/gfx/gui/map_jpg/minimap_Tara_SE_Field_kor_rep.jpg" />
+			<file locale="japan" name="data/gfx/gui/map_jpg/minimap_Tara_SE_Field_jpn_rep.jpg" />
+			<file locale="taiwan" name="data/gfx/gui/map_jpg/minimap_Tara_SE_Field_twn_rep.jpg" />
+			<file locale="china" name="data/gfx/gui/map_jpg/minimap_Tara_SE_Field_chn_rep.jpg" />
+			<file locale="usa" name="data/gfx/gui/map_jpg/minimap_Tara_SE_Field_eng_rep.jpg" />
+		</files>
+		<maxzoom>4</maxzoom>
+		<fog>
+			<enable>false</enable>
+			<radius>15</radius>
+		</fog>
+	</minimap>
+</variation>  

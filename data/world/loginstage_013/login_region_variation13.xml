@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<variation group="client">
+	<environment>
+		<!-- 하늘 그라데이션 텍스쳐 파일 data/material/fx/skydome-->
+		<skygradation>skygradation.dds</skygradation>
+
+		<!-- 시간 칼라 테이블 data/gfx/fx/atmosphere 순서대로-->
+		<!-- 이 테이블에 알파포그 색상도 들어가있다. -->
+		<timetables>
+			<timetable>timetable_avon.raw</timetable>
+			<timetable>timetable_avon.raw</timetable>
+			<timetable>timetable_avon.raw</timetable>
+			<timetable>timetable_avon.raw</timetable>
+		</timetables>
+
+		<!-- 색보정 테이블 data/gfx/fx/posteffect -->
+		<cctable>colorcorrection_default.png</cctable>
+
+		<!-- 날씨 정보 -->
+		<!-- 타입에 따른 속성은 WeatherCommon / WeatherClient / WeatherServer.xml을 참고 -->
+		<weather type="table" name="type011" />
+		<camera>
+			<near>30</near>
+			<far>10000</far>
+			<fov>60</fov>
+		</camera>
+	</environment>
+	<minimap>
+		<maxzoom>4</maxzoom>
+		<fog>
+			<enable>false</enable>
+			<radius>15</radius>
+		</fog>
+	</minimap>
+</variation>

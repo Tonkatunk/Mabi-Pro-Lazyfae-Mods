@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<variation group="shadow">
+	<textures>
+
+
+	</textures>					
+			
+	<props>
+		<!-- prop의 attribute는 다음을 가질 수 있다.
+			name : 특정 인스턴스를 지칭할 때
+			classname : 같은 클래스 name을 모두 지칭할 때
+		-->
+		<!-- prop의 자식 노드는 다음을 가질 수 있다.
+			replace : 교체
+			add : 추가
+			remove : 제거
+			colors : 칼라 오버라이드. replace, add, remove보다 나중에 와야한다.
+			예제
+				<prop classname="scene_building_taill_default_A_01">
+					<replace>scene_building_emain_default_A_01_L</replace>
+					<colors>
+						<color name="b1" red="80" green="80" blue="80" />
+					</colors>
+				</prop>
+				<prop name="var_test2">
+					<remove/>
+				</prop>
+				<prop classname="scene_building_TirChonaill_bank">
+					<add x="8344" y="37285" dir="0" scale="1"/>
+					<colors>
+						<color name="b1" red="80" green="80" blue="80" />
+					</colors>
+				</prop>
+				<prop name="var_test1">
+					<replace>scene_building_TirChonaill_miscellaneous-goods-store</replace>
+				</prop>
+		-->
+
+	</props>
+	<eventboxes>
+
+	</eventboxes>
+	<environment>
+		<!-- 하늘 그라데이션 텍스쳐 파일 data/material/fx/skydome-->
+		<!--<skygradation>skygradation_taillteann.dds</skygradation>-->
+
+		<!-- 시간 칼라 테이블 data/gfx/fx/atmosphere 순서대로-->
+		<!-- 이 테이블에 알파포그 색상도 들어가있다. -->
+		<timetables>
+			<!--<timetable>timetable_clear_taillteann.raw</timetable>
+			<timetable>timetable_cloudy_taillteann.raw</timetable>
+			<timetable>timetable_rainy_taillteann.raw</timetable>
+			<timetable>timetable_lightning_taillteann.raw</timetable>-->
+		</timetables>
+
+		<!-- 색보정 테이블 data/gfx/fx/posteffect -->
+		<!--<cctable>color_corrector_table_taillteann.png</cctable>-->
+
+		<!-- 날씨 정보 -->
+		<!-- 타입에 따른 속성은 WeatherCommon / WeatherClient / WeatherServer.xml을 참고 
+		<weather type="table" name="type11" />-->
+
+		<!-- 카메라 설정. 미터단위, degree단위 -->
+		<camera>
+			<near>30</near>
+			<far>750</far>
+			<fov>60</fov>
+		</camera>
+
+		<!-- 배경음악 설정 -->
+		<!-- 입장하면 바로 플레이된다. -->
+		<!-- 나중에 보스룸에서는 스크립트로 배경음악을 변경하등가.. -->
+		<backgroundmusic>Dungeon_2.mp3</backgroundmusic>
+
+		<!--시간을 저녁 11시로 설정-->
+		<time>2300</time>
+		<locktime>true</locktime>
+	</environment>
+
+	<property>
+		<!--<pvp enable="false"/>
+		<lrod enable="true"/>-->
+	</property>
+	<!-- 미니맵을 교체할 때 사용한다. -->
+	<!-- 여기서 오버라이드 안된 항목은 원본 리전의 속성을 따라간다. -->
+            <minimap>
+		<files>
+			<file locale="korea" name="data/gfx/gui/map_jpg/minimap_Iria_courcle_kor.jpg" />
+			<file locale="japan" name="data/gfx/gui/map_jpg/minimap_Iria_courcle_eng.jpg" />
+			<file locale="taiwan" name="data/gfx/gui/map_jpg/minimap_Iria_courcle_twn.jpg" />
+			<file locale="china" name="data/gfx/gui/map_jpg/minimap_Iria_courcle_chn.jpg" />
+			<file locale="usa" name="data/gfx/gui/map_jpg/minimap_Iria_courcle_eng.jpg" />
+		</files>
+		<maxzoom>4</maxzoom>
+		<fog>
+			<enable>false</enable>
+			<radius>15</radius>
+		</fog>
+	</minimap>
+</variation>  

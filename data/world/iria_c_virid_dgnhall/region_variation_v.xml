@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<variation group="stage">
+	<textures>
+		<texture name="dungeon_tirna_brick_04">
+			<replace>data/material/interior/tirnanog/dungeon/dungeon_tirna_brick_v.dds</replace>
+		</texture>	
+		<texture name="dungeon_tircho_floor_01">
+			<replace>data/material/interior/dungeon/hardmode_ciar/dg_hardmode_ciar_floor_01.dds</replace>
+		</texture>	
+		<texture name="dungeon_tircho_floor_02">
+			<replace>data/material/interior/dungeon/hardmode_ciar/dg_hardmode_ciar_floor_02.dds</replace>
+		</texture>	
+	</textures>			
+			
+	<props>
+		<prop classname="Tirna_prop_warp_alpha_wall">
+			<remove/>
+		</prop>	
+		<prop classname="Tirna_prop_warp_alpha_floor">
+			<remove/>
+		</prop>	
+		<prop classname="Tirna_prop_warp_alpha_wall_02">
+			<remove/>
+		</prop>	
+		<prop classname="Tirna_prop_warp_alpha_wall_03">
+			<remove/>
+		</prop>			
+		<prop classname="Tirna_prop_warp_alpha_wall_04">
+			<remove/>
+		</prop>		
+		<prop classname="Tirna_prop_warp_02">
+			<remove/>
+		</prop>	
+		<prop classname="Tirna_prop_warp_03">
+			<remove/>
+		</prop>	
+		<prop classname="G1_tirnanog_entrance">
+			<remove/>
+		</prop>	
+		<prop classname="dg_TirNa_hall_alphadoorup">
+			<remove/>
+		</prop>	
+		<prop classname="dg_TirNa_hall_alphadoordown">
+			<remove/>
+		</prop>	
+		<prop classname="dg_Tirnanog_door_02s">
+			<remove/>
+		</prop>		
+		<prop classname="dg_Tirnanog_door_03s">
+			<remove/>
+		</prop>
+		<prop classname="dg_Tirnanog_door_01s">
+			<remove/>
+		</prop>	
+		<prop classname="dg_Tirnanog_hall_waitingroom_01_statue">
+			<remove/>
+		</prop>	
+		<prop classname="dg_Tirnanog_hall_waitingroom_01_altar">
+			<replace>dg_woodsruins_hall_waitingroom_01_altar</replace>
+		</prop>	
+		<prop classname="scene_prop_Iria_C_jungletree_04">
+			<add x="3214" y="3888" dir="1.528" scale="1.0"/>
+			<colors>
+				<color name="tree" red="60" green="60" blue="60" />
+			</colors>
+		</prop>
+		<prop classname="scene_prop_Iria_blockingbox">
+			<add x="3212" y="3950" dir="0" scale="1.5"/>
+			<colors>
+				<color name="cube" red="5" green="5" blue="5" />
+			</colors>
+		</prop>
+		<prop classname="scene_prop_Iria_C_jungletree_03">
+			<add x="4022" y="5000" dir="1.528" scale="2.0"/>
+			<colors>
+				<color name="tree2" red="1" green="1" blue="1" />
+			</colors>
+		</prop>	
+		<prop classname="scene_prop_Iria_C_jungletree_02">
+			<add x="2020" y="5019" dir="1.728" scale="2.1"/>
+			<colors>
+				<color name="tree3" red="1" green="1" blue="1" />
+			</colors>
+		</prop>			
+			<!-- Tirna_prop_jewel_01 r:35001 x:2020 y:5019
+		<prop classname="Tirna_prop_jewel_01">
+			<add x="2768" y="2991" dir="1.528" scale="2.0"/>
+			<colors>
+				<color name="b1" red="22" green="11" blue="33" />
+			</colors>
+		</prop>
+		<prop classname="Tirna_prop_jewel_01">
+			<add x="3623" y="2991" dir="1.528" scale="2.0"/>
+			<colors>
+				<color name="b1" red="22" green="11" blue="33" />
+			</colors>
+		</prop>
+		<prop classname="Tirna_prop_jewel_01">
+			<add x="3560" y="2117" dir="1.528" scale="2.0"/>
+			<colors>
+				<color name="b1" red="22" green="11" blue="33" />
+			</colors>
+		</prop>
+		<prop classname="Tirna_prop_jewel_01">
+			<add x="2700" y="2117" dir="1.528" scale="2.0"/>
+			<colors>
+				<color name="b1" red="22" green="11" blue="33" />
+			</colors>
+		</prop>	 -->	
+	</props>
+
+	<eventboxes>
+		<eventbox name="DG_TirnanogBefore1_Outer_Spawn">
+			<remove/>
+		</eventbox>	
+		<eventbox name="BGM">
+			<remove/>
+		</eventbox>			
+	</eventboxes>
+
+	<environment>
+	
+		<skygradation>skygradation_falias.dds</skygradation>
+
+		<timetables>
+			<timetable>timetable_clear_taillteann.raw</timetable>
+			<timetable>timetable_cloudy_taillteann.raw</timetable>
+			<timetable>timetable_rainy_taillteann.raw</timetable>
+			<timetable>timetable_lightning_taillteann.raw</timetable>
+		</timetables>
+
+		<cctable>colorcorrection_default.png</cctable>
+		
+	<weather type="table" name="type011" />
+		<camera>
+			<near>30</near>
+			<far>10000</far>
+			<fov>70</fov>
+		</camera>
+	<backgroundmusic>Silence.mp3</backgroundmusic>		
+	</environment>
+	<minimap>
+		<maxzoom>4</maxzoom>
+		<fog>
+			<enable>false</enable>
+			<radius>15</radius>
+		</fog>
+	</minimap>
+	<property>
+	<pvp enable="false"/>
+	</property>
+
+</variation>

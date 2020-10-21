@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<CharacterView name="CharacterInfo" title="_LT[xml.layout.99]" x="36" y="36" width="360" height="352" minWidth="360" minHeight="352" maxWidth="360" maxHeight="2000">
+	<Tab name="MainTab" x="0" y="0" width="[$parent $innerWidth]" height="[$parent $innerHeight]" multiLine="true">
+		<ResizeDependency top="top" bottom="bottom" left="left" right="right" />
+		<TabFrame name="GeneralTab" title="Stats" />
+		<TabFrame name="AdditionalTab" title="Misc" />
+		<TabFrame name="ArbeitTab" title="PTJ" />
+		<TabFrame name="KeywordTab" title="Keyword" />
+		<TabFrame name="PetTab" title="Pets" />
+		<TabFrame name="ComboCardTab" title="Combos" />
+	</Tab>
+</CharacterView>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<variation group="shadow">
+	<textures>
+		<texture name="od_test6">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>					
+		<texture name="od_test4">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>		
+		<texture name="od_test10">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>			
+		<texture name="od_test1">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>	
+		<texture name="od_test3">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>			
+		<texture name="od_test5">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>		
+		<texture name="od_test2">
+			<replace>data/material/interior/dungeon/_proxy_dungeon_bridge_stone_01.dds</replace>
+		</texture>	
+		<texture name="od_test1">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>			
+		<texture name="od_test12">
+			<replace>data/material/etc/special_prop/prop_alpha_0.dds</replace>
+		</texture>		
+		<texture name="distant_tirchornail">
+			<replace>data/material/fx/water/water_staticsurface4.dds</replace>
+		</texture>	
+		<texture name="desertcavefloor02_only">			
+			<replace>data/material/terrain/skathasand01_only/skathasand01_only.dds</replace>
+		</texture>			
+		<texture name="dg_tircho_lock_01">
+			<replace>data/material/char/highgloss/item_strange_shard_m.dds</replace>
+		</texture>		
+		<texture name="scene_prop_iria_se_cave_stonewall_01">
+			<replace>data/material/interior/dungeon/_proxy_dungeon_bridge_stone_01.dds</replace>
+		</texture>			
+		<texture name="scene_prop_iria_se_cave_stonewall_02">
+			<replace>data/material/interior/dungeon/_proxy_dungeon_bridge_stone_01.dds</replace>
+		</texture>			
+		<texture name="dungeon_dbt_floor_03">
+			<replace>data/material/interior/dungeon/dungeon_bridge_floor_01.dds</replace>
+		</texture>			
+		
+		
+	</textures>			
+			
+	<props>		
+		<prop classname="scene_prop_skatha_cave_foor00">
+			<add x="6411" y="6967" z="3857" dir="0" scale="1"/>
+			<colors>
+				<color name="b1" red="dd" green="dd" blue="dd" />
+			</colors>
+		</prop>		
+		
+		
+
+	<eventboxes>
+		<eventbox name="DG_Danu_Outer_Spawn">
+			<remove/>
+		</eventbox>	
+		<eventbox name="DG_DanuBefore_Border">
+			<remove/>
+		</eventbox>				
+	</eventboxes>
+
+	<environment>
+		<!-- 하늘 그라데이션 텍스쳐 파일 data/material/fx/skydome-->
+		<skygradation>skygradation_avon_theater.dds</skygradation>
+
+		<!-- 시간 칼라 테이블 data/gfx/fx/atmosphere 순서대로-->
+		<!-- 이 테이블에 알파포그 색상도 들어가있다. -->
+		<timetables>
+			<timetable>timetable_avon_theater.raw</timetable>
+			<timetable>timetable_avon_theater.raw</timetable>			
+			<timetable>timetable_avon_theater.raw</timetable>			
+			<timetable>timetable_avon_theater.raw</timetable>			
+		</timetables>
+
+		<!-- 색보정 테이블 data/gfx/fx/posteffect -->
+		<cctable>colorcorrection_underwater.png</cctable>
+
+		<!-- 날씨 정보 -->
+		<!-- 타입에 따른 속성은 WeatherCommon / WeatherClient / WeatherServer.xml을 참고 -->
+		<weather type="table" name="type011" />
+		<!-- 카메라 설정. 미터단위, degree단위 -->
+		<camera>
+			<near>30</near>
+			<far>10000</far>
+			<fov>70</fov>
+		</camera>
+		
+	</environment>
+	<minimap>
+		<maxzoom>4</maxzoom>
+		<fog>
+			<enable>false</enable>
+			<radius>15</radius>
+		</fog>
+	</minimap>
+	<property>
+	</property>
+
+</variation>
