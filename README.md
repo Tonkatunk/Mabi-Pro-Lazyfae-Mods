@@ -28,6 +28,20 @@ data/db/collectingform.xml<br>
 Allows infinite range gather from Sheep, Chickens, and Elemental Sprites.  If you are not next to the creature though, the items will drop roughly half the distance between you.
 ___
 data/db<br>
-dungeon_ruin.xml and dungeondb2.xml will remove dungeon fog.  Unlike dll mods, this will still work if you log into a dungeon lobby.  While not related to the mod, you will lose draw distance in game, if you log in to a dungeon lobby and don't head out the entrance and go back in.
+dungeon_ruin.xml and dungeondb2.xml will remove dungeon fog.  Unlike dll mods, this will still work if you log into a dungeon lobby.  While not related to the mod, you will lose draw distance in game, if you log in to a dungeon lobby and don't head out the entrance and go back in.<br>
 dungeon_ruin.xml greatly increases the green color and lighting for Pantay.
+___
+data/db/gametip.xml<br>
+Removes the game tips from loading screen and the tips that pop up when you use demi.
+___
+data/db/itemdb.xml<br>
+Some fairly broad edits here.  Update some items name and/or descriptions.  Applied my own Item Filter, which consists of decreasing text size of items I don't normally pick up as well as removing the item appearance when laying on the ground.  Functionality wise, the items can still be picked up and used.  Fomor Scrolls now tell you the reward amount for collecting the set amount, it does not factor in the server gold bonus.  Evidence of Boss Monster tells you the monster it was dropped from.<br>
+data/db/itemdb translations.xml is included here, but by default won't do anything.  It is only meant to add/translate Item Names and Descriptions, does not include Item Filter.  Either rename this to itemdb.xml (requires removing the other itemdb first) so that you get the translations without the filter, or remove this file to keep your data folder clean.
+___
+data/db/minimapinfo.xml<br>
+Adds zoom to minimap regions that will support it.  Removes fog from all minimaps outside of dungeons.  This will reveal places like Solea and Ant Hell.  Also will remove the fog/exploration done for Iria's minimaps.
+___
+data/db/partyboardcategory.xml</br>
+Improves some features allowed for Party Board Restrictions.  More "Total Levels" restrictions are added, and text changed from Accrued Levels or w/e was previously used.  Production Mastery has been moved up on the list, to be right under Total Levels category, should make setting up a production party more convenient.  Carpentry has been added as a possible restriction, and placed right under Production Mastery.  "Mediation" has been fixed to read as "Meditation."<br>
+The limits on "Total Levels" are currently set to 100+, 250+, 300+, 500+, 1,000+, and 3,000+.  Reasons: 100+ is int SM, 250+ is HM dungeons, 300+ is adv SM, 500+ more as a fill, 1,000+ for HM missions, and 3,000+ for if things end up added as significantly harder than HM missions.
 ___
