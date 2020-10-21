@@ -20,3 +20,10 @@ Link to a guide currently on mabi.pro forums, to finding outdated files.  This d
    *Swaps female blunt ego to look like female bow ego.
    
    
+   5.data/db/charactercondition.xml<br>
+   *Paints Characters in Deadly as red, and Mana Shield as blue.
+   
+   6.data/db/collectingform.xml<br>
+   *Allows infinite range gather from Sheep, Chickens, and Elemental Sprites.  If you are not next to the creature though, the items will drop roughly half the distance between you.
+   
+   
