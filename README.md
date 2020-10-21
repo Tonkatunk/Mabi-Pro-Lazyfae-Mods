@@ -26,5 +26,8 @@ Paints Characters in Deadly as red, and Mana Shield as blue.
 ___
 data/db/collectingform.xml<br>
 Allows infinite range gather from Sheep, Chickens, and Elemental Sprites.  If you are not next to the creature though, the items will drop roughly half the distance between you.
-   
-   
+___
+data/db<br>
+dungeon_ruin.xml and dungeondb2.xml will remove dungeon fog.  Unlike dll mods, this will still work if you log into a dungeon lobby.  While not related to the mod, you will lose draw distance in game, if you log in to a dungeon lobby and don't head out the entrance and go back in.
+dungeon_ruin.xml greatly increases the green color and lighting for Pantay.
+___
