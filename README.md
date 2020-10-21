@@ -41,7 +41,18 @@ ___
 data/db/minimapinfo.xml<br>
 Adds zoom to minimap regions that will support it.  Removes fog from all minimaps outside of dungeons.  This will reveal places like Solea and Ant Hell.  Also will remove the fog/exploration done for Iria's minimaps.
 ___
-data/db/partyboardcategory.xml</br>
+data/db/partyboardcategory.xml<br>
 Improves some features allowed for Party Board Restrictions.  More "Total Levels" restrictions are added, and text changed from Accrued Levels or w/e was previously used.  Production Mastery has been moved up on the list, to be right under Total Levels category, should make setting up a production party more convenient.  Carpentry has been added as a possible restriction, and placed right under Production Mastery.  "Mediation" has been fixed to read as "Meditation."<br>
 The limits on "Total Levels" are currently set to 100+, 250+, 300+, 500+, 1,000+, and 3,000+.  Reasons: 100+ is int SM, 250+ is HM dungeons, 300+ is adv SM, 500+ more as a fill, 1,000+ for HM missions, and 3,000+ for if things end up added as significantly harder than HM missions.
 ___
+data/db/production.xml<br>
+Uncaps most, if not all, auto production.  Do NOT edit max production count, will eat your mats as well as dura consumed but not increase your returns.  Theoretically will add a base herb requirement for Thicket Costume, so that you can now make a Sun Kit Costume Kit without a problem, but have not personally confirmed.
+___
+data/db/propdb.xml<br>
+Will cause most sign text to now float in the air.  Some signs are at awkward heights though, such as Tara's Jousting signs, up by Lileas.  The text will instead float at a peculiar height above or below these signs, there is no proper fix for this without affecting other signs.  Any sign without floating text, should need clicked and servers an extra function besides just hovering over it to see the text.
+___
+data/db/race.xml<br>
+Adds the ability to heal any creature, this does allow Ctrl+targeting with heal to work on anything besides players as that is a skill mod and not race.  Sharp Mind will work as normal on anything that you are in combat with, if the creature is focusing something else though you will not see their skill, ex wolf fighting sheep.  Mimics and Flying Books no longer sleep, can target them and see their name normally, fun note this is done by making the client think they are graywolves.  Names are now revealed on the majority of creatures, there are some creatures that basically server as gfx and can not be attacked and do not serve as an obstruction of any kind so their names remain hidden.  I have given the name Cave Vines to the plants that spawn with Black Herb's final boss.  Recluse Spiders are now just Recluse.  Haunting will now use the Wisp model, instead of Ghost.
+___
+data/db/undergroundmaze.xml<br>
+Maxes draw distance for Ant Hell and Solea.
