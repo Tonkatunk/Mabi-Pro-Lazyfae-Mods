@@ -6,23 +6,25 @@ Link to a guide currently on mabi.pro forums, to finding outdated files.  This d
 <http://mabi.pro/thread/4136-checking-for-outdated-mods-data-folder#post13806>
 <hr></hr>
 
+
+
 data/db/ai<br>
 If local/aidescdata_human is the only file, it's an auto-play instrument mod.
 ___
 data/cutscene<br>
 skip cutscene mods.  As of 10/20/20, does not include custom content skips.  Should not cause crashing or lock ups on any vanilla content.
 ___
-   3.data/layout<br>
-   *skillcomboprogress.xml will move the Combo Card Display to below your character, instead of above.  I believe this uses absolute values and not relative positions, it's set for 1920x1080 display and may instead cause complications on higher resolutions.
-   *characterinfo/main.xml will just rename the tabs on your character sheet, C key by default.
+data/layout<br>
+skillcomboprogress.xml will move the Combo Card Display to below your character, instead of above.  I believe this uses absolute values and not relative positions, it's set for 1920x1080 display and may instead cause complications on higher resolutions.<br>
+characterinfo/main.xml will just rename the tabs on your character sheet, C key by default.
 ___
-   4.data/db/npc<br>
-   *Swaps female blunt ego to look like female bow ego.
+data/db/npc<br>
+Swaps female blunt ego to look like female bow ego.
 ___
-   5.data/db/charactercondition.xml<br>
-   *Paints Characters in Deadly as red, and Mana Shield as blue.
+data/db/charactercondition.xml<br>
+Paints Characters in Deadly as red, and Mana Shield as blue.
 ___
-   6.data/db/collectingform.xml<br>
-   *Allows infinite range gather from Sheep, Chickens, and Elemental Sprites.  If you are not next to the creature though, the items will drop roughly half the distance between you.
+data/db/collectingform.xml<br>
+Allows infinite range gather from Sheep, Chickens, and Elemental Sprites.  If you are not next to the creature though, the items will drop roughly half the distance between you.
    
    
