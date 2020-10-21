@@ -39,8 +39,8 @@ ___
 data/db/itemdb.xml<br>
 Some fairly broad edits here.  Update some items name and/or descriptions.  Applied my own Item Filter, which consists of decreasing text size of items I don't normally pick up as well as removing the item appearance when laying on the ground.  Functionality wise, the items can still be picked up and used.<br>
 Fomor Scrolls now tell you the reward amount for collecting the set amount, it does not factor in the server gold bonus.  Evidence of Boss Monster tells you the monster it was dropped from.<br>
-data/db/itemdb translations.xml is included here, but by default won't do anything.  It is only meant to add/translate Item Names and Descriptions, does not include Item Filter.  Either rename this to itemdb.xml (requires removing the other itemdb first) so that you get the translations without the filter, or remove this file to keep your data folder clean.<br>
-Phoenix feathers were renamed to Life Crystal and given a unique description.  There is another mod to change appearance, data/gfx/char/item/mesh/item_feather_001.pmg.
+Phoenix feathers were renamed to Life Crystal and given a unique description.  There is another mod to change appearance, data/gfx/char/item/mesh/item_feather_001.pmg.<br>
+data/db/itemdb translations.xml is included here, but by default won't do anything.  It is only meant to add/translate Item Names and Descriptions, does not include Item Filter or Phoenix Feather mod.  Either rename this to itemdb.xml (requires removing the other itemdb first) so that you get the translations without other changes, or remove this file to keep your data folder clean.
 ___
 data/db/minimapinfo.xml<br>
 Adds zoom to minimap regions that will support it.  Removes fog from all minimaps outside of dungeons.  This will reveal places like Solea and Ant Hell.  Also will remove the fog/exploration done for Iria's minimaps.
