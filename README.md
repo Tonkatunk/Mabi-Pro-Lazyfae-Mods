@@ -56,7 +56,7 @@ data/db/propdb.xml<br>
 Will cause most sign text to now float in the air.  Some signs are at awkward heights though, such as Tara's Jousting signs, up by Lileas.  The text will instead float at a peculiar height above or below these signs, there is no proper fix for this without affecting other signs.  Any sign without floating text, should need clicked and servers an extra function besides just hovering over it to see the text.
 ___
 data/db/race.xml<br>
-Adds the ability to heal any creature, this does allow Ctrl+targeting with heal to work on anything besides players as that is a skill mod and not race.  
+Adds the ability to heal any creature, this does not allow Ctrl+targeting with heal to work on anything besides players as that is a skill mod and not race.  
 Sharp Mind will work as normal on anything that you can actually attack, if the creature is focusing something else though you will not see their skill, ex wolf fighting sheep.  Mimics and Flying Books no longer sleep, can target them and see their name normally, fun note this was done by making the client think they are graywolves.  Names are now revealed on the majority of creatures, there are some creatures that basically server as gfx and can not be attacked and do not serve as an obstruction of any kind so their names remain hidden and a couple mobs that I'm not certain how to reveal names of.  I have given the name Cave Vines to the plants that spawn with Black Herb's final boss and Bouquet's boss.  Recluse Spiders are now just Recluse.  Haunting will now use the Wisp model, instead of Ghost.
 ___
 data/db/undergroundmaze.xml<br>
