@@ -8,7 +8,7 @@ Link to a guide currently on mabi.pro forums, to finding outdated files.  This d
 
    1.data/db/ai<br>
    *If local/aidescdata_human is the only file, it's an auto-play instrument mod.
----
+***
    2.data/cutscene<br>
    *skip cutscene mods.  As of 10/20/20, does not include custom content skips.  Should not cause crashing or lock ups on any vanilla content.
 
