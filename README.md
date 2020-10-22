@@ -71,3 +71,69 @@ ___
 data/gfx/char/item/mesh<br>
 item_arenacoin.pmg increases coin size, this increases Red Coin size without having to worry about breaking frequently from updates.  Side-effect of increasing arena coin sizes as they share the model.  item_bosskey and item_roomkey files to increase dungeon room key size.  item_none is only used if you have the data/db/itemdb.xml for the item filter, if you removed the item filter you can safely remove this too.  item_feather_001.pmg changes the phoenix feather model when on the ground.
 ___
+data/gfx/fx/char_effect<br>
+Removes the quest arrow, that shows you the direction to the currently highlighted quest.
+___
+data/gfx/fx/c2_g5_s3_props.xml<br>
+Removed waterfall fx.
+___
+data/gfx/fx/c2_g6_s1_snowfield.xml<br>
+Removed blizzard's snow fx.
+___
+data/gfx/fx/c2_g6_s2_magiceffect.xml<br>
+Removed Fusion bolt fx.
+___
+data/gfx/fx/c2_g8_s3_skill_mana_shield<br>
+Removes mana shield efffect when MS is broken.  Has entry on wings of eclipse?
+___
+data/gfx/fx/c3_g9_s2_monster_spider12.xml<br>
+Removed sulfur spider smoke fx.
+___
+data/gfx/fx/c3_g10_s1_cloud.xml<br>
+Removed Rain Casting fx.
+___
+data/gfx/fx/c3_g10_s1_others.xml<br>
+Removed waterfall fx.  Removed Lance Spark fx.
+___
+data/gfx/fx/c3_g10_s2_proximity.xml<br>
+Review me!
+___
+data/gfx/fx/c4_g13_dragon_summon.xml<br>
+Removed dragon horn fx.
+___
+data/gfx/fx/c4_g13_s2_pet_fx.xml<br>
+Removed Crystal Deer fx.
+___
+data/gfx/fx/c4_g14_s3_fire_horse<br>
+Removed most of Firehorse's fx.  They don't seem to exist, but the files are still present so I carried the mod over from my Live version.
+___
+data/gfx/fx/c4_g16_pet_ice_dragon.xml<br>
+Removed some of Ice Dragon Pet's fx.
+___
+data/gfx/fx/c5_boss_X_dragon.xml<br>
+Removed White and Black Dragon fx.  Again, don't seem to exist but files do, so carried over from Live.
+___
+data/gfx/fx/c5_doll_effect.xml<br>
+Removed Puppet fx.
+___
+data/gfx/fx/c5_monsters.xml<br>
+Removed White Ogre and White Dragon's Fear fx.
+___
+data/gfx/fx/cloth_effect_2016.xml<br>
+Removed various wands and Pineapple Cup fx.
+___
+data/gfx/fx/dramairia_gunner.xml<br>
+Removed Gun fx.
+___
+data/gfx/fx/dummy_effect.xml<br>
+Removed "Blank Dummy" fx.
+___
+data/gfx/fx/effect_wave.xml<br>
+Removed wave fx.
+___
+data/gfx/fx/effect_weather_rain.xml<br>
+Decreased "rain on screen" fx.  Increased overall rain fx, making it more dense but each raindrop is smaller.  Increase the feeling of rain without affecting visibility or leaving long streaks in your vision.
+___
+data/gfx/fx/effect_weather_snow.xml<br>
+Removed snow fx.
+___
