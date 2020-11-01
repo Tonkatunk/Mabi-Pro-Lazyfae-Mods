@@ -23,6 +23,9 @@ ___
 data/db/npc<br>
 Swaps female blunt ego to look like female bow ego.
 ___
+data/db/aircraftdesc.xml<br>
+Enhances flying pet's ascension, descension, and turning speeds as well as making them all constant.  If you want to adjust any of the speeds for yourself, look for rising, drop, or rotation.  Use replace all in a text editor and change the numbers in the quotes, higher is faster and lower is slower.  Do not touch velocity!!
+___
 data/db/charactercondition.xml<br>
 Paints Characters in Deadly as red, and Mana Shield as blue.
 ___
