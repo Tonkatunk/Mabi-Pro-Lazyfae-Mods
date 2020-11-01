@@ -140,3 +140,47 @@ ___
 data/gfx/fx/effect_weather_snow.xml<br>
 Removed snow fx.
 ___
+data/gfx/fx/fx_g5_fieldeffect.xml<br>
+Removed sandstorm effects.
+___
+data/gfx/fx/fx_magic_rolrole_ver10.xml<br>
+Removed fireball explosion fx, fireball projectile still exists.  Removed mobs' self destruct fx.  Removed mobs' size change fx.  Removed IS fx.  Removed torch fire and smoke fx.  Removed taming particles.
+___
+data/gfx/fx/glare.xml<br>
+Glare removed.
+___
+data/gfx/fx/icespear.xml<br>
+Removed Ice Spear freezing and explosion fx, in an effort to remove the IS glitch icing the entire screen.
+___
+data/gfx/fx/lightningbolt.xml<br>
+Review me!
+___
+data/gfx/fx/particles.xml<br>
+Removed monster, NPC, and Nao spawning fx.
+___
+data/gfx/fx/particles2.xml<br>
+Reworked Wisp fx.
+___
+data/gfx/fx/particles5_ver8.xml<br>
+Removed fireball explosion fx.  Removed quest waypoint fx.  
+___
+data/gfx/fx/paticle01_c2_login.xml<br>
+Removed login fx.
+___
+data/gfx/fx/pet_bike.xml<br>
+Removed fx from bike/scooter's headlight, glare, and various explosive fx.
+___
+data/gfx/fx/pet_dragon_fire.xml<br>
+Removed fx from fire dragon summon.
+___
+data/gfx/fx/pet_dragon_thunder.xml<br>
+Removed fx from thunder dragon summon.
+___
+data/gfx/fx/ubicommon_nj.xml<br>
+Removed fx from Sakura Abyss.
+____
+data/gfx/fx/ubicommon_nj2.xml<br>
+Removed fx from Kunai storm.
+___
+data/gfx/reflection/reflection.xml<br>
+Removed all reflections.
