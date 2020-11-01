@@ -184,3 +184,44 @@ Removed fx from Kunai storm.
 ___
 data/gfx/reflection/reflection.xml<br>
 Removed all reflections.
+___
+data/gfx/gui/map_jpg<br>
+minimap_emainmacha_eng.jpg includes location of Sky Palace.<br>
+minimap_iria_connous_eng.jpg exploration map. UOTiara<br>
+minimap_iria_connous_underworld.jpg is clearly marked. UOTiara<br>
+minimap_iria_courcle_eng.jpg exploration map and shows some custom content spawns.  UOTiara<br>
+minimap_iria_nw_tunnel_n_eng.jpg clearly marked.  UOTiara with hidden herbs by me.<br>
+minimap_iria_nw_tunnel_s_eng.jpg clearly marked.  UOTiara with hidden herbs by me.<br>
+minimap_iria_rano_eng.jpg exploration map. UOTiara.<br>
+minimap_taillteann_abb_neagh_eng_rep.jpg Crag Cow spawn locations marked. UOTiara<br>
+minimap_taillteann_jpn_rep.jpg Tail town SM potential spawns and a recommended route. Unknown Source?<br>
+minimap_taillteann_sliab_cuilin_jpn_rep.jpg Sliab Cuilin SM potential spawns. UOTiara<br>
+minimap_tara_jpn_rep.jpg Tara town SM potential spawns.  Includes generation spawns. UOTiara<br>
+minimap_tara_n_field_jpn_rep.jpg Corrib Valley SM potential spawns. UOTiara<br>
+minimap_viridius_cave.jpg Points of interest in Viridian Caverns, for raid.  Credit to kaydee for an original guide and some markings on pro forums.<br>
+___
+data/gfx/gui<br>
+font_eng.dds and font_outline_eng.dds cleaned up.<br>
+interface.dds various elements for the interface are modded.  Side-effect, when demi'd enemy icons are now orange instead of red.  Has UOTiara's Party and shop banners.
+___
+data/gfx/image/npc<br>
+Gives Female Blunt Ego the appearance of Female Bow Ego.  Lines are still Blunt's.
+___
+data/gfx/image/gui_icon_skill_000.dds<br>
+Changed the skill bubble for the revival feather into a crystal from FFT.
+___
+data/gfx/image/item_phoenix_feather.dds<br>
+Changed the inventory icon for revival feather, into a crystal from FFT.
+___
+data/gfx/image/npcdialogue2.dds<br>
+Changed the dialogue box for NPCs, to give it transparency.
+___
+data/gfx/image/uu_weapon_dagger001.dds<br>
+Changed the inventory image for dagger, to make it easy to differentiate from a gathering knife.
+___
+data/gfx/scene/productionprop<br>
+Makes mushrooms giant.
+___
+data/gfx/scene<br>
+Large number of files in this directory of similar intent.  Suffice to say it servers to minimize things.  Mostly dungeon wall removal, dungeon fx/fog removal, removing small plants that are only eye candy, and cutting tops off trees.  Also includes tail and tara minimizations; primarily roped buildings.<br>
+___
