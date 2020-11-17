@@ -2105,10 +2105,10 @@ pli_windowachievementframes.2	{0} Point(s)
 pli_windowachieveview.0	Only {0} remaining!
 pli_windowachieveview.1	Received {0}.
 pli_windowachieveview.2	I discovered {0}.
-pli_windowachieveview.3	특별한 색으로 염색되었다.
-pli_windowachieveview.4	평범한 색으로 {0}의 염색에 성공했다!
-pli_windowachieveview.5	평범한 색으로 염색되었다.
-pli_windowachieveview.6	평범한 색으로 {0}의 염색에 성공했다!
+pli_windowachieveview.3	Dyed in a special color.
+pli_windowachieveview.4	Successfully dyed {0} with a normal color.
+pli_windowachieveview.5	Dyed in a normal color.
+pli_windowachieveview.6	Successfully dyed {0} with a normal color.
 pli_windowaddnewfriend.1	Add Friend
 pli_windowaddnewfriend.2	Character
 pli_windowaddnewfriend.3	Server
@@ -2121,18 +2121,18 @@ pli_windowarenaframe.2	The skill that you are currently exhibiting will be cance
 pli_windowarenaframe.3	Will start in {0:time_string}")
 pli_windowarenaframe.4	When each party's leader presses the 'Ready' button, the arena battle can begin.
 pli_windowbag.1	Alchemy Crystal Bag
-pli_windowbag.2	낚시 전용 가방
+pli_windowbag.2	Fishing Bag
 pli_windowballoon.1	{0}'s\n
 pli_windowbank.1	Please wait a moment.
 pli_windowbank.2	Human
 pli_windowbank.3	Elf
 pli_windowbank.4	Failed to get bank information.
 pli_windowbank.5	Giant
-pli_windowbank.6	초
-pli_windowbank.7	분
-pli_windowbank.8	이 아이템은 유효기간이 지나서 여기로 가져오더라도 꺼내는 즉시 사라집니다.\n\n
-pli_windowbank.9	이 아이템은 유효기간이 {0}{1} 남아서 여기로 가져오더라도 꺼내는 즉시 사라집니다.\n\n
-pli_windowbank.10	이 아이템은 유효기간이 {0}{1} 남아서 여기로 가져오더라도 가져오고 얼마 후 바로 사라집니다.\n\n
+pli_windowbank.6	seconds
+pli_windowbank.7	minutes
+pli_windowbank.8	The item is expired and will disappear on removal.\n\n
+pli_windowbank.9	The item expired {0} {1} and will disappear on removal.\n\n
+pli_windowbank.10	The item expired {0} {1} and will disappear shortly after removal.\n\n
 pli_windowbank.11	Lock
 pli_windowbattlegroundframe.1	\nGuild Members : {0} Members
 pli_windowbattlegroundframe.2	\nGuild Points : {0} Points
@@ -2162,7 +2162,7 @@ pli_windowbossraiddungeoncomplete.17	{0}
 pli_windowbuy.1	Jousting Point Price: {0} Points
 pli_windowbuy.2	Your current Jousting Points: {0} Points
 pli_windowbuy.3	{0} : {1} 
-pli_windowbuy.4	거래 후에는 아이템의 거래 가능 횟수가 1 줄어듭니다.\n거래 가능 횟수가 0이 되면 더 이상 거래할 수 없습니다.\n거래하시겠습니까?
+pli_windowbuy.4	After trading, the number of possible trades decreases by 1.\nDo wish to trade?
 pli_windowbuy.5	Notice
 pli_windowcampballoon.1	{0} ({1} to hide)
 pli_windowcampsharing.0	House Sharing
@@ -2244,8 +2244,8 @@ pli_windowcharacter2.10	None
 pli_windowcharacter2.11	None
 pli_windowcharacter2.12	None
 pli_windowcharacter2.13	{0} / {1}
-pli_windowchatlog.1	메시지를 입력하세요.
-pli_windowchatlog.2	상대방이름
+pli_windowchatlog.1	Please enter a message.
+pli_windowchatlog.2	Opponent's name.
 pli_windowchatview.1	Chatting
 pli_windowcombocardview.1	Expires
 pli_windowcombocardview.2	Expired
@@ -3115,7 +3115,7 @@ pli_windowpvprankview.16	Next page
 pli_windowquest.1	Norm
 pli_windowquest.2	G13
 pli_windowquest.3	G9-G12
-pli_windowquest.4	G1
+pli_windowquest.4	G1-G3
 pli_windowquest.5	Story
 pli_windowquest.6	Quest
 pli_windowquestframes.1	This is a Storyline Quest.
