@@ -58,7 +58,9 @@ data/db/propdb.xml<br>
 Will cause most sign text to now float in the air.  Some signs are at awkward heights though, such as Tara's Jousting signs, up by Lileas.  The text will instead float at a peculiar height above or below these signs, there is no proper fix for this without affecting other signs.  Any sign without floating text, should need clicked and servers an extra function besides just hovering over it to see the text.
 ___
 data/db/race.xml<br>
-Mimics and Flying Books no longer sleep, can target them and see their name normally, fun note this was done by making the client think they are graywolves.  Haunting will now use the Wisp model, instead of Ghost.
+NOTICE FROM PRO'S STAFF: Do not edit race.xml for anything outside of visual edits.  Targeting sleeping mimics and books is allowed at this point in time.<br>
+Mimics and Flying Books no longer sleep, can target them and see their name normally.  Haunting will now use the Wisp model, instead of Ghost.<br>
+Word of warning to mod creators/editors.  While I have checked and got the okay from a mod, about editing race for mimics/books, that does not mean it is a favorable mod, only tolerated.  Please be respectful of our staffs' decisions, don't create drama, and don't go beyond the permitted edits.
 ___
 data/db/undergroundmaze.xml<br>
 Maxes draw distance for Ant Hell and Solea.
