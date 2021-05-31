@@ -31,6 +31,8 @@
 			dungeonpassname					unknown
 			dungeonpassable					unknown
 			dungeonpassindex				unknown
+			experience						gain exp?
+			ranking 						used for leaderboards?
 		///////////<floordesc/>////////////////
 		If the sum of the section maxs of the puzzle below it is larger than the critpathmin value of floordesc, the dungeon may break. 
 			width				 how many dungeon tiles on x axis
@@ -40,13 +42,15 @@
 			critpathmax			there's some weird math to these, experiment. Should equal to about double the amount of max possible puzzles
 			coverage			How much filler space there is. If you add too much you'll have long ass halls. experiement
 			branch				How nonlinear the floor is. Still follows a linear path based on sections. experiement
-			tileset				useless
+			tileset				something with dungeonfloor?
 			color				dungeon color, hex code
 			lightcolor			lighting color, hex code
 			fog					minimap?
 			healingpoint		unknown
 			monsterdesc			unknown
-			floormusic 			sick floor tunes
+			boss 				sick floor tunes
+			statue 			????
+			custom 			dungeonfloorcustomize
 		///////////extra notes////////////////
 			outdoor dungeons might have a set render limit on a 8x8 plane. Try to keep any outdoor dungeons small. at least until this issue is fixed
 			you can have multiple boss rooms in a dungeon, 1 per floor
@@ -2316,6 +2320,35 @@
 						<section min="2" max="2">
 							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster2.mint" arg1="single(BrownTownRat:3)" arg2="single(BrownTownRat:3)" arg3="single(GoblinKid:3)" />
 							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster2.mint" arg1="single(GrayTownRat:3)" arg2="single(GrayTownRat:3)" arg3="single(GoblinKid:3)" />
+						</section>
+					</puzzledesc>
+				</floordesc>
+			</floordescs>
+			<floors>
+				<floor value="1" />
+			</floors>
+		</dungeon>
+		<dungeon name="MabiLand2_Onslaught_2" localname="Castle Onslaught Part 2 - Northern Mountains" private="true" baseseed="10205620" dungeonstyle="100000" exit="Ula_DgnHall_Mabiland_CT_before/_Ula_DgnHall_Mabiland_CT_before/DG_Mabiland_Outer_Spawn" lobby="Uladh_Dungeon_Black_Wolfs_Hall2/_Uladh_Dungeon_Black_Wolfs_Hall2" lobbydownstairid="10038" lobbysafetyzonename="TirChonaill_North3" savestatueid="10035" laststatueid="10032" normaldoorid="10102" bossentrydoorid="10104" bossexitdoorid="10105" regiongroup="10000" scenetype="indoor" distantmesh="distant_tirchornail" safetymusic="A_Safety_Zone.mp3" bossmusic="A_Safety_Zone.mp3">
+			<floordescs>
+				<floordesc width="4" height="4" sectionnum="7" critpathmin="25" critpathmax="30" coverage="50" branch="10" tileset="0" color="57dcff,57dcff,57dcff" lightcolor="61deff,61deff,61deff" fog="0" healingpoint="0" monsterdesc="" floormusic="Dungeon_7.mp3">
+					<boss script="data/script/puzzle/boss/MabiLand2_Onslaught_pt2.mint" value="1" />
+					<puzzledesc>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(SnowCoyote_ONS:4)" arg2="single(SnowCoyote_ONS:6)" arg3="group(2209)" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(SnowCoyote_ONS:4)" arg2="group(2204)" arg3="group(2209)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2210)" arg2="single(SnowGoblinBandit_ONS:5)" arg3="group(2211)" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(SnowGoblinHunter_ONS:4)" arg2="group(2212)" arg3="group(2213)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2214)" arg2="single(SnowGoblinHunter_ONS:6)" arg3="group(2215)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2215)" arg2="single(SnowTroll_ONS:2)" arg3="group(2216)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2217)" arg2="single(SnowGrizzlyCub_ONS:3)" arg3="group(2218)" />
 						</section>
 					</puzzledesc>
 				</floordesc>
@@ -8969,6 +9002,34 @@
 				<floor value="1" />
 			</floors>
 		</dungeon>
+		<dungeon name="MabiLand2_Onslaught_3" localname="Castle Onslaught Part 3 - Dubros Forest" private="true" baseseed="21335000" dungeonstyle="500000" exit="Ula_DgnHall_Mabiland_CT_before/_Ula_DgnHall_Mabiland_CT_before/DG_Mabiland_Outer_Spawn" lobby="Ula_DgnHall_Danu_after/_Ula_DgnHall_Danu_after" lobbydownstairid="27025" lobbysafetyzonename="DG_DanuAfter_Border" savestatueid="27027" laststatueid="27016" normaldoorid="27018" bossentrydoorid="27020" bossexitdoorid="27021"  regiongroup="10000" scenetype="outdoor" distantmesh="distant_tirchornail" safetymusic="A_Safety_Zone.mp3" bossmusic="boss.mp3">
+			<floordescs>
+				<floordesc width="4" height="4" sectionnum="5" critpathmin="25" critpathmax="30" coverage="50" branch="10" tileset="0" color="808080,808080,808080" lightcolor="00808080,00808080,00A3A0B1" fog="0" healingpoint="0" monsterdesc="" floormusic="Dungeon_3.mp3">
+					<boss script="data/script/puzzle/boss/MabiLand2_Onslaught_pt3.mint" value="1" />
+					<puzzledesc>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(Wisp_ONS:4)" arg2="single(CommonWasp_ONS:6)" arg3="group(2219)" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(CommonWasp_ONS:4)" arg2="group(2220)" arg3="group(2221)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(Yellowjacket_ONS:4)" arg2="single(Wisp_ONS:2)" arg3="group(2222)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2224)" arg2="single(CommonWasp_ONS:6)" arg3="group(2223)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(FireSprite_ONS:4)" arg2="single(LightningSprite_ONS:4)" arg3="group(2225)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2226)" arg2="single(CommonWasp_ONS:8)" arg3="group(2227)" />
+						</section>
+					</puzzledesc>
+				</floordesc>
+			</floordescs>
+			<floors>
+				<floor value="1" />
+			</floors>
+		</dungeon>
 		<!--///////////////////////////////////////////////////////////////////////-->
 		<!-- 가이레흐 피오드 던전 -->
 		<dungeon name="Gairech_Fiodh_Dungeon" localname="_LT[xml.dungeondb.20]" baseseed="340000000" dungeonstyle="500000" exit="Ula_DgnHall_Danu_before/_Ula_DgnHall_Danu_before/DG_Danu_Outer_Spawn" lobby="Ula_DgnHall_Danu_after/_Ula_DgnHall_Danu_after" lobbydownstairid="27025" lobbysafetyzonename="DG_DanuAfter_Border" savestatueid="27027" laststatueid="27016" normaldoorid="27018" bossentrydoorid="27020" bossexitdoorid="27021" regiongroup="10400" scenetype="outdoor" distantmesh="distant_tirchornail" safetymusic="A_Safety_Zone.mp3" bossmusic="boss_1.mp3">
@@ -11920,6 +11981,37 @@
 	<dungeon_group name="Rundal_Dungeon_Group" extradropitemtablename="1">
 		<!--///////////////////////////////////////////////////////////////////////-->
 		<!--///////////////////////////////////////////////////////////////////////-->
+		<dungeon name="MabiLand2_Onslaught_4" localname="Castle Onslaught Part 4 - Donegal WaterWays" private="true" baseseed="2222000" dungeonstyle="600000" exit="Ula_DgnHall_Mabiland_CT_before/_Ula_DgnHall_Mabiland_CT_before/DG_Mabiland_Outer_Spawn" lobby="Ula_DgnHall_Runda_after/_Ula_DgnHall_Runda_after" sighttype="fieldtype" sceneryid="31030" lobbydownstairid="31019" lobbysafetyzonename="DG_EmainAfter_Border" savestatueid="31031" laststatueid="31032" normaldoorid="31026" bossentrydoorid="31028" bossexitdoorid="31029" regiongroup="10000" scenetype="indoor" distantmesh="distant_tirchornail" safetymusic="A_Safety_Zone.mp3" bossmusic="boss.mp3">
+			<floordescs>
+				<floordesc width="4" height="4" sectionnum="6" critpathmin="25" critpathmax="30" coverage="50" branch="10" tileset="0" color="00ffffff,00ffffff,00ffffff" lightcolor="00ffffff,00ffffff,00A3A0B1" fog="0" healingpoint="0" monsterdesc="" floormusic="Dungeon_3.mp3">
+					<boss script="data/script/puzzle/boss/MabiLand2_Onslaught_pt4.mint" value="1" />
+					<puzzledesc>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(FishExploder_ONS:2)" arg2="single(CatSithWarrior_ONS:6)" arg3="single(FishFighter_ONS:6)" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(FishSoldier_ONS:3)" arg2="single(CatSithFighter_ONS:3)" arg3="group(2232)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(CatSithWarrior_ONS:3)" arg2="single(FishFighter_ONS:3)" arg3="group(2229)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2233)" arg2="group(2230)" arg3="group(2234)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2235)" arg2="single(FishExploder_ONS:2)" arg3="group(2236)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2239)" arg2="group(2237)" arg3="group(2238)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2239)" arg2="group(2240)" arg3="group(2241)" />
+						</section>
+					</puzzledesc>
+				</floordesc>
+			</floordescs>
+			<floors>
+				<floor value="1" />
+			</floors>
+		</dungeon>
 		<!-- 이멘 마하 룬다 G13 세이렌 던전 -->
 		<dungeon name="Emain_Runda_Dungeon_G13_Easy" localname="_LT[xml.dungeondb.205]" baseseed="760000000" dungeonstyle="600000" private="true" exit="Ula_DgnHall_Runda_before/_Ula_DgnHall_Runda_before/DG_RundaBefore_Outer_Spawn" lobby="Ula_DgnHall_Runda_after/_Ula_DgnHall_Runda_after" sighttype="fieldtype" sceneryid="31030" lobbydownstairid="31019" lobbysafetyzonename="DG_EmainAfter_Border" savestatueid="31031" laststatueid="31032" normaldoorid="31026" bossentrydoorid="31028" bossexitdoorid="31029" regiongroup="10500" scenetype="indoor" distantmesh="distant_tirchornail" safetymusic="A_Safety_Zone.mp3" bossmusic="boss_2.mp3">
 			<floordescs>
@@ -16219,6 +16311,46 @@
 	<dungeon_group name="Cuilin_Keep_Dungeon_Group" extradropitemtablename="1">
 		<!--///////////////////////////////////////////////////////////////////////-->
 		<!--///////////////////////////////////////////////////////////////////////-->
+		<dungeon name="MabiLand2_Onslaught_6" localname="Castle Onslaught Part 6 - Donegal Castle" private="true" baseseed="11500000" dungeonstyle="1000000" exit="Ula_DgnHall_Mabiland_CT_before/_Ula_DgnHall_Mabiland_CT_before/DG_Mabiland_Outer_Spawn" lobby="Tara_keep_DgnHall_after/_Tara_keep_DgnHall_after_0" lobbydownstairid="26528" lobbysafetyzonename="DG_Tara_keep_After_Border" savestatueid="26525" laststatueid="26526" normaldoorid="26514" bossentrydoorid="26516" bossexitdoorid="26517" regiongroup="10000" scenetype="indoor" distantmesh="distant_tirchornail" safetymusic="A_Safety_Zone.mp3" bossmusic="boss.mp3">
+			<floordescs>
+				<floordesc width="4" height="4" sectionnum="3" critpathmin="25" critpathmax="30" coverage="50" branch="10" tileset="0" color="00ffffff,00ffffff,00ffffff" lightcolor="00ffffff,00ffffff,00A3A0B1" fog="0" healingpoint="0" monsterdesc="" floormusic="Dungeon_3.mp3">
+					<puzzledesc>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(Doppleganger_ONS:3)" arg2="single(Doppleganger_ONS:6)" arg3="group(2253)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(DireDoppleganger_ONS:4)" arg2="group(2254)" arg3="group(2255)" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(Doppleganger_ONS:6)" arg2="single(FlameSuccubus_ONS:6)" arg3="group(2256)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(DarkGargoyle_ONS:4)" arg2="single(AbyssGargoyle_ONS:2)" arg3="group(2257)" />
+						</section>
+					</puzzledesc>
+				</floordesc>
+				<floordesc width="4" height="4" sectionnum="3" critpathmin="25" critpathmax="30" coverage="50" branch="20" tileset="0" color="727272,727272,727272" lightcolor="727272,727272,727272" fog="0" healingpoint="0" monsterdesc="" floormusic="Dungeon_2.mp3">
+				<boss script="data/script/puzzle/boss/MabiLand2_Onslaught_pt6.mint" value="1" />
+					<puzzledesc>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2258)" arg2="single(SiphonSuccubus_ONS:6)" arg3="group(2259)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2258)" arg2="single(ShockSuccubus_ONS:6)" arg3="group(2260)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2254)" arg2="group(2255)" arg3="group(2261)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2262)" arg2="group(2263)" arg3="group(2264)" />
+						</section>
+					</puzzledesc>
+					<extradesc>
+						<extra descriptor="data/script/puzzle/element/Chest_OnWayEnd_1.mint" />
+					</extradesc>
+				</floordesc>
+			</floordescs>
+			<floors>
+				<floor value="1" />
+				<floor value="2" />
+			</floors>
+		</dungeon>
 		<!--퀼린 성 지하 던전-->
 		<dungeon name="Cuilin_Keep_Dungeon" localname="_LT[xml.dungeondb.207]" baseseed="10000000" dungeonstyle="1000000" exit="Tara_keep_DgnHall_before/_Tara_keep_DgnHall_before_0/DG_Tara_keep_Before_Outer_Spawn" lobby="Tara_keep_DgnHall_after/_Tara_keep_DgnHall_after_0" lobbydownstairid="26528" lobbysafetyzonename="DG_Tara_keep_After_Border" savestatueid="26525" laststatueid="26526" normaldoorid="26514" bossentrydoorid="26516" bossexitdoorid="26517" regiongroup="2004" scenetype="indoor" distantmesh="distant_tirchornail" safetymusic="A_Safety_Zone.mp3" bossmusic="boss.mp3" blockboss="true" private="true">
 			<floordescs>
@@ -17747,11 +17879,73 @@
 				<floor value="3" />
 			</floors>
 		</dungeon>
+		
+		<dungeon name="MabiLand2_Onslaught_1" localname="Castle Onslaught Part 1 - Sidhe Sneachta" private="true" baseseed="11000000" dungeonstyle="2200000" exit="Ula_DgnHall_Mabiland_CT_before/_Ula_DgnHall_Mabiland_CT_before/DG_Mabiland_Outer_Spawn" lobby="Uladh_Dungeon_Black_Wolfs_Hall2/_Uladh_Dungeon_Black_Wolfs_Hall2" lobbydownstairid="10038" lobbysafetyzonename="TirChonaill_North3" sighttype="fieldtype" sceneryid="44001" savestatueid="35103" laststatueid="35117" normaldoorid="44016" bossentrydoorid="35107" bossexitdoorid="35108" regiongroup="7" scenetype="outdoor" distantmesh="distant_dugald_housing" private="true" safetymusic="A_Safety_Zone.mp3" bossmusic="boss.mp3">
+			<floordescs>
+				<floordesc width="4" height="4" sectionnum="5" critpathmin="25" critpathmax="30" coverage="50" branch="10" tileset="0" color="00737373,00737373,00737373" lightcolor="00737373,00737373,00737373" fog="0" healingpoint="0" monsterdesc="" floormusic="Dungeon_1.mp3">
+					<boss script="data/script/puzzle/boss/MabiLand2_Onslaught_pt1.mint" value="1" />
+					<puzzledesc>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(SnowFox_ONS:2)" arg2="group(2200)" arg3="group(2201)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(SnowFox_ONS:6)" arg2="single(SnowCoyote_ONS:8)" arg3="group(2202)" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(SnowGoblin_ONS:6)" arg2="group(2202)" arg3="group(2203)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(SnowGoblinBandit_ONS:5)" arg2="group(2202)" arg3="group(2204)" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2201)" arg2="group(2205)" arg3="group(2206)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2205)" arg2="group(2206)" arg3="group(2208)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2202)" arg2="group(2207)" arg3="group(2208)" />
+						</section>
+					</puzzledesc>
+				</floordesc>
+			</floordescs>
+			<floors>
+				<floor value="1" />
+			</floors>
+		</dungeon>
+
 	</dungeon_group>
 	<!-- 티르나노이 알베이 던전 그룹 -->
 	<dungeon_group name="Tirnanog_Dungeon_Group" extradropitemtablename="1">
 		<!--///////////////////////////////////////////////////////////////////////-->
 		<!--///////////////////////////////////////////////////////////////////////-->
+		<dungeon name="MabiLand2_Onslaught_5" localname="Castle Onslaught Part 5 - Donegal Sewers" private="true" baseseed="34000000" dungeonstyle="400000" exit="Ula_DgnHall_Mabiland_CT_before/_Ula_DgnHall_Mabiland_CT_before/DG_Mabiland_Outer_Spawn" lobby="Ula_DgnHall_Tirnanog_after/_Ula_DgnHall_Tirnanog_after" lobbydownstairid="25018" lobbysafetyzonename="DG_Tirnanog_Border" savestatueid="10035" laststatueid="10032" normaldoorid="25022" bossentrydoorid="25024" bossexitdoorid="25025" regiongroup="10000" scenetype="indoor" distantmesh="distant_tirchornail" safetymusic="A_Safety_Zone.mp3" bossmusic="boss.mp3">
+			<floordescs>
+				<floordesc width="4" height="4" sectionnum="5" critpathmin="25" critpathmax="30" coverage="50" branch="10" tileset="0" color="748c99,748c99,748c99" lightcolor="748c99,748c99,748c99" fog="0" healingpoint="0" monsterdesc="" floormusic="Dungeon_8.mp3">
+					<boss script="data/script/puzzle/boss/MabiLand2_Onslaught_pt5.mint" value="1" />
+					<puzzledesc>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(GutterRat_ONS:4)" arg2="group(2243)" arg3="single(GutterRat_ONS:6)" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(ArmorZombie_F_ONS:4)" arg2="group(2242)" arg3="group(2244)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2245)" arg2="single(CheeseThief_ONS:4)" arg3="group(2246)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="single(CheeseHoarder_ONS:3)" arg2="group(2247)" arg3="group(2248)" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2249)" arg2="group(2242)" arg3="group(2250)" />						
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/keychest_onslaught.mint" arg1="group(2243)" arg2="group(2251)" arg3="group(2252)" />
+						</section>
+					</puzzledesc>
+					<extradesc>
+						<extra descriptor="data/script/puzzle/element/Chest_OnWayEnd_1.mint" />
+					</extradesc>
+				</floordesc>
+			</floordescs>
+			<floors>
+				<floor value="1" />
+			</floors>
+		</dungeon>
 		<!-- 티르나노이 알베이 던전 -->
 		<dungeon name="Tirnanog_Dungeon" localname="_LT[xml.dungeondb.32]" baseseed="330000000" dungeonstyle="400000" exit="Ula_DgnHall_Tirnanog_before1/_Ula_DgnHall_Tirnanog_before1/DG_TirnanogBefore1_Outer_Spawn" lobby="Ula_DgnHall_Tirnanog_after/_Ula_DgnHall_Tirnanog_after" lobbydownstairid="25018" lobbysafetyzonename="DG_Tirnanog_Border" savestatueid="25029" laststatueid="25030" normaldoorid="25022" bossentrydoorid="25024" bossexitdoorid="25025" regiongroup="10300" scenetype="indoor" distantmesh="distant_tirchornail" safetymusic="A_Safety_Zone.mp3" bossmusic="boss.mp3">
 			<floordescs>
@@ -21914,33 +22108,33 @@
 			<floordesc width="8" height="8" sectionnum="4" critpathmin="34" critpathmax="48" coverage="40" branch="70" tileset="0" color="00FFFFFF,00f56156,00FFFFFF" lightcolor="00FFFFFF,00FFFFFF,00FFFFFF" fog="0" healingpoint="0" monsterdesc="" floormusic="Dungeon_17.mp3">
 					<puzzledesc>
 						<section min="4" max="6">
-							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(flyingsword2:6)" arg2="group(5030)" arg3="single(ArcanaSwords:4)" />
-							<puzzle descriptor="data/script/puzzle/element/KeyChest_3mimic.mint" arg1="single(SpriteProtector:2)" arg2="single(FireSprite:2)" arg3="single(ArcanaSwords:3)" />
-							<puzzle descriptor="data/script/puzzle/element/KeyChest_3mimic.mint" arg1="single(ArcanaSwords:4)" arg2="single(FireSprite:3)" arg3="single(SpriteProtector:3)" />
-							<puzzle descriptor="data/script/puzzle/element/SwitchDoor_SwitchMonster.mint" arg1="single(ArcanaSwords:3)" />
-							<puzzle descriptor="data/script/puzzle/element/SwitchDoor_SwitchMonster.mint" arg1="group(5030)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(flyingsword2:6)" arg2="single(FireSprite:4)" arg3="single(ArcanaSwords_easy:4)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3mimic.mint" arg1="single(SkeletalHound_easy:2)" arg2="single(FireSprite:3)" arg3="single(flyingsword2:3)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3mimic.mint" arg1="single(flyingsword2:4)" arg2="single(FireSprite:3)" arg3="single(SkeletalHound_easy:3)" />
+							<puzzle descriptor="data/script/puzzle/element/SwitchDoor_SwitchMonster.mint" arg1="single(flyingsword2:3)" />
+							<puzzle descriptor="data/script/puzzle/element/SwitchDoor_SwitchMonster.mint" arg1="single(ArcanaSwords_easy:4)" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_roamsprites.mint" />
-							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(ArcanaSwords:3)" arg2="single(ArcanaSwords:6)" arg3="single(LightningSprite:5)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(flyingsword2:3)" arg2="single(ArcanaSwords_easy:4)" arg3="single(LightningSprite:5)" />
 						</section>
 						<section min="3" max="5">
 							<puzzle descriptor="data/script/puzzle/element/arcane_arcanegate.mint" />
-							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(flyingsword2:3)" arg2="single(ArcanaSwords:6)" arg3="single(LightningSprite:5)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(flyingsword2:3)" arg2="single(flyingsword2:6)" arg3="single(LightningSprite:5)" />
 							<puzzle descriptor="data/script/puzzle/element/SwitchDoor_SwitchMonster.mint" arg1="single(LightningSprite:3)" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_bookpile.mint" />
 							<puzzle descriptor="data/script/puzzle/element/switchdoor_switchhall.mint" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_roamsprites.mint" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_apostlehunter.mint" />
-							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="group(5030)" arg2="single(FireSprite:3)" arg3="group(5022)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(FireSprite:3)" arg2="single(FireSprite:5)" arg3="(LightningSprite:8)" />
 						</section>
 						<section min="2" max="3">
-							<puzzle descriptor="data/script/puzzle/element/keychest_3mimic.mint" arg1="single(flyingsword2:3)" arg2="single(FireSprite:1)" arg3="single(MagicSandMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_3mimic.mint" arg1="single(flyingsword2:3)" arg2="single(FireSprite:1)" arg3="single(SandMimic:3)" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_arcanegate.mint" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_roamsprites.mint" />
 						</section>
 						<section min="2" max="3">
 							<puzzle descriptor="data/script/puzzle/element/SwitchDoor_SwitchMonster.mint" arg1="single(flyingsword2:3)" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_arcanegate.mint" />
-							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(flyingsword2:3)" arg2="single(ArcanaSwords:6)" arg3="single(LightningSprite:5)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(flyingsword2:3)" arg2="single(ArcanaSwords_easy:4)" arg3="single(LightningSprite:5)" />
 							
 						</section>
 					</puzzledesc>
@@ -21951,39 +22145,39 @@
 					<boss script="data/script/puzzle/boss/ArcaneBoss_easy.mint" value="1" />
 					<puzzledesc>
 						<section min="4" max="5">
-							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(SkeletalHound:4)" arg2="single(SkeletalHound:6)" arg3="single(LightningSprite:5)" />
-							<puzzle descriptor="data/script/puzzle/element/KeyChest_3mimic.mint" arg1="single(FireSprite:2)" arg2="single(ArcanaSwords:7)" arg3="single(ArcaneFireSprite:1)" />
-							<puzzle descriptor="data/script/puzzle/element/SwitchDoor_SwitchMonster.mint" arg1="single(LightningSprite:3)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(SkeletalHound_easy:5)" arg2="single(SkeletalHound_easy:6)" arg3="single(LightningSprite:5)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3mimic.mint" arg1="single(FireSprite:3)" arg2="single(flyingsword2:7)" arg3="single(FireSprite:5)" />
+							<puzzle descriptor="data/script/puzzle/element/SwitchDoor_SwitchMonster.mint" arg1="single(LightningSprite:4)" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_roamsprites.mint" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_roamsprites.mint" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_roamsprites.mint" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_bookpile.mint" />
 						</section>
 						<section min="3" max="4">
-							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(ArcanaSwords:4)" arg2="group(5022)" arg3="group(5028)" />
-							<puzzle descriptor="data/script/puzzle/element/arcane_trap_lonemob.mint" arg1="single(SpriteProtector:1)" arg2="group(5027)" arg3="single(ArcaneWard:1)" />
-							<puzzle descriptor="data/script/puzzle/element/SwitchDoor_SwitchMonster.mint" arg1="single(SkeletalHound:3)" />
-							<puzzle descriptor="data/script/puzzle/element/keychest_3mimic.mint" arg1="group(5029)" arg2="single(flyingsword2:3)" arg3="single(MagicSandMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(ArcanaSwords_easy:4)" arg2="single(LightningSprite:5)" arg3="single(SkeletalHound_easy:4)" />
+							<puzzle descriptor="data/script/puzzle/element/arcane_trap_lonemob.mint" arg1="single(SkeletalHound_easy:1)" arg2="single(LightningSprite:8)" arg3="single(ArcaneWard:1)" />
+							<puzzle descriptor="data/script/puzzle/element/SwitchDoor_SwitchMonster.mint" arg1="single(SkeletalHound_easy:3)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_3mimic.mint" arg1="single(SkeletalHound_easy:5)" arg2="single(ArcanaSwords_easy:3)" arg3="single(SandMimic:1)" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_roamsprites.mint" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_roamsprites.mint" />
 						</section>
 						<section min="3" max="4">
-							<puzzle descriptor="data/script/puzzle/element/keychest_3mimic.mint" arg1="single(LightningSprite:1)" arg2="single(ArcanaSwords:2)" arg3="single(SkeletalHound:2)" />
-							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(ArcanaSwords:3)" arg2="single(MagicSandMimic:3)" arg3="group(5028)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_3mimic.mint" arg1="single(LightningSprite:4)" arg2="single(ArcanaSwords_easy:5)" arg3="single(SkeletalHound_easy:4)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(ArcanaSwords_easy:3)" arg2="single(SandMimic:3)" arg3="single(LightningSprite:5)" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_roamsprites.mint" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_bookpile.mint" />
-							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(ArcanaSwords:3)" arg2="single(MagicSandMimic:3)" arg3="group(5028)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(ArcanaSwords_easy:3)" arg2="single(SandMimic:3)" arg3="single(LightningSprite:5)" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_arcanegate.mint" />
 						</section>
 						<section min="2" max="3">
-							<puzzle descriptor="data/script/puzzle/element/switchdoor_switchhall2.mint" arg1="group(5022)" arg2="single(SkeletalHound:2)" />
-							<puzzle descriptor="data/script/puzzle/element/arcane_trap_lonemob.mint" arg1="single(MagicSandMimic:1)" arg2="single(SkeletalHound:3)" arg3="single(ArcanaSwords:2)" />
+							<puzzle descriptor="data/script/puzzle/element/switchdoor_switchhall2.mint" arg1="single(SkeletalHound_easy:6)" arg2="single(SkeletalHound_easy:2)" />
+							<puzzle descriptor="data/script/puzzle/element/arcane_trap_lonemob.mint" arg1="single(SandMimic:1)" arg2="single(SkeletalHound_easy:3)" arg3="single(ArcanaSwords_easy:3)" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_roamsprites.mint" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_bookpile.mint" />
 						</section>
 						<section min="3" max="4">
-							<puzzle descriptor="data/script/puzzle/element/SwitchDoor_SwitchMonster.mint" arg1="single(SkeletalHound:3)" />
-							<puzzle descriptor="data/script/puzzle/element/keychest_3mimic.mint" arg1="group(5029)" arg2="single(ArcanaSwords:2)" arg3="single(MagicSandMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/SwitchDoor_SwitchMonster.mint" arg1="single(SkeletalHound_easy:3)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_3mimic.mint" arg1="single(SkeletalHound_easy:7)" arg2="single(ArcanaSwords:1)" arg3="single(SandMimic:3)" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_arcanegate.mint" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_runetable.mint" />
 						</section>

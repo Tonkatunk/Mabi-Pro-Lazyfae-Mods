@@ -119,7 +119,10 @@
 
 	<!-- 그리핀 (펫) -->
 	<aircraft_desc id="430301" desc="그리핀">
-		<aviation velocity="14.5" rising="20" drop="-20" rotation="2.60" />
+		<aviation velocity="15" rising="20" drop="-20" rotation="1.57" />
+	</aircraft_desc>
+	<aircraft_desc id="430302" desc="그리핀">
+		<aviation velocity="14.5" rising="20" drop="-20" rotation="1.8" />
 	</aircraft_desc>
 
 	<!-- 드래곤 (펫) -->
