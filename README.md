@@ -43,7 +43,6 @@ data/db/itemdb.xml<br>
 Some fairly broad edits here.  Update some items name and/or descriptions.  Applied my own Item Filter, which consists of decreasing text size of items I don't normally pick up as well as removing the item appearance when laying on the ground.  Functionality wise, the items can still be picked up and used.<br>
 Fomor Scrolls now tell you the reward amount for collecting the set amount, it does not factor in the server gold bonus.  Evidence of Boss Monster tells you the monster it was dropped from.<br>
 Phoenix feathers were renamed to Life Crystal and given a unique description.  There other mods to change appearance, data/gfx/char/item/mesh/item_feather_001.pmg and data/gfx/imgage/item_phoenix_feather.dds<br>
-data/db/itemdb translations.xml is included here, but by default won't do anything.  It is only meant to add/translate Item Names and Descriptions, does not include Item Filter or Phoenix Feather mod.  Either rename this to itemdb.xml (requires removing the other itemdb first) so that you get the translations without other changes, or remove this file to keep your data folder clean.
 ___
 data/db/minimapinfo.xml<br>
 Adds zoom to minimap regions that will support it.  Removes fog from all minimaps outside of dungeons.  This will reveal places like Solea and Ant Hell.  Also will remove the fog/exploration done for Iria's minimaps.
@@ -59,7 +58,6 @@ data/db/propdb.xml<br>
 Will cause most sign text to now float in the air.  Some signs are at awkward heights though, such as Tara's Jousting signs, up by Lileas.  The text will instead float at a peculiar height above or below these signs, there is no proper fix for this without affecting other signs.  Any sign without floating text, should need clicked and servers an extra function besides just hovering over it to see the text.
 ___
 data/db/race.xml<br>
-Currently removed, pending staff approval.
 Mimics and Flying Books no longer sleep, can target them and see their name normally, fun note this was done by making the client think they are graywolves.  Haunting will now use the Wisp model, instead of Ghost.
 ___
 data/db/undergroundmaze.xml<br>
