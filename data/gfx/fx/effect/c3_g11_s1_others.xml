@@ -532,48 +532,13 @@
 		<EmitterShapeMove classname="CPositionController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="이동">0 0 3 0 </EmitterShapeMove>
 	</Glas_Footstep_dust>
 	<Effect classname="CEmitterType[10]" rotation_axis="0 0 1.000000" emission_dirtype="3" bsphere_radius="200" name="animal_eye_red_movement">
-		<EmitterShape classname="CEmitterShapePoint[10]" link_to_emitter="1" area_type="0" position="0 0 0" />
-		<ActiveController classname="CActiveController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </ActiveController>
-		<EmissionAngleController classname="CEmissionAngleController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </EmissionAngleController>
-		<EmissionOuterRangeController classname="CEmissionRangeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </EmissionOuterRangeController>
-		<EffectType classname="CGlareType[10]" screen="0" size="10" color="FFFF0000" appear="300" disappear="300" name="글래어">
-			<ColorOverDist classname="CColorOverDistanceController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="색상 변화">0 FFFF0000 </ColorOverDist>
-			<SizeOverDist classname="CSizeOverDistanceController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="크기 변화">0 2 </SizeOverDist>
-			<Texture tas_classname="tas_grid[10]" texture="common_effect_add_nozbuffer" column="2" row="2" x="0" y="0" name="Texture" />
-		</EffectType>
 	</Effect>
 	<Effect classname="CEmitterType[10]" rotation_axis="0 0 1.000000" emission_dirtype="3" bsphere_radius="200" name="animal_eye_green_movement">
-		<EmitterShape classname="CEmitterShapePoint[10]" link_to_emitter="1" area_type="0" position="0 0 0" />
-		<ActiveController classname="CActiveController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </ActiveController>
-		<EmissionAngleController classname="CEmissionAngleController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </EmissionAngleController>
-		<EmissionOuterRangeController classname="CEmissionRangeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </EmissionOuterRangeController>
-		<EffectType classname="CGlareType[10]" screen="0" size="10" color="FF80FF00" appear="300" disappear="300" name="글래어">
-			<ColorOverDist classname="CColorOverDistanceController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="색상 변화">0 E6FFFFFF 0.5 FFFFFFFF 1 4AFFFFFF </ColorOverDist>
-			<SizeOverDist classname="CSizeOverDistanceController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="크기 변화">0 2 </SizeOverDist>
-			<Texture tas_classname="tas_grid[10]" texture="common_effect_add_nozbuffer" column="2" row="2" x="0" y="0" name="Texture" />
 		</EffectType>
 	</Effect>
 	<Effect classname="CEmitterType[10]" rotation_axis="0 0 1.000000" emission_dirtype="3" bsphere_radius="200" name="animal_eye_white_movement">
-		<EmitterShape classname="CEmitterShapePoint[10]" link_to_emitter="1" area_type="0" position="0 0 0" />
-		<ActiveController classname="CActiveController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </ActiveController>
-		<EmissionAngleController classname="CEmissionAngleController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </EmissionAngleController>
-		<EmissionOuterRangeController classname="CEmissionRangeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </EmissionOuterRangeController>
-		<EffectType classname="CGlareType[10]" screen="0" size="10" color="FFFFFFFF" appear="300" disappear="300" name="글래어">
-			<ColorOverDist classname="CColorOverDistanceController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="색상 변화">0 E6FFFFFF 0.5 FFFFFFFF 1 4AFFFFFF </ColorOverDist>
-			<SizeOverDist classname="CSizeOverDistanceController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="크기 변화">0 2 </SizeOverDist>
-			<Texture tas_classname="tas_grid[10]" texture="common_effect_add_nozbuffer" column="2" row="2" x="0" y="0" name="Texture" />
-		</EffectType>
 	</Effect>
 	<Effect classname="CEmitterType[10]" rotation_axis="0 0 1.000000" emission_dirtype="3" bsphere_radius="200" name="animal_eye_blue_movement">
-		<EmitterShape classname="CEmitterShapePoint[10]" link_to_emitter="1" area_type="0" position="0 0 0" />
-		<ActiveController classname="CActiveController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </ActiveController>
-		<EmissionAngleController classname="CEmissionAngleController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </EmissionAngleController>
-		<EmissionOuterRangeController classname="CEmissionRangeController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 0 </EmissionOuterRangeController>
-		<EffectType classname="CGlareType[10]" screen="0" size="10" color="FF113EEE" appear="300" disappear="300" name="글래어">
-			<ColorOverDist classname="CColorOverDistanceController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="색상 변화">0 E6FFFFFF 0.5 FFFFFFFF 1 4AFFFFFF </ColorOverDist>
-			<SizeOverDist classname="CSizeOverDistanceController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="크기 변화">0 2 </SizeOverDist>
-			<Texture tas_classname="tas_grid[10]" texture="common_effect_add_nozbuffer" column="2" row="2" x="0" y="0" name="Texture" />
-		</EffectType>
 	</Effect>
 	<Effect classname="CEmitterType[10]" rotation_axis="0 0 1.000000" emission_dirtype="3" bsphere_radius="200" name="animal_eye_violet_movement">
 		<EmitterShape classname="CEmitterShapePoint[10]" link_to_emitter="1" area_type="0" position="0 0 0" />
