@@ -101,6 +101,12 @@ ___
 data/gfx/fx/c3_g10_s2_proximity.xml<br>
 Review me!
 ___
+data/gfx/fx/c3_g11_s1_others.xml<br>
+Removed Rath Castle's Cerberus glowy eyes, to reduce FPS spikes from glowing effects.
+	
+data/gfx/fx/c3_g12_s4_pet_effect.xml<br>
+Removed Tiger's Eye glow effect, to remove the FPS spikke in Rath Castle when it is summoned.
+	
 data/gfx/fx/c4_g13_dragon_summon.xml<br>
 Removed dragon horn fx.
 ___

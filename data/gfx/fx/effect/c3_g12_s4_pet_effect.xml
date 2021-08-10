@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<EffectGroup classname="EffectGroup[10]" name="c3_g12_s4_pet_effect">
+	<ghost_eye_trail_red classname="CEmitterType[10]" rotation_axis="1 0 0" emission_dirtype="3" bsphere_radius="150 150 150" name="pet_tiger_eye_trail">
+	</ghost_eye_trail_red>
+	<ghost_eye_trail_red classname="CEmitterType[10]" rotation_axis="1 0 0" emission_dirtype="3" bsphere_radius="150 150 150" name="pet_tiger_eye">
+	</ghost_eye_trail_red>
+	<ghost_eye_trail_red classname="CEmitterType[10]" rotation_axis="1 0 0" emission_dirtype="3" bsphere_radius="150 150 150" name="pet_tiger_eye_trail_red">
+	</ghost_eye_trail_red>
+	<ghost_eye_trail_red classname="CEmitterType[10]" rotation_axis="1 0 0" emission_dirtype="3" bsphere_radius="150 150 150" name="pet_tiger_eye_red">
+	</ghost_eye_trail_red>
+</EffectGroup>
