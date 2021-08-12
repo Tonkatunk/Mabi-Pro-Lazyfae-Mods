@@ -17,7 +17,7 @@ data/db/cutscene<br>
 skip cutscene mods.  As of 10/20/20, does not include custom content skips.  Should not cause crashing or lock ups on any vanilla content.<br>
 Look for data/db/cutscene/c3/cutscene_c3g12_s#12_1_fight_nuadha.xml.  If you have this file, remove it.  The scene this skips, causes a soft lock.  It skips the intro to the Nuadha fight scene for G11, and doing this will cause Nuadha to not spawn, making it impossible to finish the quest, ie soft lock.
 ___
-data/layout<br>
+data/db/layout<br>
 skillcomboprogress.xml will move the Combo Card Display to below your character, instead of above.  I believe this uses absolute values and not relative positions, it's set for 1920x1080 display and may instead cause complications on higher resolutions.<br>
 characterinfo/main.xml will just rename the tabs on your character sheet, C key by default.
 ___
