@@ -2574,7 +2574,7 @@
 2848	*유적 01
 2849	*과My Tree 01
 2850	*Test Box 01
-2851	*Event Only풍Tree
+2851	*Maple Event Only Tree
 2852	*승Only 낚시 TestProp 
 2853	*과My Wall StoneHouse
 2854	<mini>TOOL</mini>Anvil

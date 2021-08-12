@@ -281,7 +281,7 @@ pli_advertisemanageview.10	You can issue a minimum of 1, up to a maximum of 100 
 pli_advertisemanageview.11	Do you really wish to cancel the ad? \nYou will no longer be able to get a refund on the flyers already made.
 pli_advertisemanageview.12	Ad text :
 pli_agreementview.1	약관
-pli_agreementview.2	약관을 로딩하지 못했습니다.\n윈도의 방화벽 설정을 확인해주시기 바랍니다.
+pli_agreementview.2	약관을 로딩하지 못했습니다.\n윈도의 방화벽 설정을 Confirm해주시기 바랍니다.
 pli_agreementview.3	마비노기 이용약관
 pli_agreementview.4	아래의 이용약관에 동의하신 후에 마비노기 이용이 가능합니다.
 pli_agreementview.5	약관을 로딩중입니다.
@@ -364,10 +364,10 @@ pli_anniversarycoupon.3	행운권 교환
 pli_apfixeditemselectview.1	Please select one item\nin the list below.
 pli_apitemconfirmview.1	{0} x {1}
 pli_apitemconfirmview.2	Would you like to receive today's Advanced Item\n<color=2>[{0}]</color>?\nOne item is given each day in real time\nand it cannot be returned once received.
-pli_apitemconfirmview.3	오늘의 어드밴스드 플레이 아이템으로\n<color=2>[{0}]</color>를 받으시겠습니까?\n현실시간으로 하루에 하나 받을 수 있고,\n한번 선택한 아이템은 되돌릴 수 없습니다.
-pli_apitemnoticeview.1	Adv. Play Notice\n어드밴스드 플레이 알림
-pli_apitemnoticeview.2	어드밴스드 플레이 아이템이 도착하였습니다.\n지금 받으시겠습니까?
-pli_apitemrandomconfirmview.1	이 상자에 든 아이템을 오늘의 어드밴스드 플레이 아이템으로 받으시겠습니까?\n현실시간으로 하루에 하나 받을 수 있고,\n한번 열어본 상자는 되돌릴 수 없습니다.
+pli_apitemconfirmview.3	Would you like to receive today's Advanced Item\n<color=2>[{0}]</color>?\nOne item is given each day in real time\nand it cannot be returned once received.
+pli_apitemnoticeview.1	Adv. Play Notice\nAdv. Play Notification
+pli_apitemnoticeview.2	Advanced Play Items have arrived.\nWould you like to receive it now?
+pli_apitemrandomconfirmview.1	Would you like to receive the item in this box as the Advanced Play item of the day?\nYou can get one Advanced Play item per real life day,\nOnce opened the box can not be returned.
 pli_apitemselectview.1	{0} x {1}
 pli_apitemselectview.2	The special item for today, ({0}), is\n<color=2>[{1}]</color>.\nDo you want to receive today's special item,\nor pick a random item out of a selection?
 pli_apitemselectview.3	Today is {0}.\nYou can choose between today's special item\nand a random item.
@@ -606,11 +606,11 @@ pli_characteradditionalframe.1	Your character must wait at least 1 day since the
 pli_characteradditionalframe.2	You cannot rebirth while on your Homestead.
 pli_charactercombocardframe.1	The selected Combo Card will be completely deleted.\nDo you really wish to remove it?
 pli_charactercombocardframe.2	Warning
-pli_charactercombocardframe.3	해당 아이템으로 골드 콤보카드를 연장하시겠습니까?
-pli_charactercombocardframe.4	해당 아이템으로 콤보카드를 연장하시겠습니까?
-pli_charactercombocardframe.5	연장할 콤보카드를 선택하세요.
-pli_charactercombocardframe.6	확인
-pli_charactercombocardframe.7	콤보카드 연장권이 없습니다.
+pli_charactercombocardframe.3	Would you like to extend the Gold Combo Card with this item?
+pli_charactercombocardframe.4	Would you like to extend the Combo Card with this item?
+pli_charactercombocardframe.5	Select a Combo Card to extend.
+pli_charactercombocardframe.6	Confirm
+pli_charactercombocardframe.7	There is no Combo Card Extension Ticket.
 pli_cookingview.0	This is not usable at this time.\nPlease inquire with the tenant.
 pli_cookingview.1	You must pay a usage fee of {0} Gold.\nWould you still like to use this?
 pli_createeventpeteurope.1	Create Pet
@@ -1380,104 +1380,104 @@ pli_itemenhanceview.11	Special Upgrade
 pli_itemenhanceview.12	Notice
 pli_itemenhanceview.13	Cancel
 pli_itemenhanceview.14	<color=7>{0}</color>
-pli_itemmarketcancelsale.1	등록취소
+pli_itemmarketcancelsale.1	Cancelling registration
 pli_itemmarketcancelsale.2	({0} 개)
-pli_itemmarketcancelsale.3	아이템: <color=2><outlinecolor=3>{0}
-pli_itemmarketcancelsale.4	최종 판매 가격 : <color=2><outlinecolor=3>{0} CASH
-pli_itemmarketcancelsale.5	잔여판매기간 : <color=2><outlinecolor=3>{0} 일
-pli_itemmarketcancelsale.6	등록 취소
-pli_itemmarketcancelsale.7	취소
-pli_itemmarketcancelsale.8	등록 수수료 {0}G는 환불되지 않습니다.\n정말로 상품 판매를 중단하시겠습니까?
+pli_itemmarketcancelsale.3	Item: <color=2><outlinecolor=3>{0}
+pli_itemmarketcancelsale.4	Selling Price : <color=2><outlinecolor=3>{0} CASH
+pli_itemmarketcancelsale.5	Remaining Selling Time : <color=2><outlinecolor=3>{0} 일
+pli_itemmarketcancelsale.6	Cancel Registration
+pli_itemmarketcancelsale.7	Cancel
+pli_itemmarketcancelsale.8	The registration fee of {0} gold will not be refunded\nDo you still wish to cancel registration?
 pli_itemmarketmypurchaseframe.1	({0} 개)
-pli_itemmarketmypurchaseframe.2	판매자
+pli_itemmarketmypurchaseframe.2	Seller
 pli_itemmarketmypurchaseframe.3	
-pli_itemmarketmypurchaseframe.4	아이템
-pli_itemmarketmypurchaseframe.5	구매가격
+pli_itemmarketmypurchaseframe.4	Item
+pli_itemmarketmypurchaseframe.5	Buying Price
 pli_itemmarketmysaleframe.1	({0} 개)
-pli_itemmarketmysaleframe.2	판매 완료일
+pli_itemmarketmysaleframe.2	Sales Completion Date
 pli_itemmarketmysaleframe.3	
-pli_itemmarketmysaleframe.4	아이템
-pli_itemmarketmysaleframe.5	판매가격
-pli_itemmarketnewsale.1	판매 등록하기
-pli_itemmarketnewsale.2	아이템:
-pli_itemmarketnewsale.3	넥슨캐쉬 잔액: <color=2><outlinecolor=3>{0} CASH
-pli_itemmarketnewsale.4	넥슨캐쉬 잔액: <color=2><outlinecolor=3>알 수 없음
-pli_itemmarketnewsale.5	판매가격:
+pli_itemmarketmysaleframe.4	Item
+pli_itemmarketmysaleframe.5	Sale Price
+pli_itemmarketnewsale.1	Register for Sale
+pli_itemmarketnewsale.2	Item:
+pli_itemmarketnewsale.3	Nexon Cash Balance: <color=2><outlinecolor=3>{0} CASH
+pli_itemmarketnewsale.4	Nexon Cash Balance: <color=2><outlinecolor=3>알 수 없음
+pli_itemmarketnewsale.5	Sale Price:
 pli_itemmarketnewsale.6	CASH
-pli_itemmarketnewsale.7	판매 기간 : <color=2><outlinecolor=3>{0} 일
-pli_itemmarketnewsale.8	수수료 : <color=2><outlinecolor=3>{0} G
-pli_itemmarketnewsale.9	등록하기
-pli_itemmarketnewsale.10	취소
-pli_itemmarketnewsale.11	아이템:
-pli_itemmarketnewsale.12	장비 중인 아이템은 등록할 수 없습니다.
-pli_itemmarketnewsale.13	판매 불가능한 아이템입니다.
-pli_itemmarketnewsale.14	판매 불가능한 아이템입니다.
-pli_itemmarketnewsale.15	판매 불가능한 아이템입니다.
-pli_itemmarketnewsale.16	아이템:
-pli_itemmarketnewsale.17	아이템 판매 가격을 입력하세요.
-pli_itemmarketnewsale.18	최소 아이템 판매가는 {0}CASH입니다.
-pli_itemmarketnewsale.19	판매 등록 하시겠습니까?
+pli_itemmarketnewsale.7	Sale Period: <color=2><outlinecolor=3>{0} 일
+pli_itemmarketnewsale.8	Cost : <color=2><outlinecolor=3>{0} G
+pli_itemmarketnewsale.9	registration
+pli_itemmarketnewsale.10	Cancel
+pli_itemmarketnewsale.11	Item:
+pli_itemmarketnewsale.12	Equipped Items can not be registered.
+pli_itemmarketnewsale.13	This item can not be sold.
+pli_itemmarketnewsale.14	This item can not be sold.
+pli_itemmarketnewsale.15	This item can not be sold.
+pli_itemmarketnewsale.16	Item:
+pli_itemmarketnewsale.17	Enter the Item selling price.
+pli_itemmarketnewsale.18	The minimum Item selling price is {0} CASH.
+pli_itemmarketnewsale.19	Would you like to register for sale?
 pli_itemmarketonsaleframe.1	({0} 개)
-pli_itemmarketonsaleframe.2	등록취소
-pli_itemmarketonsaleframe.3	판매 완료일
+pli_itemmarketonsaleframe.2	Cancel Registration
+pli_itemmarketonsaleframe.3	Sales Completion Date
 pli_itemmarketonsaleframe.4	
-pli_itemmarketonsaleframe.5	아이템
-pli_itemmarketonsaleframe.6	판매가격
-pli_itemmarketonsaleframe.7	판매 취소하기
-pli_itemmarketpurchase.1	구매하기
+pli_itemmarketonsaleframe.5	Item
+pli_itemmarketonsaleframe.6	Sale Price
+pli_itemmarketonsaleframe.7	Cancel the Sale
+pli_itemmarketpurchase.1	Purchase
 pli_itemmarketpurchase.2	({0} 개)
-pli_itemmarketpurchase.3	아이템: <color=2><outlinecolor=3>{0}
-pli_itemmarketpurchase.4	넥슨캐쉬 잔액: <color=2><outlinecolor=3>{0} CASH
-pli_itemmarketpurchase.5	넥슨캐쉬 잔액: <color=2><outlinecolor=3>알 수 없음
-pli_itemmarketpurchase.6	판매가격 : <color=2><outlinecolor=3>{0} CASH
-pli_itemmarketpurchase.7	수수료 : <color=2><outlinecolor=3>{0} CASH
+pli_itemmarketpurchase.3	Item: <color=2><outlinecolor=3>{0}
+pli_itemmarketpurchase.4	Nexon Cash Balance: <color=2><outlinecolor=3>{0} CASH
+pli_itemmarketpurchase.5	Nexon Cash Balance: <color=2><outlinecolor=3>Unknown
+pli_itemmarketpurchase.6	Sale Price : <color=2><outlinecolor=3>{0} CASH
+pli_itemmarketpurchase.7	Cost : <color=2><outlinecolor=3>{0} CASH
 pli_itemmarketpurchase.8	최종 구매 가격 : <color=2><outlinecolor=3>{0} CASH
-pli_itemmarketpurchase.9	구매하기
-pli_itemmarketpurchase.10	취소
-pli_itemmarketpurchase.11	{0} CASH를 사용하여 구매를 진행합니다.\n계속 하시겠습니까?
+pli_itemmarketpurchase.9	Purchase
+pli_itemmarketpurchase.10	Cancel
+pli_itemmarketpurchase.11	{0} Proceed to purchase using CASH./nDo you wish to continue?
 pli_itemmarketsaleframe.1	({0} 개)
-pli_itemmarketsaleframe.2	구매하기
-pli_itemmarketsaleframe.3	판매자
+pli_itemmarketsaleframe.2	Purchase
+pli_itemmarketsaleframe.3	Seller
 pli_itemmarketsaleframe.4	
-pli_itemmarketsaleframe.5	아이템
-pli_itemmarketsaleframe.6	구매가격
-pli_itemmarketsaleframe.7	구매하기
-pli_itemmarketsaleframe.8	전체
-pli_itemmarketsaleframe.9	무기
-pli_itemmarketsaleframe.10	아머
-pli_itemmarketsaleframe.11	의상
-pli_itemmarketsaleframe.12	모자
-pli_itemmarketsaleframe.13	장갑
-pli_itemmarketsaleframe.14	신발
-pli_itemmarketsaleframe.15	로브
-pli_itemmarketsaleframe.16	인챈트
-pli_itemmarketsaleframe.17	보석
-pli_itemmarketsaleframe.18	기타
+pli_itemmarketsaleframe.5	Item
+pli_itemmarketsaleframe.6	Buying Price
+pli_itemmarketsaleframe.7	Purchase
+pli_itemmarketsaleframe.8	entire
+pli_itemmarketsaleframe.9	weapon
+pli_itemmarketsaleframe.10	armor
+pli_itemmarketsaleframe.11	costume
+pli_itemmarketsaleframe.12	hat
+pli_itemmarketsaleframe.13	gloves
+pli_itemmarketsaleframe.14	shoes
+pli_itemmarketsaleframe.15	robe
+pli_itemmarketsaleframe.16	enchant
+pli_itemmarketsaleframe.17	gem
+pli_itemmarketsaleframe.18	other
 pli_itemmarketstorageframe.1	({0} 개)
-pli_itemmarketstorageview.1	Mabinogi Open Market Box\n아이템 오픈마켓 보관함
-pli_itemmarketstorageview.2	산 아이템
-pli_itemmarketstorageview.3	판매종료 아이템
-pli_itemmarketstorageview.4	Buy\n구매하기
-pli_itemmarketstorageview.5	Close\n닫기
-pli_itemmarketstorageview.6	이 아이템을 인벤토리로 가져오겠습니까?
-pli_itemmarketview.1	아이템 이름
-pli_itemmarketview.2	판매자
+pli_itemmarketstorageview.1	Mabinogi Open Market Box\nItem open market storage box
+pli_itemmarketstorageview.2	Mountain Item
+pli_itemmarketstorageview.3	End of Item Sale
+pli_itemmarketstorageview.4	Buy\nPurchase
+pli_itemmarketstorageview.5	Close\nto close.
+pli_itemmarketstorageview.6	Would you like to place this Item in your inventory?
+pli_itemmarketview.1	Item name
+pli_itemmarketview.2	Seller
 pli_itemmarketview.3	Mabinogi Open Market
-pli_itemmarketview.4	검색어
-pli_itemmarketview.5	검색
-pli_itemmarketview.6	팝니다
-pli_itemmarketview.7	구매 내역
-pli_itemmarketview.8	판매 내역
-pli_itemmarketview.9	판매 진행
-pli_itemmarketview.10	{0} 페이지 이전
-pli_itemmarketview.11	이전
-pli_itemmarketview.12	다음
-pli_itemmarketview.13	{0} 페이지 다음
-pli_itemmarketview.14	Register\n등록하기
-pli_itemmarketview.15	Close\n닫기
-pli_itemmarketview.16	판매등록이 정상적으로 처리되었습니다.
-pli_itemmarketview.17	등록 취소가 정상처리되었습니다.
-pli_itemmarketview.18	구매 완료되었습니다\n아이템 보관함에서 아이템을 확인할 수 있습니다.
+pli_itemmarketview.4	search word
+pli_itemmarketview.5	Search
+pli_itemmarketview.6	sell
+pli_itemmarketview.7	purchase history
+pli_itemmarketview.8	sales history
+pli_itemmarketview.9	sales progress
+pli_itemmarketview.10	{0} previous page
+pli_itemmarketview.11	previous
+pli_itemmarketview.12	next
+pli_itemmarketview.13	{0} next page
+pli_itemmarketview.14	Register\nregistration
+pli_itemmarketview.15	Close\nClose
+pli_itemmarketview.16	Sales registration has been successfully processed.
+pli_itemmarketview.17	Registration cancellation has been successfully processed.
+pli_itemmarketview.18	Purchase has been completed\nYou can check the item in the storage.
 pli_joustaskjoinview.1	Jousting Tournament Entry
 pli_joustaskjoinview.2	Yes
 pli_joustaskjoinview.3	No
@@ -1541,17 +1541,17 @@ pli_lobbylistboxitem.1	Unknown
 pli_lobbylistboxitem.2	Last Location: {0}
 pli_lobbylistboxitem.3	Expired
 pli_lobbylistboxitem.4	Valid until {3}:00, {1}/{2}/{0}
-pli_lobbylistboxitem.5	사용 불가능
-pli_lobbylistboxitem.6	{0} 서버 전용
+pli_lobbylistboxitem.5	Not available
+pli_lobbylistboxitem.6	{0} Server only
 pli_mailboxlistboxitem.1	(No item)
 pli_memolistboxitem.1	Read
 pli_memolistboxitem.2	Unread
 pli_mobileauth.1	Mobile Secret Security
-pli_mobileauth.2	도전코드를 확인하여 결과값을 입력하세요.
+pli_mobileauth.2	도전코드를 Confirm하여 결과값을 입력하세요.
 pli_mobileauth.3	도전 코드 :
 pli_mobileauth.4	결과 :
-pli_mobileauth.5	확인
-pli_mobileauth.6	취소
+pli_mobileauth.5	Confirm
+pli_mobileauth.6	Cancel
 pli_mobileauth.7	메시지
 pli_mobileauth.8	인증 중입니다...
 pli_msgboxitem2.1	Displays the visual chat with {0} on the screen.
@@ -1602,8 +1602,8 @@ pli_petskillframes.2	Cancels the selected skill.
 pli_pettrainingkitview.1	OK
 pli_petunsealview.1	애완동물 분양 받기
 pli_petunsealview.2	애완동물의 이름을 새로 지어주세요
-pli_petunsealview.3	CANCEL\n취소
-pli_petunsealview.4	OK\n확인
+pli_petunsealview.3	CANCEL\nCancel
+pli_petunsealview.4	OK\nConfirm
 pli_petunsealview.5	Cancel
 pli_petunsealview.6	OK
 pli_petunsealview.7	Is the name you entered correct?\n\n[ <color=4><outlinecolor=3>{0:pet_name}</outlinecolor></color> ]
@@ -1741,8 +1741,8 @@ pli_relationcharacterlistview.3	Open My Erinn On Talk
 pli_relationlogview.1	<color=3><outlinecolor=4>Year: {0}  Month: {1} Day: {2}</outlinecolor></color>
 pli_relationlogview.2	Play log with {0}
 pli_relationlogview.3	Play Log
-pli_relationlogview.4	{0}{과}의 인연
-pli_relationlogview.5	인연
+pli_relationlogview.4	{0}'s relationship
+pli_relationlogview.5	Destiny
 pli_relicsketchview.1	Glowing {0}
 pli_screenshotreportview.1	Report User Abuse
 pli_screenshotreportview.2	Be smart! Fake reports or poor behavior on your part may get you banned.
@@ -1819,11 +1819,11 @@ pli_shipwaitingview.8	Party Waiting List
 pli_shipwaitingview.9	Current Waiting Time: {0} min {1} sec
 pli_shipwaitingview.10	Current Waiting Time: None
 pli_simcardauth.1	Sim Secret Security
-pli_simcardauth.2	동적비밀번호를 입력하세요.
-pli_simcardauth.3	확인
-pli_simcardauth.4	취소
-pli_simcardauth.5	메시지
-pli_simcardauth.6	인증 중입니다...
+pli_simcardauth.2	Enter a Dynamic Password.
+pli_simcardauth.3	Confirm
+pli_simcardauth.4	Cancel
+pli_simcardauth.5	message
+pli_simcardauth.6	Authenticating...
 pli_skilluntrainview.1	Untrains the {0} skill to Rank F.\nAP used for {0} will be returned.\nBonuses earned while training {0} will be taken back.\nThis item allows you to untrain a skill only once.\n\nNo training will be required to level up {0} again.
 pli_specialactiondesc.0	Action Info
 pli_specialactionframes.1	Both, Musical Knowledge skill\nand Playing Instrument skill need to be at least Rank C.
@@ -1979,7 +1979,7 @@ pli_transmuteview.131	Metal Conversion Material
 pli_transmuteview.132	Conversion
 pli_transmuteview.133	Auto Production
 pli_transmuteview.134	{0}
-pli_transmuteview.135	이 아이템은 합성의 재료로 1개면 충분합니다
+pli_transmuteview.135	There is not enough material for a Synthesis Attempt.
 pli_treasureboxevent.1	You do not have a Treasure Chest Key.
 pli_treasureboxevent.2	Open
 pli_treasureboxevent.3	Close
@@ -2227,7 +2227,7 @@ pli_windowcharacter.47	Family Info
 pli_windowcharacter.48	Tree
 pli_windowcharacter.49	Demigod Info
 pli_windowcharacter.50	You are not in a family at this time. Purchase a Family Emblem from Sinead to start a family.
-pli_windowcharacter.51	VIP 서비스를 이용해야 펫을 사용할 수 있습니다.
+pli_windowcharacter.51	Require a VIP service for this pet.
 pli_windowcharacter.52	Gender/Destiny
 pli_windowcharacter.53	Magic Damage
 pli_windowcharacter.54	Magic Defense
@@ -2286,12 +2286,12 @@ pli_windowdungeonrankview.19	My rank : Rank {0}
 pli_windowdungeonrankview.20	Dungeon :  {0}
 pli_windowdungeonrankview.21	By Score
 pli_windowdungeonrankview.22	By Time
-pli_windowdyeing.1	위의 {0}가지 색 또는 특별한 색 중 하나로 염색됩니다. \n색을 골라주세요.
+pli_windowdyeing.1	The color will change to one of the {0} colors featured in preview section. \nPlease select a color.
 pli_windowdyeing.2	The color will change to one of the {0} colors featured in preview section. \nPlease select a color.
 pli_windoweditex.1	<color=2>\'{0}\' cannot be used in a name.
-pli_windoweditmainchat.1	상대방 이름을 입력하고 스페이스 바를 누르세요.
-pli_windoweditmainchat.2	이름이 너무 짧습니다.
-pli_windoweditmainchat.3	보내실 귓속말을 입력하세요.
+pli_windoweditmainchat.1	Enter the person's name and press the Space bar.
+pli_windoweditmainchat.2	The name is too short.
+pli_windoweditmainchat.3	Enter the whisper you want to send.
 pli_windowegoweapon.1	Skills
 pli_windowegoweapon.2	Spirit Awakening
 pli_windowegoweapon.3	Use Skill Cam
@@ -2494,35 +2494,35 @@ pli_windowlobby.29	Delete this character/card from favorites.
 pli_windowlobby.30	Delete from Favorites
 pli_windowlobby.31	Delete this character/card from favorites.
 pli_windowlobby.32	Meet Nao to decide on a fresh new look for your character.\nIf you so desire, you may even purchase a Premium Character Card for a wider range\nof customizations\nClick 'OK' to enable rebirth for this character.
-pli_windowlobby.33	VIP 서비스를 이용해야 펫을 사용할 수 있습니다.
-pli_windowlobby.34	월드 입장에 실패했습니다.\n잠시 후 다시 시도해주세요.
-pli_windowlogin.0	Message\n메시지
+pli_windowlobby.33	VIP service required to use the pet.
+pli_windowlobby.34	Failed to enter the world./nPlease try again later.
+pli_windowlogin.0	Message\nMessage
 pli_windowlogin.1	Two-Factor authorization timeout has elapsed.
 pli_windowlogin.2	Start Mabinogi
 pli_windowlogin.3	Click the button to start Mabinogi.
 pli_windowlogin.4	Exit
 pli_windowlogin.5	Open a visual keyboard\nto type in the password with a mouse.
-pli_windowlogin.6	Message\n메시지
-pli_windowlogin.7	게임 데이터를 로딩 중입니다.
+pli_windowlogin.6	Message\nMessage
+pli_windowlogin.7	Loading game data.
 pli_windowlogin.8	Open a visual keyboard\not type in the account with a mouse.
-pli_windowlogin.9	강제 접속 종료를 요청중입니다. 잠시 기다려주세요.
-pli_windowlogin.10	3회 이상 틀리셨기 때문에 로그아웃합니다.
-pli_windowlogin.11	인증 시간이 경과하여 로그아웃합니다.
-pli_windowlogin.12	이미 로그인 중입니다.
-pli_windowlogin.13	로그인 에러입니다.
-pli_windowlogin.14	비밀번호 변경
-pli_windowlogin.15	비밀번호를 변경해주세요.\n\n최근 국내 사이트에서 개인정보 유출로 의심되는 사건이 발생한\n것으로 파악되었습니다. 고객님의 안전한 개인정보관리를 위해서\n반드시 비밀번호를 변경할 것을 권고 드립니다.
+pli_windowlogin.9	Forced connection termination is being requested./nPlease wait a moment.
+pli_windowlogin.10	You are being logged out for making a mistake 3 or more times.
+pli_windowlogin.11	Logout after authentication time has elapsed.
+pli_windowlogin.12	You are already logged in.
+pli_windowlogin.13	Login error.
+pli_windowlogin.14	Change Password.
+pli_windowlogin.15	Please change your password./nRecently there has been suspicion of personal information leaked on a domestic site./nFor your safety a password change is recommended.
 pli_windowlogin.16	문화부 온라인 허가증 [2010]165호\n신문출판허가번호[2004]580호\n문화부온라인테스트번호[2008]2호\n전출자 01-2009-0045호
-pli_windowlogin.17	로그인
-pli_windowlogin.18	넥슨 ID
-pli_windowlogin.19	마비노기 ID
-pli_windowlogin.20	아이디
-pli_windowlogin.21	패스워드
-pli_windowlogin.22	넥슨닷컴 가입하기
-pli_windowlogin.23	마비노기 플레이를 위해 넥슨닷컴에 가입합니다.
-pli_windowlogin.24	로그인
-pli_windowlogin.25	종료
-pli_windowlogin.26	게임을 종료하고 윈도로 돌아갑니다.
+pli_windowlogin.17	Log in
+pli_windowlogin.18	Nexon ID
+pli_windowlogin.19	Mabinogi ID
+pli_windowlogin.20	ID
+pli_windowlogin.21	password
+pli_windowlogin.22	Join Nexon.com
+pli_windowlogin.23	Join Nexon.com to play Mabinogi.
+pli_windowlogin.24	Log in
+pli_windowlogin.25	End
+pli_windowlogin.26	Exit the game and return to desktop.
 pli_windowlogin.27	You cannot log in with special characters.
 pli_windowlostandfound.1	Close
 pli_windowmailboxframes.1	From
@@ -2630,10 +2630,10 @@ pli_windowmatrixauth.1	Matrix Card Authentication\n매트릭스 카드 인증
 pli_windowmatrixauth.2	제시된 보안 카드 좌표에 상응하는 번호를 입력창에 입력하세요.
 pli_windowmatrixauth.3	카드 좌표 :
 pli_windowmatrixauth.4	카드값 :
-pli_windowmatrixauth.5	Ok\n확인
-pli_windowmatrixauth.6	확인
-pli_windowmatrixauth.7	Cancel\n취소
-pli_windowmatrixauth.8	취소
+pli_windowmatrixauth.5	Ok\nConfirm
+pli_windowmatrixauth.6	Confirm
+pli_windowmatrixauth.7	Cancel\nCancel
+pli_windowmatrixauth.8	Cancel
 pli_windowmatrixauth.9	Message\n메시지
 pli_windowmatrixauth.10	매트릭스 인증 중입니다...
 pli_windowmatrixauth.11	틀린 값을 입력하셨습니다.\n\n오류 회수 : {0}회
@@ -2679,9 +2679,9 @@ pli_windowmissionsheet.13	Time Limit: {0}\n
 pli_windowmissionsheet.14	Party Count: {0} - {1}\n
 pli_windowmissionsheet.15	Required Level: {0}\n
 pli_windowmissionsheet.16	(Expired)
-pli_windowmissionsheet.17	{0}인
-pli_windowmissionsheet.18	{0}인~{1:무제한}
-pli_windowmissionsheet.19	{0}~{1}인
+pli_windowmissionsheet.17	{0}Sign
+pli_windowmissionsheet.18	{0}Sign~{1:unlimited}
+pli_windowmissionsheet.19	{0}~{1}Sign
 pli_windowmissionsheet.20	{0} or more
 pli_windowmissionsheet.21	Party Count: {0}\n
 pli_windowmissionsheet.22	Help from Royal Alchemists Available
@@ -2886,7 +2886,7 @@ pli_windowoptiontabsperformance.17	Fully display only my character
 pli_windowoptiontabsperformance.18	Simplify all characters
 pli_windowoptiontabsperformance.19	Demigod Effect
 pli_windowoptiontabsperformance.20	Choosing to simplify when there are performance issues may help the game run more smoothly.
-pli_windowoptiontabsperformance.21	빠른 월드 진입
+pli_windowoptiontabsperformance.21	Quick World Entry
 pli_windowoptiontabsperformance.22	이 옵션을 사용하면 넓은 월드에 진입할 때 초기 로딩을 줄이고 실시간으로 로딩을 하게 됩니다. ")_T("진입 속도가 빨라지지만 성능이 느린 PC에서는 로딩 후에 일정 시간 동안 게임 프레임이 저하될 수 있습니다
 pli_windowoptiontabsperformance.23	동적 로딩 속도 :
 pli_windowoptiontabsperformance.24	느리게
@@ -2922,7 +2922,7 @@ pli_windowoptiontabsvideo.14	Use Vertical Sync (only available in full-screen mo
 pli_windowoptiontabsvideo.15	Synchronize game rendering and monitor frequency. \nIn case of PCs with lower spec, this may lead to minor performance drop.
 pli_windowotpauth.1	Login Authentication\nTwo-Factor authorization
 pli_windowotpauth.2	Two-Factor authorization is required to login to the account {0}.
-pli_windowotpauth.3	마지막으로 접속한 IP는 {0} 입니다.
+pli_windowotpauth.3	The last connected IP is {0}.
 pli_windowotpauth.4	Enter 2FA Code
 pli_windowotpauth.5	Login
 pli_windowotpauth.6	Login
@@ -3040,9 +3040,9 @@ pli_windowpopupcharacter.29	Expel from Homestead
 pli_windowpopupitem.0	Change Direction
 pli_windowpopupitem.1	Set Rental Fee
 pli_windowpopupitem.2	Open Production Window
-pli_windowpopupitem.3	가방 열기 Open Bag
+pli_windowpopupitem.3	Open Bag
 pli_windowpopupitem.4	Open Closet
-pli_windowpopupitem.5	물 주기 Water Flowers
+pli_windowpopupitem.5	Water Flowers
 pli_windowpopupitem.6	Open Stamp Book
 pli_windowpopupitem.7	Harvest Honey
 pli_windowpopupitem.8	Portrait Display
@@ -3056,17 +3056,17 @@ pli_windowpopupitem.15	Open Family Tree
 pli_windowpopupitem.16	Disband Family
 pli_windowpopupitem.17	Leave Family
 pli_windowpopupitem.18	Summon Member
-pli_windowpopupitem.19	물 주기 Water Flowers
+pli_windowpopupitem.19	Water Flowers
 pli_windowpopupitem.20	Open Kiosk
 pli_windowpopupitem.21	Install Kiosk
-pli_windowpopupitem.22	응모하기
+pli_windowpopupitem.22	Apply
 pli_windowpopupitem.23	Tidy Kiosk
-pli_windowpopupitem.24	애완동물 분양받기 Pet Transaction
-pli_windowpopupitem.25	애완동물 분양하기 Pet Transaction
-pli_windowpopupitem.26	애완동물 정보 Pet Information
+pli_windowpopupitem.24	Get a Pet Transaction
+pli_windowpopupitem.25	Get a Pet Transaction
+pli_windowpopupitem.26	Pet Information
 pli_windowpopupprop.0	Set Rental Fee
 pli_windowpopupprop.1	Change Direction
-pli_windowpopupprop.2	가방 열기
+pli_windowpopupprop.2	Open Bag
 pli_windowpopupprop.3	Open Closet
 pli_windowprivchatview.1	Double-click here to invite other friends.
 pli_windowprivchatview.2	{0} says\n{1}
@@ -3152,7 +3152,7 @@ pli_windowroulettegame.2	Spin the wheel with your mouse and let go.
 pli_windowroulettegame.3	Cancel
 pli_windowroulettegame.4	Chance!\nYou get to select an even better color.
 pli_windowroulettegame.5	Chat Color Change Potion
-pli_windowroulettegame.6	이름/채팅 색상 변경
+pli_windowroulettegame.6	Chang Name/Chat color.
 pli_windowschool.1	There's no deadline.
 pli_windowselectrespawn.1	Revive Here\nRevive from the same spot
 pli_windowselectrespawn.2	Revive from the same spot.
@@ -3162,7 +3162,7 @@ pli_windowselectrespawn.5	Revive at the Dock
 pli_windowselectrespawn.6	Revive at the dock.\n\n- HP: +100%\n- Injury: -50%\n- {0} EXP loss
 pli_windowselectrespawn.7	You will receive a more lenient penalty by restarting at the dock.\nYou will automatically get off the raft and leave your party.
 pli_windowselectrespawn.8	Ask Nao for revival.\n\n- HP Recovery 100% \n- Injury Recovery 100%\n- {0} EXP Loss\nBlessings on Equipment\n\nIf you select Nao's Support,\nyou'll be able to enlist Nao for help.
-pli_windowselectrespawn.9	오늘은 더 이상 나오에게 도움을 요청할 수 없습니다.\n현실 시간으로 하루에 1번만 받을 수 있습니다.
+pli_windowselectrespawn.9	You can no longer ask for help from Nao.\nYou will be permitted one more Nao revive every in game day.
 pli_windowselectrespawn.10	While taking an advancement test, you will be automatically revived\nin 10 seconds after being defeated.\n{0} seconds remaining.
 pli_windowselectrespawn.11	If you resurrect in the town, you will begin again with a lower penalty.\nHowever, it might be far away from where you are currently.\nAlso, if you resurrect from outside this current area, you will lose the stars you have obtained.
 pli_windowselectrespawn.12	Revive near your team's flag.
@@ -3183,19 +3183,19 @@ pli_windowselectrespawn.26	Ask Morrighan for help\nMorrighan's Protection ({0})
 pli_windowselectrespawn.27	Revive through Morrighan's Protection.\n\n- Recover 100% HP\n- Recover 100% Injury\n- {0} EXP Loss\nBlessings on Equipment
 pli_windowselectrespawn.28	If you leave without picking up the dropped items\nthey will be sent to the Town Office \nand you will be charged a fee when you \nretrieve them. Is this okay?
 pli_windowselectrespawn.29	If you leave without picking up the dropped items\nthey will be sent to the Town Office \nand you will be charged a fee when you \nretrieve them. Is this okay?
-pli_windowselectrespawn.30	풍선을 이용한 부활
-pli_windowselectrespawn.31	풍선을 이용하여 부활을 합니다.\n\n- 생명력 100% 회복\n- 부상 100% 회복\n- {0} 경험치 손실
-pli_windowselectrespawn.32	현재 부활 페널티가 없는 상태이기 때문에\n제자리 부활을 해도 경험치를 잃지 않습니다.\n\n그래도 풍선 부활을 사용하시겠습니까?
+pli_windowselectrespawn.30	Resurrect with balloon.
+pli_windowselectrespawn.31	Resurrect using a balloon.\n100% Health and Wound recovery.\n {0} EXP loss.
+pli_windowselectrespawn.32	You will not lose EXP for reviving in place.\nDo you still wish to revive using the balloon?
 pli_windowsendmemoview.1	Send Message
 pli_windowsendmemoview.2	Close
-pli_windowserviceinfo.1	인벤토리 플러스 키트 :
+pli_windowserviceinfo.1	Inventory Plus Kit :
 pli_windowserviceinfo.2	Mabinogi Premium Pack:
-pli_windowserviceinfo.3	프리미엄 PC방 사용중
+pli_windowserviceinfo.3	Premium PC Room in use
 pli_windowserviceinfo.4	Purchase Package
 pli_windowserviceinfo.5	On Free Beginner Service
 pli_windowserviceinfo.6	On Free Beginner Service
-pli_windowserviceinfo.7	마비노기 VIP :
-pli_windowserviceinfo.8	{0}년 {1}월 {2}일 {3}시 {4}분부터 {5}년 {6}월 {7}일 {8}시 {9}분까지
+pli_windowserviceinfo.7	Mabinogi VIP :
+pli_windowserviceinfo.8	{0}Year {1}month {2}day {3}hour {4}from this minute {5}Year {6}month {7}day {8}hour {9}up to this minute
 pli_windowshadowmissionboard.1	Cannot be used with an Animal Character.
 pli_windowshadowmissionboard.2	Shadow Mission Bulletin
 pli_windowshadowmissionboard.3	Receive Mission
@@ -3318,7 +3318,7 @@ pli_windowsmsauth.13	현재 등록하신 휴대폰으로는 휴대폰을 통한 
 pli_windowsmsauth.14	휴대폰 사용 요금 체납중입니다.\n체납 중에는 휴대폰을 통한 로그인 인증서비스를 받으실 수 없습니다.(CODE : {0})
 pli_windowsmsauth.15	선납 방식 요금제를 사용하고 계신 경우에는 휴대폰을 통한 로그인 인증 서비스를 받으실 수 없습니다.(CODE : {0})
 pli_windowsmsauth.16	법인사업자로 등록된 휴대폰으로는 휴대폰을 통한 로그인 인증 서비스를 받으실 수 없습니다.(CODE : {0})
-pli_windowsmsauth.17	사용이 불가능한 휴대폰입니다.\n통신사 고객센터에서 사유를 직접 확인 하시기 바랍니다.(CODE : {0})
+pli_windowsmsauth.17	사용이 불가능한 휴대폰입니다.\n통신사 고객센터에서 사유를 직접 Confirm 하시기 바랍니다.(CODE : {0})
 pli_windowsmsauth.18	현재 해당 서비스를 이용하실 수 없습니다.(CODE : {0})
 pli_windowsmsauth.19	이동통신사 측에서 인증에 실패했습니다.(CODE : {0})
 pli_windowsmsauth.20	휴대폰 결제 가능 요금의 한도액을 초과하셨습니다.\n로그인 인증 서비스 이용이 불가능한 휴대폰입니다.(CODE : {0})
@@ -3331,13 +3331,13 @@ pli_windowsmsauth.26	휴대폰 인증이 불가능한 휴대폰입니다.\nSKT, 
 pli_windowsmsauth.27	휴대폰으로 결제 가능한 금액의 한도를 초과한 상태입니다.\n이 휴대폰으로는 로그인 인증 서비스 이용이 불가능합니다.(CODE : {0})
 pli_windowsmsauth.28	이동통신사 장애로 현재 서비스를 이용하실 수 없습니다.(CODE : {0})
 pli_windowsmsauth.29	다시 시도해 주시기 바랍니다.(CODE : {0})
-pli_windowsmsauth.30	이용 중인 이동통신사와 휴대폰번호가 일치하지 않습니다.\n통신사와 휴대폰 번호를 다시 한 번 확인하신 후 재입력 해 주시기 바랍니다.(CODE : {0})
+pli_windowsmsauth.30	이용 중인 이동통신사와 휴대폰번호가 일치하지 않습니다.\n통신사와 휴대폰 번호를 다시 한 번 Confirm하신 후 재입력 해 주시기 바랍니다.(CODE : {0})
 pli_windowsmsauth.31	로그인 인증 서비스 이용이 불가능한 휴대폰입니다.(CODE : {0})
 pli_windowsmsauth.32	휴대폰 인증에 실패하였습니다.(CODE : {0})
 pli_windowsmsauth.33	이동 통신사 장애로 인해 현재 서비스 이용이 불가능합니다.\n임의의 인증 코드를 입력하면 로그인이 가능합니다.(CODE : {0})
 pli_windowsmsauth.34	휴대폰 인증사 장애로 인해 현재 서비스 이용이 불가능합니다.\n임의의 인증 코드를 입력하면 로그인이 가능합니다.(CODE : {0})
 pli_windowsmsauth.35	휴대폰 인증사 장애로 인해 현재 서비스 이용이 불가능합니다.\n임의의 인증 코드를 입력하면 로그인이 가능합니다.(CODE : {0})
-pli_windowsmsauth.36	휴대폰 인증 번호가 잘못 되었습니다.\n다시 확인 후 입력해 주세요.(CODE : {0})
+pli_windowsmsauth.36	휴대폰 인증 번호가 잘못 되었습니다.\n다시 Confirm 후 입력해 주세요.(CODE : {0})
 pli_windowsmsauth.37	잠시 후 다시 시도해 주시기 바랍니다.(CODE : {0})
 pli_windowsmsauth.38	인증번호 입력 유효시간이 경과되었습니다.\n다시 시도해 주세요.(CODE : {0})
 pli_windowsmsauth.39	이미 접속 중입니다.\n다시 로그인하십시오.(CODE : {0})
@@ -3347,13 +3347,13 @@ pli_windowstopwatchframe.1	{0} hour(s)
 pli_windowstopwatchframe.2	{0} min(s)
 pli_windowstopwatchframe.3	{0} sec(s)
 pli_windowstopwatchframe.4	 progressed
-pli_windowstopwatchframe.5	남았음
+pli_windowstopwatchframe.5	remaining
 pli_windowswitchplayer.1	Control Switch
 pli_windowswitchplayer.2	Character
 pli_windowswitchplayer.3	Golem
 pli_windowswitchplayer.4	You cannot control the Golem in this state.
 pli_windowswitchplayer.5	Return
-pli_windowsystemmenu.0	현재 테스트 서버에서 엘프는 대륙 이동을 할 수 없습니다.
+pli_windowsystemmenu.0	Elves cannot move continents on the current test server.
 pli_windowsystemmenu.1	Transports you {to} {0}.\nDo you wish to be transported now?
 pli_windowsystemmenu.2	Transports you {to} {0} in Uladh.
 pli_windowsystemmenu.3	You will be teleported {to} {0} in Iria.
@@ -3397,7 +3397,7 @@ pli_windowtaskbar.38	You have {0} connection(s) with the people nearby.
 pli_windowtaskbar.39	Homeste<color=2>a</color>d
 pli_windowtaskbar.40	Farm (<color=2>A</color>)
 pli_windowtaskbar.41	Toggles Homestead Information. {0}
-pli_windowtaskbaraction.1	현재 테스트 서버에서 엘프는 어드밴스드 아이템을 받을 수 없습니다.
+pli_windowtaskbaraction.1	In the current test server, elves cannot receive advanced items.
 pli_windowtaskbaraction.2	A pet is already summoned.
 pli_windowtaskbaraction.3	The animal character is not present at slot number {0} of the pet summon window.
 pli_windowtaskbaraction.4	Item Shop
@@ -3405,7 +3405,7 @@ pli_windowtaskbaraction.5	Loading...
 pli_windowtaskbaraction.6	Do you wish to return to the real world?
 pli_windowtaskbaraction.7	Do you wish to forfeit the mission and return to Erinn?
 pli_windowtaskbaraction.8	Notice
-pli_windowtaskbaraction.9	미니맵을 볼 수 없는 지역입니다.
+pli_windowtaskbaraction.9	Minimap unavailable.
 pli_windowtaskbaraction.10	Once a day, you can ask veteran adventurers for help.\nWould you like ask for help?
 pli_windowtaskbarshadowmission.1	Press this button to leave the theatre.
 pli_windowtaskbarshadowmission.2	Press this button to view the script.
@@ -3417,11 +3417,11 @@ pli_windowtitle.3	Remove options from a title.
 pli_windowtitle.4	Open the Title Option List.
 pli_windowtitle.5	Close the Title Option List.
 pli_windowtitle.6	(Not Used)
-pli_windowtitle.7	{0}일
-pli_windowtitle.8	{0}시간
-pli_windowtitle.9	{0}분
-pli_windowtitle.10	남았음
-pli_windowtitle.11	사용 마감 시간 임박
+pli_windowtitle.7	{0}days
+pli_windowtitle.8	{0}hours
+pli_windowtitle.9	{0}minutes
+pli_windowtitle.10	remaining
+pli_windowtitle.11	Deadline for use is imiminent!
 pli_windowtrade.1	Please make sure before trading any expensive items.
 pli_windowtrade.2	After trading this item, the number of allowable trades will decrease by 1.\nOnce the number of allowable trades reaches 0, you will no longer be able to trade this.\nDo you still wish to trade?
 pli_windowtrade.3	Notice
@@ -3488,7 +3488,7 @@ pli_windowvisualkeyboard.5	OK
 pli_windowvisualkeyboard.6	Cancel
 pli_windowvisualkeyboard.7	ㅂㅈㄷㄱㅅㅛㅕㅑㅐㅔㅁㄴㅇㄹㅎㅗㅓㅏㅣㅋㅌㅊㅍㅠㅜㅡ
 pli_windowvisualkeyboard.8	ㅃㅉㄸㄲㅆㅛㅕㅑㅒㅖㅁㄴㅇㄹㅎㅗㅓㅏㅣㅋㅌㅊㅍㅠㅜㅡ
-pli_windowvisualkeyboard.9	한/영
+pli_windowvisualkeyboard.9	Korean/English
 pli_windowwinehelpview.1	Help
 pli_windowwinehelpview.2	<color=2><outlinecolor=3>Wine Harvesting</outlinecolor></color>
 pli_windowwinehelpview.3	<color=2><outlinecolor=3>Aging</outlinecolor></color>
@@ -3570,11 +3570,11 @@ window.achieve.title_enchant_very_good	The enchantment for {0} was a great succe
 window.achieve.title_produce	{0} Completed!
 window.achieve.title_upgrade	{0}
 window.adv_item.ask_cancel_btn	Cancel
-window.adv_item.ask_item_msg	오늘의 어드밴스드 플레이 서비스 아이템으로\n<color=2>[{0} {1}개]</color>를 받으시겠습니까?\n현실시간으로 하루에 하나 받을 수 있고,\n한번 선택한 아이템은 되돌릴 수 없습니다.
+window.adv_item.ask_item_msg	For today's Advanced Play Service item\nWould you like to receive<color=2>[{0} {1}]</color>?\nYou can receive one item per real time day.\nOnce selected, you can not return it.
 window.adv_item.ask_ok_btn	OK
 window.adv_item.ask_title	Confirm Item
 window.adv_item.get_fixed_cancel_btn	Cancel
-window.adv_item.get_fixed_msg	오늘({0})의 지정 서비스 아이템은\n<color=2>[{1} {2}개]</color> 입니다.\n\n지정 서비스 아이템을 받으시겠습니까,\n제비뽑기로 다른 아이템을 고르시겠습니까?
+window.adv_item.get_fixed_msg	오늘({0})의 지정 서비스 Item은\n<color=2>[{1} {2}개]</color> 입니다.\n\n지정 서비스 Item을 받으시겠습니까,\n제비뽑기로 다른 Item을 고르시겠습니까?
 window.adv_item.get_fixed_or	or
 window.adv_item.get_fixed_text	Receive today's special item
 window.adv_item.get_fixed_title	Select Advanced Play Item
@@ -3593,9 +3593,9 @@ window.adv_read.cancel_button	Not Now
 window.adv_read.msg_text	{0:seal_name} on the book is emitting a mysterious force.\nWith a detailed reading, I may gain\nsome helpful information from this book.
 window.adv_read.ok_button	Read in Detail
 window.adv_read.title	<bold>Message</large>
-window.ai_disable_notifer	File Change Notifier Enable\n파일 변경 검색기 활성화
-window.ai_enable_notifier	File Change Notifier Disable\n파일 변경 검색기 비활성화
-window.ai_reload_button	AI Reload\nAI 다시 읽기
+window.ai_disable_notifer	File Change Notifier Enable\nEnable File Change Notifier
+window.ai_enable_notifier	File Change Notifier Disable\nDisable File Change Notifier
+window.ai_reload_button	AI Reload\nAI Reload
 window.allow_pvp	Allow Paladin vs. Dark Knight PVP
 window.allow_pvp_tooltip	Allow Paladin vs.Dark Knight PVP
 window.arbeit.cancel_button	Decline
@@ -3629,7 +3629,7 @@ window.bag.title	<bold>Bag</large>
 window.bank.close_button	Finish
 window.bank.deposit_button	Deposit
 window.bank.gold_text	Gold
-window.bank.password_button	암호 설정
+window.bank.password_button	Set Password
 window.bank.status_cancel_item	Cancel Transfer
 window.bank.status_text_get	Fee: Withdraw {0} Gold
 window.bank.status_text_put	Fee: Deposit {0} Gold ( Withdraw {1} Gold )
@@ -3718,17 +3718,17 @@ window.cashitemget.title	Item Shop Inventory
 window.change_party_config	Change Party Settings
 window.channel_move.booting	Server Booting
 window.channel_move.confused	Busy
-window.channel_move.current_channel	현재 접속한 채널입니다.
+window.channel_move.current_channel	This the currently connected channel.
 window.channel_move.disable	Maintenance Check
 window.channel_move.event	Event
 window.channel_move.full	Full
-window.channel_move.select_channel	이동할 채널을 선택하세요.
+window.channel_move.select_channel	Select a channel to move to.
 window.channel_move.select_desc	Please select a channel.
-window.channel_move.state_booting	부팅중
-window.channel_move.state_confused	혼잡
-window.channel_move.state_disabled	점검중
-window.channel_move.state_event	이벤트
-window.channel_move.state_full	꽉참
+window.channel_move.state_booting	booting
+window.channel_move.state_confused	maintenance
+window.channel_move.state_disabled	disabled
+window.channel_move.state_event	event
+window.channel_move.state_full	full
 window.channel_move.warning_desc	If you change channels, you will receive the same penalties as re-loggin in.\n\n- Cancel the part-time job in progress  \n- Go back to the dungeon lobby\n- Leave party\n- Logout penalties \n\nIf you move to another channel, from which you cannot enter the dungeon, you will be sent back to the login window.
 window.character.age	{1} years past {0}
 window.character.age2	{0} yrs old
@@ -3772,8 +3772,8 @@ window.character.pet_info	Pet
 window.character.pet_level_time	Pet Level, Time
 window.character.poison_attack	Poison Att.
 window.character.poison_immune	Poison Imm.
-window.character.poison_immune_text	독면역률
-window.character.poison_text	독공격률
+window.character.poison_immune_text	Immunity rate
+window.character.poison_text	Poison attack rate
 window.character.protect_text	Protection
 window.character.race_text	Race/Sex
 window.character.rebirth_count	Rebirth
@@ -4267,7 +4267,7 @@ window.message.title_info	<bold>Information</large>
 window.message.title_notice	<bold>Notice</large>
 window.message.title_warning	<bold>Warning</large>
 window.message.yes_button	Yes
-window.message_blocked	메시지가 너무 자주 보내져서 메시지 전송을 제한합니다.
+window.message_blocked	Spam filter enabled, please try again soon.
 window.minimap.title	<bold>Map</large>
 window.minimap_control.erase_trace	Delete the today's movement history and reset the map.
 window.mission_sheet.close_button	Close
@@ -4384,7 +4384,7 @@ window.npcinput.cancel_button	Cancel
 window.npcinput.desc	Type in the answer
 window.npcinput.ok_button	Submit
 window.npcinput.title	User Input
-window.npcshop.expiretime_text	후
+window.npcshop.expiretime_text	Expired
 window.npcshop.no_expiretime_text	None
 window.npcshop.questboard.quest_exp	EXP Reward
 window.npcshop.questboard.quest_name	Quest Name
@@ -4429,11 +4429,11 @@ window.option.full_effect_button	Full Scene Effect
 window.option.gameplay_tab	게임플레이 GAMEPLAY
 window.option.gamma_text	Brightness ({0})
 window.option.glow_effect_button	Glow Effect
-window.option.keymove_mode.fps.title	캐릭터 시점
-window.option.keymove_mode.fps.tooltip	캐릭터가 바라보는 방향을 기준으로 전진, 회전합니다.
-window.option.keymove_mode.screen.title	화면 시점
-window.option.keymove_mode.screen.tooltip	화면의 위, 아래, 좌우 방향으로 이동합니다.
-window.option.keymove_mode.title	키보드 이동 방식
+window.option.keymove_mode.fps.title	Character Point of View
+window.option.keymove_mode.fps.tooltip	Camera advances and rotates based off character movement.
+window.option.keymove_mode.screen.title	Screen Point of View
+window.option.keymove_mode.screen.tooltip	Moves up, down, left, and right on the screen.
+window.option.keymove_mode.title	Keyboard movement
 window.option.npc_theme_button	Using NPC Theme Music
 window.option.ok_button	OK
 window.option.outline_button	Outline Rendering
@@ -4506,7 +4506,7 @@ window.option.wide_mode_button	Widescreen Mode
 window.option.window_reset_button	Reset
 window.option.window_reset_text	Default Window Position
 window.option.window_save_button	Save Window Position In Server
-window.paladin_darknight_pvp_tooltip	팔라딘과 다크나이트 PVP 허용을 설정합니다.
+window.paladin_darknight_pvp_tooltip	Allows Paladin and Dark Knight PvP.
 window.party.banish_button	Remove from Party
 window.party.exp_mode_text	EXP-sharing Rule
 window.party.finish_mode_text	Finish Rule
@@ -4592,15 +4592,15 @@ window.pet_pvp.cacel.confirm	Will you accept your opponent's request to cancel t
 window.pet_pvp.cancel.cancel	Cancel
 window.pet_pvp.cancel.ok	OK
 window.pet_pvp.cancel.title	Accept Cancellation
-window.pet_pvp.cancel_accept	Accept Cancel\n대전취소 수락
-window.pet_pvp.cancel_accept_cancel	취소
-window.pet_pvp.cancel_accept_desc	상대의 대전취소 요청에 응하시겠습니까?
+window.pet_pvp.cancel_accept	Accept Cancel\nAccepted Cancellation
+window.pet_pvp.cancel_accept_cancel	Cancel
+window.pet_pvp.cancel_accept_desc	Would you like to respond to your opponent's request to cancel the match?
 window.pet_pvp.cancel_acept_ok	OK
 window.pet_pvp.complete	Complete
-window.pet_pvp.confirm	Accept Pet Match\n애완동물 대전 수락
-window.pet_pvp.confirm_cancel	취소
-window.pet_pvp.confirm_desc	{0} 님과의 애완동물 대전에 응하시겠습니까?
-window.pet_pvp.confirm_ok	확인
+window.pet_pvp.confirm	Accept Pet Match\nAccept Pet Match
+window.pet_pvp.confirm_cancel	Cancel
+window.pet_pvp.confirm_desc	Accept a pet Battle with {0}?
+window.pet_pvp.confirm_ok	Confirm
 window.pet_pvp.critical	Critical
 window.pet_pvp.gold	Gold
 window.pet_pvp.int	INT
@@ -4610,25 +4610,25 @@ window.pet_pvp.mana	MP
 window.pet_pvp.my_gold	Gold
 window.pet_pvp.my_reward	Item to give
 window.pet_pvp.openstat	Show stats
-window.pet_pvp.prepare	완료 Complete
-window.pet_pvp.prepare_attack	대미지
-window.pet_pvp.prepare_critical	크리티컬
-window.pet_pvp.prepare_give_item	줄 아이템
-window.pet_pvp.prepare_gold	Gold\n금화
-window.pet_pvp.prepare_gold2	Gold\n금화
-window.pet_pvp.prepare_int	지력
-window.pet_pvp.prepare_level	레벨
-window.pet_pvp.prepare_life	생명력
-window.pet_pvp.prepare_mana	마나
-window.pet_pvp.prepare_reward	받을 아이템
-window.pet_pvp.prepare_stamina	스태미나
-window.pet_pvp.prepare_stat	능력치
-window.pet_pvp.prepare_stat_open	능력치 공개
-window.pet_pvp.prepare_str	체력
-window.pet_pvp.prepare_title	Pet Match\n애완동물 대전
-window.pet_pvp.prepare_wait	대기 Wait
-window.pet_pvp.prepare_waiting	응답 대기중
-window.pet_pvp.prepare_wattack	부상률
+window.pet_pvp.prepare Complete
+window.pet_pvp.prepare_attack	damage
+window.pet_pvp.prepare_critical	critical
+window.pet_pvp.prepare_give_item	give item
+window.pet_pvp.prepare_gold	Gold\ngold
+window.pet_pvp.prepare_gold2	Gold\ngold
+window.pet_pvp.prepare_int	Int
+window.pet_pvp.prepare_level	Level
+window.pet_pvp.prepare_life	HP
+window.pet_pvp.prepare_mana	MP
+window.pet_pvp.prepare_reward	Receive Item
+window.pet_pvp.prepare_stamina	Stam
+window.pet_pvp.prepare_stat	Ability
+window.pet_pvp.prepare_stat_open	Ability Window
+window.pet_pvp.prepare_str	Str
+window.pet_pvp.prepare_title	Pet Match\nPet Match
+window.pet_pvp.prepare_wait	Wait
+window.pet_pvp.prepare_waiting	Waiting for order
+window.pet_pvp.prepare_wattack	Wound
 window.pet_pvp.reward	Item to receive
 window.pet_pvp.stamina	Stamina
 window.pet_pvp.stat	Stats
@@ -4667,10 +4667,10 @@ window.popup_char.pet_mode_title	Toggle Pet Mode
 window.popup_char.pet_passive_mode	Passive: Attack with the master
 window.popup_char.pet_pvp	Request Pet Battle
 window.popup_char.pet_pvp_cancel	Request to Cancel Pet Battle
-window.popup_char.pet_pvp_cancel_request	대전취소 신청
-window.popup_char.pet_pvp_giveup	패배 선언
+window.popup_char.pet_pvp_cancel_request	Accept Cancel Request?
+window.popup_char.pet_pvp_giveup	Surrender
 window.popup_char.pet_pvp_lose	Give Up
-window.popup_char.pet_pvp_request	애완동물 대전 신청하기
+window.popup_char.pet_pvp_request	Pet Battle Request
 window.popup_char.pet_support_mode	Support: Use Heal on the master
 window.popup_char.pickup_npc	Mount on My Pet
 window.popup_char.request_revive	Request Revival
@@ -4703,7 +4703,7 @@ window.popup_item.house_stop_sell	Stop Selling
 window.popup_item.open_button	Open
 window.popup_item.pickup_button	Pick Up
 window.popup_item.read_button	Read
-window.popup_item.rental_free	사용료 설정 Set Rental Fee
+window.popup_item.rental_free	Set Rental Fee
 window.popup_item.see_egoweapon	See info on the Spirit Weapon
 window.popup_item.set_brownie_message	Set Ad Message
 window.popup_item.set_price	Set Price
@@ -4711,7 +4711,7 @@ window.popup_item.take_button	Pick Up
 window.popup_item.talk_with_egoweapon	Speak with the Spirit
 window.popup_item.title	<bold>Item Menu</large>
 window.popup_item.use_button	Use
-window.popup_item_direction	방향 바꾸기 Change Direction
+window.popup_item_direction	Change Direction
 window.production.cancel_button	Cancel
 window.production.detail_text	Work Process: Last Stage\nDifficulty: {0}\nCurrent Skill Level: {1}\nSuccess Rate: {2}%
 window.production.detail_text2	Work Process: {0}%\n Difficulty: {1}\nCurrent Skill Level: {2}\nSuccess Rate: {3}%
@@ -4754,7 +4754,7 @@ window.ps_customer.title	{0}'s Personal Shop
 window.ps_customer.total_item_count	Items with price tags: {0}
 window.ps_customer.total_item_count2	Items with price tags: {0}
 window.ps_shop.exit_msg	Close this Personal Shop?
-window.ps_shop.name_restriction	개인상점의 이름은 영문 4글자 이상이어야 합니다.
+window.ps_shop.name_restriction	The name of your personal store must be at least 4 English characters.
 window.ps_shop.set_price_confirm	The price is {0} Gold.\nIs this correct?
 window.ps_shop.set_price_confirm_no	No
 window.ps_shop.set_price_confirm_title	Set Price
@@ -4827,7 +4827,7 @@ window.remote_resurrection.title	Remote Resurrection
 window.respawn.arena_lobby_button	Revive at the Arena Lobby
 window.respawn.arena_side_button	Revive at Arena Side
 window.respawn.arena_waiting_button	Revive in the Arena Waiting Room
-window.respawn.arena_waiting_room_button	Revive at Arena Waiting Room\n아레나 대기실에서 부활한다
+window.respawn.arena_waiting_room_button	Revive at Arena Waiting Room/n Revive at Arena Waiting Room
 window.respawn.barri_button	Revive at the Barri Dungeon Lobby
 window.respawn.call_nao_button	Ask Nao for help ({0})
 window.respawn.dungeon_button	Revive at the Dungeon Entrance
@@ -4835,7 +4835,7 @@ window.respawn.here_button	Revive right here
 window.respawn.here_perfect_button	Revive Here
 window.respawn.here_perfect_desc	You may revive with no penalty.
 window.respawn.here_perfectly_button	REVIVAL HERE
-window.respawn.here_perfectly_button2	아무런 패널티 없이 부활할 수 있습니다.
+window.respawn.here_perfectly_button2	You can respawn without penalty.
 window.respawn.in_camp	Revive in Camp
 window.respawn.last_warp_point_button	Revive at the previous Warp Point
 window.respawn.message	You are completely knocked unconscious.\nYou are unable to rise again on your own.\nBut you are in Erinn, the world where death does not exist. Being unable to move does not equate to death.\nYou are now about to make a choice.\nEven though you may not be able to move your body,\nyou can make a decision on how your body will be revitalized.
@@ -4856,8 +4856,8 @@ window.respawn.tooltip.call_nao_button_no_support	Nao's Support Service includes
 window.respawn.tooltip.dungeon_button	Revive at the Statue of Goddess at the dungeon entrance.\nYour presence in the dungeon would no longer be valid.\n\n- HP Recovery 100%\n- Injury Recovery 50%\n- {0} EXP Loss
 window.respawn.tooltip.here_button	Revive at the current location.\n\n- HP Recovery 5 \n- Additional Injury matching 50% of Life\n- {0} EXP Loss\n
 window.respawn.tooltip.here_button_no_exp	Insufficient EXP. You cannot revive on site.
-window.respawn.tooltip.here_perfect_button	Revive at the current location.\n\n- HP Recovery 100%\n- Injury Recovery 100%\
-window.respawn.tooltip.here_perfectly_button	제자리에서 부활한다.\n\n- 생명력 100% 회복\n- 부상 100% 회복\n
+window.respawn.tooltip.here_perfect_button	Revive at the current location.\n\n- HP Recovery 100%\n- Injury Recovery 100%
+window.respawn.tooltip.here_perfectly_button	Resurrects on teh spot\n100% health and wound recovery.
 window.respawn.tooltip.in_camp	Revive at the camp.\n\n- HP Recovery 25% \n- Additional Injury equal to 10% of Life\n- {0} EXP Loss
 window.respawn.tooltip.last_warp_point_button	Revive at the previous Warp Point\n\n- Recover 100% HP\n- Recover 50% Injury\n- {0} EXP Loss
 window.respawn.tooltip.statue_button	Revive at the last Statue of Goddess you passed by.\n\n- HP Recovery 25% \n- Additional Injury matching 10% of HP\n- {0} EXP Loss
@@ -5315,10 +5315,10 @@ pli_scrapbooknotifyview.1	{0:fishName} 수집 성공!
 pli_scrapbooknotifyview.2	{0:fishLength}cm
 pli_scrapbooknotifyview.3	{0:foodName} 수집 성공!
 pli_scrapbooknotifyview.4	{0:monsterName} 수집 성공!
-pli_windowoptiontabsvideo.16	줌 아웃의 최대 값을 조정합니다.
-pli_windowoptiontabsvideo.17	땅이나 물체 등의 고정된 풍경이 시야에 들어오는 거리를 조정합니다. 최대 300%까지 확장 가능하며 확장시 게임 실행속도는 느려질 수 있습니다. 이 옵션을 변경해도 실제 게임플레이에 영향을 줄 수 있는 다른 캐릭터나 몬스터, 변화하는 물체(캠프파이어, 봉인석)등이 보이는 거리는 변하지 않습니다.
-pli_windowoptiontabsvideo.18	Max Zoom Out\n최대시야 확장({0})
-pli_windowoptiontabsvideo.19	Range of Vision\n풍경 시야거리({0})
-pli_windowskillframes.4	<color=2>훈련
-pli_windowskillframes.5	<color=2>스킬입수
-pli_windowskillframes.6	<color=2>승급
+pli_windowoptiontabsvideo.16	Maximum level of zooming out.
+pli_windowoptiontabsvideo.17	Adjusts the draw distance for terrain and some props.  May increase by 300% and can cause slowdown.  Other props, players, and NPCs will remain unaffected.
+pli_windowoptiontabsvideo.18	Max Zoom Out\nMaximum Field of View({0})
+pli_windowoptiontabsvideo.19	Range of Vision\nLandscape View({0})
+pli_windowskillframes.4	<color=2>Training
+pli_windowskillframes.5	<color=2>Skill Acquisition
+pli_windowskillframes.6	<color=2>Advancement
