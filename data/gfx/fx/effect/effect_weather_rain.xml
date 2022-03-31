@@ -17,18 +17,18 @@
 		</EffectType>
 		<EmitterShapeMove classname="CPositionController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" name="이동">0 0 1500 0 </EmitterShapeMove>
 	</Effect>-->
-	<Effect classname="CEmitterType[10]" rotation_axis="1 0 -1" emission_dirtype="3" bsphere_radius="200" name="effect_weather_rain">
-		<EmitterShape classname="CEmitterShapeRect[10]" link_to_emitter="1" area_type="1" size="2000 2000" name="EmitterShape" />
-		<ActiveController classname="CActiveController[11]" variance="0" name="ActiveController" min="1" max="1" interpolation="1" repeat="0" repeat_from="0" />
+	<Effect classname="CEmitterType[10]" rotation_axis="1 0 -1" emission_dirtype="3" bsphere_radius="400" name="effect_weather_rain">
+		<EmitterShape classname="CEmitterShapeRect[10]" link_to_emitter="1" area_type="1" size="15000 18000" name="EmitterShape" />
+		<ActiveController classname="CActiveController[11]" variance="1" name="ActiveController" min="1" max="5" interpolation="1" repeat="0" repeat_from="0" />
 		<EmissionAngleController classname="CEmissionAngleController[11]" variance="0" name="EmissionAngleController" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 5 </EmissionAngleController>
 		<EmissionOuterRangeController classname="CEmissionRangeController[11]" variance="0" name="EmissionOuterRangeController" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 5 </EmissionOuterRangeController>
-		<EffectType classname="CParticleType[10]" gravity_scale="10" pivot="0.5 0.5" name="EffectType" align="emission_dir" align_axis="0 1 0">
-			<Life classname="CLifeController[11]" variance="0" min="10" max="10" interpolation="1" repeat="0" repeat_from="0">0 400 </Life>
-			<Number classname="CNumberController[11]" variance="1" min="1" max="25000" interpolation="1" repeat="1" repeat_from="1">1 1 </Number>
+		<EffectType classname="CParticleType[10]" gravity_scale="15" pivot="0.5 0.5" name="EffectType" align="emission_dir" align_axis="0 1 0">
+			<Life classname="CLifeController[11]" variance="0" min="10" max="10" interpolation="1" repeat="0" repeat_from="0">0 500 </Life>
+			<Number classname="CNumberController[11]" variance="1" min="10" max="25000" interpolation="1" repeat="1" repeat_from="1">1 1 </Number>
 			<Angle classname="CAngleController[7]" variance="0">0 0</Angle>
-			<Size classname="CSizeController[11]" variance="1" min="0" max="200" interpolation="1" repeat="0" repeat_from="0">0 1 </Size>
-			<Speed classname="CSpeedController[11]" variance="1" min="1" max="800" interpolation="1" repeat="0" repeat_from="0">0 -5 </Speed>
-			<Spin classname="CSpinController[7]" variance="0">0 0.000000 </Spin>
+			<Size classname="CSizeController[11]" variance="1" min="0" max="400" interpolation="1" repeat="0" repeat_from="0">0 1 </Size>
+			<Speed classname="CSpeedController[11]" variance="1" min="1" max="1200" interpolation="1" repeat="0" repeat_from="0">0 -7 </Speed>
+			<Spin classname="CSpinController[7]" variance="0">0 5.000000 </Spin>
 			<Color classname="CColorController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 FF0B0B0B </Color>
 			<Texture tas_classname="tas_grid[10]" texture="common_effect_add_nozbuffer" column="2" row="2" x="1" y="0" name="Texture" />
 			<SizeOverLife classname="CSizeOverLifeController[11]" variance="1" min="0" max="2" interpolation="1" repeat="0" repeat_from="0" name="크기 변화">0 1 1 1 </SizeOverLife>
@@ -40,8 +40,8 @@
 			<Angle classname="CAngleController[7]" variance="0">0 0</Angle>
 			<Size classname="CSizeController[11]" variance="1" min="0" max="15" interpolation="1" repeat="0" repeat_from="0">0 1 </Size>
 			<Speed classname="CSpeedController[11]" variance="1" min="1" max="200" interpolation="1" repeat="0" repeat_from="0">0 -5 </Speed>
-			<Spin classname="CSpinController[7]" variance="0">0 0.000000 </Spin>
-			<Color classname="CColorController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 FF101010 </Color>
+			<Spin classname="CSpinController[7]" variance="0">0 5.000000 </Spin>
+			<Color classname="CColorController[11]" variance="0" min="1" max="1" interpolation="1" repeat="0" repeat_from="0">0 FF101040 </Color>
 			<Texture tas_classname="tas_grid[10]" texture="effect_weather_rain" column="4" row="1" x="0" y="0" name="Texture" />
 		</EffectType>
 		<!--<EffectType classname="CParticleType[10]" gravity_scale="0" pivot="0.5 0.5" name="large rain 2" align="emission_dir" align_axis="0 1 0">
