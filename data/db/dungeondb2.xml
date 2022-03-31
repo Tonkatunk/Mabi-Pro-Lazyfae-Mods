@@ -48,7 +48,7 @@
 			fog					minimap?
 			healingpoint		unknown
 			monsterdesc			unknown
-			boss 				sick floor tunes
+			boss 				????
 			statue 			????
 			custom 			dungeonfloorcustomize
 		///////////extra notes////////////////
@@ -8517,7 +8517,7 @@
 						</section>
 					</puzzledesc>
 				</floordesc>
-				<floordesc width="8" height="7" sectionnum="6" critpathmin="40" critpathmax="52" coverage="90" branch="20" tileset="0" color="00FF944D,00FF944D,00FF944D" lightcolor="00FF944D,00FF944D,00FF944D" fog="0" healingpoint="1" monsterdesc="" floormusic="Dungeon_4.mp3">
+				<floordesc width="8" height="7" sectionnum="7" critpathmin="40" critpathmax="52" coverage="90" branch="20" tileset="0" color="00FF944D,00FF944D,00FF944D" lightcolor="00FF944D,00FF944D,00FF944D" fog="0" healingpoint="1" monsterdesc="" floormusic="Dungeon_4.mp3">
 					<puzzledesc>
 						<section min="3" max="4">
 							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(SkeletonHellHound:2)" arg2="single(SkeletonHellHound:2)" arg3="single(SkeletonHellHound:3)" />
@@ -8561,6 +8561,11 @@
 							<puzzle descriptor="data/script/puzzle/element/CollectProp_Herb.mint" />
 							<puzzle descriptor="data/script/puzzle/element/CollectProp_Herb.mint" />
 							<puzzle descriptor="data/script/puzzle/element/CollectProp_Herb.mint" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(SkeletonHellHound:2)" arg2="single(SkeletonHellHound:2)" arg3="single(SkeletonHellHound:3)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_prison.mint" arg1="single(RedKoboldArcher:2)" arg2="single(RedKoboldArcher:2)" arg3="single(RedKoboldArcher:3)" />
+
 						</section>
 						<section min="3" max="5">
 							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(SkeletonHellHound:2)" arg2="single(SkeletonHellHound:2)" arg3="single(SkeletonHellHound:3)" />
@@ -8639,7 +8644,7 @@
 						</section>
 					</puzzledesc>
 				</floordesc>
-				<floordesc width="8" height="9" sectionnum="7" critpathmin="45" critpathmax="60" coverage="90" branch="20" tileset="0" color="00FF944D,00FF944D,00FF944D" lightcolor="00FF944D,00FF944D,00FF944D" fog="0" healingpoint="1" monsterdesc="" floormusic="Dungeon_4.mp3">
+				<floordesc width="8" height="9" sectionnum="8" critpathmin="45" critpathmax="60" coverage="90" branch="20" tileset="0" color="00FF944D,00FF944D,00FF944D" lightcolor="00FF944D,00FF944D,00FF944D" fog="0" healingpoint="1" monsterdesc="" floormusic="Dungeon_4.mp3">
 					<boss script="data/script/puzzle/boss/Dunbarton_Math_High.mint" value="1" />
 					<puzzledesc>
 						<section min="3" max="4">
@@ -8691,6 +8696,10 @@
 							<puzzle descriptor="data/script/puzzle/element/CollectProp_Herb.mint" />
 							<puzzle descriptor="data/script/puzzle/element/CollectProp_Herb.mint" />
 							<puzzle descriptor="data/script/puzzle/element/CollectProp_Herb.mint" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(SkeletonHellHound:2)" arg2="single(SkeletonHellHound:2)" arg3="single(SkeletonHellHound:3)" />
+							<puzzle descriptor="data/script/puzzle/element/lornacage.mint" />
 						</section>
 						<section min="3" max="5">
 							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(RedKobold:2)" arg2="single(RedKobold:2)" arg3="single(RedKobold:3)" />
@@ -21243,7 +21252,8 @@
 	</dungeon_group>
 
 	<dungeon_group name="snowforest_group">
-		<dungeon name="Snow_Forest_Dungeon" localname="Reoite Forest Ruins" baseseed="750000000" chestid="35076" lockedchestid="35081" dungeonstyle="2200000" exit="IriaDgnhall_SnowF_before/_IriaDgnhall_SnowF_before/DG_SnowForest_Outer_Spawn" lobby="iriaDgnHall_snow_after/_iriaDgnHall_snow_after" lobbydownstairid="27025" lobbysafetyzonename="DG_snowAfter_Border" sighttype="fieldtype" sceneryid="44001" savestatueid="35103" laststatueid="35117" normaldoorid="44016" bossentrydoorid="35107" bossexitdoorid="35108" regiongroup="7" scenetype="outdoor" distantmesh="distant_dugald_housing" safetymusic="A_Safety_Zone.mp3" bossmusic="boss_1.mp3">	
+	<!--
+	<dungeon name="Snow_Forest_Dungeon" localname="Reoite Forest Ruins" baseseed="750000000" chestid="35076" lockedchestid="35081" dungeonstyle="2200000" exit="IriaDgnhall_SnowF_before/_IriaDgnhall_SnowF_before/DG_SnowForest_Outer_Spawn" lobby="iriaDgnHall_snow_after/_iriaDgnHall_snow_after" lobbydownstairid="27025" lobbysafetyzonename="DG_snowAfter_Border" sighttype="fieldtype" sceneryid="44001" savestatueid="35103" laststatueid="35117" normaldoorid="44016" bossentrydoorid="35107" bossexitdoorid="35108" regiongroup="7" scenetype="outdoor" distantmesh="distant_dugald_housing" safetymusic="A_Safety_Zone.mp3" bossmusic="boss_1.mp3">	
 		<floordescs>																																													
 				<floordesc width="8" height="8" sectionnum="6" critpathmin="16" critpathmax="24" coverage="20" branch="35" tileset="0" color="808080,808080,808080" lightcolor="808080,808080,808080" fog="0" healingpoint="1" monsterdesc="" floormusic="Surrounded_by_Snow.mp3">
 					<puzzledesc>
@@ -21423,7 +21433,7 @@
 			</floors>
 		</dungeon>
 		<dungeon name="Snow_Forest_Dungeon_II" localname="Reoite Forest Frozen Ruins" baseseed="380000000" chestid="35076" lockedchestid="35081" dungeonstyle="2200000" exit="IriaDgnhall_SnowF_before/_IriaDgnhall_SnowF_before/DG_SnowForest_Outer_Spawn" lobby="iriaDgnHall_snow_after/_iriaDgnHall_snow_after" lobbydownstairid="27025" lobbysafetyzonename="DG_snowAfter_Border" sighttype="fieldtype" sceneryid="44001" savestatueid="35103" laststatueid="35117" normaldoorid="44016" bossentrydoorid="35107" bossexitdoorid="35108" regiongroup="7" scenetype="outdoor" distantmesh="distant_dugald_housing" private="true" safetymusic="A_Safety_Zone.mp3" bossmusic="boss_1.mp3">	
-		<floordescs>																																													<!--lobby="IriaDgnhall_SnowF_after/_IriaDgnhall_SnowF_after" lobbydownstairid="27025" lobbysafetyzonename="DG_CoillAfter_Border" -->
+		<floordescs>																																													<!--lobby="IriaDgnhall_SnowF_after/_IriaDgnhall_SnowF_after" lobbydownstairid="27025" lobbysafetyzonename="DG_CoillAfter_Border" --><!--
 				<floordesc width="8" height="8" sectionnum="4" critpathmin="15" critpathmax="23" coverage="15" branch="15" tileset="0" color="808080,808080,808080" lightcolor="808080,808080,808080" fog="0" healingpoint="1" monsterdesc="" floormusic="Surrounded_by_Snow.mp3">
 					<puzzledesc>
 						<section min="3" max="5">
@@ -21763,6 +21773,429 @@
 				<floor value="4" />
 				<floor value="5" />
 			</floors>
+		</dungeon>-->
+		
+		
+		
+		
+		
+		
+		
+		
+		<dungeon name="Snow_Forest_Dungeon_test" localname="Reoite Forest Ruins" baseseed="750000000" chestid="35076" lockedchestid="35081" dungeonstyle="2200000"exit="IriaDgnhall_SnowF_before/_IriaDgnhall_SnowF_before/DG_SnowForest_Outer_Spawn" lobby="iriaDgnHall_snow_after/_iriaDgnHall_snow_after" lobbydownstairid="27025" lobbysafetyzonename="DG_snowAfter_Border" sighttype="fieldtype" sceneryid="44004" savestatueid="35103" laststatueid="35117" normaldoorid="44016" bossentrydoorid="35107" bossexitdoorid="35108" regiongroup="7" scenetype="outdoor" distantmesh="distant_dugald_housing" safetymusic="A_Safety_Zone.mp3" bossmusic="boss_1.mp3">	
+		<floordescs>																																													
+				<floordesc width="8" height="8" sectionnum="9" critpathmin="42" critpathmax="80" coverage="20" branch="60" tileset="0" color="808080,808080,808080" lightcolor="808080,808080,808080" fog="0" healingpoint="1" monsterdesc="" floormusic="Surrounded_by_Snow.mp3">
+					<boss script="data/script/puzzle/boss/SnowForestBoss_trial.mint" value="1" />
+					<puzzledesc>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(SnowForestFox:3)" arg2="single(SnowForestBoar:4)" arg3="single(IceMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_outpost.mint" arg1="single(ForestGiant_BasicM:3)" arg2="single(ForestGiant_LogWielderF:3)" arg3="single(ForestGiant_SpearChuckM:4)" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(SnowForestFox:3)" arg2="single(SnowForestBoar:4)" arg3="single(IceMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_sheep.mint" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(SnowForestFox:3)" arg2="single(SnowForestBoar:4)" arg3="single(IceMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/C2_SwitchDoor_Switch3Monster_Glacier.mint" arg1="single(SnowForestWolf:4)" arg2="single(SnowForestFox:6)" arg3="single(FrozenSprite:2)" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(SnowForestFox:3)" arg2="single(SnowForestBoar:4)" arg3="single(IceMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_signal.mint" arg1="group(5042)" arg2="single(SnowForestWolf:3)" arg3="group(5043)" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(SnowForestFox:3)" arg2="single(SnowForestBoar:4)" arg3="single(IceMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_cloud.mint" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(SnowForestFox:3)" arg2="single(SnowForestBoar:4)" arg3="single(IceMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(SnowForestFox:3)" arg2="single(SnowForestBoar:4)" arg3="single(IceMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(SnowForestWolf:3)" arg2="single(SnowForestBoar:4)" arg3="single(Bandersnatch_strong:4)" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(SnowForestFox:3)" arg2="single(SnowForestBoar:4)" arg3="single(IceMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_reoite2.mint" />
+						</section>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(SnowForestFox:3)" arg2="single(SnowForestBoar:4)" arg3="single(IceMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_outpost.mint" arg1="single(ForestGiant_BasicM:3)" arg2="single(ForestGiant_LogWielderF:3)" arg3="single(ForestGiant_SpearChuckM:4)" />
+						</section>
+					</puzzledesc>
+					<extradesc>
+					</extradesc>
+				</floordesc>
+			</floordescs>
+			<floors>
+				<floor value="1" />
+			</floors>
+		</dungeon>
+		<dungeon name="Snow_Forest_Dungeon" localname="Reoite Forest Ruins" baseseed="750000000" chestid="35076" lockedchestid="35081" dungeonstyle="2200000"exit="IriaDgnhall_SnowF_before/_IriaDgnhall_SnowF_before/DG_SnowForest_Outer_Spawn" lobby="iriaDgnHall_snow_after/_iriaDgnHall_snow_after" lobbydownstairid="27025" lobbysafetyzonename="DG_snowAfter_Border" sighttype="fieldtype" sceneryid="44004" savestatueid="35103" laststatueid="35117" normaldoorid="44016" bossentrydoorid="35107" bossexitdoorid="35108" regiongroup="7" scenetype="outdoor" distantmesh="distant_dugald_housing" safetymusic="A_Safety_Zone.mp3" bossmusic="boss_1.mp3">	
+		<floordescs>																																													
+				<floordesc width="8" height="8" sectionnum="5" critpathmin="42" critpathmax="80" coverage="20" branch="60" tileset="0" color="808080,808080,808080" lightcolor="808080,808080,808080" fog="0" healingpoint="1" monsterdesc="" floormusic="Surrounded_by_Snow.mp3">
+					<boss script="data/script/puzzle/boss/SnowForestBoss_trial.mint" value="1" />
+					<puzzledesc>
+						<section min="2" max="4">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(SnowForestFox:3)" arg2="single(SnowForestBoar:4)" arg3="single(IceMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(SnowForestWolf:3)" arg2="single(SnowForestBoar:4)" arg3="single(Bandersnatch_strong:4)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_outpost.mint" arg1="single(ForestGiant_BasicM:3)" arg2="single(ForestGiant_LogWielderF:3)" arg3="single(ForestGiant_SpearChuckM:4)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(SnowForestBear:1)" arg2="single(SnowForestBoar:3)" arg3="single(Bandersnatch_strong:3)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+						</section>
+						<section min="4" max="6">
+							<puzzle descriptor="data/script/puzzle/element/C2_SwitchDoor_Switch3Monster_Glacier.mint" arg1="single(SnowForestWolf:4)" arg2="single(SnowForestFox:6)" arg3="single(FrozenSprite:2)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_outpost.mint" arg1="single(ForestGiant_BasicM:3)" arg2="single(ForestGiant_LogWielderF:3)" arg3="single(ForestGiant_SpearChuckM:4)" />
+							
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_cloud.mint" />
+							<puzzle descriptor="data/script/puzzle/element/extra_iceimp.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_sheep.mint" />
+						</section>
+						<section min="5" max="7">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(ForestGiant_SpearChuckM:3)" arg2="group(5040)" arg3="single(IceMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimic.mint" arg1="group(5039)" arg2="single(ForestGiant_BasicM:5)" arg3="single(IceMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_signal.mint" arg1="group(5042)" arg2="single(ForestGiant_SpearChuckF:4)" arg3="single(ForestGiant_LogWielderF:4)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_signal.mint" arg1="group(5043)" arg2="group(5042)" arg3="single(ForestGiant_SpearChuckM:3)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_sheep.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_pond.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_cloud.mint" />
+						</section>
+						<section min="2" max="4">
+							<puzzle descriptor="data/script/puzzle/element/C2_SwitchDoor_Switch3Monster_Glacier.mint" arg1="single(SnowForestWolf:5)" arg2="single(SnowForestWolf:5)" arg3="single(SnowForestBoar:3)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(SnowForestWolf:7)" arg2="single(SnowForestBoar:8)" arg3="single(Bandersnatch_strong:7)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(SnowForestBear:2)" arg2="single(ForestGiant_SpearChuckM:1)" arg3="single(IceMimic:3)" />
+						
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/extra_iceimp.mint" />
+						</section>
+						<section min="5" max="6">
+							<puzzle descriptor="data/script/puzzle/element/C2_SwitchDoor_Switch3Monster_Glacier.mint" arg1="single(FrozenSprite:3)" arg2="single(SnowForestWolf:5)" arg3="single(SnowForestBoar:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_chests.mint" arg1="single(SnowForestFox:5)" arg2="single(FrozenSprite:4)" arg3="single(SnowForestBoar:5)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_outpost.mint" arg1="single(SnowForestFox:3)" arg2="single(ForestGiant_BasicM:5)" arg3="single(ForestGiant_SpearChuckM:2)" />
+						
+						
+							<puzzle descriptor="data/script/puzzle/element/keychest_reoite2.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_tree.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_sheep.mint" />
+						</section>
+					</puzzledesc>
+					<extradesc>
+					</extradesc>
+				</floordesc>
+			</floordescs>
+			<floors>
+				<floor value="1" />
+			</floors>
+		</dungeon>
+		<!--useful tip: set minimum to something higher than locked puzzles so extras can spawn-->
+		<dungeon name="Snow_Forest_Dungeon_II" localname="Reoite Frozen Forest" baseseed="380000000" chestid="35076" lockedchestid="35081" dungeonstyle="2200000" exit="IriaDgnhall_SnowF_before/_IriaDgnhall_SnowF_before/DG_SnowForest_Outer_Spawn" lobby="iriaDgnHall_snow_after/_iriaDgnHall_snow_after" lobbydownstairid="27025" lobbysafetyzonename="DG_snowAfter_Border" sighttype="fieldtype" sceneryid="44001" savestatueid="35103" laststatueid="35117" normaldoorid="44016" bossentrydoorid="35107" bossexitdoorid="35108" regiongroup="7" scenetype="outdoor" distantmesh="distant_dugald_housing" private="true" safetymusic="A_Safety_Zone.mp3" bossmusic="boss_1.mp3">	
+		<floordescs>																																													<!--lobby="IriaDgnhall_SnowF_after/_IriaDgnhall_SnowF_after" lobbydownstairid="27025" lobbysafetyzonename="DG_CoillAfter_Border" -->
+				<floordesc width="7" height="6" sectionnum="4" critpathmin="32" critpathmax="45" coverage="15" branch="15" tileset="0" color="808080,808080,808080" lightcolor="808080,808080,808080" fog="0" healingpoint="1" monsterdesc="" floormusic="Surrounded_by_Snow.mp3">
+					<puzzledesc>
+						<section min="2" max="4">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(Bandersnatch_strong:3)" arg2="single(SnowForestBoar:6)" arg3="single(IceMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(SnowForestWolf:5)" arg2="single(SnowForestBoar:3)" arg3="single(Bandersnatch_strong:5)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(SnowForestBoar:6)" arg2="group(5039)" arg3="single(Bandersnatch_strong:5)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_sheep.mint" />
+						</section>
+						<section min="3" max="5">
+							<puzzle descriptor="data/script/puzzle/element/reoite_outpost.mint" arg1="group(5042)" arg2="single(ForestGiant_BasicM:3)" arg3="single(ForestGiant_SpearChuckM:2)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_signal.mint" arg1="group(5042)" arg2="single(SnowForestWolf:3)" arg3="group(5043)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_sheep.mint" />
+						</section>
+						<section min="3" max="3">
+							<puzzle descriptor="data/script/puzzle/element/reoite_chests.mint" arg1="group(5039)" arg2="single(SnowForestBoar:5)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_cloud.mint" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_9chest_reoite.mint" />
+						</section>
+						<section min="4" max="4">
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(SnowForestWolf:6)" arg2="single(SnowForestBear:2)" arg3="single(Bandersnatch_strong:7)" />
+							<puzzle descriptor="data/script/puzzle/element/C2_SwitchDoor_Switch3Monster_Glacier.mint" arg1="single(FrozenSprite:2)" arg2="single(FrozenSprite:2)" arg3="single(Bandersnatch_strong:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_signal.mint" arg1="single(ForestGiant_SpearChuckF:5)" arg2="single(ForestGiant_LogWielderM:6)" arg3="group(5045)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/extra_iceimp.mint" />
+						</section>
+						
+					</puzzledesc>
+					<extradesc>
+					</extradesc>
+				</floordesc>
+				<floordesc width="8" height="8" sectionnum="5" critpathmin="46" critpathmax="80" coverage="30" branch="30" tileset="0" color="808080,808080,808080" lightcolor="808080,808080,808080" fog="0" healingpoint="1" monsterdesc="" floormusic="Surrounded_by_Snow.mp3">
+					<boss script="data/script/puzzle/boss/SnowForestBoss2_trial.mint" value="1" />
+					<puzzledesc>
+						<section min="4" max="5">
+							<puzzle descriptor="data/script/puzzle/element/C2_SwitchDoor_Switch3Monster_Glacier.mint" arg1="single(SnowForestBear:2)" arg2="single(SnowForestBear:2)" arg3="single(Bandersnatch_strong:5)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_chests.mint" arg1="group(5039)" arg2="single(SnowForestWolf:6)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_arena.mint" arg1="single(SnowForestFox:4)" arg2="group(5045)" arg3="single(ForestGiant_SpearChuckM:4)" />
+						
+						
+							<puzzle descriptor="data/script/puzzle/element/keychest_reoite2.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/forestmerchantapostle.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+							
+						</section>
+						<section min="5" max="6">
+							<puzzle descriptor="data/script/puzzle/element/reoite_signal.mint" arg1="single(ForestGiant_SpearChuckM:4)" arg2="single(ForestGiant_LogWielderF:6)" arg3="group(5044)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(IceMimic:3)" arg2="single(SnowForestFox:7)" arg3="single(IceMimic2:3)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="group(5044)" arg2="group(5048)" arg3="group(5041)" />
+						
+							<puzzle descriptor="data/script/puzzle/element/reoite_cloud.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_tree.mint" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_9chest_reoite.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_pond.mint" />
+						</section>
+						<section min="5" max="7">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(SnowForestBoar:6)" arg2="single(SnowForestWolf:7)" arg3="single(IceMimic2:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_arena.mint" arg1="single(FrozenSprite:4)" arg2="group(5043)" arg3="single(ForestGiant_SpearChuckF:4)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_outpost.mint" arg1="single(ForestGiant_BasicF:6)" arg2="single(ForestGiant_SpearChuckM:5)" arg3="single(ForestGiant_SpearChuckM:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_chests.mint" arg1="group(5040)" arg2="single(IceMimic2:8)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_sheep.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_cloud.mint" />
+						</section>
+						<section min="4" max="8">
+							<puzzle descriptor="data/script/puzzle/element/C2_SwitchDoor_Switch3Monster_Glacier.mint" arg1="single(FrozenFox:4)" arg2="single(FrozenBoar:4)" arg3="single(FrozenWolf:6)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_arena.mint" arg1="single(ForestGiant_BasicF:3)" arg2="group(5046)" arg3="single(ForestGiant_SpearChuckM:5)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_arena.mint" arg1="single(FrozenWolf:3)" arg2="group(5047)" arg3="single(ForestGiant_SpearChuckF:5)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_outpost.mint" arg1="single(ForestGiant_SpearChuckM:3)" arg2="single(ForestGiant_LogWielderM:3)" arg3="single(ForestGiant_LogWielderF:5)" />
+							<puzzle descriptor="data/script/puzzle/element/C2_SwitchDoor_Switch3Monster_Glacier.mint" arg1="single(FrozenSprite:2)" arg2="single(FrozenWolf:2)" arg3="single(Bandersnatch_strong:5)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_signal.mint" arg1="single(ForestGiant_BasicF:3)" arg2="single(ForestGiant_BasicF:3)" arg3="single(ForestGiant_SpearChuckM:2)" />
+							
+						
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_tree.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_reoite2.mint" />
+							<puzzle descriptor="data/script/puzzle/element/extra_iceimp.mint" />
+						</section>
+						<section min="5" max="6">
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(FrozenBear:5)" arg2="single(FrozenSprite:6)" arg3="single(FireSnake:5)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(FrozenWolf:5)" arg2="single(FrozenBoar:6)" arg3="single(ReoiteReindeer:5)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(ReoiteReindeer:6)" arg2="single(FireSnake:5)" arg3="single(Bandersnatch_strong:5)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_tree.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_sheep.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+						</section>
+					</puzzledesc>
+					<extradesc>
+						<extra descriptor="data/script/puzzle/element/Chest_OnWayEnd_snow.mint" />
+					</extradesc>
+				</floordesc>
+				<floordesc width="5" height="5" sectionnum="3" critpathmin="15" critpathmax="45" coverage="90" branch="15" tileset="0" color="808080,808080,808080" lightcolor="808080,808080,808080" fog="0" healingpoint="1" monsterdesc="" floormusic="Surrounded_by_Snow.mp3">
+					<boss script="data/script/puzzle/boss/CloudWolf.mint" value="1" />
+					<puzzledesc>
+						<section min="2" max="2">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(SnowForestBoar:1)" arg2="single(SnowForestBoar:1)" arg3="single(SnowForestBoar:2)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_cloudgate.mint"/>
+						</section>
+						<section min="5" max="6">
+							<puzzle descriptor="data/script/puzzle/element/C2_SwitchDoor_Switch3Monster_Glacier.mint" arg1="single(FrozenBear:6)" arg2="single(FrozenSprite:9)" arg3="single(FireSnake:5)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(ForestGiant_AxeBoss:3)" arg2="single(FireSnake:4)" arg3="single(Snowzombie_reoite:2)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(ReoiteReindeer:7)" arg2="single(Snowzombie_reoite:6)" arg3="single(Snowzombie_reoite:4)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_pond.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_sheep.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+						</section>
+						<section min="5" max="6">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(FireSnake:4)" arg2="single(ReoiteReindeer:6)" arg3="single(ReoiteReindeer:6)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(FrozenBear:4)" arg2="single(Snowzombie_reoite:6)" arg3="single(FrozenBear:6)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_outpost.mint" arg1="single(FrozenBoar:3)" arg2="group(5049)" arg3="single(PhoenixKnight:5)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(FrozenBoar:6)" arg2="single(FireSnake:5)" arg3="single(ReoiteReindeer:5)" />
+							
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_sheep.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+						</section>
+					</puzzledesc>
+					<extradesc>
+						<extra descriptor="data/script/puzzle/element/Chest_OnWayEnd_snow.mint" />
+					</extradesc>
+				</floordesc>
+				
+			</floordescs>
+			<floors>
+				<floor value="1" />
+				<floor value="2" />
+				<floor value="3" />
+			</floors>
+		</dungeon>
+		<dungeon name="Snow_Forest_Dungeon_III" localname="Reoite Ancient Forest" baseseed="140000000" chestid="35076" lockedchestid="35081" dungeonstyle="2200000" exit="IriaDgnhall_SnowF_before/_IriaDgnhall_SnowF_before/DG_SnowForest_Outer_Spawn" lobby="iriaDgnHall_snow_after/_iriaDgnHall_snow_after" lobbydownstairid="27025" lobbysafetyzonename="DG_snowAfter_Border" sighttype="fieldtype" sceneryid="44001" savestatueid="35103" laststatueid="35117" normaldoorid="44016" bossentrydoorid="35107" bossexitdoorid="35108" regiongroup="7" scenetype="outdoor" distantmesh="distant_dugald_housing" private="true" safetymusic="A_Safety_Zone.mp3" bossmusic="boss_1.mp3">	
+		<floordescs>
+				<floordesc width="5" height="8" sectionnum="4" critpathmin="32" critpathmax="45" coverage="40" branch="0" tileset="0" color="808080,808080,808080" lightcolor="808080,808080,808080" fog="0" healingpoint="1" monsterdesc="" floormusic="Surrounded_by_Snow.mp3">
+					<puzzledesc>
+						<section min="2" max="4">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(Bandersnatch_strong:3)" arg2="single(SnowForestBoar:6)" arg3="single(IceMimic2:3)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(SnowForestWolf:5)" arg2="single(SnowForestBoar:3)" arg3="single(Bandersnatch_strong:5)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(SnowForestBoar:6)" arg2="group(5039)" arg3="single(Bandersnatch_strong:5)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_sheep.mint" />
+						</section>
+						<section min="3" max="5">
+							<puzzle descriptor="data/script/puzzle/element/reoite_outpost.mint" arg1="group(5042)" arg2="single(ForestGiant_BasicM:3)" arg3="single(ForestGiant_SpearChuckM:2)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_signal.mint" arg1="group(5042)" arg2="single(SnowForestWolf:3)" arg3="group(5043)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+						</section>
+						<section min="3" max="3">
+							<puzzle descriptor="data/script/puzzle/element/reoite_chests.mint" arg1="group(5010)" arg2="single(SnowForestBoar:5)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(FrozenBoar:6)" arg2="group(5011)" arg3="single(Bandersnatch_strong:5)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_reoite2.mint" />
+						</section>
+						<section min="4" max="4">
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="group(5010)" arg2="group(5011)" arg3="group(5002)" />
+							<puzzle descriptor="data/script/puzzle/element/C2_SwitchDoor_Switch3Monster_Glacier.mint" arg1="single(FrozenSprite:2)" arg2="single(FrozenSprite:2)" arg3="single(Bandersnatch_strong:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_signal.mint" arg1="single(ForestGiant_SpearChuckF:5)" arg2="single(ForestGiant_LogWielderM:6)" arg3="group(5045)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_tree.mint" />
+						</section>
+						
+					</puzzledesc>
+					<extradesc>
+					</extradesc>
+				</floordesc>
+				<floordesc width="8" height="5" sectionnum="4" critpathmin="32" critpathmax="48" coverage="0" branch="40" tileset="0" color="808080,808080,808080" lightcolor="808080,808080,808080" fog="0" healingpoint="1" monsterdesc="" floormusic="Surrounded_by_Snow.mp3">
+					<puzzledesc>
+						<section min="2" max="4">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(Snowzombie_reoite:3)" arg2="single(ReoiteReindeer:6)" arg3="single(IceMimic2:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_outpost.mint" arg1="group(5042)" arg2="single(ForestGiant_BasicM2:3)" arg3="single(ForestGiant_SpearChuckF2:2)" />
+							<puzzle descriptor="data/script/puzzle/element/C2_SwitchDoor_Switch3Monster_Glacier.mint" arg1="single(FireSnake:2)" arg2="single(FireSnake:2)" arg3="single(Bandersnatch_strong:3)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_sheep.mint" />
+						</section>
+						<section min="3" max="5">
+							<puzzle descriptor="data/script/puzzle/element/reoite_arena.mint" arg1="single(ForestGiant_BasicM2:3)" arg2="group(5046)" arg3="single(ForestGiant_SpearChuckF2:5)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(Snowzombie_reoite:3)" arg2="single(ReoiteReindeer:6)" arg3="single(IceMimic2:3)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_pond.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_sheep.mint" />
+						</section>
+						<section min="3" max="5">
+							<puzzle descriptor="data/script/puzzle/element/reoite_signal.mint" arg1="single(ForestGiant_FighterM:5)" arg2="single(FireSnake:5)" arg3="group(5043)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_outpost.mint" arg1="group(5012)" arg2="single(ForestGiant_FighterF:4)" arg3="group(5011)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_9chest_reoite.mint" />
+						</section>
+						<section min="4" max="4">
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(FireSnake:6)" arg2="group(5008)" arg3="single(Snowzombie_reoite:7)" />
+							<puzzle descriptor="data/script/puzzle/element/C2_SwitchDoor_Switch3Monster_Glacier.mint" arg1="single(FireSnake:3)" arg2="single(FireSnake:4)" arg3="single(Snowzombie_reoite:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_signal.mint" arg1="single(ForestGiant_SpearChuckF:5)" arg2="single(ForestGiant_LogWielderM:6)" arg3="group(5045)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+							<puzzle descriptor="data/script/puzzle/element/extra_iceimp.mint" />
+						</section>
+						
+					</puzzledesc>
+					<extradesc>
+						<extra descriptor="data/script/puzzle/element/Chest_OnWayEnd_snow.mint" />
+					</extradesc>
+				</floordesc>
+			
+			
+				<floordesc width="8" height="8" sectionnum="5" critpathmin="46" critpathmax="80" coverage="50" branch="70" tileset="0" color="808080,808080,808080" lightcolor="808080,808080,808080" fog="0" healingpoint="1" monsterdesc="" floormusic="Surrounded_by_Snow.mp3">
+					<boss script="data/script/puzzle/boss/SnowForestBoss3_trial.mint" value="1" />
+					<puzzledesc>
+						<section min="4" max="5">
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(FireSnake:6)" arg2="group(5008)" arg3="single(Snowzombie_reoite:7)" />
+							<puzzle descriptor="data/script/puzzle/element/C2_SwitchDoor_Switch3Monster_Glacier.mint" arg1="single(FireSnake:3)" arg2="single(FireSnake:4)" arg3="single(Snowzombie_reoite:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_signal.mint" arg1="single(ForestGiant_SpearChuckF2:5)" arg2="single(ForestGiant_LogWielderM:6)" arg3="group(5045)" />
+							
+						
+							<puzzle descriptor="data/script/puzzle/element/keychest_reoite2.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/forestmerchantapostle.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+							
+						</section>
+						<section min="5" max="6">
+							<puzzle descriptor="data/script/puzzle/element/reoite_signal.mint" arg1="single(ForestGiant_SpearChuckF2:4)" arg2="single(Snowzombie_reoite:6)" arg3="group(5044)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(Snowzombie_reoite:3)" arg2="single(FireSnake:7)" arg3="single(IceMimic2:3)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="group(5044)" arg2="group(5048)" arg3="group(5041)" />
+						
+							<puzzle descriptor="data/script/puzzle/element/reoite_cloud.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_tree.mint" />
+							<puzzle descriptor="data/script/puzzle/element/light_fragment1.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_pond.mint" />
+						</section>
+						<section min="5" max="7">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(FrozenBoar:6)" arg2="single(FrozenWolf:7)" arg3="single(IceMimic2:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_arena.mint" arg1="single(FrozenSprite:4)" arg2="group(5043)" arg3="single(ForestGiant_SpearChuckF2:4)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_outpost.mint" arg1="single(ForestGiant_BasicM2:6)" arg2="single(ForestGiant_SpearChuckF2:5)" arg3="single(ForestGiant_SpearChuckM:3)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_chests.mint" arg1="group(5040)" arg2="single(IceMimic2:8)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_tree.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_sheep.mint" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_reoite2.mint" />
+						</section>
+						<section min="4" max="8">
+							<puzzle descriptor="data/script/puzzle/element/C2_SwitchDoor_Switch3Monster_Glacier.mint" arg1="single(FrozenFox:4)" arg2="single(FrozenBoar:4)" arg3="single(Snowzombie_reoite:6)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_arena.mint" arg1="single(ForestGiant_BasicM2:3)" arg2="group(5046)" arg3="single(Snowzombie_reoite:5)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_arena.mint" arg1="single(FrozenWolf:3)" arg2="group(5047)" arg3="single(Snowzombie_reoite:5)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_outpost.mint" arg1="single(FrozenBoar:3)" arg2="group(5049)" arg3="single(PhoenixKnight:5)" /><puzzle descriptor="data/script/puzzle/element/C2_SwitchDoor_Switch3Monster_Glacier.mint" arg1="single(FrozenSprite:7)" arg2="single(FrozenWolf:4)" arg3="single(Snowzombie_reoite:5)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_signal.mint" arg1="single(ForestGiant_BasicM2:3)" arg2="single(ForestGiant_BasicM2:3)" arg3="single(ForestGiant_SpearChuckM:2)" />
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_3Mimichall.mint" arg1="single(PhoenixKnight:2)" arg2="single(FrozenWolf:2)" arg3="single(IceMimic2:3)" />
+							
+						
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_tree.mint" />
+
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_reoite2.mint" />
+							<puzzle descriptor="data/script/puzzle/element/extra_iceimp.mint" />
+						</section>
+						<section min="5" max="6">
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(FrozenBear:5)" arg2="single(GiantFrozenSprite:4)" arg3="single(FireSnake:5)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_outpost.mint" arg1="single(ForestGiant_SpearChuckM:4)" arg2="single(ForestGiant_FighterF:2)" arg3="single(ReoiteReindeer:2)" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_gate.mint" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_reoite.mint" arg1="single(FireSnake:6)" arg2="single(ReoiteReindeer:5)" arg3="single(Snowzombie_reoite:5)" />
+							
+							<puzzle descriptor="data/script/puzzle/element/reoite_tree.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_sheep.mint" />
+							<puzzle descriptor="data/script/puzzle/element/reoite_forest_extra.mint" />
+						</section>
+					</puzzledesc>
+					<extradesc>
+						<extra descriptor="data/script/puzzle/element/Chest_OnWayEnd_snow.mint" />
+					</extradesc>
+				</floordesc>	
+			</floordescs>
+			<floors>
+				<floor value="1" />
+				<floor value="2" />
+				<floor value="3" />
+			</floors>
 		</dungeon>
 	</dungeon_group>
 	
@@ -21962,7 +22395,6 @@
 							<puzzle descriptor="data/script/puzzle/element/arcane_keychest.mint" arg1="group(5025)" arg2="group(5026)" arg3="group(5028)" />
 							<puzzle descriptor="data/script/puzzle/element/switchdoor_switchhall2.mint" arg1="single(gremlinguard:2)" arg2="single(ArcaneFireSprite:3)" />
 						</section>
-
 						<section min="5" max="5">
 							<puzzle descriptor="data/script/puzzle/element/arcane_keychest.mint" arg1="single(ArcaneLightningSprite:4)" arg2="single(ArcaneFireSprite:6)" arg3="group(5034)" />
 							<puzzle descriptor="data/script/puzzle/element/arcane_keychest_9chest.mint" />

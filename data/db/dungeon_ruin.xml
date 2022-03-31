@@ -10,8 +10,8 @@
 					<boss script="data/script/puzzle/boss/cenaemeadow_Begin.mint" value="1" />
 					<puzzledesc>
 						<section min="1" max="1">
-							<puzzle descriptor="data/script/puzzle/element/Entrance_Puzzle.mint" arg1="single(Hawk_Owl:4)" arg2="single(ImmaculateHyena:5)" arg3="single(SandMimic:3)" />
-							<puzzle descriptor="data/script/puzzle/element/Entrance_Puzzle.mint" arg1="single(SandMimic:3)" arg2="single(ImmaculateHyena:4)" arg3="single(SandMimic:3)" />
+								<puzzle descriptor="data/script/puzzle/element/Entrance_Puzzle.mint" arg1="single(Hawk_Owl:4)" arg2="single(ImmaculateHyena:5)" arg3="single(SandMimic:3)" />
+							<puzzle descriptor="data/script/puzzle/element/CollectProp_Test.mint" />
 							<puzzle descriptor="data/script/puzzle/element/Entrance_Puzzle.mint" arg1="single(SandMimic:3)" arg2="single(SandMimic:3)" arg3="single(ImmaculateHyena:5)" />
 						</section>
 						<section min="2" max="3">
@@ -34,6 +34,48 @@
 							<puzzle descriptor="data/script/puzzle/element/keychest_monster_explore.mint" arg1="single(Hawk_Owl:4)" arg2="single(GoldenWaterBuffalo:2)" arg3="single(SandMimic:3)" />
 							<puzzle descriptor="data/script/puzzle/element/keychest_monster_explore.mint" arg1="single(SandMimic:3)" arg2="single(GoldenWaterBuffalo:3)" arg3="single(SandMimic:6)" />
 							<puzzle descriptor="data/script/puzzle/element/keychest_monster_explore.mint" arg1="single(ImmaculateHyena:5)" arg2="single(Hawk_Owl:4)" arg3="single(Hawk_Owl:5)" />
+						</section>
+					</puzzledesc>
+				</floordesc>
+			</floordescs>
+			<floors>
+				<floor value="1" />
+			</floors>
+		</dungeon>
+		<dungeon name="cenae_meadow_mines" localname="Cenae Meadow Mines" baseseed="3141592654" chestid="24952" lockedchestid="24953" dungeonstyle="1700000" exit="" lobby="Iria_SE_Desert_01_DG_after/_Iria_SE_Desert_01_DG_after" lobbydownstairid="24944" lobbysafetyzonename="DG_Iria_SE_After_Border" savestatueid="27126" laststatueid="27126" normaldoorid="24923" bossentrydoorid="27116" bossexitdoorid="27117" regiongroup="6" scenetype="indoor" distantmesh="distant_tirchornail" safetymusic="Silence.mp3" bossmusic="boss.mp3" blockboss="true" >
+			<floordescs>
+				<floordesc width="4" height="8" sectionnum="5" critpathmin="22" critpathmax="36" coverage="20" branch="10" tileset="0" color="00777777,00666666,00665566" lightcolor="00888888,00777777,00444444" fog="0" healingpoint="1" monsterdesc="" floormusic="Dungeon_Cenae.mp3">
+					<!--floordesc의 critpathmin 수치에 비해 그 아래 puzzle의 section max들의 합이 더 클 경우 던젼이 깨질 수 있습니다. -->
+					<boss script="data/script/puzzle/boss/cenaemeadow_mines.mint" value="1" />
+					<puzzledesc>
+						<section min="1" max="2">
+								<puzzle descriptor="data/script/puzzle/element/Entrance_Puzzle.mint" arg1="single(HobGoblinFighter[30043]:3)" arg2="single(Lioness:4)" arg3="single(BrownLizardWitch:4)" />
+								<puzzle descriptor="data/script/puzzle/element/Entrance_Puzzle.mint" arg1="single(BrownLizardWitch:4)" arg2="single(HobGoblinFighter[30043]:4)" arg3="single(RuinsTarantula[30020|30018|0|0|0]:6)" />
+						</section>
+						<section min="4" max="4">
+							<puzzle descriptor="data/script/puzzle/element/KeyChest_Monster.mint" arg1="single(HobGoblinFighter_Town:5)" arg2="group(4213)" arg3="group(122)" />
+							<puzzle descriptor="data/script/puzzle/element/CollectProp_Test.mint" />
+							<puzzle descriptor="data/script/puzzle/element/CollectProp_Test.mint" />
+							<puzzle descriptor="data/script/puzzle/element/CollectProp_shy.mint" />
+						</section>
+						<section min="1" max="1">
+							<puzzle descriptor="data/script/puzzle/element/arcane_arcanegate2.mint" />
+						</section>
+						<section min="3" max="5">
+							<puzzle descriptor="data/script/puzzle/element/Transparent_4Switch_NoKey_Sand.mint" arg1="single(Hardmode_Wisp:6)" arg2="single(GhostRuins:5)" arg3="single(SavannaShortManedHyena[30043]:4)" />
+							<puzzle descriptor="data/script/puzzle/pantay/opendoor_3rooms.mint" arg1="group(4213)" arg2="group(122)" arg3="single(HobGoblinArcher_Town:5)" />
+							<puzzle descriptor="data/script/puzzle/element/CollectProp_shy.mint" />
+							<puzzle descriptor="data/script/puzzle/element/CollectProp_shy.mint" />
+							<puzzle descriptor="data/script/puzzle/element/CollectProp_shy.mint" />
+							<puzzle descriptor="data/script/puzzle/pantay/switchdoor_hittableplant.mint" arg1="single(ImmaculateHyena:4)" arg2="single(ImmaculateHyena:5)" arg3="single(Hawk_Owl:4)" />
+						</section>
+						<section min="3" max="6">
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_explore.mint" arg1="single(BrownLizardWitch:4)" arg2="single(HobGoblinFighter_Town:5)" arg3="single(Lioness:2)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_explore.mint" arg1="single(ImmaculateHyena:5)" arg2="single(GhostRuins:4)" arg3="single(BrownLizardWitch:2)" />
+							<puzzle descriptor="data/script/puzzle/element/keychest_monster_explore.mint" arg1="group(121)" arg2="single(HobGoblinFighter_Town:5)" arg3="single(HobGoblinFighter[30043]:2)" />
+							<puzzle descriptor="data/script/puzzle/element/Entrance_Puzzle.mint" arg1="single(HobGoblinFighter[30043]:4)" arg2="single(Lioness:7)" arg3="single(BrownLizardWitch:6)" />
+							<puzzle descriptor="data/script/puzzle/element/CollectProp_shy.mint" />
+							<puzzle descriptor="data/script/puzzle/element/CollectProp_shy.mint" />
 						</section>
 					</puzzledesc>
 				</floordesc>
