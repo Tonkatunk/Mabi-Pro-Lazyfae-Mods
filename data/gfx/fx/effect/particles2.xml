@@ -219,6 +219,7 @@
 			<SpeedOverLife classname="CSpeedOverLifeController[7]" variance="0">0 5 </SpeedOverLife>
 			<ColorOverLife classname="CColorOverLifeController[7]" variance="0">1 3F081F4A 1 FF466399 1 FF000000</ColorOverLife>
 		</EffectType>
+	</mon_wisp>
 	<!-- 광부 코볼트 헬멧 촛불 -->
 	<kobold_candle classname="CEmitterType[7]" rotation_axis="0 1 0" emission_dirtype="3" bsphere_radius="100 100 100">
 		<EmitterShape classname="CEmitterShapeHemisphere[7]" link_to_emitter="1" area_type="0" radius="0 0 0" />
