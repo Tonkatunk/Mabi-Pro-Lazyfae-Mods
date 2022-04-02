@@ -94,7 +94,7 @@ data/gfx/fx/c3_g9_s2_monster_spider12.xml<br>
 Removed sulfur spider smoke fx.
 ___
 data/gfx/fx/c3_g10_s1_cloud.xml<br>
-Removed Rain Casting fx.
+~~Removed Rain Casting fx.~~
 ___
 data/gfx/fx/c3_g10_s1_others.xml<br>
 Removed waterfall fx.  Removed Lance Spark fx.
@@ -142,7 +142,7 @@ data/gfx/fx/effect_wave.xml<br>
 Removed wave fx.
 ___
 data/gfx/fx/effect_weather_rain.xml<br>
-Decreased "rain on screen" fx.  Increased overall rain fx, making it more dense but each raindrop is smaller.  Increase the feeling of rain without affecting visibility or leaving long streaks in your vision.
+~~Decreased "rain on screen" fx.  Increased overall rain fx, making it more dense but each raindrop is smaller.~~  Increase the feeling of rain without affecting visibility or leaving long streaks in your vision.
 ___
 data/gfx/fx/effect_weather_snow.xml<br>
 Removed snow fx.
