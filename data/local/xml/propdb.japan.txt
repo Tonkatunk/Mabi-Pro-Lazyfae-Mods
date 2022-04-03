@@ -2370,14 +2370,14 @@
 2628	*Iria 빙하Dungeon01 Prop Switch 01s
 2629	*no data
 2630	*Iria 빙하Dungeon01 Entrance 01 
-2631	*S Type Camp 이글루 01
+2631	*S Type Camp Igloo 01
 2632	*Field Iria LoginStage 005 선인Chapter01
-2633	*S Type Camp 이글루Inside Floor
+2633	*S Type Camp IglooInside Floor
 2634	*Iria Test 강 07
 2635	*Iria Test 강 08
 2636	*Iria Test 강 09
 2637	*Iria Test 강 16
-2638	이글루 Fire
+2638	Igloo Fire
 2639	*Iria Test 강 13
 2640	*Iria Test 강 20
 2641	*Iria Test 강 19
