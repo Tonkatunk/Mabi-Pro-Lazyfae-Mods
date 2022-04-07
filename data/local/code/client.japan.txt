@@ -1,0 +1,1582 @@
+﻿create_char_title	Create a New Character
+directory.cache	\\Mabinogi\\Cache
+directory.playdata	\\Mabinogi\\Play Data
+directory.screenshot	\\Mabinogi\\Screenshot
+directory.supplement	\\Mabinogi\\File
+etc.intro_nexon	Nexon Co., Ltd
+etc.intro_text1	Erinn seems…
+etc.intro_text2	to be blessed.
+etc.intro_text3	When looking beautiful dark sky
+etc.intro_text4	I feel
+etc.intro_text5	we are loved so
+etc.intro_text6	A feeling of blessed world like
+etc.intro_text7	The fertility of ground, and
+etc.intro_text8	an affection of wood,
+etc.intro_text9	all of these are
+etc.intro_text10	overwhelmed in our heart
+etc.intro_text11	Recite your story
+etc.intro_text12	around a warm bornfire.
+etc.logout_commercial_webpage	http://mabi.pro/lastguide/
+hackshield.1	Auto Mouse has been detected on your computer. (Type {0})
+hackshield.2	Macro has been detected on your computer.
+hackshield.3	Hooking for data protection API has been detected.
+hackshield.4	\n\nFunction Name: {0}\nModule Name: {1}\n
+hackshield.5	Hackshield driver is not loading.
+hackshield.6	Message Hooking has been detected, and was unable to block it.
+hackshield.7	Debug track has been detected.
+hackshield.8	Debug track has been altered.
+hackshield.9	A game hacking tool has been detected.
+hackshield.10	Illegal memory access has been detected.\n{0}
+hackshield.11	The module for Hackshield has been compromised.
+hackshield.12	The functions for Hackshield engine is currently abnormal.
+hackshield.13	Invalid code detected.
+hackshield.14	Memory modification of the Hackshield Module has been detected. Address: {0}
+hackshield.15	{0} file has been altered. Please re-install Mabinogi.
+hackshield.16	Warning
+hackshield.17	Incorrect data has been sent to the Hackshild Module.
+hackshield.18	Hackshield Module has yet to be initialized.
+hackshield.19	The current process has been loaded in a compatible mode.
+hackshield.20	The license key for Hackshield is incorrect.
+hackshield.21	A Hackshield file has been corrupted. Please re-install Mabinogi.
+hackshield.22	Hackshield is currently running through another program.
+hackshield.23	Hackshield has detected a debugger currently running. Please shut down the debugger and restart the game.
+hackshield.24	The code for the executing file is modified.
+hackshield.25	Only the Administrator may run this.
+hackshield.26	Unable to start the Auto-Detect engine for Hackshield.
+hackshield.27	Unable to create the driver file for Hackshield.
+hackshield.28	Unable to register the driver for Hackshield.
+hackshield.29	Unable to start the driver for Hackshield.
+hackshield.30	Unable to start the search thread for Hackshield.
+hackshield.31	Hackshield Module needs to be updated.
+hackshield.32	An error has occurred with Hackshield.
+hackshield.33	\nPlease take a screenshot and report this to Customer Service.\nError number: {0}
+hackshield.34	Warning
+hackshield.35	Unable to read HSUpdate.env.
+hackshield.36	Unable to use HSUpdate.env.
+hackshield.37	Unable to connect to the update server for Hackshield.
+hackshield.38	Unable to find a file for a Hackshield update.
+hackshield.39	Run-time error occurred while updating.
+hackshield.40	An error has occurred while updating Hackshield.
+hackshield.41	\nPlease take a screenshot and report this to Customer Service.\nError number: {0}
+hackshield.42	Warning
+hackshield.43	Incorrect data has been sent during authorization.
+hackshield.44	Illegal memory access has been detected during authorization.
+hackshield.45	Not enough memory.
+hackshield.46	An error has occurred with the authorization message.
+hackshield.47	A debugger has been detected during authorization.
+hackshield.48	An error has occurred with either the routing of the Hackshield Module or the Module itself.
+hackshield.49	An error has occurred during authorization.\nPlease take a screenshot and report this to Customer Service.\nError number: {0}
+hackshield.50	Warning
+hackshield.51	An error has occurred during authorization.\nPlease take a screenshot and report this to Customer Service.\nError number: {0}
+hackshield.52	Warning
+hackshield.53	Incorrect data has been sent to the Hackshild Module.
+hackshield.54	Hackshield Module has yet to be initialized.
+hackshield.55	The current process has been loaded in a compatible mode.
+hackshield.56	The license key for Hackshield is incorrect.
+hackshield.57	A Hackshield file has been corrupted. Please re-install Mabinogi.
+hackshield.58	Hackshield is currently running through another program.
+hackshield.59	Hackshield has detected a debugger currently running. Please shut down the debugger and restart the game.
+hackshield.60	The code for the executing file is modified.
+hackshield.61	Only the Administrator may run this.
+hackshield.62	Unable to start the Auto-Detect Hax engine for Hackshield.
+hackshield.63	Unable to create the driver file for Hackshield.
+hackshield.64	Unable to register the driver for Hackshield.
+hackshield.65	Unable to start the driver for Hackshield.
+hackshield.66	Unable to start the search thread for Hackshield.
+hackshield.67	Hackshield Module needs to be updated.
+hackshield.68	An error has occurred with Hackshield.
+hackshield.69	\nPlease take a screenshot and report this to Customer Service.\nError number: {0}
+hackshield.70	Warning
+hackshield.71	Unable to read HSUpdate.env.
+hackshield.72	Unable to use HSUpdate.env.
+hackshield.73	Unable to connect to the update server for Hackshield.
+hackshield.74	Unable to find a file for a Hackshield update.
+hackshield.75	Runtime error occurred while updating.
+hackshield.76	An error has occurred while updating Hackshield.
+hackshield.77	\nPlease take a screenshot and report this to Customer Service.\nError number: {0}
+hackshield.78	Warning
+hackshield.79	Incorrect data has been sent during authorization.
+hackshield.80	Illegal memory access has been detected during authorization.
+hackshield.81	Not enough memory.
+hackshield.82	An error has occurred with the authorization message.
+hackshield.83	A debugger has been detected during authorization.
+hackshield.84	An error has occurred with either the routing of the Hackshield Module or the Module itself.
+hackshield.85	An error has occurred during authorization.\nPlease take a screenshot and report this to Customer Service.\nError number: {0}
+hackshield.86	Warning
+hackshield.87	We sincerely apologize for this inconvenience, but\n\nan error has been detected with the Hackshield.\n\nError : {0}\nError Code : {1}\n\nThe error code of this error has been saved onto your clipboard.\nPlease search for this code at our website (ctrl+v)\nand find solution to this.\n\nIf no solution was posted on the website, please submit a ticket to Cutomer Support.\n\n\nClick on [OK] to move to the Mabinogi website.\nThe client will be shut down.\n\n
+hackshield.88	Hackshield Error
+hackshield.89	The system's time functions have been affected by a Speed Hack.
+hackshield.90	Unable to start the Hackshield Module.\nPlease re-install the game client.
+hsmoduleinit.1	An error has occurred during authorization.
+hsmoduleinit.2	Hackshield is currently active and running.
+hsmoduleinit.3	A .dll file has been altered.
+hsmoduleinit.4	Unable to find HSUpdate.env.
+hsmoduleinit.5	Failed to initialize update module for Hackshield.
+hsmoduleinit.6	Update address for Hackshield has been forced to switch due to a hosts file.
+hsmoduleinit.7	An error has occurred while updating Hackshield. (Error Code : {0})
+hsmoduleinit.8	{0} file has been altered.
+hsmoduleinit.9	An error has occurred with the update settings file of Hackshield.
+maintitle.c1	Mabinogi C1
+maintitle.c2	Mabinogi C2
+maintitle.closebeta	Mabinogi Closed Beta Test
+maintitle.default	Mabinogi
+maintitle.eg	Mabinogi EG
+maintitle.g1	Mabinogi G1
+maintitle.g2	Mabinogi G2
+maintitle.g3	Mabinogi G3
+maintitle.g4	Mabinogi G4
+maintitle.openbeta	Mabinogi Open Beta Test
+messages.1	Mabinogi G5
+messages.2	Mabinogi : Pioneers of Iria
+messages.3	PC Spec Auto Diagnosis Service Shortcut
+messages.4	OK
+messages.5	Cancel
+messages.6	Mabinogi : Ancient Secrets of Irinid
+messages.7	Mabinogi : Dragon
+messages.8	Mabinogi : Alchemist
+msg.account_creat_failed	Failed to create a new account.
+msg.adv_item.notice_msg	Please click the box on the bottom right corner to receive an Advanced Play item.
+msg.agetext_0	Age Limit: {0} - {1}
+msg.agetext_1	Age Limit: {0} or Over
+msg.agetext_2	Age Limit: Below (0)
+msg.arbeit.success_frequency	{0} Part-Time Job     {1} times done, Success Rate {2}%
+msg.arbeit_completed	Part-Time Job\n{0} is Complete!\nPlease report to {1}.
+msg.arena_logout_safety_notice	Arena logout protection. Protection will end when exiting the Arena.
+msg.authorize_failed_use_command	You do not have sufficient rights to use this command.
+msg.camp.abandon_cancel_btn	Cancel
+msg.camp.abandon_msg	Someone is already inside the camp.\n\nBy deciding to close an occupied camp,\nyou will forfeit the ownership of the camp, and\nit will disappear once everyone inside leaves.\nYou will also no longer be able to revive at this camp.
+msg.camp.abandon_ok_btn	OK
+msg.camp.abandon_title	Notice
+msg.camp.already_have	A camp already exists. Only one camp can be set up at a time.
+msg.camp.expired	The item has expired. It can no longer be used.
+msg.camp.generate_tooltip	In Use
+msg.camp.leave_msg	This camp will disappear once you exit.\nDo you wish to leave the camp?
+msg.camp.leave_title	Leave Camp
+msg.campsharing_cancel	Cancel
+msg.campsharing_info	Food can be shared with those seated around the campfire.\n50% of the food can be shared equally, regardless of the number of people sitting around the fire.\nDo you wish to use Campfire Sharing?
+msg.campsharing_info_title	Campfire Sharing
+msg.campsharing_message_requiring	You can write a note while sharing food.
+msg.campsharing_no	No
+msg.campsharing_ok	Yes
+msg.cannot_attack	Attack Cancelled
+msg.cannot_drop_in_camp	Items cannot be dropped in a camp.
+msg.cannot_drop_item	Unable to discard the item!
+msg.cannot_use_item	Unable to use the item.
+msg.card_help	Press New Character to create a new character,\nor select a character to be reborn and press Rebirth.
+msg.castle_info_not_found	Information on the corresponding house and/or castle cannot be found.
+msg.channel_move_desc	Moving to another channel incurs same penalties as re-login.\n\n- Cancel current Part-time job    \n- Teleporting from inside the dungeon to the lobby\n- Automatic drop out from a party               \n-  Logout penalty applied        \n\n
+msg.channel_move_notify	If used, you will be moved to {0}. \nTo move to {0}, you will need to use the channel exclusive to {0}.\n\n
+msg.character_aging_message	Your character is now {0} years old.
+msg.character_explo_levelup_message	Exploration Level Up!\nYou've leveled up to Level {0}!
+msg.character_levelup	Level Up!\nYou are now level {0}!
+msg.chat_add_friend_failed_cannot_find	User {0} cannot be found. \nOnly users that have logged on at least once after the Messenger system was implemented can be added as friends.
+msg.chat_add_friend_failed_full	Your character(s) {0}\nalready have more than {1} friends in the messenger, so\nno more friends can be added.
+msg.chat_add_friend_failed_logout	Friends can only be added when logged into the Messenger.
+msg.chat_add_self	You cannot add yourself.
+msg.chat_ban_failed_cannot_find	User {0} cannot be found.
+msg.chat_ban_failed_logout	You need to log in to block a user.
+msg.chat_ban_self	You cannot block yourself.
+msg.chat_closing_window_by_logout	This window can no longer be used since you have logged out.
+msg.chat_confirm_friend_failed_full	Your character(s) {0} \nalready possess more than {1} friends, and therefore, no more friends can be added. \nPlease log in again after deleting 1 or more friends from the above character(s).
+msg.chat_connection_closed_etc	Connection to the server lost. Automatic re-login will begin.
+msg.chat_connection_closed_etc.development	Connection to the chat server lost for an unknown reason.
+msg.chat_friend_deleted	Your friend's character {0} was deleted. All related information has been erased.
+msg.chat_friend_state_changed	{0}'s status has changed to {1}.
+msg.chat_id_password_mismatch	Failed to connect to the Messenger. Will retry connection on the next log in.
+msg.chat_id_password_mismatch.development	Incorrect user name or password. Please try again.
+msg.chat_invalid_charactername	Character name is invalid. Please submit a ticket to Customer Support about this character/server.
+msg.chat_login_from_othersite	You have logged in from another location. Automatic log in will start in a few moments.
+msg.chat_login_from_othersite.development	You have logged in from another computer, causing the current connection to end.
+msg.chat_sendmessage_failed	Failed to send the following message.
+msg.chat_server_connection_failed	Failed to connect to the communication server. Auto re-login will begin in a few moments.
+msg.chat_server_connection_failed.development	Failed to connect to the Chat Server. Please try again later.
+msg.chat_server_unavailable	No communication server currently available. Automatic retry will start in a few moments.
+msg.chat_server_unavailable.development	Chat server is currently unavailable. Please try again later.
+msg.chat_someone_added_me	Your friend has notified you about a new character. \nThe following characters will be seen as one. \n\n{0}
+msg.chat_unable_while_offline	You cannot open a chat window while in the Appear Offline state.
+msg.chat_unban_failed_logout	You need to log in to unblock a blocked user.
+msg.collect_reward_failed	You were unable to receive any rewards.
+msg.collectionbook.already_rewarded	You have already received a reward.
+msg.collectionbook.complete_rate	{0}% completed
+msg.collectionbook.rewardable	The reward can be collected.
+msg.combat.weapon_weaker_than_barehand	Better to fight with bare hands rather than with {0}.|{0} is useless as a weapon. Bare hands would be better. |Fighting with bare hands would be better than with the {0}.|The attack rate of the {0} is even lower than fighting with bare hands!
+msg.confirm_use_coupon	Do you wish to use this coupon and receive the reward?
+msg.connect_failed_to_localserver	Failed to connect to the local server.
+msg.create_char_fail_max	Failed to create a new character.\n\n* Only up to 20 characters can be created per account.
+msg.create_character_fail_max_80	Failed to create a new character.\n\n*You can create a maximum of 80 characters.
+msg.create_dungeon_time	Situation has arisen at present time {0}, {1} {2} {3}:{4}
+msg.create_pet_fail_max	Failed to create a new Animal Character\n\n*You may create only up to 20 animal characters.
+msg.critical_hit	Critical Hit!!!
+msg.critical_hit_msg	Critical Hit!!!
+msg.cutscene_leader_skips_demo	Your party leader has skipped the clip.
+msg.cutscene_wait	Please wait for a moment...
+msg.cutscene_wait_for_leader	Your party leader is still watching the clip.
+msg.destroy_item_confirm	Do you really want to destroy {0}?
+msg.dev.bank_not_savable	Deposit not allowed
+msg.dev.bank_not_sharable	Bank sharing not allowed
+msg.dev.is_proxy	Proxy
+msg.dev.keep_owner	Retain ownership
+msg.dev.not_destructable	Indestructible
+msg.dev.not_enchantable	Not enchantable
+msg.dev.not_removable	Not removable
+msg.dev.not_repairable	Not repairable
+msg.dev.not_tradable	Not tradable
+msg.dev.region_fixed	Fix Region
+msg.dungeon_create_waiters	Waiting for the dungeon to be created. There are {0} people left until the dungeon is created.
+msg.dungeon_logout_safety_notice	Dungeon logout protection. It will end when exiting the dungeon.
+msg.dungeon_pass_tooltip	\nExpires in {0}
+msg.dungeon_pass_tooltip_expire	Time Expired
+msg.ego_talk_equip	Please equip the Spirit Weapon in order to talk with the spirit.
+msg.enchant.scroll_only_warning	If you enchant an item with the scroll only, without using the Enchant skill,\nthe enchant scroll will disappear regardless of the result.\nDo you wish to enchant using only the scroll?
+msg.enchant.scroll_only_warning_title	Notice
+msg.enchant_bad	Enchantment failed!
+msg.enchant_best	Enchantment was a great success!!!
+msg.enchant_good	Enchantment was a success!
+msg.enchant_scroll_expired_prefix	Time Expired
+msg.enchant_scroll_expired_suffix	Time Expired
+msg.enchant_scroll_expiretime_prefix	\nExpires in {0}
+msg.enchant_scroll_expiretime_suffix	\nExpires in {0}
+msg.enchant_scroll_prefix	Prefix
+msg.enchant_scroll_suffix	Suffix
+msg.enchant_worst	Enchantment was a huge failure!!!
+msg.engine_initializing	Initializing Pleione Engine...
+msg.enter_world	You have entered the world of Mabinogi.
+msg.equip_ego_weapon_request	Please equip the Spirit Weapon in order to talk with the spirit.
+msg.error.1	The game cannot run because the graphic card was not initialized correctly.\n\nIf the issue continues when using nVidia series cards,\ninstall the latest graphic card driver available and try again.\nPlease submit a ticket to Customer Support for further details.\n\n
+msg.error.2	The graphic card installed on your system\ndoes not support critical functions required to run the game.\nThe program will no longer proceed.
+msg.error.3	Sorry for the inconvenience.
+msg.error.4	DirectX 9.00 or higher is required to run the Mabinogi client.\nDownload and install the latest DirectX version and try again.
+msg.error.5	Sorry for the inconvenience.\n\nThe problem description for the occurring issue has been copied to the clipboard.\nPlease submit a ticket to Customer Support\nso that it may be referenced during bug resolution.\n\nIf you post the message using the Mabinogi Error Assistant\nit will greatly help us check and resolve the issue. \nPress OK to return to the Bug Report Board.\nYou will be logged off from the game.\n
+msg.error.6	Mabinogi: An error occurred during execution.
+msg.error.7	Mabinogi
+msg.error.8	Bug Report
+msg.error.9	Compatibility mode activation is not necessary,\nbecause Mabinogi supports the latest Windows versions.\nIf you wish to use all your Windows functions without restriction, we recommend you disable Compatibility mode.\n\nDo you wish to disable Compatibility mode?
+msg.error.10	Attention!
+msg.error.11	Please run again after disabling Compatibility mode.
+msg.error.12	Mabinogi
+msg.error.13	Compatibility mode has been disabled.\nPlease run Mabinogi again.
+msg.error.14	Another Mabinogi client is already running.
+msg.error.15	The graphic card installed on your system\ndoes not ensure proper execution of the Mabinogi client.\nThis graphic card does not support a minimum number of key requirements.\nRunning the client with this card may cause unexpected issues,\nincluding the unstable execution of the Mabinogi client.\n\nDo you wish to continue?\n
+msg.error.16	http://mabi.pro/4th/3_free.php?bc=4
+msg.fix_charge_10x	Repair cost 10x
+msg.gdi_startup	Preparing to run
+msg.gift_help	Click See to receive the present.
+msg.gm.confirm_force_open_door	Do you wish to open this door?
+msg.gm.not_move_silencemode	Moving with Mute Mode enabled is not recommended.
+msg.guild_create.agreed	{0} has agreed on forming a Guild.
+msg.guild_create.agreement_request	Do you agree with {0}, the party leader, on forming a guild called {1}?
+msg.guild_create.agreement_request_title	Agree to Guild Formation
+msg.guild_create.already_guildmember	You are currently a guild member.
+msg.guild_create.confirm_create	All party members have agreed on forming a guild. Do you wish to form one?
+msg.guild_create.confirm_create_title	Confirm Guild Formation
+msg.guild_create.create_request	You have successfully submitted a request to form a new guild. Please wait until all party members agree to the guild creation.\nIf failed, you'll need to create a new party in order to re-apply for one.
+msg.guild_create.create_request_failed	The request to form a new guild has failed.\nCreate a new party and try again.
+msg.guild_create.daylimit	{0} cannot join the guild. A week must pass before joining another guild.
+msg.guild_create.disagreed	{0} has not agreed on forming a new guild.
+msg.guild_create.insufficient_member	You must be the leader of a party of 5 to form a guild.
+msg.guild_create.no_pet	Unable to create a guild due to one of the party members being an animal character.
+msg.guild_distroy	The guild will be disbanded.\nIt may take about 1 minute to complete the process.
+msg.guild_distroy_failure	Failed to disband the guild.
+msg.guild_failure	Fail
+msg.guild_join_awaiting_notice	Application has been submitted.\nThe Guild Leader will need to approve your application to become a guild member.
+msg.guild_name_usable_failure	This name is not available.\nTry another name.
+msg.guild_name_usable_success	This name is available.
+msg.guild_success	Success
+msg.guild_transition_master	The Guild Leader has been successfully changed.\nIt may take about 1 minute to complete the change.
+msg.guildchat_logout_or_invalid	You are either not logged into the messenger, or the guild is not valid.
+msg.guildchat_unavaiable_notice	We are sorry, but guild chat is currently unavailable.
+msg.house_prop_confirm	You must pay a fee of {0} Gold to use this.\nAre you sure you want to use it?
+msg.house_prop_unavailable	This is currently not availble for use.\nPlease contact the current tenant.
+msg.immune_magic_rate	<color=3>Auto Defense (Magic): {0}%</color>
+msg.immune_melee_rate	<color=3>Auto Defense (Melee): {0}%</color>
+msg.immune_ranged_rate	<color=3>Auto Defense (Ranged): {0}%</color>
+msg.inventory_cannot_throw_pocket_containing	A bag containing items inside cannot be discarded.
+msg.inventory_cannot_use_bag	Extra Storage is required to open the bag.\nPlease use 'Empty Bag' command to retrieve the items in the bag.
+msg.ipservice_timeout_notice	Premium PC room servhice hours have expired.
+msg.item.directbank_tradable	Direct Bank Transaction enabled
+msg.item.directbank_untradable	Direct Bank Transaction disabled
+msg.item.durability	Number of uses {0}/{1}
+msg.item.skill_restriction	Skill Limit : {0} {1} rank or higher.
+msg.item_attack	Attack {0}-{1}
+msg.item_attackspeed_fast	Fast
+msg.item_attackspeed_normal	Normal
+msg.item_attackspeed_slow	Slow
+msg.item_attackspeed_veryfast	Very Fast
+msg.item_attackspeed_veryslow	Very Slow
+msg.item_burnup_failed	Failed to burn the item.
+msg.item_buy_failed	You cannot buy this item.
+msg.item_check_description	Please pay the amount listed below to the item holder.
+msg.item_check_tooltip	{0} Gold
+msg.item_coupon_reward_tooltip	The reward for this coupon
+msg.item_critical	Critical {0}%
+msg.item_defense	Defense Rate {0}
+msg.item_drop_failed	You cannot drop this item.
+msg.item_durability	Durability {0}/{1}
+msg.item_durability_current	Use Count {0}/{1}
+msg.item_exp	Proficiency {0} ({1}%)
+msg.item_exploquest	Exploration Quest
+msg.item_give_failed	This item cannot be gifted.
+msg.item_give_failed_not_givable_item	This item cannot be given to someone else.
+msg.item_give_failed_toofar	Unable to gift this item due to the target being too far away.
+msg.item_guildpendant_bind	\n\n<color=1> You are currently bound to  <color=2>{0}<color=1>guild.
+msg.item_maker_blacksmith	Blacksmith
+msg.item_maker_cloth	Tailor
+msg.item_maker_default	Crafter
+msg.item_maker_desc	{1:jobclass} Rank {0:rank} {2:name}'s work
+msg.item_nogive_property	This item cannot be given to someone else.
+msg.item_original	(Original)
+msg.item_pickup_failed_general	You cannot pick up this item.
+msg.item_pickup_failed_invalid_item	The item does not exist.
+msg.item_pickup_failed_inventory_insertion_failed	You cannot add this item to your inventory.
+msg.item_pickup_failed_no_authority	I do not have the right to pick up this item.|This item is not for me.|I cannot pick up this item.|I cannot pick up someone else's item.
+msg.item_pickup_failed_no_authority2	This item is not for me. |I can't pick up this item. | This item belongs to someone else and therefore I cannot pick it up.
+msg.item_pickup_failed_notenough_space	There is not enough space in your inventory.
+msg.item_pickup_faled_unique	You can have only one of of this item.
+msg.item_protect	Protection {0}
+msg.item_remove_failed	You cannot destroy this item.
+msg.item_reversion	{0}-only Item
+msg.item_sell_failed	You cannot sell this item.
+msg.item_size_desc	\n\nSize: {0} cm
+msg.item_skill_limit	Skill Limit: {0} Rank {1} or higher
+msg.item_skill_restrict	This item can only be equipped by characters with at least Rank {1} in {0}.
+msg.item_tooltip.exploquest	Exploration Quest
+msg.item_tooltip.general_prop_sketched	Sketched
+msg.item_tooltip.keyexploquest	Mandatory Exploration Quest
+msg.item_tooltip.monster_sketched	A sketch of {0} 
+msg.item_tooltip.prop_sketched	A sketch of {0} 
+msg.item_tooltip.require_explolevel	Exploration Level: {0}
+msg.item_tooltip.time_remaining	Time remaining : {0} min.
+msg.item_upgrade	Modify Count {0} / Available Modify Count {1}
+msg.item_upgraded	Upgraded {0} with {1}.
+msg.item_valance	Balance {0}%
+msg.item_weapontype_hitcount	{0} {1} Hit Weapon
+msg.item_weapontype_ranged	{0} Ranged Weapon
+msg.item_wounddamage	Injury Rate {0}-{1}%
+msg.license.cumulated_gold	Total Amount: {0} Gold
+msg.license.deposit_commission	Exchange Fee {0}%
+msg.license.gold_limit	Limits {0} Gold
+msg.license.not_usable	Unusable
+msg.license.sell_commission	Sales Fee {0}%
+msg.license.selling_price	Sales Amount: {0} Gold
+msg.license.unusable_area	Unusable Area
+msg.license.usable_area	Usable Area
+msg.lobby_cancel_character_delete_failed	Failed to restore the character.
+msg.lobby_cardtype_discount	(Discount card)
+msg.lobby_cardtype_prize	(Product card)
+msg.lobby_cardtype_test	(Test card)
+msg.lobby_character_create_failed	Failed to create a new character.\n\nThe name may already have been taken by another player.\nPlease select another name and try again.
+msg.lobby_character_create_failed_age	Failed to create a new character.\n\n* Your age does not comply with the server requirements.\n* Please read the description of each server and select again.
+msg.lobby_character_create_failed_card_condition	Failed to create a new character.\n\n* You have selected an appearance not supported by your present creation card.
+msg.lobby_character_create_failed_card_error	Failed to create a new character.\n\n* The information in the character card is invalid.\n* Please submit a ticket to Customer Support for further details.
+msg.lobby_character_create_failed_internal_error	Failed to create a new character.\n\n* An internal error occurred while creating the character.\n* Please take a screenshot of the current screen and submit a ticket to Customer Support.
+msg.lobby_character_create_failed_old	Failed to create a new character.\n\nThe name may already be in use by another player.\nPlease select another name and try again.
+msg.lobby_character_create_failed_same_name	Failed to create a new character.\n\n* The name may already be in use by another player or it may not be available in the game.\n* Please try using another name.
+msg.lobby_character_create_failed_too_many	Failed to create a new character.\n\n* You have a total of 20 characters and pets.
+msg.lobby_character_create_failed_unknown_error	Failed to create a new character.\n\n* An internal error ({0}) occurred while creating the character.\n* Please take a screenshot of the current screen and submit a ticket to Customer Support.
+msg.lobby_character_delete_failed	Failed to delete the character.
+msg.lobby_character_delete_failed2	Failed to delete the character.
+msg.lobby_charactercard	<Character card>
+msg.lobby_charactercard_basic	<Basic Card>
+msg.lobby_charactercard_basic_discount	<Basic Card (Discount)>
+msg.lobby_charactercard_basic_promotion	<Basic Card (Product)>
+msg.lobby_charactercard_basic_testserveronly	<Basic Card (Test Server)>
+msg.lobby_charactercard_event	<Event Reincarnation Card>
+msg.lobby_charactercard_event_rebirth	Free character creating card
+msg.lobby_charactercard_free	<Free card>
+msg.lobby_charactercard_premium	<Premium Card>
+msg.lobby_charactercard_premium_2005_summer	<프리미엄 한정 카드>\n2005년 여름 한정 품목
+msg.lobby_charactercard_premium_2005_summer_discount	<프리미엄 한정 카드 (할인)>\n2005년 여름 한정 품목
+msg.lobby_charactercard_premium_2005_summer_discount_reduced	<프리미엄 한정 카드 (할인)>
+msg.lobby_charactercard_premium_2005_summer_reduced	<프리미엄 한정 카드>
+msg.lobby_charactercard_premium_2005_winter	<프리미엄 한정 카드>\n2005년 겨울 한정 품목
+msg.lobby_charactercard_premium_2005_winter_discount	<프리미엄 한정 카드 (할인)>\n2005년 겨울 한정 품목
+msg.lobby_charactercard_premium_2005_winter_discount_reduced	<프리미엄 한정 카드 (할인)>
+msg.lobby_charactercard_premium_2005_winter_reduced	<프리미엄 한정 카드>
+msg.lobby_charactercard_premium_discount	<프리미엄 카드 (할인)>
+msg.lobby_charactercard_premium_promotion	<프리미엄 카드 (상품)>
+msg.lobby_gift_type	Gift from {0}
+msg.lobby_local_duplicated	This name is already taken by someone else.
+msg.lobby_name_available	"{0}"\nThis name is available
+msg.lobby_name_not_available	"{0}"\nThis name is not available.
+msg.lobby_notice	Notice
+msg.lobby_petcard	<Animal Character Card>
+msg.lobby_petcard_race	<'{0}' card>
+msg.lobby_read_character	Reading character information.
+msg.lobby_read_character_fromcard	Reading character information.
+msg.lobby_read_character_old	Reading character information.
+msg.login.blocked	This account has been banned. The ban will be lifted in {0}hrs. {1}min.
+msg.login.booting	Login Server is currently under maintenance.\nPlease log in again later.
+msg.login.char_invalid	An unexpected error has occurred to the character data. \nIt might take some time to restore the character information.
+msg.login.inf_blocked	This account is currently banned. \nIf you wish to appeal the ban, please submit a ticket to Customer Support through the Mabinogi website. \nPlease select "Banning/Suspension Inquiry" as the sub-category.
+msg.login.internal_error	An error has occurred to the corresponding account.
+msg.login.ip_blocked	You cannot access the game from your current location.
+msg.login.lack_age	We are sorry, but you cannot log in with an account if you are below 12 years old.
+msg.login.unblocked	The suspended account has been reactivated.
+msg.login_delay_dialog_msg	The last connection was terminated abnormally. Log in is delayed for 30 seconds\nto safely preserve the character data.
+msg.login_delay_dialog_ok	OK
+msg.login_delay_dialog_title	Message
+msg.login_failed_general	Failed to log in.
+msg.login_failed_id_password_mismatch	Your ID or password is invalid.\n\nPlease double-check your ID and password\nand see if you have the Caps Lock on or not.
+msg.login_failed_server_full	Unable to connect to the server due to too many users.
+msg.moonstone_tooltip	<color=0>Use a piece of Moon Stone to\ntransport yourself to the spot where you'd first found it.\nTransporting to : [<color=3>{0}<color=0>]
+msg.move_channel_failed	Failed to change channels.
+msg.nao_support.recharged	You have earned an additional "Nao's Support".
+msg.no_collect_invalid_item	Unable to add item.
+msg.no_collect_not_completed	Incomplete items cannot be stored.
+msg.no_collect_target_item	Not a collectable item.
+msg.no_title	No Title
+msg.none_attackable_target	Not an attackable target.
+msg.noskill_available_touse_thisprop	You do not have the skill to use this device.
+msg.noskill_available_touse_thisprop2	This device cannot be used.
+msg.notice_pause_auto_combat	Now temporarily disabling Auto Combat.
+msg.order_scroll_expired	The time stated in the scroll has passed.
+msg.order_scroll_tooltip	This Command Scroll says that {2} will appear at {0} in {1}.
+msg.party_expmode_changed	{0} has changed the party's EXP distribution rules to [{1}].
+msg.party_finishrule_changed	{0} has changed the party's finish rules to [{1}].
+msg.party_join_failed_invalid_password	Incorrect password. You cannot join this party.
+msg.party_kicked	You have been removed from the party.
+msg.party_leader_changed	{0} has become the party leader.
+msg.party_member_out	{0} has left the party.
+msg.party_newmember	{0} has joined the party.
+msg.party_newmember2	{0} has joined the party.
+msg.party_newmember3	{0} has joined the party.
+msg.party_out	You have left the party.
+msg.party_quest_changed	{0} has changed the party quest to [{1}].
+msg.party_quest_removed	{0} has removed the party quest.
+msg.party_start_recruiting	Start party recruitment.
+msg.party_stop_recruiting	Stop party recruitment.
+msg.pet.ai_on	You have ordered your pet to attack at will.
+msg.pet.confirm_give_item	Would you like to feed your pet with {0}?
+msg.pet.favor_status	Closeness : {0}
+msg.pet.food_status	Hunger : {0}
+msg.pet.have_not_revive	{0} does not have a Rescue Kit.
+msg.pet.healing_ai_on	You have ordered your pet to use Heal during the battle.
+msg.pet.idle_msg	I should just let it do whatever it wants…|Should I just leave it alone…|Should I let it rest…?
+msg.pet.idle_off	Let's get moving!|Let's go!|Wake up!
+msg.pet.in_summon	Summoning…
+msg.pet.in_unsummoning	Cancelling the summoning…
+msg.pet.life_status	HP : {0}%
+msg.pet.loyalty_status	Loyalty Level : {0}
+msg.pet.meet_mate_control	You are now dating {0}.
+msg.pet.meet_mate_summon	{0} and {1} have become a couple.
+msg.pet.not_collect_pet	This pet cannot gather items.
+msg.pet.not_collect_pet2	This pet cannot gather items.
+msg.pet.pickup_ai_on	The pet starts to pick up items.
+msg.pet.pickup_fail_put	{0}'s inventory is full.
+msg.pet.pickup_gold	{0} has picked up {1} Gold.
+msg.pet.pickup_inventory_full	{0}'s inventory is full.
+msg.pet.pickup_item_bundle	{0} has picked up {2} {1}s.
+msg.pet.pickup_item_single	{0} has picked up {1}.
+msg.pet.remain_time	Time remaining : {0} min.
+msg.pet.separate_mate_control	You have ended the relationship.
+msg.pet.separate_mate_summon	{0} has ended the relationship.
+msg.pet.start_other_collect	Allow others to gather from the pet.
+msg.pet.started_attack	{0} has started attacking {1}.
+msg.pet.started_keeper	{0} has started to protect the Personal Shop.
+msg.pet.status_dead	{0} is unconscious.
+msg.pet.status_hunger1	{0} seems to be very hungry.
+msg.pet.status_hunger2	{0} seems to be hungry.
+msg.pet.status_hunger3	{0} seems to be just a bit hungry.
+msg.pet.status_hunger4	{0} seems to be full.
+msg.pet.status_hunger5	{0} seems to be very much full.
+msg.pet.status_life1	{} became unconscious.
+msg.pet.status_life2	{0} seems to be in need of immediate help.
+msg.pet.status_life3	{0} seems to be in need of care.
+msg.pet.status_life4	{0} seems to be a little sick.
+msg.pet.status_life5	{0} seems to be healthy.
+msg.pet.status_life6	{0} seems to be very healthy.
+msg.pet.stop_other_collect	Disallow others from gathering from this pet.
+msg.pet.stopped_keeper	{0} has stopped protecting the Personal Shop
+msg.pet.summon_status_title	Message
+msg.pet.summon_timeout_warning	{0}'s summoning time has {1} min. left
+msg.pet.summoned_msg	You have summoned {0}.
+msg.pet.support_ai_on	You have ordered to help out during battles.
+msg.pet.time_limit	You have used up all the summoning time of {0}.
+msg.pet.time_remain_msg	{0}'s summoning time has {1} min. left
+msg.pet.unable_give_item	Unable to give {0}
+msg.pet_pvp.begin	The battle begins!
+msg.pet_pvp.loser	{0} lost in the battle.
+msg.pet_pvp.loser_desc	{0}{이} lost in the battle.
+msg.pet_pvp.start	The battle will now begin!
+msg.pet_pvp.winner	{0}  won the battle!
+msg.pet_pvp.winner_desc	{0}{이} won the battle!
+msg.pet_timeout_unsummon	The summoning will be canceled due to lack of remaining summon time.
+msg.petcard_help	To create a new pet, click 'New Pet',\nand to have your animal character go through rebirth, click 'Rebirth'.
+msg.playtime_almost_out_notice	Today's allowed playing time is almost over.
+msg.playtime_out_notice	Today's allowed play time is over.
+msg.ps_shop.opened	A shop has been created.\nBeware that if you are more than 5 yards away, the shop will close.\nIf you wish to venture out while keeping it open, summon a pet to guard the shop.
+msg.ps_shop.opened2	A shop has been created.\nBeware that if you are more than 5 yards away, the shop will close.\nIf you wish to venture out while keeping it open, summon a pet or Brownie to guard the shop.
+msg.ps_shop.set_title	Enter the name of your Personal Shop.
+msg.ps_shop.set_value	Please set the prices for items.
+msg.ps_shop.unable_pet	Animal characters cannot open Personal Shop.
+msg.pvp_arena_life_recovered	{0} {1} Recovery
+msg.pvp_arena_mana_recoverd	{0} {1} Recovery
+msg.pvp_arena_round_end_alive	The round has ended.
+msg.pvp_arena_round_end_died	The round has ended.
+msg.pvp_arena_stamina_recovered	{0} {1} Recovery
+msg.pvp_arena_wound_recovered	Wound {0} Recovery
+msg.quest_almost_expired	Time limit is almost over.
+msg.quest_complete	[Complete]
+msg.quest_complete2	[Complete]
+msg.quest_complete_scroll	Complete
+msg.quest_completed	Homework\n{0} is Complete!\nPlease report to {1}.
+msg.quest_expired	Expired
+msg.quest_expired2	Expired
+msg.quest_expired_already	Expired
+msg.quest_objective_completed	Quest objectives for\n{0} complete.
+msg.quest_received	Received the [{0}] quest.
+msg.quest_remain_time_day	Complete in {0} day(s)
+msg.quest_remain_time_day_hour	Complete in {0} day(s), {1} hour(s)
+msg.quest_remain_time_hour	Complete in {0} hour(s)
+msg.quest_remove_scroll	Delete Mission
+msg.quest_scroll_result	Mission Reward
+msg.quest_scroll_time_day	Complete within {0} day(s)
+msg.quest_scroll_time_day_hour	Complete within {0} day(s), {1} hour(s)
+msg.quest_scroll_time_expiretime	Time Limit:
+msg.quest_scroll_time_hour	Complete wihin {0} hour(s)
+msg.quest_scroll_time_veryshort	Very Short
+msg.remain_playtime_notice_hour	Remaining play time for today is {0} hour(s).
+msg.remain_playtime_notice_hour_minute	Remaining play time for today is {0} hour(s), {1} minute(s).
+msg.remain_playtime_notice_minute	Remaining play time for today is {0} minute(s).
+msg.score_composer	Composer: {0}
+msg.score_level	Difficulty:
+msg.score_level_other	Grade {0}
+msg.score_level_training	Drawing
+msg.score_title	Name: {0}
+msg.scroll_durability	Durability {0}%
+msg.scroll_remain_uses	Remaining Use Count {0}
+msg.server_select_failed_no_authority	You do not have access rights to the selected server.
+msg.service_expire_bag	Your Extra Storage session has expired, and all your open bags have been locked.\nPlease use 'Empty Bag' command to retrieve the items in the bag.
+msg.shutdown_alarm	You will logout automatically after {0} second(s).
+msg.shutdown_alarm_title	Notice
+msg.skill.another_skill_using	Another skill is already in use.
+msg.skill_insufficent_ability_info	* You do not have enough AP (Ability Points) to level up. *\n\nAP is obtained when a character levels up.\nA character's EXP increases automatically when you train each skill, \nso AP can be obtained by training other skills or through quests.\nYou also get AP when a character gets 1 year older,\nso spending time is also a good way.\nRequired AP: {0} AP\nCurrent AP: {1} AP
+msg.skill_know	You have gained knowledge about the {0} skill.
+msg.stone	You have been petrified.
+msg.stone_release	You have snapped out of petrification.
+msg.stone_skill	You have been temporarily petrified.
+msg.stone_skill_end	You have been unpetrified.
+msg.title_add	You have acquired the '{0}' title.
+msg.title_know	You have gained knowledge about the {0} title.
+msg.title_removed	Title has been removed.
+msg.title_use	Now using '{0}' title.
+msg.toofar_to_talk	Target is too far away to talk.
+msg.tooltip.house_bidding	Auction in progress
+msg.tooltip.house_empty	Empty House
+msg.tooltip.house_owner	{0}'s house
+msg.tooltip.item_repair_cost_down	Service fee - {0}%
+msg.tooltip.item_repair_cost_up	Service fee + {0}%
+msg.tooltip.no_enchant_level_limit	Enchant available regardless of the rank limit
+msg.tooltip.poison_durability	Poison Durability : {0}%
+msg.tooltip.poison_immune	Poison Immunity : {0}%
+msg.tooltip.posion_attackrate	Poison Attack : {0}%
+msg.tooltip.wedding	{0} and {1}'s Wedding
+msg.trade_canceled	Trade has been canceled.
+msg.trade_success	Trade was successful.
+msg.ui_load_failed	Failed to load the user interface.
+msg.ui_loading	Loading user interface.
+msg.upgrade	Upgrade {0}/{1}
+msg.use_item.need_skill	You need to be able to use {1} skill in order to use {0}.
+msg.use_item.pet_cannot_use_agepotion	This item is not available to animal characters.
+msg.use_item.title_use_agepotion	Notice
+msg.use_item.use_agepotion_msg	'Your character will age by one year.  \nDo you wish to use this item?
+msg.use_item_riding_fail	This item cannot be used at this time.
+msg.valentine_cancel	Cancel
+msg.valentine_info	On Valentine's Day, you can send a piece of your heart by giving chocolate to your loved one.\nWould you like to use the chocolate delivery service?\n(If you just want to eat the chocolate, select 'No')
+msg.valentine_info_title	Send Chocolate
+msg.valentine_no	No
+msg.valentine_ok	Yes
+msg.valentine_receiver_requiring	Enter the recipient's name and a message
+msg.warn_unable_untrain_skill	This skill cannot be untrained.\nDo you wish to level this skill up?
+msg.warp_moonstone_tooltip	<color=0>Use a piece of Moon Stone to\ntransport yourself to the spot where you'd first found it. \nTransporting to : [<color=3>{0}<color=0>]
+msg.warp_scroll_tooltip	<color=0>Using this item will teleport you to the designated location.\nDestination: [<color=3>{0}<color=0>]
+msg.whiteday_info	On Valentine's Day, you can send a piece of your heart by giving chocolate to your loved one.\nWould you like to use the chocolate delivery service?\n(If you just want to eat the chocolate, select 'No')
+msg.whiteday_info_title	Send Chocolate\n
+msg.xmas_info	크리스마스에는 케이크에 자신의 마음을 담아 보낼 수 있습니다.\n케이크 배달 서비스를 이용하시겠습니까?\n(그냥 먹고 싶으면 아니오를 선택하세요
+msg.xmas_info_title	Send Cake
+oasischatsystem.1	You have ordered the pet to wait for command during battle.
+oasisrulesystem.1	Using \"{0}\" from the Pet AI.
+oasisrulesystem.2	Failed to use \"{0}\" from the Pet AI.
+oasisrulesystem.3	Failed to use \"{0}\" from the Pet AI.
+oasisrulesystem.4	Using \"{0}\" from the Pet AI.
+pleione.4	\\Mabinogi\\Pet AI
+pleione.5	\\Mabinogi\\Settings
+pleione.6	\\Mabinogi\\Video
+pleione.7	\\Mabinogi\\Visual Chat
+pleioneaccount.0	{0}Time has expired.  Please take a break.
+pleioneaccount.1	{0}Time has expired.
+pleioneaccount.2	건전한 인터넷문화 정착을 위해 넥슨 회원가입시 반드시 본인의 주민등록번호를 입력해주세요.
+pleioneaccount.3	본 게임은 12세 이용가입니다.
+pleioneaccount.4	안전한 계정관리를 위해 주기적으로 게임 비밀번호를 변경하시기 바랍니다.
+pleioneaccount.5	Please do not share your personal information with others, including your ID and PW. 
+pleioneaccountmsg.1	Another animal has already been summoned.
+pleioneaccountmsg.2	Your Mabinogi Premium Pack has {0} hour(s) and {1} minute(s) left. 
+pleioneaccountmsg.3	Your Mabinogi Premium Pack has {0} hour(s) left.
+pleioneaccountmsg.4	Your Mabinogi Premium Pack has {0} minute(s) left.
+pleioneaccountmsg.5	Your Mabinogi Premium Pack is about to expire.
+pleioneaccountmsg.6	Your Mabinogi Premium Pack has expired.
+pleionecontrollercharactercmd.1	Would you like to give the performer an item?
+pleionecontrollercharactercmd.2	The animal character is not present.
+pleionecontrollercharactercmd.3	It seems too small for me.
+pleionecontrollercharactercmd.4	The sled might break if you ride it here.
+pleionecontrollercharactercmd.5	You can't ride the sled because there are obstacles near your pet.
+pleionecontrollercharactercmd.6	You can't use this skill right now.
+pleionecontrollercharactercmd.7	I can’t use a paddle outside the raft.
+pleionecontrollercharactercmd.8	I can’t use a paddle that belongs to a different raft.
+pleionecontrollercharactercmd.9	Do you wish to dismount from the hot air balloon?
+pleionecontrollercharactercmd.10	Do you wish to dismount from the hot air balloon?
+pleionecontrollercharactercmd.11	You cannot mount a character while it is gesturing.
+pleionecontrollercharactercmd.12	You can't use another skill while preparing for the Final Shot.
+pleionecontrollercharactercmd.13	You can only use long range attacks while using Final Shot.
+pleionecontrollercharactercmd.14	You can't use another skill while preparing for the Wind Guard.
+pleionecontrollercharactercmd.15	You can only use Taunt while Wind Guard is activated.
+pleionecontrollercharactercmd.16	Cannot mount on its head while unconscious.
+pleionecontrollercharactercmd.17	You can only use Taunt and Windmill while Wind Guard is activated.
+pleionecontrollercharactercmd.18	Average Firewood
+pleionecontrollercharactercmd.19	Fine Firewood
+pleionecontrollercharactercmd.20	Finest Firewood
+pleionecontrollercharactercmd.21	Firewood
+pleionecontrollercharactercmd.22	Do you wish to use the campfire made with {0}\nto burn {a/an} {1}?\nYou'll be able to obtain a small amount of EXP and an Enchant Scroll or Magic Powder as a reward.
+pleionecontrollercharactercmd.23	Do you wish to use the campfire made with {0}\nto burn {a/an} {1}?\nYou'll be able to obtain a small amount of EXP an an item as a reward.\n In order to extract an Enchant, you'll need a Mana Herb and a Holy Water of Lymilark.
+pleionecontrollercharactercmd.24	Do you wish to use the campfire made with {0}\nto burn {a/an} {1}?\nYou'll be able to obtain a small amount of EXP an an item as a reward.
+pleionecontrollercharactercmd.25	Do you wish to use the campfire made with {0}\nto burn {a/an} {1}?\nYou'll be able to obtain a small amount of EXP an an item as a reward.\n In order to extract an Enchant, you'll need a Mana Herb and a Holy Water of Lymilark.
+pleionecontrollercharactercmd.26	This item cannot be picked up again. Would you like to continue?
+pleionecontrollercharacteretc.0	{0} is keeping an unidentified enemy at bay.\nYou must get off the horse in order to move.
+pleionecontrollercharacterprocess.1	Pet command failed.
+pleionecontrollercharacterprocess.2	Seems like {0} is distracted and didn't hear your command.
+pleionegameguard.1	A keylogger hacking tool has been discovered.
+pleionegameguard.2	GameGuard is currently running. Please try again after rebooting your system.
+pleionegameguard.3	There are multiple instances of the game or GameGuard is already running. Please try again after exiting the game.
+pleionegameguard.4	A GameGuard initialization error has occurred. Run again after rebooting your system or close any conflicting applications and try again.
+pleionegameguard.5	A GameGuard file is missing or has been tampered with. Please install GameGuard setup files.
+pleionegameguard.6	Some Windows files have been corrupted. Please reinstall Internet Explorer.
+pleionegameguard.7	Failed to execute GameGuard. Please reinstall GameGuard setup files.
+pleionegameguard.8	An illegal program has been detected. Close any unnecessary applications and try again.
+pleionegameguard.9	GameGuard update has been cancelled. If you cannot log in, configure your Internet and personal firewall settings.
+pleionegameguard.10	Connection failed due to virus or spyware. Download the latest antivirus application and run a total scan on your computer.
+pleionegameguard.11	A GameGuard initialization error has occurred or it's an older version file of GameGuard. Please reinstall GameGuard setup files and try again.
+pleionegameguard.12	An .ini file is missing or has been tampered with. You can fix this issue by installing GameGuard setup files.
+pleionegameguard.13	An npgmup.des initialization error has occurred. Delete the GameGuard folder and try again.
+pleionegameguard.14	Failed to connect to the GameGuard update server. Try again later or configure your personal firewall (if applicable).
+pleionegameguard.15	GameGuard update was not completed. Temporarily disable any antivirus applications and try again or configure the settings using PC Manager program.
+pleionegameguard.16	Failed to load virus and hacking tool scanning modules. There may be not be enough memory or it may be infected by viruses.
+pleionegameguard.17	GameGuard encountered an error during execution. Go to the GameGuard folder and send *.erl files to Game1@inca.co.kr.
+pleionegameguard.18	You do not have Administrator rights. Administrator rights are needed to run the program for the first time.
+pleionegameguard.19	The nProtect KeyCrypt driver version is incorrect. Please reboot your system and try again.
+pleionegameguard.20	Windows XP Compatibility mode is active. The Compatibility mode has been removed from the present program. Please run the program again.
+pleionegameguard.21	An unauthorized program has been detected. Please capture this screen and report it along with the Error Reporting Assistant.\n Error Number: {0}
+pleionegameguard.22	GameGuard has encountered an error. Please capture this screen and report it along with the Error Reporting Assistant.\n Error Number: {0}
+pleionegameguard.23	Warning
+pleionegameguard.24	An unregistered error has occurred. Please capture this screen and report it along with the Error Reporting Assistant.\n Error Number: {0}
+pleionegameguard.25	Failed to load keyboard protection module.
+pleionegameguard.26	GameGuard initialization error : {0}
+pleionegameguard.27	A Speed Hack has been detected on your computer.\nPlease report this by submitting a ticket through\nMabinogi.nexon.net>Support>Customer Support.
+pleionegameguard.28	A game hack has been detected on your computer : {0}\nPlease report this by submitting a ticket through\nMabinogi.nexon.net>Support>Customer Support.
+pleionegameguard.29	The game or the GameGuard has been compromised.
+pleioneglobalconsolekeyboard.1	You may not designate ESC, F1-F12, TAB, Enter, and other system control keys as hotkey's.
+pleioneglobalconsolekeyboard.2	(개발모드전용) 캡션, 프랍이름, 아이템이름을 숨김/해제합니다.
+pleioneglobalconsolekeyboard.3	Activates the option of minimizing other characters.
+pleioneglobalconsolekeyboard.4	Turns off the option of minimizing other characters.
+pleionehotkeymgr.1	(Hotkey '{0}')
+pleionehotkeytext.1	Use the skill #1 on the skill window
+pleionehotkeytext.2	Use the skill #2 on the skill window
+pleionehotkeytext.3	Use the skill #3 on the skill window
+pleionehotkeytext.4	Use the skill #4 on the skill window
+pleionehotkeytext.5	Use the skill #5 on the skill window
+pleionehotkeytext.6	Use the skill #6 on the skill window
+pleionehotkeytext.7	Use the skill #7 on the skill window
+pleionehotkeytext.8	Use the skill #8 on the skill window
+pleionehotkeytext.9	Use the skill #9 on the skill window
+pleionehotkeytext.10	Switch to Skill Window #1
+pleionehotkeytext.11	Switch to Skill Window #2
+pleionehotkeytext.12	Switch to Skill Window #3
+pleionehotkeytext.13	Switch to Skill Window #4
+pleionehotkeytext.14	Switch to Skill Window #5
+pleionehotkeytext.15	Emoticon Play #1
+pleionehotkeytext.16	Emoticon Play #2
+pleionehotkeytext.17	Emoticon Play #3
+pleionehotkeytext.18	Emoticon Play #4
+pleionehotkeytext.19	Emoticon Play #5
+pleionehotkeytext.20	Emoticon Play #6
+pleionehotkeytext.21	Emoticon Play #7
+pleionehotkeytext.22	Emoticon Play #8
+pleionehotkeytext.23	Emoticon Play #9
+pleionehotkeytext.24	Emoticon Play #10
+pleionehotkeytext.25	Cancel Skill
+pleionehotkeytext.26	Quest Window
+pleionehotkeytext.27	Change Weapon Set
+pleionehotkeytext.28	Open/Close Helmet
+pleionehotkeytext.29	Mount/Dismount
+pleionehotkeytext.30	Pet Window
+pleionehotkeytext.31	Inventory Window
+pleionehotkeytext.32	Open/Hide equipment tab on the Item Inventory
+pleionehotkeytext.33	Clock Window
+pleionehotkeytext.34	Party Window
+pleionehotkeytext.35	Open/Close Party Window
+pleionehotkeytext.36	Open/Close Interface
+pleionehotkeytext.37	Auto Battle/Manual Battle
+pleionehotkeytext.38	On/Off remove self when targeting
+pleionehotkeytext.39	Skill Window
+pleionehotkeytext.40	Messenger Window
+pleionehotkeytext.41	Use Antidote Potion
+pleionehotkeytext.42	Use HP Potion
+pleionehotkeytext.43	Use Wound Remedy Potion
+pleionehotkeytext.44	Use MP Potion
+pleionehotkeytext.45	Use Phoenix Feather
+pleionehotkeytext.46	Use Stamina Potion
+pleionehotkeytext.47	Eat Food
+pleionehotkeytext.48	Message Log Window
+pleionehotkeytext.49	Switch tab on the message log window
+pleionehotkeytext.50	Toggle the separated tabs on the message log window
+pleionehotkeytext.51	Auto POV/Manual POV
+pleionehotkeytext.52	Explore using L-Rod
+pleionehotkeytext.53	Character Window
+pleionehotkeytext.54	View the next tab on the character window
+pleionehotkeytext.55	Take Off/Land
+pleionehotkeytext.56	Escape Bomb
+pleionehotkeytext.57	Action Window
+pleionehotkeytext.58	Open/Close Character Name
+pleionehotkeytext.59	Mini Map
+pleionehotkeytext.60	Speak with Spirit Weapon
+pleionehotkeytext.61	Combat Mode/Normal Mode
+pleionehotkeytext.62	Zoom out
+pleionehotkeytext.63	Zoom in
+pleionehotkeytext.64	Toggle On/Off Advanced Glow Effect
+pleionehotkeytext.65	Summon 1st Pet
+pleionehotkeytext.66	Summon 2nd Pet
+pleionehotkeytext.67	Summon 3rd Pet
+pleionehotkeytext.68	Summon 4th Pet
+pleionehotkeytext.69	Summon 5th Pet
+pleionehotkeytext.70	Summon 6th Pet
+pleionehotkeytext.71	Summon 7th Pet
+pleionehotkeytext.72	Summon 8th Pet
+pleionehotkeytext.73	Summon 9th Pet
+pleionehotkeytext.74	Summon 10th Pet
+pleionehotkeytext.75	Cancel Pet Summon
+pleionehotkeytext.76	Pet Inventory
+pleionehotkeytext.77	Sit down the Pet
+pleionehotkeytext.78	Call the Pet
+pleionehotkeytext.79	Pet's Adorable Act
+pleionehotkeytext.80	Find Pet Personal Store
+pleionehotkeytext.81	Minimize other characters
+pleionehotkeytext.82	Switch to Skill Window #6
+pleionehotkeytext.83	Switch to Skill Window #7
+pleionehotkeytext.84	Record Video
+pleionehotkeytext.85	Forward
+pleionehotkeytext.86	Reverse
+pleionehotkeytext.87	Rotate Left
+pleionehotkeytext.88	Rotate Right
+pleionehotkeytext.89	Visual Chat
+pleionehotkeytext.90	Emergency Escape B+ Bomb
+pleionehotkeytext.91	Basic Settings
+pleionehotkeytext.92	Vindictus Settings
+pleionehotkeytext.93	MapleStory Settings
+pleionehotkeytext.94	Dungeon Fighter Online Settings
+pleionehotkeytext.95	Dragon Nest Settings
+pleionehotkeytext.96	Lineage 1 Settings
+pleionehotkeytext.97	Lineage 2 Settings
+pleionehotkeytext.98	Aion Settings
+pleionehotkeytext.99	World of Warcraft Settings
+pleionehotkeytext.100	Customized Settings
+pleionehotkeytext.101	Homestead Information Window
+pleionelobby_msg.1	Would you like to summon the created animal character?
+pleionelobby_msg.2	Failed to summon the created animal character.
+pleionelobby_msg.3	Would you like to create a new animal character using the purchased card?
+pleionelobby_msg.4	Failed to create a new animal character.\nPlease send a ticket to Customer Support.
+pleionelogin.0	휴대폰 인증 데이타 초기화 중입니다.\n잠시 후 로그인하십시오.
+pleionelogin.1	인증 중 다른 IP에서 접속을 하였습니다.\n{0} 후에 다시 로그인하십시오.
+pleionelogin.2	휴대폰 인증사 또는 이동 통신사 장애로 인하여 휴대폰 인증없이 로그인하였습니다.
+pleionelogin.3	Message\n메시지
+pleionelogin.4	채널링 로그인을 실패했습니다.
+pleionelogin.5	채널링 로그인을 실패했습니다.
+pleionelogin.6	서버 오류가 발생했습니다. 잠시 후 다시 시도해주세요.
+pleionelogin.7	서버로 잘못된 인자가 전송되었습니다. GM에게 문의하시기 바랍니다.
+pleionelogin.8	인증에 실패했습니다. GM에게 문의하시기 바랍니다.
+pleionelogin.9	Please log in again later.
+pleionelogin.10	휴면계정으로 계정 사용이 정지되었습니다.\n자세한 사항은 2008년 7월 24일자 휴면 계정 안내 공지 및 마비노기 게임 서비스 이용약관을 참고하시기 바라며, \n계정 정지 해제를 원하실 경우 넥슨고객지원센터(Tel: 1588-7701)로 문의하시기 바랍니다.\n감사합니다.
+pleionelogin.11	넥슨 비가맹 PC방에서는 로그인을 할 수 없습니다.
+pleionelogin.12	넥슨 정기 점검 중에는 PC방에서 로그인을 할 수 없습니다.
+pleionelogin.13	You must start the game from the Mabinogi website.
+pleionelogin.14	Hacking attempts detected. Your account has been temporarily restricted. \nPlease contact Customer Support to remove this restriction. \nThank you.
+pleionelogin.15	Invalid argument.
+pleionelogin.16	Invalid ID or password.
+pleionelogin.17	Login time has expired.
+pleionelogin.18	The Authentication Server is currently under maintenance.
+pleionelogin.19	Unsupported location.
+pleionelogin.20	Location setting required.
+pleionelogin.21	No server information.
+pleionelogin.22	IP information does not match.
+pleionelogin.23	Web login is currently unavailable.
+pleionelogin.24	입력하신 넥슨 아이디에는 여러개의 마비노기 계정이 존재합니다\n\n마비노기 홈페이지에서 이중 하나를 대표 계정으로 설정을 하신 후에\n넥슨 아이디로 로그인이 가능합니다.
+pleionelogin.25	넥슨아이디나 암호가 올바르지 않습니다.\n\n한글/영어가 틀리지 않은지,\n대소문자가 올바로 구분되어 입력되었는지\n확인해보세요.
+pleionelogin.26	지금 로그인한 컴퓨터는 등록되지 않은 컴퓨터입니다.\n먼저 홈페이지에서 등록해주세요.
+pleioneloginstage.1	오류가 발생했습니다. 잠시 후 다시 시도해주세요.
+pleioneloginstage.2	보안 오류입니다.
+pleioneloginstage.3	Issuer의 ID가 잘못되었습니다.
+pleioneloginstage.4	인자가 잘못되었습니다.
+pleioneloginstage.5	알 수 없는 오류가 발생했습니다. 잠시 후 다시 시도해주세요..
+pleioneloginstage.6	인증서버의 내부오류가 발생하였습니다. 잠시 후 다시 시도해주세요.
+pleioneloginstage.7	ID나 비밀번호가 잘못되었습니다. 확인 후 다시 로그인해주세요.
+pleioneloginstage.8	이 계정은 블럭된 상태입니다. GM에게 문의하시기 바랍니다.
+pleioneloginstage.9	인증 서버가 정기점검중입니다. 공지를 확인하시고 점검이 끝난 후 다시 로그인해주세요.
+pleioneloginstage.10	시스템 오류가 발생했습니다. 잠시 후 다시 로그인해주세요.
+pleioneloginstage.11	이 IP는 블럭된 상태입니다. GM에게 문의하시기 바랍니다.
+pleioneloginstage.12	계정이 잠겨져 있습니다. GM에게 문의하시기 바랍니다.
+pleioneloginstage.13	과도한 접속 시도가 이루어졌습니다. GM에게 문의하시기 바랍니다.
+pleioneloginstage.14	SMC 인증 방식에 문제가 발생했습니다.
+pleioneloginstage.15	보안 오류가 발생했습니다. GM에게 문의하시기 바랍니다.
+pleioneloginstage.16	보안 모듈을 읽는데 실패했습니다. 게임을 재설치하시기 바랍니다.
+pleioneloginstage.17	보안 모듈을 읽는데 실패했습니다.
+pleionemessenger.1	{0} [{1}] has added you to their friend's list.\nDo you accept?
+pleionemessenger.2	{0} [{1}]\n has logged in.
+pleionemessenger.3	You have received a note\nfrom {0} [{1}]
+pleionemessengerbase.1	Blocked
+pleionemessengerbase.2	Inviting
+pleionemessengerbase.3	Offline
+pleionemessengerbase.4	Online
+pleionemessengerbase.5	Secret
+pleionemessengerbase.6	Out to Lunch
+pleionemessengerbase.7	Away
+pleionemessengerbase.8	In Combat
+pleionemessengerbase.9	Doing Business
+pleionemessengerbase.24	Unknown
+pleionemessengerbase.25	Recently logged on
+pleionemessengerbase.26	Logged on {0} mins ago
+pleionemessengerbase.27	Login time unknown
+pleionemessengerbase.28	Logged on {0} hrs ago
+pleionemessengerbase.29	Logged on {0} days ago
+pleionemessengerbase.30	Logged on {0} weeks ago
+pleionemessengerbase.31	Has not logged in for over {0} weeks
+pleionemessengerclient_impl.1	ETC.
+pleionemessengerclient_impl.2	This user has already been registered as a friend.
+pleionemessengerclient_impl.3	Unable to locate the user. Please double-check the character name and the server.
+pleionemessengerclient_impl.4	You cannot add any more friends.
+pleionemessengerclient_impl.5	You cannot add a character from your own account on your friend's list.
+pleionemessengerclient_impl.6	You cannot add your pet character to the friend's list.
+pleionemessengerclient_impl.7	Failed to add th euser as a friend for unknown reasons.\nTry again later, and if the problem persists, please report this issue.
+pleionemessengerclient_impl.8	The note has been sent.
+pleionemessengerclient_impl.9	Unable to find the recipient.
+pleionemessengerclient_impl.10	Unable to send the note. Please try again later.
+pleionemessengerclient_impl.11	Unable to obtain the guild member's information.
+pleionemessengerclient_impl.12	Blacklist
+pleionemessengerclient_impl.13	상대방의 친구목록이 가득 차서 추가할 수 없습니다.
+pleionemessengersession.1	{0} has left the room.
+pleionemessengersession.2	{0} has entered the room.
+pleionemessengersession.3	{0} [{1}] says\n
+pleionenexonmsgr.1	An error has occurred during authorization. Unable to connect to SSO authorization server.
+pleionenexonmsgr.2	Authorization service for Nexon login is under maintenance.
+pleionenexonmsgr.3	Blocked IP.
+pleionenexonmsgr.4	Blocked by administrator.
+pleionenexonmsgr.5	Passport has encountered an error, and you can't log into the game.
+pleionenexonmsgr.6	The ID does not exist.
+pleionenexonmsgr.7	Incorrect password.
+pleionenexonmsgr.8	Your password has expired. Change your password, and re-log into the game.
+pleionenexonmsgr.9	E-mail requires to be verified. Please verify your e-mail, and re-log into the game.
+pleionenexonmsgr.10	Blocked IP.
+pleionenexonmsgr.11	Change your password, and re-log into the game.
+pleionenexonmsgr.12	An error occurred during initializing messenger module. Unable to connect to the server.
+pleionenexonmsgr.13	Failed to initialize messenger module.
+pleionenexonmsgr.14	Nexon Authorization has encountered an error.
+pleioneusecard.1	Failed to create a new character.\n\n* You may create up to 20 characters per race.
+pleioneusecard.2	Failed to create a new character.\n\n* Information about your character card cannot be found.\n*Please take a screenshot of the current screen and submit a ticket to Customer Support.
+pleioneusecard2render.1	{0} Server
+pleioneusecardrender.1	{0} Server
+plw_achievement.1	'{0}' Journal Acquisition has been reset.
+plw_achievement.2	{0} in Mabinogi
+plw_actioneffect.1	The Seal has happily eaten the fish.
+plw_actioneffect.2	You've become small enough to fit through the small hole.
+plw_actioneffect.3	You have returned to your normal size because the effects of the mini potion wore off.
+plw_actioneffect.4	Royal Castle Banquet Participation Experience +{0} EXP
+plw_actioneffect.5	You received a Lucky Bonus (Luck {0}).
+plw_actioneffect.6	You received a Huge Lucky Bonus (Luck {0})!
+plw_actionmove.1	The skill has been canceled because you are out of range.
+plw_actionmsg.1	You have requested {0} for a summon.\nWaiting for his/her response…
+plw_actionmsg.2	Cancel
+plw_actionmsg.3	Cannot find {0}.
+plw_actionmsg.4	Failed to request {0} for a summon.
+plw_actionmsg.5	I’ve successfully summoned my friend.
+plw_actionmsg.6	The summon request has been denied.
+plw_actionmsg.7	I’ve stopped the summoning of my friend.
+plw_actionmsg.8	{0} has requested you for a summon.\nWould you like to accept?
+plw_actionmsg.9	He/she has canceled my summon.
+plw_actionmsg.10	AP {0}{가} increased.
+plw_advertisecomponent.0	You have received {0}'s flyer.
+plw_advertisecomponent.1	This flyer has expired.
+plw_advertisecomponent.2	This is currently not available.
+plw_airballoon.1	A hot air balloon that floats in the sky. No worries if you're not the one who created the hot air balloon! You can always get on it simply by joining the party belonging to the person who created the balloon.
+plw_aviationcomponent.1	I’d better increase my altitude if I want to move.
+plw_aviationcomponent.2	I can’t move any further in the current direction.
+plw_aviationcomponent.3	You have canceled moving to the waypoint.
+plw_aviationcomponent.4	Cannot fly in this area; your waypoints will be reset shortly.
+plw_aviationcomponent.5	You are restricted from flying in this area.
+plw_aviationcomponent.6	You are restricted from landing and taking off from this area.
+plw_aviationcomponent.7	Cannot take off during a break.
+plw_aviationcomponent.8	You are restricted from landing and taking off from this area.
+plw_aviationcomponent.9	You can only land when your altitude is 15m or lower.
+plw_aviationcomponent.10	Please press \'V\' to land.
+plw_aviationcomponent.11	Altitude: %.1fm
+plw_aviationcomponent.12	Altitude: {0}m
+plw_aviationcomponent.13	Press <hotkey name=\"TakeOff\"/> take off.
+plw_bankmgr.1	Please re-try in {0} sec.
+plw_bankmgr.2	The bank has not opened properly.
+plw_bankmgr.3	The password is incorrect.
+plw_bankmgr.4	An error has occurred.
+plw_bankmgr.5	The password is incorrect.
+plw_banquet.1	{0} second(s)
+plw_banquet.2	approximately {0} minute(s)
+plw_banquet.3	{0} minute(s)
+plw_banquet.4	the Royal Castle Banquet will start.
+plw_banquet.5	The Royal Court Banquet will start in {0:n minute(s) and m second(s)}
+plw_banquet.6	The Royal Court Banquet will end soon.
+plw_banquet.7	The Royal Court Banquet will end in {0:n minute(s) and m second(s)}
+plw_banquet.8	Please select the dish you want to serve. You can only serve a high level dish.
+plw_banquet.9	Leave a thank you for {0}.\nWill be sent to {0} as a Note.
+plw_banquet.10	Table
+plw_banquet.11	It's full of food provided for the Royal Castle.\nDo you wish to eat?
+plw_banquet.12	Eat
+plw_banquet.13	Serve Food
+plw_banquet.14	Cancel
+plw_banquet.15	You've served some food.
+plw_banquet.16	There seems to be no more food left.
+plw_banquet.17	You're still quite full. You should try eating again later.
+plw_banquet.18	The table theme has been selected!\nA sign has been successfully put up.
+plw_banquet.19	The table theme has been deleted!
+plw_banquet.20	The selected theme is already being used at a different table.\nPlease change the theme for this table.
+plw_banquet.21	You can't use that as the theme.
+plw_banquet.22	Theme : {0}\nProposer : {1}\n\nTheme can be changed {2}.
+plw_banquet.23	You cannot delete a theme that you didn't select.
+plw_banquet.24	You can't delete the theme.
+plw_brionacsword.1	You trained the {0} category {1} time(s).
+plw_brionacsword.2	Shock absorbed. A power within has awakened.
+plw_brionacsword.3	The power of the Brionac is disappearing.
+plw_brionacsword.4	The Brionac could not be restored.
+plw_brionacsword.5	The Brionac was restored by {0} points.
+plw_brionacsword.6	A power sealed within the Brionac has awakened.
+plw_castle.0	{0} Gold from the Guild Deposit\nwas transferred to the Castle Deposit.\n\nAvailable Balance in the Castle Deposit : {1} Gold\nAvailable Balance in the Guild Deposit : {2} Gold
+plw_castle.1	Failed to transfer the Gold from the Guild Deposit to the Castle Deposit.\n\nAvailable Balance in the Castle Deposit : {0} Gold\nAvailable Balance in the Guild Deposit : {1} Gold
+plw_castle.2	{0} Gold in the Guild Deposit\nhas been transferred to the castle.\n\nAvailable Balance in the Castle Deposit : {1} Gold\nAvailable Balance in the Guild Deposit : {2} Gold
+plw_castle.3	Failed to transfer Gold from the Guild Deposit to the Castle Deposit.\n\nAvailable Balance in the Castle Deposit : {0} Gold\nAvailable Balance in the Guild Deposit : {1} Gold
+plw_charactercommonapi.1	Both hands must be free in order to perform a Transmutation.
+plw_characterevent.1	Since your character is over the age of 20, your character is eligible for a free rebirth.\nRebirth will alow you to reset your character's age and level, while maintaining the skill ranks.\nResetting the level will allow you to quickly gain AP, which will allow you to grow your character at a much faster pace.\nDo you wish to go through rebirth?
+plw_characterevent.2	Rebirth
+plw_characterevent.3	Cancel
+plw_charactervmmessage.1	Select the item to repair.
+plw_charactervmmessage.2	The item repair was successful.
+plw_charactervmmessage.3	The item repair failed.
+plw_charactervmmessage.4	Select the item to improve durability.
+plw_charactervmmessage.5	The durability of the item has been improved.
+plw_charactervmmessage.6	Failed to improve the durability of the item.
+plw_charactervmmessage.7	The advancement test cannot be held due to insufficient enrollment.\nIf you still want to take the test, you may join the test applicants that are one dan lower than you.\nPlease remember: you will only gain 50% of the Dan EXP upon passing the test.\nWould you like to join the applicants for a test?
+plw_charactervmmessage.8	Write your wish on this piece of paper.
+plw_charactervmmessage.9	You can trade the Wish Notes for a gift based on the number of notes you have.\nYou currently have {0} Wish Notes.\nWould you like to trade?
+plw_charactervmmessage.10	Trade Wish Notes
+plw_charactervmmessage.11	Yes\n
+plw_charactervmmessage.12	No\n
+plw_charactervmmessage.13	You failed to dismantle the Barrier Spikes.
+plw_charactervmmessage.14	You cannot access any dungeons here with an Unrestricted Dungeon Pass.
+plw_charactervmmessage.15	Unable to create an Unrestricted Dungeon Pass List Window.
+plw_charactervmmessage.16	Failed to transmit Visual Chat.
+plw_charactervmmessage.17	Failed to receive Visual Chat.
+plw_charactervmmessage.18	Failed to receive {0}'s Visual Chat.
+plw_charactervmmessage.19	The expiration date for the Golden Combo Card has extended.
+plw_charactervmmessage.20	The expiration date for the Combo Card has extended.
+plw_charactervmmessage.21	Failed to use Combo Card Extension Ticket.
+plw_combatmgretc.1	Smash would work wonders against others using Defense skill.
+plw_condition.1	Auto-battle mode will be turned off when the Tower Cylinder is in use.
+plw_demigod.1	Morrighan
+plw_demigod.2	Neamhain
+plw_demigod.3	None
+plw_dungeonrankingmgr.1	Failed to compile the rankings.
+plw_dungeonrankingmgr.2	See Ranking
+plw_dungeonrankingmgr.3	Failed to compile the rankings.
+plw_dungeonrankingmgr.4	See Ranking
+plw_event.1	Steal lazy Pan's flag and show him how it's done!
+plw_event.2	You must retrieve the Blue Team's flag, which is located on the opposite side of the play field.
+plw_event.3	Steal the opposing team's flag and bring it to the flag next to Lorna.
+plw_event.4	Hurry! The Blue Team's flag is located to the south.
+plw_event.5	Steal Pan's blue flag and bring it back to our team.
+plw_event.6	Capture the flag! You can't win unless you steal the opposing team's flag.
+plw_event.7	Charge towards that violent girl Lorna's flag!
+plw_event.8	Sometimes, a strong offense is the best defense. Steal the opposing team's flag! 
+plw_event.9	There's no time to be lazy. Bring back the Red Team's flag!
+plw_event.10	You just have to steal Lorna's red flag and bring it back to where our team's flag is.
+plw_event.11	My Score: {0}point(s)
+plw_event.12	{0}person(s)
+plw_event.13	Red Team
+plw_event.14	Blue Team
+plw_event.15	 along with {0} other person(s)
+plw_event.16	 - {0} point(s)
+plw_event.17	물풍선 이벤트에 레드팀으로 참가 하였습니다
+plw_event.18	물풍선 이벤트에 블루팀으로 참가 하였습니다
+plw_event.19	You have fed the Owl {0} time(s).
+plw_event.20	You have fed the Tiger Cub {0} time(s).
+plw_event.21	해당 경기에 대해 이미 응모한 쿠폰이 있습니다.{0}\n재응모하시겠습니까?
+plw_event.22	월드컵 이벤트 응모
+plw_family.1	Family System\nFamily Join Request
+plw_family.2	The {0} family has sent you a join request. Would you like to join their family?
+plw_family.3	Yes
+plw_family.4	No
+plw_family.5	{0}'s Wife
+plw_family.6	{0}'s Husband
+plw_family.7	{0}'s Mother
+plw_family.8	{0}'s Father
+plw_family.9	{0}'s Big Sister
+plw_family.10	{0}'s Big Sister
+plw_family.11	{0}'s Big Brother
+plw_family.12	{0}'s Big Brother
+plw_family.13	{0}'s Daughter
+plw_family.14	{0}'s Son
+plw_family.15	{0}'s Little Sister
+plw_family.16	{0}'s Little Brother
+plw_family.17	That name can be used.
+plw_family.18	That name cannot be used.\nPlease try a different name.
+plw_family.19	{0} has agreed to create a family.
+plw_family.20	{0} does not want to create a family.
+plw_family.21	You cannot get spousal consent because your spouse is not nearby.
+plw_family.22	Cannot obtain spousal consent.
+plw_family.23	Family System\nFamily Creation Agreement
+plw_family.24	Do you give consent to your spouse, {0}, to create the {1} family?
+plw_family.25	Failed to create family.\nPlease check the family name.
+plw_family.26	Failed to create family.\nPlease obtain spousal consent.
+plw_family.27	You cannot create a new family because it's been less than a month since your previous family was disbanded. \nYou can create a new family in {0} day(s).
+plw_family.28	Failed to create family.
+plw_family.29	The {0} family has been disbanded. You cannot create another family for a month.
+plw_family.30	Failed to disband family.\nThat family does not exist.
+plw_family.31	Failed to disband family.\nOnly the head of household can disband a family.
+plw_family.32	Failed to disband family.
+plw_family.33	A new member has joined the Family.
+plw_family.34	The head of household can add members to the family.
+plw_family.35	New family members can be added by the head of household.
+plw_family.36	That character does not exist.
+plw_family.37	That character is already in a family.
+plw_family.38	A character from the same account cannot be added to the family.
+plw_family.39	That character cannot be added to the Family.
+plw_family.40	Failed to add a character to the family.
+plw_family.41	A character was kicked out of the family.
+plw_family.42	The head of household can kicks members out of the family.
+plw_family.43	New family members can be added by the head of household.
+plw_family.44	That character is not in your family.
+plw_family.45	Failed to kick a character out of the family.
+plw_family.46	You left the family.
+plw_family.47	You are not in a family.
+plw_family.48	A parent cannot leave the family.
+plw_family.49	Failed to leave family.
+plw_family.50	Family Custom canceled.\n Please select a new Family Motto.\n
+plw_family.51	A new Family Custom has been selected.
+plw_family.52	Family Customs can be changed 1 day after they are selected.
+plw_family.53	Failed to select a Family Custom.
+plw_family.54	Requested a summon.
+plw_family.55	You cannot request any more summons today.
+plw_family.56	Failed to summon.
+plw_family.57	Family System\nSummon
+plw_family.58	A member of the {0} family, {1}, has requested to summon you. Would you like be go to them?
+plw_family.59	The family name must be at least 4 characters long.
+plw_family.60	The family name cannot exceed 20 characters.
+plw_family.61	A prohibited character was used.
+plw_family.62	Family System\nDisband Family
+plw_family.63	If you disband your family, you will not be able to create a new family for a month.\nWould you like to disband the {0} family?
+plw_family.64	Family System\nFamily Member Removal
+plw_family.65	Do you wish to kick {0} from the family?
+plw_family.66	Family System\nLeaving the Family
+plw_family.67	Do you wish to leave the {0} family?
+plw_family.68	Declined the family join request.
+plw_farming.1	Farm Management
+plw_farming.2	Your crops need time to grow!\nYou cannot work the field anymore today.
+plw_farming.3	You are currently working on {0}.\n You can work on something else in about {1} minute(s).
+plw_farming.4	You are not currently on the waiting list. Please get another Waiting Ticket.
+plw_farming.5	You have insufficient money in your inventory.
+plw_farming.6	You have insufficient money in the bank.
+plw_farming.7	Your bank account is blocked and cannot be used.
+plw_farming.8	Your bank account is locked and cannot be used.
+plw_farming.9	There was a problem during while managing the farm.
+plw_farming.10	Farm 
+plw_farming.11	You successfully leased a field.
+plw_farming.12	Farm
+plw_farming.13	Your wait to lease a field has been canceled.
+plw_farming.14	Acidity has increased by {0}.
+plw_farming.15	Acidity has decreased by {0}.
+plw_farming.16	Acidity did not change.
+plw_farming.17	Purity has increased by {0}.
+plw_farming.18	Purity has decreased by {0}.
+plw_farming.19	Purity did not change.
+plw_farming.20	The Oak Barrel was replaced {0} time(s).\n\n{1}\n{2}\ncurrent freshness will be maintained for 24 hours.
+plw_farming.21	Replace\nOak Barrel
+plw_farming.22	Replace\nOak Barrel
+plw_fashiongallery.1	You can't convert to Spectator Mode.
+plw_fashiongallery.2	You can't convert to Spectator Mode while the Fashion Contest is in progress.
+plw_fashionshowstatueprop.1	Fashion Contest Grand Prize Winner {0}
+plw_fashionshowstatueprop.2	Fashion Contest Popularity Prize Winner {0}
+plw_gardentreeprop.1	Plant Cared For By {0}
+plw_gardentreeprop.2	Overgrown Plant
+plw_guildmgr.1	The design has been applied. \nAll guild members may purchase the robe from Eavan's Shop.
+plw_guildmgr.2	The guild robe has been newly designed.\nYou can purchase the guild robe from Dunbarton's Town Office. 
+plw_guildmgr.3	The Guild Title has been changed to \"{0}\".
+plw_hamletsswordprop.1	(Dismount and take a closer look...)
+plw_hamletsswordprop.2	You see in front of you a sword engulfed in flames. Free your hands and you may be able to grab it...
+plw_housecomponentowner.0	This item cannot be sold.
+plw_housecomponentowner.1	Closets on sale cannot be opened.
+plw_housecomponentowner.2	Closets on sale cannot be opened.
+plw_houseguestbook.0	Reading the guestbook...
+plw_houseguestbook.1	House Guestbook
+plw_houseguestbook.2	Reading the comments written on the guestbook…
+plw_houseguestbook.3	House Guestbook
+plw_houseguestbook.4	Changing the greetings…
+plw_houseguestbook.5	House Guestbook
+plw_houseguestbook.6	Adding the new post…
+plw_houseguestbook.7	House Guestbook
+plw_houseguestbook.8	Adding a new comment…
+plw_houseguestbook.9	House Guestbook
+plw_houseguestbook.10	Deleting the post…
+plw_houseguestbook.11	House Guestbook
+plw_houseguestbook.12	House Guestbook
+plw_houseguestbook.13	Your right to the guestbook has been temporarily blocked.
+plw_houseguestbook.14	House Guestbook
+plw_houseguestbook.15	Failed to read the guestbook.
+plw_houseguestbook.16	House Guestbook
+plw_houseguestbook.17	Your right to the guestbook has been temporarily blocked.
+plw_houseguestbook.18	House Guestbook
+plw_houseguestbook.19	Failed to read the guestbook.
+plw_houseguestbook.20	House Guestbook
+plw_houseguestbook.21	Your right to the guestbook has been temporarily blocked.
+plw_houseguestbook.22	House Guestbook
+plw_houseguestbook.23	Failed to read the guestbook.
+plw_houseguestbook.24	House Guestbook
+plw_houseguestbook.25	House Guestbook
+plw_houseguestbook.26	House Guestbook
+plw_houseguestbook.27	Unable to find the guestbook window.
+plw_houseguestbook.28	Unable to find the guestbook window.
+plw_houseguestbook.29	Unable to find the guestbook window.
+plw_housingmgrcache.0	\\Housing
+plw_inventoryaction.0	The location of the house will be displayed on the minimap.
+plw_inventoryaction.1	The house is not located in this area.
+plw_inventoryaction.2	You cannot view the equipment.
+plw_inventoryaction.3	Once you unquip the bag, all items that could not fit in the inventory will be transferred to the temporary inventory.\nWould you like to remove all the items inside this bag?
+plw_inventoryaction.4	Are you sure you want to destroy the {0}? You will lose all the stamps you've collected.
+plw_inventoryaction.5	Are you sure you want to destroy the {0}? You will lose any stamp progress you have made.
+plw_inventoryaction.6	Not available for use at this time.
+plw_inventoryaction.7	Do you wish to exchange the item for points?
+plw_inventoryaction.8	You're out of breath and cannot eat any food or drink any potions.
+plw_inventoryaction.9	You cannot open the Fantasy Life Club as you are not a participant.
+plw_inventoryaction.10	Restoration failed.
+plw_inventoryaction.11	Destroy all?
+plw_inventoryaction.12	Please select the untradeable Exclusive Item you want to unlock.\nThe Trade Unlock Potion can be used on the same item up to a maxium of {0} times.
+plw_inventoryaction.13	There are no items to temporarily unlock.
+plw_inventoryaction.14	{0} cannot be used at this time.
+plw_inventoryaction.15	You must be married in order to register a family.
+plw_inventoryaction.16	All training has already been completed.
+plw_inventoryaction.17	Cannot be used at Rank 1 or above.
+plw_inventoryaction.18	Cannot be used. You don't know the corresponding skill.
+plw_inventoryaction.19	Notice
+plw_inventoryaction.20	That skill's EXP gauge will be completely filled.\nDo you really want to use the item?
+plw_inventoryaction.21	%s cannot be used more than once.
+plw_inventoryaction.22	Pets cannot be used.
+plw_inventoryaction.23	Notice
+plw_inventoryaction.24	You get a bonus for completing this Shadow Mission.\nDo you want to use it?
+plw_inventoryaction.25	{0} cannot be used multiple times.
+plw_inventoryaction.26	Write a message you want to send to someone on this memo!
+plw_inventoryaction.27	Please select the item for which you wish to remove the expiration.
+plw_inventoryaction.28	Can only be used up to Rank 1.
+plw_inventoryaction.29	Avon Feather
+plw_inventoryaction.30	Can be re-used.
+plw_inventoryaction.31	Teleporting to Avon.
+plw_inventoryaction.32	No return location found. You will be teleported to the Avon entrance.
+plw_inventoryaction.33	You will be teleported to your previous location.
+plw_inventoryaction.34	\nOnce activated, you must wait 5 minutes before you can use this item again.\nTeleport now?
+plw_inventoryaction.35	Notice
+plw_inventoryaction.36	There are no items in the Kiosk to tidy.
+plw_inventoryaction.37	Do you wish to tidy up the items in your Kiosk?\nYour currently open Kiosk will automatically be closed.
+plw_inventoryaction.38	Do you wish to tidy up the items in your Kiosk?\nThe items in your Kiosk will be removed,\nand your profits will be deposited into your bank.
+plw_inventoryaction.39	Select an item you'd like to have undergo an Artisan Upgrade.
+plw_inventoryaction.40	No appropriate items.
+plw_inventoryaction.41	Select the Enchantment Scroll to remove Expiration Timer.
+plw_inventoryvmmessage.0	You may share your food amongst the people that are sitting in chairs. \nIrrespective of the number of people, you can share everyone's food 50/50.\nWould you like to do a House Share?
+plw_inventoryvmmessage.1	House Share
+plw_inventoryvmmessage.2	Unable to receive this item.
+plw_inventoryvmmessage.3	Send Rice Cake
+plw_inventoryvmmessage.4	On New Year's Day, it is customary to show people you care about them by sending Rice Cakes.\nWould you like to use the Rice Cake delivery service?\n(If you just desire to eat the Rice Cake, select 'No')
+plw_inventoryvmmessage.5	Send White Chocolate\n화이트 초콜릿 보내기
+plw_inventoryvmmessage.6	화이트 데이에는 화이트 초콜릿에 자신의 마음을 담아 보낼 수 있습니다.\n화이트 초콜릿 배달 서비스를 이용하시겠습니까?\n(그냥 먹고 싶으면 아니오를 선택하세요)
+plw_inventoryvmmessage.7	Send Marshmallow\n마쉬멜로 보내기
+plw_inventoryvmmessage.8	화이트 데이에는 마쉬멜로에 자신의 마음을 담아 보낼 수 있습니다.\n마쉬멜로 배달 서비스를 이용하시겠습니까?\n(그냥 먹고 싶으면 아니오를 선택하세요)
+plw_inventoryvmmessage.9	Yes
+plw_inventoryvmmessage.10	No
+plw_inventoryvmmessage.11	You can share your food with others.\nRegardless of how many people you share it with, everyone will receive 50% evenly.\nDo you wish to do Food Sharing?
+plw_inventoryvmmessage.12	Food Sharing
+plw_inventoryvmmessage.13	You are attempting to open the Ordinary Chest using the Premium Chest Key.\nAre you sure you want to proceed?
+plw_inventoryvmmessage.14	Open the Ordinary Chest
+plw_inventoryvmmessage.15	Send Moon Cake\n월병 보내기
+plw_inventoryvmmessage.16	추석에는 월병에 자신의 마음을 담아 보낼 수 있습니다.\n월병 배달 서비스를 이용하시겠습니까?\n(그냥 먹고 싶으면 아니오를 선택하세요)
+plw_inventoryvmmessage.17	{0} has been dropped.
+plw_inventoryvmmessage.18	The item has been dropped.
+plw_inventoryvmmessage.19	Failed to destroy all.
+plw_inventoryvmmessage.20	You can eat with other people that are sitting around the campfire.\nEating with others will maintain the positive effects of food longer.\nWant to share a campfire?
+plw_inventoryvmmessage.21	Restore the Artisan Upgrade?
+plw_item.0	Increased assault damage in ranged attacks
+plw_item.1	Decreased assault damage in ranged attacks
+plw_item.2	Increased assault distance in ranged attacks
+plw_item.3	Decreased assault distance in ranged attacks
+plw_item.4	Increased assault angle in ranged attacks
+plw_item.5	Decreased assault angle in ranged attacks
+plw_item.9	Elf Male Only
+plw_item.10	Elf Female Only
+plw_item.11	Elf Only
+plw_item.12	Human Male Only
+plw_item.13	Human Female Only
+plw_item.14	Human
+plw_item.15	Elf
+plw_item.16	Giant
+plw_item.17	Male
+plw_item.18	Female
+plw_item.19	-only
+plw_item.20	Activate Chain Casting +{0}
+plw_item.21	MP Usage + {0}%
+plw_item.22	MP Usage - {0}%
+plw_item.23	Evaporated MP - {0}%
+plw_item.24	Skill Requirement: Rank {0} {1} or higher
+plw_item.25	Skill Requirement: {0} {1} dan or higher
+plw_item.26	Upgrade {0}/{1}\nGem Upgrade {2}
+plw_item.27	- {0}% Charging Speed
+plw_item.28	+ {0}% Charging Speed
+plw_item.29	-{0}% Magic Damage
+plw_item.30	+{0}% Magic Damage
+plw_item.31	\n\n<color=2> While calling the dragon (Not Available)</color>
+plw_item.32	\n\n<color=2>Not Available</color>
+plw_item.33	Blessed
+plw_item.34	Royal Alchemist Only
+plw_item.35	\n{0} Exclusive Item (Trade Unlock)
+plw_item.36	<color=0>Number of unlocks available: {0}</color>
+plw_item.37	<color=2>Number of unlocks available: 0</color>
+plw_item.38	Holy
+plw_item.39	\n\n{0}회 / 5회
+plw_item.40	AP +{0}
+plw_item.41	Ice Magic Damage +15%
+plw_item.42	When raining, Attack -50%
+plw_item.43	Max Durability +{0}\n
+plw_item.44	Max Durability -{0}\n
+plw_item.45	An artisan has upgraded {0} \nto {1}.
+plw_item.46	<color=3>Piercing Level {0}\n(Decreases Defense by {1} and Protection by {2})</color>
+plw_item.47	<color=3>Piercing Level {0}</color> <color=5>+{1}</color>\n<color=3>(Decreases Defense by {2} and Protection by {3})</color>
+plw_itemenhancemgr.1	<color=3>[Special Upgrade: </color><color=7>{0}</color><color=3> Level]</color>\n
+plw_itemenhancemgr.2	The Special Upgrade could not be performed.
+plw_itemenhancemgr.3	Notice
+plw_itemenhancemgr.4	Equip the item?
+plw_itemmarket.1	Invalid User.
+plw_itemmarket.2	The item has already moved to your inventory.
+plw_itemmarket.3	This item is not available for sale.
+plw_itemmarket.4	Open Market inventory is full.
+plw_itemmarket.5	Invalid seller.
+plw_itemmarket.6	This item was already sold.
+plw_itemmarket.7	The sale of this item was cancelled.
+plw_itemmarket.8	Insufficient gold.
+plw_itemmarket.9	This item is not available for sale.
+plw_itemmarket.10	Failed to work with Open Market inventory.
+plw_itemmarket.11	아이템 오픈마캣 보관함 작업에 실패하였습니다.\n오류 코드 : %I64u
+plw_itemmarket.12	Open Market operation failed.
+plw_itemmarket.13	아이템 오픈마캣을 작업에 실패하였습니다.\n오류 코드 : %I64u
+plw_itemmarket.14	Loading
+plw_itemmarket.15	Open Market
+plw_itemmarket.16	Open Market
+plw_itemmarket.17	{0} is insufficient gold to make a purchase.
+plw_itemmarket.18	An error occurred during purchase.
+plw_itemtooltip.0	Published by :
+plw_itemtooltip.1	Bidder:
+plw_itemtooltip.2	Bidding Price:
+plw_itemtooltip.3	Announcement at {2}:{3} on {0}/{1}
+plw_itemtooltip.4	Slightly increased collection speed
+plw_itemtooltip.5	Increased collection speed
+plw_itemtooltip.6	Increased collection probability
+plw_itemtooltip.7	Can collect 2 items at a time within a set probability
+plw_itemtooltip.8	Increased repair cost
+plw_itemtooltip.9	'{0}'\n\n칠월 칠석에\n{1}{이} {2}에게
+plw_itemtooltip.10	Glowing {0}
+plw_itemtooltip.11	\n\nExpires in {2}:00, {0}/{1}
+plw_itemtooltip.12	Valid until {0}/{1}
+plw_itemtooltip.13	Valid until {2}:00, {0}/{1}
+plw_itemtooltip.14	For Cooking Contests Only
+plw_itemtooltip.15	{0}'s work of art
+plw_itemtooltip.16	Repair Fee x {0}.{1}
+plw_itemtooltip.17	Repair Fee x {0}
+plw_itemtooltip.18	Total watering %d times
+plw_itemtooltip.19	<color=3>{0} Seal</color>
+plw_itemtooltip.20	Total number of watering {0}
+plw_itemtooltip.21	QUAL: {0}
+plw_itemtooltip.22	Charge Count: {0}
+plw_itemtooltip.23	(Item protected if repair results in failure)
+plw_itemtooltip.24	(Item protected if Enchant results in failure)
+plw_itemtooltip.25	Sealed
+plw_itemtooltip.26	{0} hours and {1} minutes to unseal.
+plw_itemtooltip.27	Less than 5 minutes to unseal.
+plw_itemtooltip.28	{0} minutes left to unseal.
+plw_itemtooltip.29	There is a recorded video.
+plw_itemtooltip.30	Title:
+plw_itemtooltip.31	You can record a video.
+plw_itemtooltip.32	Only Pet Trade Possible
+plw_itemtooltip.33	\nCreator : {0}\nAged: {1} Day(s)\nClient: {2}
+plw_itemtooltip.34	Number of times the Owl has been fed: {0} times
+plw_itemtooltip.35	\nOver {0} {1}
+plw_itemtooltip.36	\n\nLucky Coupon Number : <color=1>{0}</color>
+plw_itemtooltip.37	\n\n<color=2>This is not a valid Lucky Coupon.</color>
+plw_itemtooltip.38	Slope {0}
+plw_itemtooltip.39	\n\n<color=7>You may be able to use this more efficiently if you talk to the alchemist who invented the Tower Cylinder.</color>
+plw_itemtooltip.40	Does not exist.
+plw_itemtooltip.41	\n목적지:[<color=3>{0}<color=0>]
+plw_itemtooltip.42	(Cannot be enchanted)
+plw_itemtooltip.43	\n{0} can be revived.
+plw_itemtooltip.44	Impossible to ressurect.
+plw_itemtooltip.45	[When your Destiny is: {0}]
+plw_itemtooltip.46	Available</color>
+plw_itemtooltip.47	\n\n<color=3>Available</color>
+plw_itemtooltip.48	\n<color=3>Return Location: {0}</color>
+plw_itemtooltip.49	Defense
+plw_itemtooltip.50	Protection
+plw_itemtooltip.51	Minimum Damage
+plw_itemtooltip.52	Maximum Damage
+plw_itemtooltip.53	Critical
+plw_itemtooltip.54	Magic Attack
+plw_itemtooltip.55	Fire Alchemy Efficiency
+plw_itemtooltip.56	Wind Alchemy Efficiency
+plw_itemtooltip.57	Clay Alchemy Efficiency
+plw_itemtooltip.58	Water Alchemy Efficiency
+plw_itemtooltip.59	[When your Destiny is: {0}]
+plw_itemtooltip.60	+{0}
+plw_itemtooltip.61	{0} {1}
+plw_itemtooltip.62	<color=3>This product includes\nitems like the following.</color>
+plw_itemtooltip.63	({0})
+plw_itemtooltip.64	[Artisan Upgrade]
+plw_itemtooltip.65	Max Durability +{0}
+plw_itemtooltip.66	Min Durability -{0}
+plw_itemtooltip.67	Pet sale information\nNumber of sales: {0} / {1}\nRace: {2}\nAge: {3}\nLevel: {4} (Cumulative level: {5})
+plw_itemtooltip.68	\n\n<color={0}>Number of trades remaining : {1}</color>
+plw_itemupgrademgr.1	[Developer Use Message] Upgrade Method has disappeared.
+plw_itemupgrademgr.2	{0}, the Royal Alchemist, has discovered a new Cylinder Upgrade Method.
+plw_itemupgrademgr.3	A new Cylinder Upgrade Method has been discovered!
+plw_joust.1	Opponent
+plw_joust.2	\nReceived {0} Jousting Point(s).
+plw_joust.3	The match will start in {0} seconds.\nPlease prepare to enter a command.
+plw_joust.4	You've lost the match against {0}.
+plw_joust.5	Enter a command.
+plw_joust.6	You've been disqualified from the match.
+plw_joust.7	Your entry into the Jousing Tournament has been canceled.
+plw_mailboxcomponent.1	You need an additional {0} Gold for the fee. Please check the balance in your inventory.
+plw_mailboxcomponent.2	You have successfully confirmed the character.
+plw_mailboxcomponent.3	The mail was successfully sent to {0}.
+plw_mailboxcomponent.4	This is a non-existing character. \nPlease check the name of the recipient one more time.
+plw_mailboxcomponent.5	This cannot be sent to a pet character.
+plw_mailboxcomponent.6	You cannot send this item to a character within the same account.
+plw_mailboxcomponent.7	The selected character could not be found.
+plw_mailboxcomponent.8	You cannot send mail to yourself.
+plw_mailboxcomponent.9	You cannot send any mail because your inbox is full. Please accept your received mail and/or delete them.
+plw_mailboxcomponent.10	You cannot send any mail because your outbox is full. Please wait until the recipients accept the pending mail.
+plw_mailboxcomponent.11	You have already sent {1} pieces of mail to {0}. Please wait until {0} accepts the mail.
+plw_mailboxcomponent.12	You cannot send any more mail to the recipient because the recipient's inbox is full. Please wait until the recipient accepts the pending mail.
+plw_mailboxcomponent.13	You need additional Gold to pay for the processing fee. Please check the balance in your inventory.
+plw_mailboxcomponent.14	You cannot sent any items that are currently being outfitted.
+plw_mailboxcomponent.15	You have exceeded the maximum number of outgoing mail allowed.
+plw_mailboxcomponent.16	You cannot mail this item.
+plw_mailboxcomponent.17	You have failed to mail the item.
+plw_mailboxcomponent.18	You do not have enough money in your bank account.
+plw_mailboxcomponent.19	You do not have enough Gold in your inventory.
+plw_mailboxcomponent.20	Your bank account is full and therefore you cannot make any more deposits.
+plw_mailboxcomponent.21	This mail has already been recalled by the sender.
+plw_mailboxcomponent.22	You have failed to confirm the recipient for the item's payment. 
+plw_mailboxcomponent.23	You have failed to receive the mail.
+plw_mailboxcomponent.24	This mail has already been recalled by the sender.
+plw_mailboxcomponent.25	The sender's character has been deleted.
+plw_mailboxcomponent.26	You have failed to confirm the sender.
+plw_mailboxcomponent.27	You have failed to return the mail to the sender.
+plw_mailboxcomponent.28	The recipient has received the item.
+plw_mailboxcomponent.29	Unable to recall the mail from the recipient.
+plw_mailboxcomponent.30	Try again in {0} sec.
+plw_mailboxcomponent.31	GM mail cannot be ㅣreturned.
+plw_marinagateprop.1	Get off the raft
+plw_marinagateprop.2	Get on the raft
+plw_naorespawnservice.1	퍼거스의 대장간!! 믿고 맡길 수 있는 여러분의 친구라오~ 쿠하하하.
+plw_naorespawnservice.2	<npcportrait name=\"ferghus\"/><title name=\"퍼거스\"/>이크. 발이 미끄러졌네...<p/><npcportrait name=\"ferghus\"/><title name=\"퍼거스\"/>흠... 보아하니 댁도 여기저기 원한을 많이 산 것 같은데<br/>나처럼 착하게 사시구려.<br/>쿠하하하.<p/><npcportrait name=\"ferghus\"/><title name=\"퍼거스\"/>앗. 이건 나를 애타게 찾는 목소리?!!<br/>빨리 대장간으로 돌아가야겠구려.<br/>그럼, 그 쪽도 조심하시오~~
+plw_partymgr.1	Party formation is forbidden here.
+plw_partymgr.2	Cannot open the party window here.
+plw_personalshop.1	Unable to close the Personal Shop.
+plw_personalshop.2	Kiosk not installed.
+plw_personalshop.3	A Kiosk has been installed in {0}.
+plw_personalshop.4	A Kiosk has been installed.
+plw_personalshop.5	The items in your Kiosk have been tidied.
+plw_personalshopcustomer.1	{0} of {1}
+plw_personalshopcustomer.2	That item does not exist.
+plw_personalshopcustomer.3	Corresponding item does not exist.
+plw_personalshopcustomer.4	Corresponding item does not exist.
+plw_personalshopcustomer.5	You cannot purchase your own goods.
+plw_privatefarm.1	Failed to exit Homestead.
+plw_privatefarm.2	Unable to delete.
+plw_privatefarm.3	Not enough materials.
+plw_privatefarm.4	Unable to plant.
+plw_privatefarm.5	You've created a Homestead. You can move to your Homestead by using the Homestead menu (Hotkey A).
+plw_privatefarm.6	An unknown error has occurred.
+plw_privatefarm.7	A Homestead already exists.
+plw_privatefarm.8	Incorrect theme selected.
+plw_privatefarm.9	Name already in use.
+plw_privatefarm.10	An error has occurred while creating a Homestead. Please try again.
+plw_privatefarm.11	Error
+plw_privatefarm.12	Homestead expansion failed.\nPlease exit the Homestead and enter again.
+plw_privatefarm.13	You've entered the Homestead.
+plw_privatefarm.14	You've exited the Homestead.
+plw_privatefarm.15	{0} of Homestead completed.
+plw_privatefarm.16	Guide
+plw_privatefarm.17	You've successfully made a Homestead visitation request.
+plw_privatefarm.18	Guide
+plw_privatefarm.19	Visitation request has failed.\nPlease try again later.
+plw_privatefarm.20	Guide
+plw_privatefarm.21	You are not authorized to visit this Homestead.\nWould you like to make a visitation request?
+plw_privatefarm.22	Error
+plw_privatefarm.23	You've been moved outside because the Homestead has changed.
+plw_privatefarm.24	You have been expelled from the Homestead.
+plw_propeffect.1	{0}\n({1} sec, {2}m)
+plw_propeffect.2	{0}\n({1} sec, {2}m)
+plw_propeffect.3	{0} - {1} Points!
+plw_pvpdescmgr.1	Failed to compile the rankings.
+plw_pvpdescmgr.2	See Ranking
+plw_pvpdescmgr.3	Failed to compile the rankings.
+plw_pvpdescmgr.4	See Ranking
+plw_pvpmgr.1	You can't change settings on the "Allow Elf vs. Giant PVP" option for 3 minutes.
+plw_pvpmgr.2	The PVP option for Paladins and Dark Knights cannot be reset for 3 minutes.
+plw_pvpmgr.3	You can't change the settings on the PVP option for 3 minutes.
+plw_quest.1	Expired
+plw_quest.2	Expired
+plw_relationmgr.1	Message added.
+plw_relationmgr.2	Error occurred during transmission.
+plw_relationmgr.3	Failed to register screen shot.
+plw_relationmgr.4	Failed to register screen shot.\nNo response.
+plw_relationmgr.5	Error occurred during transmission.
+plw_relationmgr.6	{0} year(s) ago
+plw_relationmgr.7	{0} month(s) ago
+plw_relationmgr.8	{0} day(s) ago
+plw_relationmgr.9	{0} hour(s) ago
+plw_relationmgr.10	{0} minute(s) ago
+plw_relationmgr.11	A moment ago
+plw_relationmgr.12	Received treatment.
+plw_relationmgr.13	You performed \nFirst Aid on them.
+plw_relationmgr.14	Received First Aid \nfrom you.
+plw_relationmgr.15	Revived you.
+plw_relationmgr.16	You revived them.
+plw_relationmgr.17	Mounted a pet.
+plw_relationmgr.18	Aided you with \nyour help request.
+plw_relationmgr.19	You answered their \nhelp request.
+plw_relationmgr.20	Traded goods.
+plw_relationmgr.21	Delivered to them a package \nvia the bank delivery part-time job.
+plw_relationmgr.22	Received a bank delivery \nfrom them.
+plw_relationmgr.23	Cleared a party quest \ntogether.
+plw_relationmgr.24	Started a dungeon \ntogether.
+plw_relationmgr.25	Cleared a dungeon \ntogether.
+plw_relationmgr.26	Started a shadow mission \ntogether.
+plw_relationmgr.27	Cleared a shadow mission \ntogether.
+plw_relationmgr.28	Entered Renes \ntogether.
+plw_relationmgr.29	Defended Renes's Egg \ntogether.
+plw_relationmgr.30	Rode a raft together.
+plw_relationmgr.31	Rode a hot air balloon together.
+plw_relationmgr.32	Defeated a field boss \ntogether.
+plw_relationmgr.33	Shared food around \na campfire.
+plw_relationmgr.34	Performed together.
+plw_relationmgr.35	Participated in a\nFashion Show together.
+plw_relationmgr.36	Poured rain on \nyou.
+plw_relationmgr.37	Was together at \nthe camp.
+plw_relationmgr.38	Was in a jousting \ntournament together.
+plw_relationmgr.39	Fought a PVP battle \ntogether.
+plw_relationmgr.40	Was in a pet battle.
+plw_relationmgr.41	Took the Advancement\nTest together.
+plw_relationmgr.42	Sent whisper.
+plw_relationmgr.43	\n({0} times)
+plw_relationmgr.44	Please try again later.
+plw_senmagbattleground.1	Sen Mag Battleground
+plw_senmagbattleground.2	You have completed your sign-up to participate in a Guild Battle.\nWould you like to go to the battleground?
+plw_senmagbattleground.3	Go to Battleground
+plw_senmagbattleground.4	Go to Sen Mag
+plw_senmagbattleground.5	Cancel
+plw_servicemgr.1	{0} is required to open the bag.\nPlease use 'Empty Bag' command to retrieve the items in the bag.
+plw_servicemgr.2	Your {0} session has expired, and all your open bags have been locked.\nPlease use 'Empty Bag' command to retrieve the items in the bag.
+plw_servicemgr.3	You are currently not using {0}.\n{1} is required to retrieve locked items.
+plw_servicemgr.4	You are currently not using {0}.\n{1} is required to store items in the locked area.
+plw_servicemgr.5	You are currently not using {0}.\nAny purchased bags cannot be used.
+plw_servicemgr.6	A Guild is a system which utilizes additional resources from the Guild website,\nand the Guild Leader MUST use {0}.\n\nIf the Leader does not use {1},\nthe Guild-related services may be temporarily blocked.\n{2} does not apply to the members of the Guild.\n
+plw_servicemgr.7	{0} is required to open a Personal Shop.
+plw_servicemgr.8	Activate your {0}\nto use the house.
+plw_showdown.1	The match has been canceled.
+plw_showdown.2	The battle will now begin.
+plw_showdown.3	Start!
+plw_showdown.4	The match cannot be proceeded.
+plw_showdown.5	You may not request a match right now.
+plw_showdown.6	The party leader has applied for a party match!
+plw_showdown.7	The party leader has been invited to a party match.
+plw_showdown.8	The party leader has rejected your party match request.
+plw_showdown.9	You were eliminated from the party battle.
+plw_skiing.1	Jump Distance: {0} meter\nStyle Points: {1} point(s)\nTotal: {2} point(s)
+plw_skiing.2	{0} m\n{1} pts\n{2} pts
+plw_skiing.3	Jump Distance\nStyle Points\nTotal
+plw_skillmgrmsg.1	You cannot perform certain actions when you're so small.
+plw_summonmaster.1	You cannot summon this pet while you are mounted.
+plw_tabletalkpanelprop.1	You can't change the theme.
+plw_tabletalkpanelprop.2	You can change after {0:n minutes and m seconds}.
+plw_tabletalkpanelprop.3	You can't change another person's theme.
+plw_tame.1	The Golem is too far away to be controlled.
+plw_transportcomponent.1	If you ride the hot air balloon right now, all your stars will disappear.\nYou can receive the reward for stars by taking them to Kelpie.\n\nDo you still wish to ride it right now?
+plw_transportcomponent.2	Do you wish to get on the hot air balloon?
+plw_transporterpart_crossbow.1	A Ballista that you can use to attack enemies from afar. In order to use this Ballista, you'll need Ballista Bolts.
+plw_transporterpart_crossbow.2	I don't believe I can use it because I don't have a Ballista Bolt.
+plw_transporterpart_crossbow.3	I don't believe I can use the Ballista if I'm holding something in my hands.
+plw_transporterpart_engine.1	You can reinforce the lift of the hot air balloon by putting flints inside the hot air balloon's burner. 
+plw_transporterpart_engine.2	I'm not holding a flint.
+plw_transporterpart_engine.3	I'm not holding a flint.
+plw_transporterpart_engine.4	You can't use it because there's not enough fire power to burn the flint.
+plw_transporterpart_engine.5	The hot air balloon is losing its lift and it seems like it's going to crash.\nYou need to put flint inside the burner to reinforce its lift.
+plw_transporterpart_flycontroller.1	The key for controlling the hot air balloon. When you grab the key, a private window will open and you will be able to control the take off and landing as well as the direction of the hot air balloon. 
+plw_transporterpart_flycontroller.2	You can't use the way point to select areas you cannot travel to.
+plw_treasureofgod.1	Restoration failed.
+plw_treasureofgod.2	Restoration successful!
+plw_turret.1	You cannot switch to Aiming mode while holding an item.
+plw_turret.2	\nWill be set to Cursor mode.
+plw_turret.3	Changed to Cursor mode.
+plw_turret.4	Changed to Aiming mode.
+plw_weathermgr.1	It is snowing.
+plw_weathermgr.2	It is snowing.
+plw_weathermgr.3	It has stopped snowing.
+plw_weathermgr.4	It is snowing.\tYou can collect more items from nature and animals.\tSuccess rate for fishing and production skills will increase.\tThe duration of a campfire will decrease.
+web.avatar_file	/avatarupload_2.php
+web.avatar_server	http://mabi.pro
+web.livescr_file	/live/liveupload.php
+web.livescr_server	http://mabi.pro
+web.ui_url	http://mabi.pro/ui/
+window.ask_burn_item_enchant	Do you wish to burn {0}?\nYou will be rewarded with either some EXP and an item, or an Enchant Scroll and a Magic Powder.
+window.ask_burnup_item	Do you wish to burn {0}?\nYou will get some EXP and an item.
+window.ask_expensive_drop	This is an expensive item. Do you want to continue?\n\n(This can be disabled through Option under Others.)
+window.ask_give_item	Do you wish to give {1} to {0}?\nPlease be aware that gift items cannot be reclaimed.
+window.ask_item_drop	Do you wish to drop the item?
+window.blacksmith.making_points	Marker is being set.
+window.burn_entrust_name	Entrust Others to Burn
+window.burnup_item_enchant_notenough_material	Do you wish to burn {0}?\nYou will get some EXP and an item.\nYou will need Mana Herb and Holy Water of Lymilark to extract the enchant.
+window.burnup_item_enchant_title	Enchanter's Burn
+window.burnup_item_title	Burn
+window.chronicle_view.timesort_dsc	From oldest
+window.friends_in_offline_state	Friends Offline
+window.friends_online_state	Friends Online
+window.lobby_character_select_title	Select Your Character
+window.msg_item_age0	Only characters between {0} and {1} years old may equip this item.
+window.msg_item_age1	Only characters over {0} years old may equip this item.
+window.msg_item_age2	Only characters under {0} years old may equip this item.
+window.pet.rebirth	<bold>Rebirth Pet</large>
+window.pet.title.new	Create a New Pet
+window.production.essential_party_1	Required Materials (Can be completed up to %<color=2>{0}</color><mini>({1})</mini> <color=2>(Party Bonus Enabled)</color>) :
+window.production2.available_count	Max Available: {0}
+window.production2.essential_party	Success Rate: <color=2>{0}</color><mini>({1})</mini>% <color=2>(Party Bonus Enabled)</color>
+window.production2.skill_level	Current Skill Level: {0}
+window.production2.successrate	Success Rate: {0}%
+window.title.rebirth	The character is being reborn.
+window.weather.clear	The sky's clearing up.
+window.weather.cloudy	It's getting cloudy here.
+window.weather.rainy	It's raining.
+window.weather.rainy2	It's raining.
+window.weather.rainy_help_caption	It's raining.\tIncrease in item drop rate for animals and nature.\tIncrease in success rate for fishing and Production skills.\tDuration of Campfire is decreased.
+window.weather.stop_raining	The rain has stopped.
+plw_itemtooltip.69	Collected for:
+plw_itemtooltip.70	Fishing Diary
+plw_itemtooltip.71	Cooking Diary
+plw_itemtooltip.72	Training Diary
+plw_itemtooltip.73	Increases maximum damage by {0}.
+plw_itemtooltip.74	Increased magic attack power by (0}.
+plw_itemtooltip.75	Increased Critical by {0}.

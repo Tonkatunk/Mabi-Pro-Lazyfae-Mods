@@ -1393,7 +1393,7 @@ pli_itemmarketmypurchaseframe.2	Seller
 pli_itemmarketmypurchaseframe.3	
 pli_itemmarketmypurchaseframe.4	Item
 pli_itemmarketmypurchaseframe.5	Buying Price
-pli_itemmarketmysaleframe.1	({0} 개)
+pli_itemmarketmysaleframe.1	({0} dog)
 pli_itemmarketmysaleframe.2	Sales Completion Date
 pli_itemmarketmysaleframe.3	
 pli_itemmarketmysaleframe.4	Item
@@ -1401,7 +1401,7 @@ pli_itemmarketmysaleframe.5	Sale Price
 pli_itemmarketnewsale.1	Register for Sale
 pli_itemmarketnewsale.2	Item:
 pli_itemmarketnewsale.3	Nexon Cash Balance: <color=2><outlinecolor=3>{0} CASH
-pli_itemmarketnewsale.4	Nexon Cash Balance: <color=2><outlinecolor=3>알 수 없음
+pli_itemmarketnewsale.4	Nexon Cash Balance: <color=2><outlinecolor=3>unknown
 pli_itemmarketnewsale.5	Sale Price:
 pli_itemmarketnewsale.6	CASH
 pli_itemmarketnewsale.7	Sale Period: <color=2><outlinecolor=3>{0} 일
@@ -1417,7 +1417,7 @@ pli_itemmarketnewsale.16	Item:
 pli_itemmarketnewsale.17	Enter the Item selling price.
 pli_itemmarketnewsale.18	The minimum Item selling price is {0} CASH.
 pli_itemmarketnewsale.19	Would you like to register for sale?
-pli_itemmarketonsaleframe.1	({0} 개)
+pli_itemmarketonsaleframe.1	({0} dog)
 pli_itemmarketonsaleframe.2	Cancel Registration
 pli_itemmarketonsaleframe.3	Sales Completion Date
 pli_itemmarketonsaleframe.4	
@@ -1425,17 +1425,17 @@ pli_itemmarketonsaleframe.5	Item
 pli_itemmarketonsaleframe.6	Sale Price
 pli_itemmarketonsaleframe.7	Cancel the Sale
 pli_itemmarketpurchase.1	Purchase
-pli_itemmarketpurchase.2	({0} 개)
+pli_itemmarketpurchase.2	({0} dog)
 pli_itemmarketpurchase.3	Item: <color=2><outlinecolor=3>{0}
 pli_itemmarketpurchase.4	Nexon Cash Balance: <color=2><outlinecolor=3>{0} CASH
 pli_itemmarketpurchase.5	Nexon Cash Balance: <color=2><outlinecolor=3>Unknown
 pli_itemmarketpurchase.6	Sale Price : <color=2><outlinecolor=3>{0} CASH
 pli_itemmarketpurchase.7	Cost : <color=2><outlinecolor=3>{0} CASH
-pli_itemmarketpurchase.8	최종 구매 가격 : <color=2><outlinecolor=3>{0} CASH
+pli_itemmarketpurchase.8	Final purchase price : <color=2><outlinecolor=3>{0} CASH
 pli_itemmarketpurchase.9	Purchase
 pli_itemmarketpurchase.10	Cancel
 pli_itemmarketpurchase.11	{0} Proceed to purchase using CASH./nDo you wish to continue?
-pli_itemmarketsaleframe.1	({0} 개)
+pli_itemmarketsaleframe.1	({0} dog)
 pli_itemmarketsaleframe.2	Purchase
 pli_itemmarketsaleframe.3	Seller
 pli_itemmarketsaleframe.4	
@@ -1453,7 +1453,7 @@ pli_itemmarketsaleframe.15	robe
 pli_itemmarketsaleframe.16	enchant
 pli_itemmarketsaleframe.17	gem
 pli_itemmarketsaleframe.18	other
-pli_itemmarketstorageframe.1	({0} 개)
+pli_itemmarketstorageframe.1	({0} dog)
 pli_itemmarketstorageview.1	Mabinogi Open Market Box\nItem open market storage box
 pli_itemmarketstorageview.2	Mountain Item
 pli_itemmarketstorageview.3	End of Item Sale

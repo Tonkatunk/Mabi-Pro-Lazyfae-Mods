@@ -1,0 +1,618 @@
+﻿1	Rebirth Info
+2	Birthday
+3	Time Since Last Rebirth
+4	Availability
+5	Rebirth Count
+6	Level
+7	Exploration
+8	Rebirth
+9	PvP Info
+10	Win Count
+11	Lose Count
+12	Win Ratio (Success Rate)
+13	Jousting Tournament Record
+14	Win Count
+15	Lose Count
+16	Point
+17	Marriage Info
+18	Spouse
+19	Wedding Date
+20	Heart Points Info
+21	Total Points
+22	Current Points
+23	Demigod Support Info
+24	Exploration\nInfo
+25	Journal
+26	Family\nTree
+27	PvP\nRanking
+28	Name
+29	Title
+30	A title comes after your name and is visible to those around you. Wear your titles with pride!
+31	Age
+32	Race
+33	Destiny
+34	HP
+35	MP
+36	Stamina
+37	XP
+38	Expl. XP
+39	AP
+40	Basic
+41	STR
+42	[@strDesc;string]
+43	INT
+44	[@intDesc;string]
+45	DEX
+46	[@dexDesc;string]
+47	Will
+48	[@willDesc;string]
+49	Luck
+50	[@luckDesc;string]
+51	[@strDesc;string]
+52	[@intDesc;string]
+53	[@dexDesc;string]
+54	[@willDesc;string]
+55	[@luckDesc;string]
+56	Attack
+57	Damage
+58	[@attackDesc;string]
+59	Magic Attack
+60	[@magicAttackDesc;string]
+61	Injury Rate
+62	[@woundDesc;string]
+63	Critical
+64	[@criticalDesc;string]
+65	Balance
+66	[@balanceDesc;string]
+67	[@attackDesc;string]
+68	[@magicAttackDesc;string]
+69	[@woundDesc;string]
+70	[@criticalDesc;string]
+71	[@balanceDesc;string]
+72	Defense
+73	Defense
+74	[@defenceDesc;string]
+75	Magic Defense
+76	[@magicDefenceDesc;string]
+77	Protection
+78	[@protectDesc;string]
+79	[@defenceDesc;string]
+80	[@magicDefenceDesc;string]
+81	[@protectDesc;string]
+82	Status Effects
+83	Your physical strength. The more Strength you have, the stronger your attacks and the more bonuses you gain from Strength-dependent skills.
+84	Your rational capability. The more Intelligence you have, the more easily you can understand books and the more bonuses you gain from Intelligence-dependent skills.
+85	Your ability to work. The more Dexterity you have, the faster and better you can create items and the more bonuses you gain from Dexterity-dependent skills.
+86	Your mental prowess and determination. The more Will you have, the better you can survive dangerous situations and the more bonuses you gain from Will-dependent skills and Will-affected circumstances.
+87	A mysterious and inexplicable phenomena that helps you. The more Luck you have, the more often good things happen to you and the more bonuses you gain from Luck-related skills.
+88	A representation of your life. When your HP reaches 0, you are knocked unconscious. The more HP you have, the longer you can survive battles against powerful enemies.
+89	A representation of the magical energy granted by the power of Eweca. When you run out of MP, you can no longer cast magical spells. It is smart to raise your Max MP, since MP only regenerates at night or through potions.
+90	A representation of the basic energy required to perform most actions. Watch your Stamina carefully. The more Stamina you have, the more work you can do without needing to rest.
+91	The amount of damage you deal to enemies when you attack them with physical weapons like swords and bows.
+92	The amount of damage you deal to enemies when you attack them with magic skills. Your Magic Attack is affected by your Intelligence. Every 1 point of Magic Attack increases damage by 1%.
+93	The chance that an attack you deal to an enemy will injure them. Injuries cannot be treated with potions or healing magic.
+94	The chance that an attack you deal will inflict deadly damage to enemies. Your Critical rate is affected by your Luck and Will.
+95	The likelihood that your attacks will deal damage close to the max damage you are capable of. The more Balance you have, the higher the chance. Balance is affected by Dexterity and certain skill ranks.
+96	The amount of damage you absorb when you're hit by a physical attack. The more Defense you have, the less damage you take.
+97	The amount of damage you absorb when you're hit by a magic attack. The more Magic Defense you have, the less damage you take. Your Magic Defense is affected by your Intelligence.
+98	The amount of an enemy's critical attack you block. The more Protection you have, the more you block. Displayed as a ratio.
+99	Character Info
+100	Basic Info
+101	Additional Info
+102	Part-Time Job
+103	Keyword
+104	Pet
+105	Rebirth Info
+106	Birthday
+107	Time Since Last Rebirth
+108	Rebirth Count
+109	Cumulative Level
+110	Rebirth
+111	PvP Info
+112	Win Count
+113	Lose Count
+114	Win Ratio (Success Rate)
+115	PvP Ranking
+116	Name
+117	Race
+118	Age
+119	HP
+120	MP
+121	Stamina
+122	EXP
+123	Basic
+124	STR
+125	INT
+126	DEX
+127	Will
+128	Luck
+129	Attack
+130	Damage
+131	Magic Attack
+132	Injury Rate
+133	Critical
+134	Balance
+135	Defense
+136	Defense
+137	Magic Defense
+138	Protection
+139	Status
+140	Animal Character Info
+141	Basic Info
+142	Additional Info
+143	Summon
+144	Summon to Protect Personal Shop
+145	New Pet
+146	AI Settings
+147	(Auto Sort)
+148	Sort - Most Recent Summons
+149	Sort - Alphabetical
+150	Sort - Character Creation Date
+151	<symbol>\x1b<alphanumeric><symbol>\x1b<alphanumeric>
+152	<symbol>\x1b<alphanumeric>
+153	<symbol>\x1c<alphanumeric>
+154	<symbol>\x1c<alphanumeric><symbol>\x1c<alphanumeric>
+155	Save
+156	End
+157	Sort <
+158	Sort >
+159	Name
+160	Race
+161	Age
+162	HP
+163	MP
+164	Stamina
+165	EXP
+166	Basic
+167	STR
+168	INT
+169	DEX
+170	Will
+171	Luck
+172	Attack
+173	Damage
+174	Magic Attack
+175	Injury Rate
+176	Critical
+177	Balance
+178	Defense
+179	Defense
+180	Magic Defense
+181	Protection
+182	Status
+183	Character Info
+184	Basic Info
+185	Decorate Profile Shot
+186	Black 
+187	White
+188	Red
+189	Blue
+190	Yellow
+191	Green
+192	Pink
+193	Purple
+194	Colors the closed area.
+195	Clears the entire screen.
+196	Reverts to the previous operation.
+197	Selects the round brush.
+198	Selects the rectangular brush.
+199	1
+200	2
+201	3
+202	4
+203	5
+204	6
+205	7
+206	8
+207	9
+208	10
+209	11
+210	12
+211	13
+212	14
+213	15
+214	<mini>BRUSH</mini>
+215	<mini>SIZE</mini>
+216	Complete
+217	Cancel
+219	Open Erinn On Talk
+220	Close
+221	Decorate Screen Shot
+222	Black
+223	White
+224	Red
+225	Blue
+226	Yellow
+227	Green
+228	Pink
+229	Purple
+230	Colors the closed area.
+231	Clears the entire screen.
+232	Reverts to the previous operation.
+233	Selects the round brush.
+234	Selects the rectangular brush.
+235	1
+236	2
+237	3
+238	4
+239	5
+240	6
+241	7
+242	8
+243	9
+244	10
+245	11
+246	12
+247	13
+248	14
+249	15
+250	<mini>BRUSH</mini>
+251	<mini>SIZE</mini>
+252	Complete
+253	Cancel
+254	Total Sales Amount
+255	Kiosk Transaction List
+256	Close
+257	Closes the Kiosk.
+258	Exit
+259	Closes this window.
+260	Kiosk Title
+261	Edit
+262	Edits the title.
+263	OK
+264	Item Type
+265	Equippable Race
+266	Item Name
+267	Search
+268	Searches items.
+269	Seller
+270	Character selling the item.
+271	Sale Item
+272	Item Name
+273	Sale Price
+274	Item Price
+275	Buy
+276	Buy Item
+277	<<
+278	Previous 10 Pages
+279	<
+280	Previous Page
+281	[1]
+282	>
+283	Next Page
+284	>>
+285	Next 10 Pages
+286	Close
+287	Closes the search window.
+288	Price
+289	Gold
+290	OK
+291	Selects the item price.
+292	Cancel
+293	Cancels the item price selection.
+294	Age
+295	Face
+296	Selects the skin color.
+297	Skin Color
+298	Hair
+299	Selects the hair color.
+300	Hair Color
+301	Eyes
+302	Selects the eye color.
+303	Eye Color
+304	Lips
+305	Random Appearance
+306	Stats Corresponding to Age
+307	STR
+308	INT
+309	DEX
+310	Will
+311	Luck
+312	Starting Stats
+313	Every Year
+314	(When leveling up, increases by 25% of the amount that you get each birthday.)
+315	1
+316	+1
+317	1
+318	+1
+319	1
+320	+1
+321	1
+322	+1
+323	1
+324	+1
+325	Humans are blessed with versatility. Their skills are spread evenly between Stamina and Intelligence, and they possess a variety of skills. Humans are well-versed in close-ranged combat but can also learn to effectively wield a bow as well. Once they master their combat skills, Humans can excel at whatever style of combat they desire.
+326	Elves are innately skilled at archery and move more quickly than Humans and Giants. They also possess high Intelligence and MP. Elves primarily wield bows and magic, allowing them to attack from a distance. Since Elves can perform long-ranged attacks at a younger age than other races, they have a slight advantage over Humans and Giants.
+327	Giants are tall, brawny, and exceptionally strong. They are able to handle powerful weapons that no other race can wield. They are capable melee fighters. Even young, unlearned Giants can hold their own in close quarters combat.
+328	Gender
+329	Male
+330	Female
+331	Job
+332	Warrior
+333	Mage
+334	Ranger
+335	Merchant
+336	Alchemist
+337	Adventurer
+338	Create New Character
+339	Server
+340	Traffic
+341	<outlinecolor=3><color=2>Please select a server.</color></outlinecolor>\n\nYou will not be able to change servers once your character is created, so choose carefully.
+342	Server Description
+343	Name
+344	Enter your name.
+345	Name requirements:
+346	- Between 3-12 characters
+347	Names cannot contain:
+348	- Profanity\n- Spaces or special characters
+349	Race
+350	Human
+351	Elf
+352	Giant
+353	<< Previous
+354	Next >>
+355	Create
+356	Cancel
+357	Rebirth
+358	Basic Info
+359	Name:\n\n\nLevel:\nExploration Level :\nAge:
+360	\n\n\n           <symbol>\\x1d<alphanumeric>\n           <symbol>\\x1d<alphanumeric>\n           <symbol>\\x1d<alphanumeric>
+361	(Current)     (After Rebirth)
+362	32
+363	3
+364	3
+365	32
+366	3
+367	3
+368	Rebirth Info
+369	Level:\nExploration Level:\nAge:
+370	Current
+371	After Rebirth
+372	->\n->\n->
+373	Option
+374	Level and Age Reset
+375	Age and Appearance
+376	Rebirth Location
+377	Last Location
+378	Tir Chonaill
+379	Iria
+380	Race
+381	Human
+382	Elf
+383	Giant
+384	<< Previous
+385	Next >>
+386	Rebirth
+387	Cancel
+388	Select Color
+389	Skill Info
+390	[SkillDesc $skillName]
+391	[SkillDesc $skillLocalName]
+392	View Details
+393	<gap=2>[SkillDesc $skillEffectDesc]
+394	[SkillDesc $skillEffectDesc]
+395	Training Method
+396	Hint
+397	COMPLETED
+398	Advancement Method
+399	Hint
+400	<color=2>Advance</color>
+401	Close
+402	Closes this window.
+403	Passive
+404	Use
+405	Rank D
+406	Train
+407	Unlearned
+408	<color=2>Learn Method</color>
+409	Click the button find out how to learn this skill.
+410	Stop
+411	Use
+412	Skill Learn Method
+413	[SkillInfo $skillName]
+414	[SkillInfo $skillLocalName]
+415	[SkillInfo $howToGetDesc]
+416	Close
+417	Closes this window.
+418	Go to parent folder.
+419	/[@fileName;string]
+420	<bold>[@fileName;string]</bold>
+421	Enter the color value.
+422	<outlinecolor=3><color=4>Open File</color> <color=2>(F3)</color></outlinecolor>
+423	Retrieve UI files.
+424	<outlinecolor=3><color=4>Refresh</color> <color=2>(F5)</color></outlinecolor>
+425	Refreshes the UI file being worked on.
+426	Theme
+427	Background Color
+428	<color=3><outlinecolor=2>0x[color]</outlinecolor></color>
+429	Open File
+430	Open
+431	Not Selected
+432	Sales Information
+433	Sale Number
+434	Combo Card
+435	알림
+436	캐시샵
+437	보이지 않기
+438	Close
+439	+9%
+440	+10%
+441	+11%
+442	+12%
+443	+13%
+444	+14%
+445	+9%
+446	+10%
+447	+11%
+448	+12%
+449	+13%
+450	+14%
+451	This card is...
+452	Remaining time is...
+453	Activate
+454	Deactivate
+455	Eliminate
+456	Hide Combo Progress UI
+457	Create new Mabinogi account.
+458	[@title;string]
+459	[@contents;string]
+460	[@strName;string]
+461	[@strDesc;string]
+462	Enter Homestead name.
+463	Create
+464	Cancel
+465	Please wait.
+466	Incorrect format.  Name should be between 2 - 20 characters, including numbers and spaces.
+467	Harvest List
+468	Crop
+469	Explanation
+470	Time Spent
+471	Required Material
+472	Select
+473	Close
+474	Loading. \nPlease wait.
+475	Decorate my house \nHarvest crops \n\nRequired Item: Homestead Ticket
+476	Go to Homestead
+477	Create a Homestead
+478	Refresh
+479	Unable to load data. \nPlease try again later.
+480	You need a Homestead Ticket in order to create a Homestead. \nThe ticket can be acquired at total level 10.
+481	In order to save data safely,  \nentrance will be limited for {0}.
+482	Please press the Refresh button.
+483	Building Information
+484	Building Name
+485	[$parent $facilityDesc]
+486	Explanation
+487	[$parent $parent $facilityDescText]
+488	Harvest
+489	Close
+490	[$parent $facilityDesc]
+491	[$parent $facilityName]
+492	[$parent $facilityLevel]
+493	Construction List
+494	Building
+495	Product
+496	Farmland
+497	Ornament
+498	Explanation
+499	Time Spent
+500	Required Material
+501	Select
+502	Close
+503	{color=3}PageUp{/color} :  Rotate Clockwise\n{color=3}PageDown{/color} : Rotate Counter Clockwise
+504	[$parent $facilityDesc]
+505	Your Homestead level has increased.
+506	[@LevelUpText;string]
+507	The following buildings are available.
+508	Press the button below\nto expand a farm.
+509	{color=2}Expand{/color}
+510	Your farm will be expanded.
+511	Close
+512	[$parent $zoneName]
+513	0
+514	Kon
+515	?
+516	Kons are the value of your Homestead.
+517	Lv.
+518	1
+519	0 / 4000
+520	Homestead Stone
+521	0
+522	 
+523	Building Upgrade List
+524	Building
+525	Explanation
+526	Time Spent
+527	Required Material
+528	Select
+529	Close
+530	View Visitor List
+531	View Homestead Map
+532	View Visitor List
+533	Paint
+534	Please select a part to paint.
+535	Before
+536	After
+537	Please select the Paint\nyou want to use.
+538	Click on the button below\nto start painting.
+539	Start Painting
+540	After selecting the part and placing the Paint on the left,\nclick on this button to start painting.
+541	Click on the button below\nto go back to the default color.
+542	Remove Paint
+543	Returning to the default color.\n\nClick "Preview" to check how the \ndefault color looks.\n\nYou can only change it if the part is\nnot the default color and no Paint is selected.
+544	Preview
+545	You can see how it will look in the default color.
+546	Cancel
+547	Add Favorites
+548	Delete Favorites
+549	Additional Ornament List
+550	Ornament
+551	Notice
+552	The following items were dropped on the ground.\nIf you continue to exit, they might be lost.
+553	Exit Homestead?
+554	Exit
+555	Cancel
+556	[$parent $facilityDesc]
+557	[$parent $facilityName]
+558	Name Change
+559	[$parent $changeReasonText]
+560	Please select a new name.
+561	Condition
+562	- The entry should be between 2 - 20 characters including letters, numbers and spaces.\n- You cannot use a blank name.\n- Profanity and banned words cannot be used.
+563	Complete
+564	Cancel
+565	You can only create a Homestead in Uladh, Connous, or Physis.
+566	[@strRegionDesc0;string]
+567	Select a farm location.
+568	[@strRegionDesc1;string]
+569	Select a farm location.
+570	[@strRegionDesc2;string]
+571	Select a farm location.
+572	Exit Homestead.
+573	Authorization Setting
+574	Anyone
+575	Owner
+576	Owner's Friends
+577	Guild members
+578	Set up various buildings on a Homestead.
+579	Can be activated from Construction Mode.
+580	Switching to Construction Mode.
+581	Switching to Edit Mode.
+582	Available upon Homestead expansion.
+583	Mix Paint
+584	Put Paint in and balance the ratio of each Paint.\nWhen you have a color you want, click Start Mix.
+585	Success Rate
+586	%
+587	Put 2 or more Paint in to Start Mix.
+588	Cancel
+589	OK
+590	Exit Homestead?
+591	Exit
+592	Cancel
+593	Visitor Information
+594	Request
+595	Select All
+596	Accept
+597	Delete
+598	Block
+599	Allow
+600	Select All
+601	Delete
+602	Block
+603	Block
+604	Select All
+605	Accept
+606	Delete
+607	Close
+608	Map of Uladh
+609	View Continent of Iria
+610	World Map
+611	View Continent of Uladh
+612	[@title;string]
+613	View Information
+614	Move
+615	Paint
+616	Remove
+617	Close
+618	Name is too short. You must enter a minimum of 2 characters.
+630	Extension

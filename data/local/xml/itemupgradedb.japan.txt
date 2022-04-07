@@ -1,0 +1,3852 @@
+﻿1	Weight Adjustment 1
+2	Weight Adjustment 2
+3	Weight Adjustment 3
+4	Weight Adjustment 4
+5	Blade Refinement 1
+6	Blade Refinement 2
+7	Blade Refinement 3
+8	Blade Refinement 4
+9	Blade Refinement 5
+10	Weight Reduction
+11	Blade Edge Sharpening
+12	Hilt Change
+13	Edern's Dagger Enhancement
+14	Ferghus's Dagger Upgrade
+15	Weight Adjustment 1
+16	Weight Adjustment 2
+17	Weight Adjustment 3
+18	Weight Adjustment 4
+19	Annealing 1
+20	Annealing 2
+21	Annealing 3
+22	Annealing 4
+23	Annealing 5
+24	Weight Reduction
+25	Blade Edge Sharpening
+26	Hilt Change
+27	Elen's Short Sword Enhancement
+28	Ferghus's Short Sword Upgrade
+29	Weight Adjustment 1
+30	Weight Adjustment 2
+31	Weight Adjustment 3
+32	Weight Adjustment 4
+33	Anti Reflection Treatment 1
+34	Anti Reflection Treatment 2
+35	Anti Reflection Treatment 3
+36	Anti Reflection Treatment 4
+37	Anti Reflection Treatment 5
+38	Weight Reduction
+39	Blade Edge Sharpening
+40	Hilt Change
+41	Elen's Short Sword Enhancement
+42	Ferghus's Short Sword Upgrade
+43	Weight Adjustment 1
+44	Weight Adjustment 2
+45	Weight Adjustment 3
+46	Weight Adjustment 4
+47	Blade Tip Sharpening 1
+48	Blade Tip Sharpening 2
+49	Blade Tip Sharpening 3
+50	Blade Tip Sharpening 4
+51	Blade Tip Sharpening 5
+52	Weight Reduction
+53	Blade Edge Sharpening
+54	Hilt Change
+55	Ranald's Longsword Enhancement
+56	Ferghus's Longsword Upgrade
+57	Weight Adjustment 1
+58	Weight Adjustment 2
+59	Weight Adjustment 3
+60	Weight Adjustment 4
+61	Annealing 1
+62	Annealing 2
+63	Annealing 3
+64	Annealing 4
+65	Annealing 5
+66	Weight Reduction
+67	Blade Edge Sharpening
+68	Hilt Change
+69	Ranald's Broadsword Enhancement
+70	Nerys's Broadsword Upgrade
+71	Blade Tip Sharpening 1
+72	Blade Tip Sharpening 2
+73	Blade Tip Sharpening 3
+74	Blade Tip Sharpening 4
+75	Weight Adjustment 1
+76	Weight Adjustment 2
+77	Weight Adjustment 3
+78	Weight Adjustment 4
+79	Weight Adjustment 5
+80	Weight Reduction
+81	Blade Edge Sharpening
+82	Hilt Change
+83	Nerys's Bastard Sword Enhancement
+84	Elen's Bastard Sword Upgrade
+85	Blade Tip Sharpening 1
+86	Blade Tip Sharpening 2
+87	Blade Tip Sharpening 3
+88	Blade Tip Sharpening 4
+89	Weight Adjustment 1
+90	Weight Adjustment 2
+91	Weight Adjustment 3
+92	Weight Adjustment 4
+93	Weight Adjustment 5
+94	Weight Reduction
+95	Blade Edge Sharpening
+96	Hilt Change
+97	Ranald's Two-handed Sword Enhancement
+98	Edern's Two-handed Sword Upgrade
+99	Weight Adjustment 1
+100	Weight Adjustment 2
+101	Weight Adjustment 3
+102	Weight Adjustment 4
+103	Blade Refinement 1
+104	Blade Refinement 2
+105	Blade Refinement 3
+106	Blade Refinement 4
+107	Blade Refinement 5
+108	Weight Reduction
+109	Blade Edge Sharpening
+110	Hilt Change
+111	Elen's Claymore Enhancement
+112	Edern's Claymore Upgrade
+113	Pruning 1
+114	Pruning 2
+115	Pruning 3
+116	Pruning 4
+117	Edge Making 1
+118	Edge Making 2
+119	Edge Making 3
+120	Edge Making 4
+121	Edge Making 5
+122	Hilt Making
+123	Wood Trimming
+124	Oiling
+125	Deian's Wooden Stick Enhancement
+126	Ferghus's Wooden Stick Upgrade
+127	Pruning 1
+128	Pruning 2
+129	Pruning 3
+130	Pruning 4
+131	Edge Making 1
+132	Edge Making 2
+133	Edge Making 3
+134	Edge Making 4
+135	Edge Making 5
+136	Hilt Making
+137	Wood Trimming
+138	Oiling
+139	Deian's Branch Enhancement
+140	Ferghus' Branch Upgrade
+141	Wooden Blade Wiping 1
+142	Wooden Blade Wiping 2
+143	Wooden Blade Wiping 3
+144	Wooden Blade Wiping 4
+145	Blade Carving 1
+146	Blade Carving 2
+147	Blade Carving 3
+148	Blade Carving 4
+149	Blade Carving 5
+150	Hilt Polishing
+151	Wood Trimming
+152	Oiling
+153	Ranald's Wooden Blade Enhancement
+154	Ferghus's Wooden Blade Upgrade
+155	Club Trimming 1
+156	Club Trimming 2
+157	Club Trimming 3
+158	Club Trimming 4
+159	Weight Adjustment 1
+160	Weight Adjustment 2
+161	Weight Adjustment 3
+162	Weight Adjustment 4
+163	Weight Adjustment 5
+164	Hilt Making
+165	Club Weight Reduction
+166	Oiling
+167	Deian's Club Enhancement
+168	Ranald's Club Upgrade
+169	Bow Back Refinement 1
+170	Bow Back Refinement 2
+171	Bow Back Refinement 3
+172	Bow Back Refinement 4
+173	Bowstring Enhancement 1
+174	Bowstring Enhancement 2
+175	Bowstring Enhancement 3
+176	Bowstring Enhancement 4
+177	Bowstring Enhancement 5
+178	Sight Change
+179	Bow Tip Enhancement
+180	Oiling
+181	Aranwen's Short Bow Enhancement
+182	Nerys's Short Bow Upgrade
+183	Bow Back Refinement 1
+184	Bow Back Refinement 2
+185	Bow Back Refinement 3
+186	Bow Back Refinement 4
+187	Bowstring Enhancement 1
+188	Bowstring Enhancement 2
+189	Bowstring Enhancement 3
+190	Bowstring Enhancement 4
+191	Bowstring Enhancement 5
+192	Sight Change
+193	Bow Tip Enhancement
+194	Oiling
+195	Aranwen's Long Bow Enhancement
+196	Ferghus's Long Bow Upgrade
+197	Bow Back Refinement 1
+198	Bow Back Refinement 2
+199	Bow Back Refinement 3
+200	Bow Back Refinement 4
+201	Bowstring Enhancement 1
+202	Bowstring Enhancement 2
+203	Bowstring Enhancement 3
+204	Bowstring Enhancement 4
+205	Bowstring Enhancement 5
+206	Sight Change
+207	Bow Tip Enhancement
+208	Oiling
+209	Aranwen's Composite Bow Enhancement
+210	Edern's Composite Bow Upgrade
+211	Tiller Strengthening 1
+212	Tiller Strengthening 2
+213	Tiller Strengthening 3
+214	Tiller Strengthening 4
+215	Bowstring Enhancement 1
+216	Bowstring Enhancement 2
+217	Bowstring Enhancement 3
+218	Bowstring Enhancement 4
+219	Bowstring Enhancement 5
+220	Trigger Change
+221	Nut Change
+222	Bow Back Strengthening
+223	Nerys's Crossbow Enhancement
+224	Aranwen's Crossbow Upgrade
+225	Weight Adjustment 1
+226	Weight Adjustment 2
+227	Weight Adjustment 3
+228	Weight Adjustment 4
+229	Annealing 1
+230	Annealing 2
+231	Annealing 3
+232	Annealing 4
+233	Annealing 5
+234	Weight Reduction
+235	Axe Edge Sharpening
+236	Hilt Change
+237	Trefor's Hatchet Enhancement
+238	Ferghus's Hatchet Upgrade
+239	Weight Adjustment 1
+240	Weight Adjustment 2
+241	Weight Adjustment 3
+242	Weight Adjustment 4
+243	Annealing 1
+244	Annealing 2
+245	Annealing 3
+246	Annealing 4
+247	Annealing 5
+248	Weight Reduction
+249	Hook Carving
+250	Hilt Change
+251	Trefor's Hammer Enhancement
+252	Edern's Hammer Upgrade
+253	Tuning 1
+254	Tuning 2
+255	Tuning 3
+256	Tuning 4
+257	Oiling 1
+258	Oiling 2
+259	Oiling 3
+260	Oiling 4
+261	Oiling 5
+262	Neck Adjustment
+263	String Change
+264	Bridge Change
+265	Endelyon's Lute Tuning
+266	Walter's Lute Care
+267	Tuning 1
+268	Tuning 2
+269	Tuning 3
+270	Tuning 4
+271	Oiling 1
+272	Oiling 2
+273	Oiling 3
+274	Oiling 4
+275	Oiling 5
+276	Neck Adjustment
+277	String Change
+278	Bridge Change
+279	Endelyon's Mandolin Tuning
+280	Walter's Mandolin Care
+281	Tuning 1
+282	Tuning 2
+283	Tuning 3
+284	Tuning 4
+285	Oiling 1
+286	Oiling 2
+287	Oiling 3
+288	Oiling 4
+289	Oiling 5
+290	Neck Adjustment
+291	String Change
+292	Bridge Change
+293	Endelyon's Ukulele Tuning
+294	Walter's Ukulele Care
+295	Weight Adjustment
+296	Annealing 1
+297	Annealing 2
+298	Weight Reduction
+299	Axe Edge Sharpening
+300	Hilt Change
+301	Tracy's Gathering Axe Care
+302	Weight Adjustment
+303	Annealing 1
+304	Annealing 2
+305	Weight Reduction
+306	Blade Edge Sharpening
+307	Hilt Change
+308	Deian's Gathering Knife Care
+309	Weight Adjustment
+310	Annealing 1
+311	Annealing 2
+312	Weight Reduction
+313	Hilt Change
+314	Edern's Blacksmith Hammer Care
+315	Weight Adjustment
+316	Annealing 1
+317	Annealing 2
+318	Weight Reduction
+319	Pickaxe Carving
+320	Hilt Change
+321	Elen's Pickaxe Care
+322	Weight Adjustment
+323	Annealing 1
+324	Annealing 2
+325	Weight Reduction
+326	Sickle Sharpening
+327	Hilt Change
+328	Elen's Sickle Care
+329	Weight Adjustment
+330	Annealing 1
+331	Annealing 2
+332	Weight Reduction
+333	Hilt Change
+334	Walter's Weeding Hoe Care
+335	Tailoring
+336	Lining Attachment 1
+337	Lining Attachment 2
+338	Lining Attachment 3
+339	Simon's Cloth Armor Special Repair
+340	Seam Strengthening
+341	Surface Enhancement 1
+342	Surface Enhancement 2
+343	Surface Enhancement 3
+344	Surface Enhancement 4
+345	Elen's Light Armor Upgrade
+346	Seam Strengthening
+347	Surface Enhancement 1
+348	Surface Enhancement 2
+349	Surface Enhancement 3
+350	Surface Enhancement 4
+351	Edern's Heavy Armor Upgrade
+352	Weight Adjustment 1
+353	Weight Adjustment 2
+354	Weight Adjustment 3
+355	Weight Adjustment 4
+356	Annealing 1
+357	Annealing 2
+358	Annealing 3
+359	Annealing 4
+360	Annealing 5
+361	Weight Reduction
+362	Blade Edge Sharpening
+363	Hilt Change
+364	Ranald's Gladius Enhancement
+365	Nerys's Gladius Upgrade
+366	Weight Adjustment 1
+367	Weight Adjustment 2
+368	Weight Adjustment 3
+369	Weight Adjustment 4
+370	Annealing 1
+371	Annealing 2
+372	Annealing 3
+373	Annealing 4
+374	Annealing 5
+375	Weight Reduction
+376	Hook Carving
+377	Hilt Change
+378	Trefor's Mace Enhancement
+379	Edern's Mace Upgrade
+380	Weight Adjustment 1
+381	Weight Adjustment 2
+382	Weight Adjustment 3
+383	Weight Adjustment 4
+384	Annealing 1
+385	Annealing 2
+386	Annealing 3
+387	Annealing 4
+388	Annealing 5
+389	Weight Reduction
+390	Axe Edge Sharpening
+391	Hilt Change
+392	Trefor's Bipennis Enhancement
+393	Ferghus' Bipennis Upgrade
+394	Bow Back Refinement 1
+395	Bow Back Refinement 2
+396	Bow Back Refinement 3
+397	Bow Back Refinement 4
+398	Bowstring Enhancement 1
+399	Bowstring Enhancement 2
+400	Bowstring Enhancement 3
+401	Bowstring Enhancement 4
+402	Bowstring Enhancement 5
+403	Sight Change
+404	Bow Tip Enhancement
+405	Oiling
+406	Aranwen's Leather Long Bow Enhancement
+407	Ferghus's Leather Long Bow Upgrade
+408	Increased Attack Rate Test
+409	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+410	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+411	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+412	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+413	Refines the shape of the blade for a higher attack rate.
+414	Refines the shape of the blade for a higher attack rate.
+415	Refines the shape of the blade for a higher attack rate.
+416	Refines the shape of the blade for a higher attack rate.
+417	Refines the shape of the blade for a higher attack rate.
+418	Reduces the weight of the hilt and blade for a higher attack rate.
+419	Sharpens the blade edge for increased critical rate.
+420	Reinforces the connection between the hilt and blade.
+421	Modifies a weapon for maximum attack rate.
+422	Optimizes a dagger's unique strengths.
+423	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+424	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+425	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+426	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+427	Anneals a blade to further harden its surface.
+428	Anneals a blade to further harden its surface.
+429	Anneals a blade to further harden its surface.
+430	Anneals a blade to further harden its surface.
+431	Anneals a blade to further harden its surface.
+432	Reduces the weight of the hilt and blade for a higher attack rate.
+433	Sharpens the blade edge for increased critical rate.
+434	Reinforces the connection between the hilt and blade.
+435	Modifies a weapon to make it more stable..
+436	Optimizes a Short Sword's unique strengths.
+437	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+438	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+439	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+440	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+441	Applies a non-reflection treatment on a sword so that the blade doesn't shine, increasing its sneak attack effect.
+442	Applies a non-reflection treatment on a sword so that the blade doesn't shine, increasing its sneak attack effect.
+443	Applies a non-reflection treatment on a sword so that the blade doesn't shine, increasing its sneak attack effect.
+444	Applies a non-reflection treatment on a sword so that the blade doesn't shine, increasing its sneak attack effect.
+445	Applies a non-reflection treatment on a sword so that the blade doesn't shine, increasing its sneak attack effect.
+446	Reduces the weight of the hilt and blade for a higher attack rate.
+447	Sharpens the blade edge for increased critical rate.
+448	Reinforces the connection between the hilt and blade.
+449	Optimizes a Fluted Short Sword's unique strengths.
+450	Modifies a weapon to make it more stable..
+451	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+452	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+453	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+454	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+455	Sharpens the tip of the blade to increase jab damage.
+456	Sharpens the tip of the blade to increase jab damage.
+457	Sharpens the tip of the blade to increase jab damage.
+458	Sharpens the tip of the blade to increase jab damage.
+459	Sharpens the tip of the blade to increase jab damage.
+460	Reduces the weight of the hilt and blade for a higher attack rate.
+461	Sharpens the blade edge for increased critical rate.
+462	Reinforces the connection between the hilt and blade.
+463	Modifies a weapon with a lethal blow.
+464	Modifies a weapon to make it more stable..
+465	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+466	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+467	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+468	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+469	Anneals a blade to further harden its surface.
+470	Anneals a blade to further harden its surface.
+471	Anneals a blade to further harden its surface.
+472	Anneals a blade to further harden its surface.
+473	Anneals a blade to further harden its surface.
+474	Reduces the weight of the hilt and blade for a higher attack rate.
+475	Sharpens the blade edge for increased critical rate.
+476	Reinforces the connection between the hilt and blade.
+477	Optimizes a broadsword's unique strengths.
+478	Modifies a weapon to make it more stable..
+479	Sharpens the tip of the blade to increase jab damage.
+480	Sharpens the tip of the blade to increase jab damage.
+481	Sharpens the tip of the blade to increase jab damage.
+482	Sharpens the tip of the blade to increase jab damage.
+483	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+484	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+485	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+486	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+487	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+488	Reduces the weight of the hilt and blade for a higher attack rate.
+489	Sharpens the blade edge for increased critical rate.
+490	Reinforces the connection between the hilt and blade.
+491	Modifies a weapon to make it more stable..
+492	Modifies a weapon with a lethal blow.
+493	Sharpens the tip of the blade to increase jab damage.
+494	Sharpens the tip of the blade to increase jab damage.
+495	Sharpens the tip of the blade to increase jab damage.
+496	Sharpens the tip of the blade to increase jab damage.
+497	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+498	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+499	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+500	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+501	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+502	Reduces the weight of the hilt and blade for a higher attack rate.
+503	Sharpens the blade edge for increased critical rate.
+504	Reinforces the connection between the hilt and blade.
+505	Modifies a weapon to make it more stable..
+506	Modifies a weapon to allow it to deal more powerful damage.
+507	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+508	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+509	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+510	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+511	Refines the shape of the blade for a higher attack rate.
+512	Refines the shape of the blade for a higher attack rate.
+513	Refines the shape of the blade for a higher attack rate.
+514	Refines the shape of the blade for a higher attack rate.
+515	Refines the shape of the blade for a higher attack rate.
+516	Reduces the weight of the hilt and blade for a higher attack rate.
+517	Sharpens the blade edge for increased critical rate.
+518	Reinforces the connection between the hilt and blade.
+519	Modifies a weapon to make it more stable..
+520	Modifies a weapon to allow it to deal more powerful damage.
+521	Trims small branches off a wooden stick to make it smooth.
+522	Trims small branches off a wooden stick to make it smooth.
+523	Trims small branches off a wooden stick to make it smooth.
+524	Trims small branches off a wooden stick to make it smooth.
+525	Carves wood to form an edge.
+526	Carves wood to form an edge.
+527	Carves wood to form an edge.
+528	Carves wood to form an edge.
+529	Carves wood to form an edge.
+530	Trims a weapon's grip to make it easier to swing.
+531	Sharpens wood for an increased attack rate.
+532	Oils an item to strengthen it.
+533	Shepard's method of making a weapon out of a wooden stick.
+534	Modifies a wooden stick into a powerful weapon.
+535	Trims small branches off a wooden stick to make it smooth.
+536	Trims small branches off a wooden stick to make it smooth.
+537	Trims small branches off a wooden stick to make it smooth.
+538	Trims small branches off a wooden stick to make it smooth.
+539	Carves wood to form an edge.
+540	Carves wood to form an edge.
+541	Carves wood to form an edge.
+542	Carves wood to form an edge.
+543	Carves wood to form an edge.
+544	Trims a weapon's grip to make it easier to swing.
+545	Sharpens wood for an increased attack rate.
+546	Oils an item to strengthen it.
+547	Shepard's method of upgrading a weapon made out of a branch.
+548	Modifies a branch into a powerful weapon.
+549	Polishes a wooden sword to cleanse its surface.
+550	Polishes a wooden sword to cleanse its surface.
+551	Polishes a wooden sword to cleanse its surface.
+552	Polishes a wooden sword to cleanse its surface.
+553	Carves the blade of a wooden sword for higher attack rate.
+554	Carves the blade of a wooden sword for higher attack rate.
+555	Carves the blade of a wooden sword for higher attack rate.
+556	Carves the blade of a wooden sword for higher attack rate.
+557	Carves the blade of a wooden sword for higher attack rate.
+558	Trims a weapon's grip to make it easier to swing.
+559	Sharpens the tip of the wooden blade for a higher attack rate.
+560	Oils an item to strengthen it.
+561	Modifies a weapon to make it more stable..
+562	Modifies a wooden blade into a more powerful weapon.
+563	Trims and refines a club to make its surface smooth.
+564	Trims and refines a club to make its surface smooth.
+565	Trims and refines a club to make its surface smooth.
+566	Trims and refines a club to make its surface smooth.
+567	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+568	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+569	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+570	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+571	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+572	Trims a weapon's grip to make it easier to swing.
+573	Reduces the weight for a higher attack rate.
+574	Oils an item to strengthen it.
+575	Strengthens Shepard's club.
+576	Modifies a clup into a more powerful weapon
+577	Adjusts the flexibility of the bow to increase the weapon's balance.
+578	Adjusts the flexibility of the bow to increase the weapon's balance.
+579	Adjusts the flexibility of the bow to increase the weapon's balance.
+580	Adjusts the flexibility of the bow to increase the weapon's balance.
+581	Improves the elasticity of a bowstring to increase its shooting range.
+582	Improves the elasticity of a bowstring to increase its shooting range.
+583	Improves the elasticity of a bowstring to increase its shooting range.
+584	Improves the elasticity of a bowstring to increase its shooting range.
+585	Improves the elasticity of a bowstring to increase its shooting range.
+586	Replaces the sight to improve the weapon's aim.
+587	Ties down a bowstring so that it can be drawn with stronger force.
+588	Oils a bow to strengthen it.
+589	Modifies a stable bow to improve it.
+590	Modifies a Short Bow into a more powerful weapon.
+591	Adjusts the flexibility of the bow to increase the weapon's balance.
+592	Adjusts the flexibility of the bow to increase the weapon's balance.
+593	Adjusts the flexibility of the bow to increase the weapon's balance.
+594	Adjusts the flexibility of the bow to increase the weapon's balance.
+595	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+596	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+597	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+598	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+599	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+600	Replaces the sight to improve the weapon's aim.
+601	Ties down a bowstring so that it can be drawn with stronger force.
+602	Oils a bow to strengthen it.
+603	Modifies a stable bow to improve it.
+604	Modifies a Long Bow into a more powerful weapon.
+605	Adjusts the flexibility of the bow to increase the weapon's balance.
+606	Adjusts the flexibility of the bow to increase the weapon's balance.
+607	Adjusts the flexibility of the bow to increase the weapon's balance.
+608	Adjusts the flexibility of the bow to increase the weapon's balance.
+609	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+610	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+611	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+612	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+613	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+614	Replaces the sight to improve the weapon's aim.
+615	Ties down a bowstring so that it can be drawn with stronger force.
+616	Oils a bow to strengthen it.
+617	Modifies a stable bow to improve it.
+618	Optimizes a composite bow's unique strengths.
+619	Hardens a crossbow to increase its balance.
+620	Hardens a crossbow to increase its balance.
+621	Hardens a crossbow to increase its balance.
+622	Hardens a crossbow to increase its balance.
+623	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+624	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+625	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+626	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+627	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+628	Changes a weapon's trigger to improve its accuracy.
+629	Changes the nut that holds the string to allow the weapon to shoot more powerfully.
+630	Strengthens the bow back to better endure the weapon's power.
+631	Modifies a stable crossbow to improve it.
+632	Optimizes a crossbow's damage.
+633	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+634	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+635	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+636	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+637	Anneals an axe blade to further harden its surface.
+638	Anneals an axe blade to further harden its surface.
+639	Anneals an axe blade to further harden its surface.
+640	Anneals an axe blade to further harden its surface.
+641	Anneals an axe blade to further harden its surface.
+642	Reduces the weight of the handle and axe blade for a higher attack rate.
+643	Sharpens the axe blade edge to improve the weapon's critical rate.
+644	Reinforces the connection between the handle and axe blade.
+645	Modifies a weapon for maximum attack rate.
+646	Optimizes a hatchet's unique strengths.
+647	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+648	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+649	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+650	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+651	Anneals a hammer head to further harden its surface.
+652	Anneals a hammer head to further harden its surface.
+653	Anneals a hammer head to further harden its surface.
+654	Anneals a hammer head to further harden its surface.
+655	Anneals a hammer head to further harden its surface.
+656	Reduces the weight of the hilt and hammer head for a higher attack rate.
+657	Sharpens the hammer hook to raise the weapon's critical rate.
+658	Reinforces the connection between the hilt and hammer head.
+659	Modifies a weapon for maximum attack rate.
+660	Optimizes a hammer's unique strengths.
+661	Tunes the instrument and improves its balance to make it sound better.
+662	Tunes the instrument and improves its balance to make it sound better.
+663	Tunes the instrument and improves its balance to make it sound better.
+664	Tunes the instrument and improves its balance to make it sound better.
+665	Oils the wooden body of a musical instrument to strengthen it.
+666	Oils the wooden body of a musical instrument to strengthen it.
+667	Oils the wooden body of a musical instrument to strengthen it.
+668	Oils the wooden body of a musical instrument to strengthen it.
+669	Oils the wooden body of a musical instrument to strengthen it.
+670	Straightens the neck of an instrument that is warped.
+671	Replaces an old string with a new one.
+672	Replaces an instrument's old bridge with a new one.
+673	Tunes the lute for a more beautiful sound.
+674	Repairs broken parts and strengthens them.
+675	Tunes the instrument and improves its balance to make it sound better.
+676	Tunes the instrument and improves its balance to make it sound better.
+677	Tunes the instrument and improves its balance to make it sound better.
+678	Tunes the instrument and improves its balance to make it sound better.
+679	Oils the wooden body of a musical instrument to strengthen it.
+680	Oils the wooden body of a musical instrument to strengthen it.
+681	Oils the wooden body of a musical instrument to strengthen it.
+682	Oils the wooden body of a musical instrument to strengthen it.
+683	Oils the wooden body of a musical instrument to strengthen it.
+684	Straightens the neck of an instrument that is warped.
+685	Replaces an old string with a new one.
+686	Replaces an instrument's old bridge with a new one.
+687	Tunes the mandolin for a more beautiful sound.
+688	Repairs broken parts and strengthens them.
+689	Tunes the instrument and improves its balance to make it sound better.
+690	Tunes the instrument and improves its balance to make it sound better.
+691	Tunes the instrument and improves its balance to make it sound better.
+692	Tunes the instrument and improves its balance to make it sound better.
+693	Oils the wooden body of a musical instrument to strengthen it.
+694	Oils the wooden body of a musical instrument to strengthen it.
+695	Oils the wooden body of a musical instrument to strengthen it.
+696	Oils the wooden body of a musical instrument to strengthen it.
+697	Oils the wooden body of a musical instrument to strengthen it.
+698	Straightens the neck of an instrument that is warped.
+699	Replaces an old string with a new one.
+700	Replaces an instrument's old bridge with a new one.
+701	Tunes the ukulele for a more beautiful sound.
+702	Repairs broken parts and strengthens them.
+703	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+704	Anneals an axe blade to further harden its surface.
+705	Anneals an axe blade to further harden its surface.
+706	Reduces the weight of the handle and axe blade for a higher attack rate.
+707	Sharpens the axe blade edge to improve the weapon's critical rate.
+708	Reinforces the connection between the handle and axe blade.
+709	Repairs broken parts and strengthens them.
+710	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+711	Anneals a blade edge to further harden its surface.
+712	Anneals a blade edge to further harden its surface.
+713	Reduces the weight of the hilt and blade edge.
+714	Sharpens the edge for increased sharpness.
+715	Reinforces the connection between the hilt and blade.
+716	Repairs broken parts and strengthens them.
+717	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+718	Anneals a hammer to further harden its surface.
+719	Anneals a hammer to further harden its surface.
+720	Reduces the weight of the hilt and hammer head.
+721	Reinforces the connection between the hilt and hammer head.
+722	Repairs broken parts and strengthens them.
+723	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+724	Anneals the surface to further harden it.
+725	Anneals the surface to further harden it.
+726	Reduces the weight of the hilt and pickaxe head.
+727	Sharpens the tip of the pickaxe for increased sharpness.
+728	Reinforces the connection between the hilt and pickaxe head.
+729	Repairs broken parts and strengthens them.
+730	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+731	Anneals a sickle to further harden its surface.
+732	Anneals a sickle to further harden its surface.
+733	Reduces the weight of the hilt and edge.
+734	Sharpens the edge for increased sharpness.
+735	Reinforces the connection between the hilt and edge.
+736	Repairs broken parts and strengthens them.
+737	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+738	Anneals a weeding hoe to further harden its surface.
+739	Anneals a weeding hoe to further harden its surface.
+740	Reduces the weight of the weeding hoe.
+741	Reinforces the connection of the hilt.
+742	Repairs broken parts and strengthens them.
+743	Tailors the seams to make the clothes fit better.
+744	Attaches lining to raise defense.
+745	Attaches lining to raise protection.
+746	Attaches lining to raise both defense and protection.
+747	Repairs cloth armor using Simon's unique method.
+748	Reinforces the seam of armor for enhanced durability.
+749	Reinforces the armor's surface for enhanced defense.
+750	Reinforces the armor's surface for enhanced protection.
+751	Reinforces the armor's surface for enhanced defense and protection.
+752	Reinforces the armor's surface for enhanced defense.
+753	Modifies light armor using Elenian's unique method.
+754	Reinforces the seam of armor for enhanced durability.
+755	Reinforces the armor's surface for enhanced defense.
+756	Reinforces the armor's surface for enhanced protection.
+757	Reinforces the armor's surface for enhanced defense and protection.
+758	Reinforces the armor's surface for enhanced defense and protection.
+759	Modifies heavy armor using Edernish's unique method.
+760	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+761	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+762	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+763	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+764	Anneals a blade to further harden its surface.
+765	Anneals a blade to further harden its surface.
+766	Anneals a blade to further harden its surface.
+767	Anneals a blade to further harden its surface.
+768	Anneals a blade to further harden its surface.
+769	Reduces the weight of the hilt and blade for a higher attack rate.
+770	Sharpens the blade edge for increased critical rate.
+771	Reinforces the connection between the hilt and blade.
+772	Optimizes a Gladius's unique strengths.
+773	Modifies a weapon to make it more stable..
+774	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+775	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+776	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+777	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+778	Anneals a mace head to further harden its surface.
+779	Anneals a mace head to further harden its surface.
+780	Anneals a mace head to further harden its surface.
+781	Anneals a mace head to further harden its surface.
+782	Anneals a mace head to further harden its surface.
+783	Reduces the weight of the hilt and mace head for a higher attack rate.
+784	Sharpens the mace hook to raise the weapon's critical rate.
+785	Reinforces the connection between the hilt and mace head.
+786	Modifies a weapon for maximum attack rate.
+787	Optimizes a mace's unique strengths.
+788	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+789	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+790	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+791	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+792	Anneals an axe blade to further harden its surface.
+793	Anneals an axe blade to further harden its surface.
+794	Anneals an axe blade to further harden its surface.
+795	Anneals an axe blade to further harden its surface.
+796	Anneals an axe blade to further harden its surface.
+797	Reduces the weight of the handle and axe blade for a higher attack rate.
+798	Sharpens the axe blade edge to improve the weapon's critical rate.
+799	Reinforces the connection between the handle and axe blade.
+800	Modifies a weapon for maximum attack rate.
+801	Optimizes a bipennis' unique strengths.
+802	Adjusts the flexibility of the bow to increase the weapon's balance.
+803	Adjusts the flexibility of the bow to increase the weapon's balance.
+804	Adjusts the flexibility of the bow to increase the weapon's balance.
+805	Adjusts the flexibility of the bow to increase the weapon's balance.
+806	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+807	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+808	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+809	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+810	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+811	Replaces the sight to improve the weapon's aim.
+812	Ties down a bowstring so that it can be drawn with stronger force.
+813	Oils a bow to strengthen it.
+814	Modifies a stable bow to improve it.
+815	Modifies a Leather Long Bow into a more powerful weapon.
+816	Raises the attack rate of all weapons.
+817	Fleta Heavy Armor Upgrade
+818	Modifies heavy armor using Fleta's unique method.
+819	Weight Adjustment 1
+820	Weight Adjustment 2
+821	Weight Adjustment 3
+822	Weight Adjustment 4
+823	Blade Refinement 1
+824	Blade Refinement 2
+825	Blade Refinement 3
+826	Blade Refinement 4
+827	Blade Refinement 5
+828	Weight Reduction
+829	Blade Edge Sharpening
+830	Hilt Change
+831	Edern's Dragon Blade Enhancement
+832	Edern's Dragon Blade Upgrade
+833	Nicca's Flute Short Sword Enhancement
+834	Nicca's Flute Short Sword Upgrade
+835	Nicca's Gladius Enhancement
+836	Nicca's Gladius Upgrade
+837	Nicca's Short Bow Enhancement
+838	Nicca's Short Bow Upgrade
+839	Nicca's Crossbow Enhancement
+840	Nicca's Crossbow Upgrade
+841	Effie's Cloth Armor Special Repair
+842	Nicca's Light Armor Upgrade
+843	Nicca's Heavy Armor Upgrade
+844	Nicca's Heavy Armor Enhancement
+845	Weight Adjustment 1
+846	Weight Adjustment 2
+847	Weight Adjustment 3
+848	Weight Reduction
+849	Switch Handle
+850	Effie's Fishing Pole Upgrade
+851	Effie's Fishing Pole Enhancement
+852	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+853	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+854	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+855	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+856	Refines the shape of the blade for a higher attack rate.
+857	Refines the shape of the blade for a higher attack rate.
+858	Refines the shape of the blade for a higher attack rate.
+859	Refines the shape of the blade for a higher attack rate.
+860	Refines the shape of the blade for a higher attack rate.
+861	Reduces the weight of the hilt and blade for a higher attack rate.
+862	Sharpens the blade edge for increased critical rate.
+863	Reinforces the connection between the hilt and blade.
+864	Modifies a weapon to allow it to deal more powerful damage.
+865	Modifies a weapon to make it more stable..
+866	Optimizes a Fluted Short Sword's unique strengths.
+867	Modifies a weapon to make it more stable..
+868	Optimizes a Gladius' unique strengths.
+869	Modifies a weapon to make it more stable..
+870	Modifies a stable bow to improve it.
+871	Modifies a Short Bow into a more powerful weapon.
+872	Modifies a stable crossbow to improve it.
+873	Optimizes a crossbow's damage.
+874	Repairs cloth armor using Effie's unique method.
+875	Modifies light armor using Nicca's unique method.
+876	Modifies heavy armor Nicca's unique method.
+877	Strengthens heavy armor using Nicca's unique method.
+878	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+879	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+880	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+881	Reduces the weight of a fishing pole.
+882	Reinforces the connection between the hilt and the fishing pole.
+883	Modifies a fishing pole into a more stable weapon.
+884	Modifies a fishing pole into a more powerful weapon.
+885	Hilt Polishing
+886	Blade Polishing
+887	Deian's Gathering Knife Upgrade
+888	Hilt Polishing
+889	Blade Polishing
+890	Tracy's Gathering Axe Upgrade
+891	Hilt Polishing
+892	Blade Polishing
+893	Sion's Copper Ore Pickaxe Upgrade
+894	Sion's Silver Ore Pickaxe Upgrade
+895	Sion's Gold Ore Pickaxe Upgrade
+896	Hilt Polishing
+897	Blade Polishing
+898	Endelyon's Sickle Upgrade
+899	Hilt Polishing
+900	Blade Polishing
+901	Del's Weedomg Hoe Upgrade
+902	Dragon Blade Special Upgrade 1
+903	Dragon Blade Special Upgrade 2
+904	Claymore Special Upgrade 1
+905	Claymore Special Upgrade 2
+906	Two-handed Sword Special Upgrade 1
+907	Two-handed Sword Special Upgrade 2
+908	Surface Enhancement
+909	Round Shield Special Upgrade 1
+910	Round Shield Special Upgrade 2
+911	Round Shield Special Upgrade 3
+912	Surface Enhancement
+913	Kite Shield Special Upgrade 1
+914	Kite Shield Special Upgrade 2
+915	Kite Shield Special Upgrade 3
+916	Surface Enhancement
+917	Light Hetero Kite Shield Special Upgrade 1
+918	Light Hetero Kite Shield Special Upgrade 2
+919	Light Hetero Kite Shield Special Upgrade 3
+920	Surface Enhancement
+921	Hetero Kite Shield Special Upgrade 1
+922	Hetero Kite Shield Special Upgrade 2
+923	Hetero Kite Shield Special Upgrade 3
+924	Surface Enhancement
+925	Dragon Shield Special Upgrade 1
+926	Dragon Shield Special Upgrade 2
+927	Dragon Shield Special Upgrade 3
+928	Polishes up the hilt to make it easier to shave wool.
+929	Polishes the blade to allow wool to be shaved while minimal pressure is applied.
+930	Polishes up both the hilt and the blade to make it like new.
+931	Polishes up the hilt to make it easier to grip while chopping wood.
+932	Polishes the head to allow wood to be chopped while minimal pressure is applied.
+933	Polishes up both the hilt and the head to make it like new.
+934	Polishes up the hilt to make it easier to grip while extracting ores.
+935	Polishes the blade to allow ore to be extracted while minimal pressure is applied.
+936	Polishes up both the hilt and the head to increase the chance of extracting copper ore.
+937	Polishes up both the hilt and the head to increase the chance of extracting silver ore.
+938	Polishes up both the hilt and the head to increase the chance of extracting gold ore.
+939	Polishes up the hilt to make it easier to slice.
+940	Polishes the blade to allow slicing while minimal pressure is applied.
+941	Polishes up both the hilt and the blade to make it like new.
+942	Polishes up the hilt to make it easier to extract.
+943	Polishes the blade to allow extracting while minimal pressure is applied.
+944	Polishes up both the hilt and the blade to make it like new.
+945	Adds a special upgrade to the surface of the blade to increase attack range.
+946	Adds a special upgrade to the surface of the blade to increase damage dealt.
+947	Adds a special upgrade to the surface of the blade to increase attack range.
+948	Adds a special upgrade to the surface of the blade to increase damage dealt.
+949	Adds a special upgrade to the surface of the blade to increase attack range.
+950	Adds a special upgrade to the surface of the blade to increase damage dealt.
+951	Increases defense by strengthening the surface of the shell.
+952	Adds a special upgrade to the surface of the shield to increase defense against the melee attacks.
+953	Adds a special upgrade to the surface of the shield to increase the auto-defense rate against long-range attacks.
+954	Adds a special upgrade to the surface of the shield to increase the auto-defense rate against magic attacks.
+955	Increases defense by strengthening the surface of the shell.
+956	Adds a special upgrade to the surface of the shield to increase defense against the melee attacks.
+957	Adds a special upgrade to the surface of the shield to increase the auto-defense rate against long-range attacks.
+958	Adds a special upgrade to the surface of the shield to increase the auto-defense rate against magic attacks.
+959	Increases defense by strengthening the surface of the shell.
+960	Adds a special upgrade to the surface of the shield to increase defense against the melee attacks.
+961	Adds a special upgrade to the surface of the shield to increase the auto-defense rate against long-range attacks.
+962	Adds a special upgrade to the surface of the shield to increase the auto-defense rate against magic attacks.
+963	Increases defense by strengthening the surface of the shell.
+964	Adds a special upgrade to the surface of the shield to increase defense against the melee attacks.
+965	Adds a special upgrade to the surface of the shield to increase the auto-defense rate against long-range attacks.
+966	Adds a special upgrade to the surface of the shield to increase the auto-defense rate against magic attacks.
+967	Increases defense by strengthening the surface of the shell.
+968	Adds a special upgrade to the surface of the shield to increase defense against the melee attacks.
+969	Adds a special upgrade to the surface of the shield to increase the auto-defense rate against long-range attacks.
+970	Adds a special upgrade to the surface of the shield to increase the auto-defense rate against magic attacks.
+971	Weight Adjustment 1
+972	Weight Adjustment 2
+973	Weight Adjustment 3
+974	Weight Adjustment 4
+975	Annealing 1
+976	Annealing 2
+977	Annealing 3
+978	Annealing 4
+979	Annealing 5
+980	Weight Reduction
+981	Blade Edge Sharpening
+982	Hilt Change
+983	Edern's Soul-Searcher Enhancement
+984	Elen's Soul-Searcher Upgrade
+985	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+986	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+987	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+988	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+989	Anneals a blade to further harden its surface.
+990	Anneals a blade to further harden its surface.
+991	Anneals a blade to further harden its surface.
+992	Anneals a blade to further harden its surface.
+993	Anneals a blade to further harden its surface.
+994	Reduces the weight of the hilt and blade for a higher attack rate.
+995	Sharpens the blade edge for increased critical rate.
+996	Reinforces the connection between the hilt and blade.
+997	Optimizes a Soul-Searcher's unique strengths.
+998	Modifies a weapon to make it more stable..
+999	Meles's Dagger Enhancement
+1000	Meles's Short Sword Enhancement
+1001	Meles's Short Sword Enhancement
+1002	Meles's Short Bow Enhancement
+1003	Meles's Short Bow Enhancement
+1004	Meles's Long Bow Enhancement
+1005	Meles's Long Bow Enhancement
+1006	Meles's Light Armor Upgrade
+1007	Lepus's Cloth Armor Special Repair
+1008	Granites's Gathering Knife Upgrade
+1009	Granites's Copper Ore Pickaxe Upgrade
+1010	Granites's Silver Ore Pickaxe Upgrade
+1011	Granites's Gold Ore Pickaxe Upgrade
+1012	Modifies a weapon to make it more stable.
+1013	Optimizes a dagger's unique strengths.
+1014	Modifies a weapon to make it more stable.
+1015	Optimizes a short sword's unique strengths.
+1016	Modifies a weapon to make it more effective.
+1017	Optimizes a short bow's unique strengths.
+1018	Modifies a weapon to make it more effective.
+1019	Optimizes a long bow's unique strengths.
+1020	Modify light armor using Meles's unique method.
+1021	Repair cloth armor using Lepus' unique method.
+1022	Polishes up both the hilt and the blade to make it like new.
+1023	Polishes up the hilt and blade to increase the chance to successfully gather copper ore.
+1024	Polishes up the hilt and blade to increase the chance to successfully gather silver ore.
+1025	Polishes up the hilt and blade to increase the chance to successfully gather gold ore.
+1026	Meles's Dagger Enhancement
+1027	Surface Enhancement
+1028	Tortoise Shell Special Upgrade 1
+1029	Tortoise Shell Special Upgrade 2
+1030	Tortoise Shell Special Upgrade 3
+1031	Surface Enhancement
+1032	Bronze Shell Special Upgrade 1
+1033	Bronze Shell Special Upgrade 2
+1034	Bronze Shell Special Upgrade 3
+1035	Increases defense by strengthening the surface of the shell.
+1036	Adds a special upgrade to the surface of the shield to increase the auto-defense rate against melee attacks.
+1037	Adds a special upgrade to the surface of the shield to increase the auto-defense rate against long-range attacks.
+1038	Adds a special upgrade to the surface of the shield to increase the auto-defense rate against magic attacks.
+1039	Increases defense by strengthening the surface of the shell.
+1040	Adds a special upgrade to the surface of the shield to increase defense against the melee attacks.
+1041	Adds a special upgrade to the surface of the shield to increase the auto-defense rate against long-range attacks.
+1042	Adds a special upgrade to the surface of the shield to increase the auto-defense rate against magic attacks.
+1043	Weight Adjustment 1
+1044	Weight Adjustment 2
+1045	Weight Adjustment 3
+1046	Weight Adjustment 4
+1047	Bladesmithing 1
+1048	Bladesmithing 2
+1049	Bladesmithing 3
+1050	Bladesmithing 4
+1051	Bladesmithing 5
+1052	Weight Reduction
+1053	Blade Sharpening
+1054	Replace Hilt
+1055	Ferghus's Japanese Double Sword Upgrade
+1056	Ferghus's Japanese Double Sword Upgrade
+1057	Japanese Double Sword Special Upgrade 1
+1058	Japanese Double Sword Special Upgrade 2
+1059	Weight Adjustment 1
+1060	Weight Adjustment 2
+1061	Weight Adjustment 3
+1062	Weight Adjustment 4
+1063	Bladesmithing 1
+1064	Bladesmithing 2
+1065	Bladesmithing 3
+1066	Bladesmithing 4
+1067	Bladesmithing 5
+1068	Weight Reduction
+1069	Blade Sharpening
+1070	Replace Hilt
+1071	Ferghus's Masamune Upgrade
+1072	Ferghus's Masamune Upgrade
+1073	Masamune Special Upgrade 1
+1074	Masamune Special Upgrade 2
+1075	Weight Adjustment 1
+1076	Weight Adjustment 2
+1077	Weight Adjustment 3
+1078	Weight Adjustment 4
+1079	Tempering 1
+1080	Tempering 2
+1081	Tempering 3
+1082	Tempering 4
+1083	Tempering 5
+1084	Weight Reduction
+1085	Sharpen Spikes
+1086	Refine Hilt
+1087	Taunes's Morning Star Upgrade
+1088	Taunes's Morning Star Upgrade
+1089	Refine Mullet 1
+1090	Refine Mullet 2
+1091	Refine Mullet 3
+1092	Refine Mullet 4
+1093	Weight Adjustment 1
+1094	Weight Adjustment 2
+1095	Weight Adjustment 3
+1096	Weight Adjustment 4
+1097	Weight Adjustment 5
+1098	Refine Hilt
+1099	Weight Reduction
+1100	Oiling
+1101	Taunes's Great Mallet Upgrade
+1102	Taunes's Great Mallet Upgrade
+1103	Great Mallet Special Upgrade 1
+1104	Great Mallet Special Upgrade 2
+1105	Weight Adjustment 1
+1106	Weight Adjustment 2
+1107	Weight Adjustment 3
+1108	Weight Adjustment 4
+1109	Tempering 1
+1110	Tempering 2
+1111	Tempering 3
+1112	Tempering 4
+1113	Tempering 5
+1114	Weight Reduction
+1115	Sharpen Spear
+1116	Refine Hilt
+1117	Taunes's Battle Hammer Upgrade
+1118	Taunes's Battle Hammer Upgrade
+1119	Battle Hammer Special Upgrade 1
+1120	Battle Hammer Special Upgrade 2
+1121	Weight Adjustment 1
+1122	Weight Adjustment 2
+1123	Weight Adjustment 3
+1124	Weight Adjustment 4
+1125	Tempering 1
+1126	Tempering 2
+1127	Tempering 3
+1128	Tempering 4
+1129	Tempering 5
+1130	Weight Reduction
+1131	Sharpen Axe Blade
+1132	Replace Hilt
+1133	Krug's Warrior Axe Upgrade
+1134	Krug's Warrior Axe Upgrade
+1135	Warrior Axe Special Upgrade
+1136	Warrior Axe Special Upgrade
+1137	Weight Adjustment 1
+1138	Weight Adjustment 2
+1139	Weight Adjustment 3
+1140	Weight Adjustment 4
+1141	Tempering 1
+1142	Tempering 2
+1143	Tempering 3
+1144	Tempering 4
+1145	Tempering 5
+1146	Weight Reduction
+1147	Sharpen Axe Blade
+1148	Replace Hilt
+1149	Krug's Broad Axe Upgrade
+1150	Krug's Broad Axe Upgrade
+1151	Broad Axe Special Upgrade 1
+1152	Broad Axe Special Upgrade 2
+1153	Weight Adjustment 1
+1154	Weight Adjustment 2
+1155	Weight Adjustment 3
+1156	Weight Adjustment 4
+1157	Bladesmithing 1
+1158	Bladesmithing 2
+1159	Bladesmithing 3
+1160	Bladesmithing 4
+1161	Bladesmithing 5
+1162	Weight Reduction
+1163	Blade Sharpening
+1164	Replace Hilt
+1165	Krug's Great Sword Upgrade
+1166	Krug's Great Sword Upgrade
+1167	Weight Adjustment 1
+1168	Weight Adjustment 2
+1169	Weight Adjustment 3
+1170	Weight Adjustment 4
+1171	Bladesmithing 1
+1172	Bladesmithing 2
+1173	Bladesmithing 3
+1174	Bladesmithing 4
+1175	Bladesmithing 5
+1176	Weight Reduction
+1177	Blade Sharpening
+1178	Replace Hilt
+1179	Taunes's Cleaver Upgrade
+1180	Taunes's Cleaver Upgrade
+1181	Sharpen Spike 1
+1182	Sharpen Spike 2
+1183	Sharpen Spike 3
+1184	Sharpen Spike 4
+1185	Sewing 1
+1186	Sewing 2
+1187	Sewing 3
+1188	Sewing 4
+1189	Sewing 5
+1190	Weight Reduction
+1191	Replace Band
+1192	무게 조정
+1193	Wanst's Spiked Knuckle Upgrade
+1194	Wanst's Spiked Knuckle Upgrade
+1195	Spiked Knuckle Special Upgrade 1
+1196	Spiked Knuckle Special Upgrade 2
+1197	Sharpen Spike 1
+1198	Sharpen Spike 2
+1199	Sharpen Spike 3
+1200	Sharpen Spike 4
+1201	Sewing 1
+1202	Sewing 2
+1203	Sewing 3
+1204	Sewing 4
+1205	Sewing 5
+1206	Weight Reduction
+1207	Replace Band
+1208	Weight Adjustment
+1209	Krug's Hobnail Knuckle Enhancement
+1210	Krug's Hobnail Knuckle Upgrade
+1211	Hobnail Knuckle Special Upgrade 1
+1212	Hobnail Knuckle Special Upgrade 2
+1213	Sharpens the blade to increase the chance of critical hits.
+1214	Modifies the weapon to make it more durable.
+1215	Modifies a weapon to make it more powerful.
+1216	Increases attack range by specially treating the blade.
+1217	Increases the damage rate by specially treating the blade.
+1218	Sharpens the blade to increase the chance critical hits.
+1219	Modifies the weapon to make it more durable.
+1220	Modifies a weapon to make it more powerful.
+1221	Increases attack range by specially treating the blade.
+1222	Increases the damage rate by specially treating the blade.
+1223	Hardens a Morning Star's surface through tempering.
+1224	Hardens a Morning Star's surface through tempering.
+1225	Hardens a Morning Star's surface through tempering.
+1226	Hardens a Morning Star's surface through tempering.
+1227	Hardens a Morning Star's surface through tempering.
+1228	Increases attack rate by making the hilt and the head of the Morning Star lighter.
+1229	Increases the chance of getting critical hits by sharpening the spikes of the Morning Star.
+1230	Makes the part that connects the hilt and head of the Morning Star more durable.
+1231	Modifies a Morning Star to enhance its unique qualities.
+1232	Refines a mallet to make it smoother.
+1233	Refines a mallet to make it smoother.
+1234	Refines a mallet to make it smoother.
+1235	Refines a mallet to make it smoother.
+1236	Refines the hilt to make it easier to swing.
+1237	Enhances attack rate by making the item lighter.
+1238	Oils the item to toughen it up.
+1239	Modifies a mallet to make it more powerful via a method passed on from the Pub.
+1240	Increases attack range by specially treating the mallet head.
+1241	Increases damage dealt by specially treating the mallet head.
+1242	Hardens a Battle Hammer's surface through tempering.
+1243	Hardens a Battle Hammer's surface through tempering.
+1244	Hardens a Battle Hammer's surface through tempering.
+1245	Hardens a Battle Hammer's surface through tempering.
+1246	Hardens a Battle Hammer's surface through tempering.
+1247	Increases attack rate by making the head of the Battle Hammer lighter.
+1248	Increases the chance of getting critical hits by sharpening the spear at the tip of the Battle Hammer.
+1249	Makes the part that connects the hilt and head of the Battle Hammer more durable.
+1250	Modifies a Battle Hammer to enhance its unique qualities.
+1251	Increases attack range by specially treating the Battle Hammer head.
+1252	Increases damage rate by specially treating the Battle Hammer head.
+1253	Hardens an axe's surface through tempering.
+1254	Hardens an axe's surface through tempering.
+1255	Hardens an axe's surface through tempering.
+1256	Hardens an axe's surface through tempering.
+1257	Hardens an axe's surface through tempering.
+1258	Increases attack rate by making the hilt and head of the axe lighter.
+1259	Increases the chance of getting critical hits by sharpening the axe blade.
+1260	Makes the part that connects the hilt and head of the axe more durable.
+1261	Modifies a Warrior Axe to enhance its unique qualities.
+1262	Increases attack range by specially treating the axe blade.
+1263	Increases damage rate by specially treating the axe blade.
+1264	Hardens an axe's surface through tempering.
+1265	Hardens an axe's surface through tempering.
+1266	Hardens an axe's surface through tempering.
+1267	Hardens an axe's surface through tempering.
+1268	Hardens an axe's surface through tempering.
+1269	Increases attack rate by making the hilt and head of the axe lighter.
+1270	Increases the chance of getting critical hits by sharpening the axe blade.
+1271	Makes the part that connects the hilt and head of the axe more durable.
+1272	Modifies a Warrior Axe to enhance its unique qualities.
+1273	Increases attack range by specially treating the axe blade.
+1274	Increases damage rate by specially treating the axe blade.
+1275	Sharpens the blade to increase the chance of critical hits.
+1276	Modifies the weapon to make it more durable.
+1277	Modifies the weapon to make it more durable.
+1278	Sharpens the blade to increase the chance of critical hits.
+1279	Modifies a weapon to make it more powerful.
+1280	Modifies the weapon to make it more durable.
+1281	Increases attack rate by sharpening the spikes.
+1282	Increases attack rate by sharpening the spikes.
+1283	Increases attack rate by sharpening the spikes.
+1284	Increases attack rate by sharpening the spikes.
+1285	Tightly secures the band and spikes through sewing.
+1286	Tightly secures the band and spikes through sewing.
+1287	Tightly secures the band and spikes through sewing.
+1288	Tightly secures the band and spikes through sewing.
+1289	Tightly secures the band and spikes through sewing.
+1290	Increases attack rate by making the spikes lighter.
+1291	Changes the band to make it easier to wield.
+1292	Makes the band and spikes lighter for easier swinging.
+1293	Modifies a Spiked Knuckle to enhance its unique qualities.
+1294	Increases attack range by specially treating the spikes.
+1295	Increases damage rate by specially treating the spikes.
+1296	Increases attack rate by sharpening the spikes.
+1297	Increases attack rate by sharpening the spikes.
+1298	Increases attack rate by sharpening the spikes.
+1299	Increases attack rate by sharpening the spikes.
+1300	Tightly secures the band and spikes through sewing.
+1301	Tightly secures the band and spikes through sewing.
+1302	Tightly secures the band and spikes through sewing.
+1303	Tightly secures the band and spikes through sewing.
+1304	Tightly secures the band and spikes through sewing.
+1305	Increases attack rate by making the spikes lighter.
+1306	Changes the band to make it easier to wield.
+1307	Makes the band and spikes lighter for easier swinging.
+1308	Modifies a Spiked Knuckle to enhance its unique qualities.
+1309	Increases attack range by specially treating the spikes.
+1310	Increases damage rate by specially treating the spikes.
+1311	Hardens an axe's surface through tempering.
+1312	Hardens an axe's surface through tempering.
+1313	Hardens an axe's surface through tempering.
+1314	Hardens an axe's surface through tempering.
+1315	Hardens an axe's surface through tempering.
+1316	Increases attack rate by making the hilt and head of the axe lighter.
+1317	Increases the chance of getting critical hits by sharpening the axe blade.
+1318	Makes the part that connects the hilt and head of the axe more durable.
+1319	Modifies the item for maximum attack rate
+1320	Modifies a Warrior Axe to enhance its unique qualities.
+1321	Increases attack range by specially treating the axe blade.
+1322	Increases damage rate by specially treating the axe blade.
+1323	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1324	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1325	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1326	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1327	Refines the blade shape for an increased attack rate.
+1328	Refines the blade shape for an increased attack rate.
+1329	Refines the blade shape for an increased attack rate.
+1330	Refines the blade shape for an increased attack rate.
+1331	Refines the blade shape for an increased attack rate.
+1332	Reduces the weight of the hilt and blade for a higher attack rate.
+1333	Sharpens the blade to increase the chance of critical hits.
+1334	Reinforces the connection between the hilt and blade.
+1335	Modifies the weapon to make it more durable.
+1336	Modifies the weapon to make it more durable.
+1337	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1338	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1339	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1340	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1341	Refines the blade shape for an increased attack rate.
+1342	Refines the blade shape for an increased attack rate.
+1343	Refines the blade shape for an increased attack rate.
+1344	Refines the blade shape for an increased attack rate.
+1345	Refines the blade shape for an increased attack rate.
+1346	Reduces the weight of the hilt and blade for a higher attack rate.
+1347	Sharpens the blade to increase the chance of critical hits.
+1348	Reinforces the connection between the hilt and blade.
+1349	Modifies a weapon to make it more powerful.
+1350	Modifies the weapon to make it more durable.
+1351	Increases attack rate by sharpening the spikes.
+1352	Increases attack rate by sharpening the spikes.
+1353	Increases attack rate by sharpening the spikes.
+1354	Increases attack rate by sharpening the spikes.
+1355	Tightly secures the band and spikes through sewing.
+1356	Tightly secures the band and spikes through sewing.
+1357	Tightly secures the band and spikes through sewing.
+1358	Tightly secures the band and spikes through sewing.
+1359	Tightly secures the band and spikes through sewing.
+1360	Increases attack rate by making the spikes lighter.
+1361	Changes the band to make it easier to wield.
+1362	Makes the band and spikes lighter for easier swinging.
+1363	Modifies a Spiked Knuckle to enhance its unique qualities.
+1364	Modifies the item for maximum attack rate
+1365	Increases attack range by specially treating the spikes.
+1366	Increases damage rate by specially treating the spikes.
+1367	Increases attack rate by sharpening the spikes.
+1368	Increases attack rate by sharpening the spikes.
+1369	Increases attack rate by sharpening the spikes.
+1370	Increases attack rate by sharpening the spikes.
+1371	Tightly secures the band and spikes through sewing.
+1372	Tightly secures the band and spikes through sewing.
+1373	Tightly secures the band and spikes through sewing.
+1374	Tightly secures the band and spikes through sewing.
+1375	Tightly secures the band and spikes through sewing.
+1376	Increases attack rate by making the spikes lighter.
+1377	Changes the band to make it easier to wield.
+1378	Makes the band and spikes lighter for easier swinging.
+1379	Modifies a Spiked Knuckle to enhance its unique qualities.
+1380	Modifies the item for maximum attack rate
+1381	Increases attack range by specially treating the spikes.
+1382	Increases damage rate by specially treating the spikes.
+1383	Refine Bow Back 1
+1384	Refine Bow Back 2
+1385	Refine Bow Back 3
+1386	Refine Bow Back 4
+1387	Bowstring Enhancement 1
+1388	Bowstring Enhancement 2
+1389	Bowstring Enhancement 3
+1390	Bowstring Enhancement 4
+1391	Bowstring Enhancement 5
+1392	Switch Aimer
+1393	Bow Tip Enhancement
+1394	Grease
+1395	Meles's Elven Bow Enhancement
+1396	Meles's Elven Bow Upgrade
+1397	Tightens the back of the bow for increased balance.
+1398	Tightens the back of the bow for increased balance.
+1399	Tightens the back of the bow for increased balance.
+1400	Tightens the back of the bow for increased balance.
+1401	Raises the elasticity of the bow string to increase attack rate.
+1402	Raises the elasticity of the bow string to increase attack rate.
+1403	Raises the elasticity of the bow string to increase attack rate.
+1404	Raises the elasticity of the bow string to increase attack rate.
+1405	Raises the elasticity of the bow string to increase attack rate.
+1406	Switches the weapon's aimer to increase accuracy.
+1407	Adjusts the tip of the Bow so that the bowstring can be drawn more powerfully.
+1408	Greases the back of the Bow to harden it.
+1409	Modifies the weapon to make it more powerful.
+1410	Modifies the weapon to bring out the Elven Bow's unique qualities.
+1411	Meles's Guardian Bow Enhancement
+1412	Meles's Guardian Bow Upgrade
+1413	Lightning Elemental Resonance
+1414	Lassar's Lightning Elemental Resonance
+1415	Lightning Elemental Control
+1416	Stewart's Lightning Elemental Control
+1417	Lightning Elemental Control Amplify 1
+1418	Lightning Elemental Control Amplify 2
+1419	Lightning Elemental Control Amplify 3
+1420	Lightning Elemental Control Amplify 4
+1421	Fire Elemental Resonance
+1422	Heulfryn's Fire Elemental Resonance
+1423	Fire Elemental Control
+1424	Stewart's Fire Elemental Control
+1425	Fire Elemental Amplify 1
+1426	Fire Elemental Amplify 2
+1427	Fire Elemental Amplify 3
+1428	Fire Elemental Amplify 4
+1429	Ice Elemental Resonance
+1430	Lassar's Ice Elemental Resonance
+1431	Ice Elemental Control
+1432	Heulfryn's Ice Elemental Control
+1433	Ice Elemental Amplify 1
+1434	Ice Elemental Amplify 2
+1435	Ice Elemental Amplify 3
+1436	Ice Elemental Amplify 4
+1437	Modifies the weapon to bring out the Guardian Bow's unique qualities.
+1438	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+1439	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+1440	Reduces the amount of mana vaporized during a Wand switch by controlling the Wand's mana flow.
+1441	Reduces the amount of mana vaporized during a Wand switch and increases attack rate by controlling the Wand's mana flow.
+1442	Amplifies the Wand's mana flow to allow an additional 1 Lightning Bolt to be charged.
+1443	Amplifies the Wand's mana flow to allow an additional 2 Lightning Bolts to be charged.
+1444	Amplifies the Wand's mana flow to allow an additional 3 Lightning Bolts to be charged.
+1445	Amplifies the Wand's mana flow to allow an additional 4 Lightning Bolts to be charged.
+1446	Reduces the amount of mana used during magic charge by controlling the Wand's mana resonance.
+1447	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+1448	Reduces the amount of mana vaporized during a Wand switch by controlling the Wand's mana flow.
+1449	Reduces the amount of mana vaporized during a Wand switch and increases attack rate by controlling the Wand's mana flow.
+1450	Amplifies the Wand's mana flow to allow an additional 1 Firebolt to be charged.
+1451	Amplifies the Wand's mana flow to allow an additional 2 Firebolts to be charged.
+1452	Amplifies the Wand's mana flow to allow an additional 3 Firebolts to be charged.
+1453	Amplifies the Wand's mana flow to allow an additional 4 Firebolts to be charged.
+1454	Reduces the amount of mana used during magic charge by controlling the Wand's mana resonance.
+1455	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+1456	Reduces the amount of mana vaporized during a Wand switch by controlling the Wand's mana flow.
+1457	Reduces the amount of mana vaporized during a Wand switch and increases attack rate by controlling the Wand's mana flow.
+1458	Amplifies the Wand's mana flow to allow an additional 1 Icebolt to be charged.
+1459	Amplifies the Wand's mana flow to allow an additional 2 Icebolts to be charged.
+1460	Amplifies the Wand's mana flow to allow an additional 3 Icebolts to be charged.
+1461	Amplifies the Wand's mana flow to allow an additional 4 Icebolts to be charged.
+1462	Edern's Muramasa Enhancement
+1463	Ranald's Muramasa Upgrade
+1464	Edern's Japanese One-handed Sword Enhancement
+1465	Aranwen's Japanese One-handed Sword Upgrade
+1466	Blade Tip Sharpening 1
+1467	Blade Tip Sharpening 2
+1468	Blade Tip Sharpening 3
+1469	Blade Tip Sharpening 4
+1470	Blade Refinement 1
+1471	Blade Refinement 2
+1472	Blade Refinement 3
+1473	Blade Refinement 4
+1474	Blade Refinement 5
+1475	Weight Reduction
+1476	Blade Edge Sharpening
+1477	Hilt Change
+1478	Weight Adjustment 1
+1479	Weight Adjustment 2
+1480	Weight Adjustment 3
+1481	Weight Adjustment 4
+1482	Blade Refinement 1
+1483	Blade Refinement 2
+1484	Blade Refinement 3
+1485	Blade Refinement 4
+1486	Blade Refinement 5
+1487	Weight Reduction
+1488	Blade Edge Sharpening
+1489	Hilt Change
+1490	Weight Adjustment 1
+1491	Weight Adjustment 2
+1492	Weight Adjustment 3
+1493	Weight Adjustment 4
+1494	Blade Refinement 1
+1495	Blade Refinement 2
+1496	Blade Refinement 3
+1497	Blade Refinement 4
+1498	Blade Refinement 5
+1499	Weight Reduction
+1500	Blade Edge Sharpening
+1501	Hilt Change
+1502	Edern style Yoshimitsu reinforcement
+1503	Ferghus style Yoshimitsu modification
+1504	Weight Adjustment 1
+1505	Weight Adjustment 2
+1506	Weight Adjustment 3
+1507	Weight Adjustment 4
+1508	Blade Refinement 1
+1509	Blade Refinement 2
+1510	Blade Refinement 3
+1511	Blade Refinement 4
+1512	Blade Refinement 5
+1513	Weight Reduction
+1514	Blade Edge Sharpening
+1515	Hilt Change
+1516	Ranald Japanese Dagger reinforcement
+1517	Ferghust Japanese Dagger modification
+1518	Sharpens the tip of the blade to increase jab damage.
+1519	Sharpens the tip of the blade to increase jab damage.
+1520	Sharpens the tip of the blade to increase jab damage.
+1521	Sharpens the tip of the blade to increase jab damage.
+1522	Refines the blade shape for an increased attack rate.
+1523	Refines the blade shape for an increased attack rate.
+1524	Refines the blade shape for an increased attack rate.
+1525	Refines the blade shape for an increased attack rate.
+1526	Refines the blade shape for an increased attack rate.
+1527	Reduces the weight of the hilt and blade for a higher attack rate.
+1528	Sharpens the blade edge for increased critical rate.
+1529	Reinforces the connection between the hilt and blade.
+1530	Modifies the weapon to enhance attack rate. 
+1531	Modifies the weapon to make it more stable.
+1532	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1533	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1534	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1535	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1536	Refines the blade shape for an increased attack rate.
+1537	Refines the blade shape for an increased attack rate.
+1538	Refines the blade shape for an increased attack rate.
+1539	Refines the blade shape for an increased attack rate.
+1540	Refines the blade shape for an increased attack rate.
+1541	Reduces the weight of the hilt and blade for a higher attack rate.
+1542	Sharpens the blade edge for increased critical rate.
+1543	Reinforces the connection between the hilt and blade.
+1544	Modifies the weapon to enhance attack rate. 
+1545	Modifies the weapon to make it more stable. 
+1546	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1547	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1548	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1549	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1550	Refines the blade shape for an increased attack rate.
+1551	Refines the blade shape for an increased attack rate.
+1552	Refines the blade shape for an increased attack rate.
+1553	Refines the blade shape for an increased attack rate.
+1554	Refines the blade shape for an increased attack rate.
+1555	Reduces the weight of the hilt and blade for a higher attack rate.
+1556	Sharpens the blade edge for increased critical rate.
+1557	Reinforces the connection between the hilt and blade.
+1558	Modifies the item for maximum attack rate
+1559	Remodeling to maximize Yoshimitsu's characteristics.
+1560	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1561	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1562	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1563	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1564	Refines the blade shape for an increased attack rate.
+1565	Refines the blade shape for an increased attack rate.
+1566	Refines the blade shape for an increased attack rate.
+1567	Refines the blade shape for an increased attack rate.
+1568	Refines the blade shape for an increased attack rate.
+1569	Reduces the weight of the hilt and blade for a higher attack rate.
+1570	Sharpens the blade edge for increased critical rate.
+1571	Reinforces the connection between the hilt and blade.
+1572	Remodeling to stabilize and strengthen attack power.
+1573	Remodeling to maximize the Japanese Daggers characteristics.
+1574	Weight Adjustment 1
+1575	Weight Adjustment 2
+1576	Weight Adjustment 3
+1577	Weight Adjustment 4
+1578	Tempering 1
+1579	Tempering 2
+1580	Tempering 3
+1581	Tempering 4
+1582	Tempering 5
+1583	Make Light
+1584	Sharpen Blade
+1585	Switch Handles
+1586	Nicca's Noble's Sword Enhancement
+1587	Fleta's Noble's Sword Upgrade
+1588	Sharpen Sword Tip 1
+1589	Sharpen Sword Tip 2
+1590	Sharpen Sword Tip 3
+1591	Sharpen Sword Tip 4
+1592	Weight Adjustment 1
+1593	Weight Adjustment 2
+1594	Weight Adjustment 3
+1595	Weight Adjustment 4
+1596	Weight Adjustment 5
+1597	Make Lighter
+1598	Sharpen Blade
+1599	Switch Handles
+1600	Nerys's Dirk Enhancement
+1601	Elen's Dirk Upgrade
+1602	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1603	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1604	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1605	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1606	Anneals a blade to further harden its surface.
+1607	Anneals a blade to further harden its surface.
+1608	Anneals a blade to further harden its surface.
+1609	Anneals a blade to further harden its surface.
+1610	Anneals a blade to further harden its surface.
+1611	Reduces the weight of the hilt and blade for a higher attack rate.
+1612	Sharpens the blade edge for increased critical rate.
+1613	Reinforces the connection between the hilt and blade.
+1614	Modifies the item for maximum attack rate
+1615	Modifies a weapon to make it more durable.
+1616	Sharpens the tip of the sword to deal more damage when stabbing enemies.
+1617	Sharpens the tip of the sword to deal more damage when stabbing enemies.
+1618	Sharpens the tip of the sword to deal more damage when stabbing enemies.
+1619	Sharpens the tip of the sword to deal more damage when stabbing enemies.
+1620	Adjusts the weapon's weight to slightly raise attack rate and better fit the wielder's hands.
+1621	Adjusts the weapon's weight to slightly raise attack rate and better fit the wielder's hands.
+1622	Adjusts the weapon's weight to slightly raise attack rate and better fit the wielder's hands.
+1623	Adjusts the weapon's weight to slightly raise attack rate and better fit the wielder's hands.
+1624	Adjusts the weapon's weight to slightly raise attack rate and better fit the wielder's hands.
+1625	Reduces the weight of the hilt and blade for a higher attack rate.
+1626	Sharpens the blade edge for increased critical rate.
+1627	Reinforces the connection between the hilt and blade.
+1628	Modifies the item for maximum attack rate
+1629	Upgrades a weapon to make it into a deathblow weapon.
+1630	Weight Adjustment 1
+1631	Weight Adjustment 2
+1632	Weight Adjustment 3
+1633	Weight Adjustment 4
+1634	Tempering 1
+1635	Tempering 2
+1636	Tempering 3
+1637	Tempering 4
+1638	Tempering 5
+1639	Lighten Weight
+1640	Sharpen Blade
+1641	Replace Hilt
+1642	Nicca's Noble's Sword Reinforcement
+1643	Fleta's Noble's Sword Upgrade
+1644	Tip Sharpening 1
+1645	Tip Sharpening 2
+1646	Tip Sharpening 3
+1647	Tip Sharpening 4
+1648	Weight Adjustment 1
+1649	Weight Adjustment 2
+1650	Weight Adjustment 3
+1651	Weight Adjustment 4
+1652	Weight Adjustment 5
+1653	Lighten Weight
+1654	Sharpen Blade
+1655	Replace Hilt
+1656	Nerys's Dirk Reinforcement
+1657	Elen's Dirk Tuning
+1658	Granites's Guardian Bow Tuning
+1659	Krug's Morning Star Reinforcement
+1660	Edern's Long Sword Tuning
+1661	Ferghus's Short Bow Tuning
+1662	Nerys's Long Bow Reinforcement
+1663	Nicca's Composite Bow Reinforcement
+1664	Edern's Hammer Reinforcement
+1665	Nerys's Dragon Blade Tuning
+1666	Wanst's Great Mallet Reinforcement
+1667	Taunes's Warrior Axe Tuning
+1668	Elen's Bastard Sword Reinforcement
+1669	Edern's Short Sword Tuning
+1670	Edern's Flute Short Sword Tuning
+1671	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1672	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1673	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1674	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1675	Anneals a blade to further harden its surface.
+1676	Anneals a blade to further harden its surface.
+1677	Anneals a blade to further harden its surface.
+1678	Anneals a blade to further harden its surface.
+1679	Anneals a blade to further harden its surface.
+1680	Reduces the weight of the hilt and blade for a higher attack rate.
+1681	Sharpens the blade edge for increased critical rate.
+1682	Reinforces the connection between the hilt and blade.
+1683	Modifies the item for maximum attack rate
+1684	A safe, stable weapon tuning process.
+1685	Sharpens the tip of a sword so it deals greater damage with thrust attacks.
+1686	Sharpens the tip of a sword so it deals greater damage with thrust attacks.
+1687	Sharpens the tip of a sword so it deals greater damage with thrust attacks.
+1688	Sharpens the tip of a sword so it deals greater damage with thrust attacks.
+1689	Adjusts the weight of a weapon for a better grip and slightly enhanced attack strength.
+1690	Adjusts the weight of a weapon for a better grip and slightly enhanced attack strength.
+1691	Adjusts the weight of a weapon for a better grip and slightly enhanced attack strength.
+1692	Adjusts the weight of a weapon for a better grip and slightly enhanced attack strength.
+1693	Adjusts the weight of a weapon for a better grip and slightly enhanced attack strength.
+1694	Reduces the weight of the hilt and blade for a higher attack rate.
+1695	Sharpens the blade edge for increased critical rate.
+1696	Reinforces the connection between the hilt and blade.
+1697	Modifies the item for maximum attack rate
+1698	Tunes a weapon to unleash its full lethality.
+1699	Modifies a Guardian Bow to bring out its full potential.
+1700	A safe, stable weapon tuning process.
+1701	An artisan method that maximizes the performance of a Long Sword.
+1702	A safe, stable bow tuning process.
+1703	Enhances the power of a Long Bow.
+1704	Modifies a weapon with a lethal blow.
+1705	Tunes a weapon to its strongest, toughest state.
+1706	Modifies the item for maximum attack rate
+1707	Modifies the item for maximum attack rate
+1708	Enhances the power of a Warrior Axe.
+1709	Modifies the item for maximum attack rate
+1710	An artisan method that maximizes the performance of a Short Sword.
+1711	An artisan method that maximizes the performance of a Flute Short Sword.
+1712	Carve Ice
+1713	Fleta Ice Sword Enhancement
+1714	Carves ice to reduce weight.
+1715	Modifies a weapon with a lethal blow.
+1716	Sharpen Blade 1
+1717	Sharpen Blade 2
+1718	Sharpen Blade 3
+1719	Sharpen Blade 4
+1720	Tempering 1
+1721	Tempering 2
+1722	Tempering 3
+1723	Tempering 4
+1724	Tempering 5
+1725	Recast Edge 1
+1726	Recast Edge 2
+1727	Weight Adjustment
+1728	Lightning Elemental Restraint 1
+1729	Lightning Elemental Restraint 2
+1730	Lightning Elemental Restraint 3
+1731	Lightning Elemental Restraint 4
+1732	Lightning Elemental Restraint 5
+1733	Lightning Elemental Acceleration 1
+1734	Lightning Elemental Acceleration 2
+1735	Lightning Elemental Acceleration 3
+1736	Lightning Elemental Acceleration 1
+1737	Lightning Elemental Acceleration 2
+1738	Lightning Elemental Acceleration 3
+1739	Lightning Elemental Acceleration 4
+1740	Fire Elemental Restraint
+1741	Lassar's Elemental Acceleration
+1742	Stewart's Elemental Acceleration
+1743	Ice Elemental Condensation 1
+1744	Ice Elemental Condensation 2
+1745	Ice Elemental Condensation 3
+1746	Ice Elemental Condensation 4
+1747	Ice Elemental Acceleration
+1748	Heulfryn's Elemental Condensation
+1749	Elemental Amplification 1
+1750	Elemental Amplification 2
+1751	Elemental Amplification 3
+1752	Elemental Amplification 4
+1753	Elemental Amplification 5
+1754	Surface Enhancement
+1755	Beholder's Shield Special Upgrade 1
+1756	Beholder's Shield Special Upgrade 2
+1757	Beholder's Shield Special Upgrade 3
+1758	Strengthen Bow Tip 1
+1759	Strengthen Bow Tip 2
+1760	Strengthen Bow Tip 3
+1761	Strengthen Bow Tip 4
+1762	Bowstring Enhancement 1
+1763	Bowstring Enhancement 2
+1764	Bowstring Enhancement 3
+1765	Bowstring Enhancement 4
+1766	Bowstring Enhancement 5
+1767	Aranwen's Ring Bow Strengthening
+1768	Meles's Ring Bow Strengthening
+1769	Nerys's Ring Bow Strengthening
+1770	Strengthen Bow Tip 1
+1771	Strengthen Bow Tip 2
+1772	Strengthen Bow Tip 3
+1773	Bowstring Enhancement 1
+1774	Bowstring Enhancement 2
+1775	Bowstring Enhancement 3
+1776	Bowstring Enhancement 4
+1777	Bowstring Enhancement 5
+1778	Replace Bowstring
+1779	Aranwen's Wing Bow Strengthening
+1780	Meles's Wing Bow Strengthening
+1781	Two-handed Sword Gem Upgrade 1
+1782	Claymore Gem Upgrade 1
+1783	Dragon Blade Gem Upgrade 1
+1784	Wooden Blade Gem Upgrade 1
+1785	Short Sword Gem Upgrade 1
+1786	Broad Sword Gem Upgrade 1
+1787	Bastard Sword Gem Upgrade 1
+1788	Fluted Short Sword Gem Upgrade 1
+1789	Gladius Gem Upgrade 1
+1790	Noble's Sword Gem Upgrade 1
+1791	Great Sword Gem Upgrade 1
+1792	Cleaver Gem Upgrade 1
+1793	Dagger Gem Upgrade 1
+1794	Dirk Gem Upgrade 1
+1795	Hatchet Gem Upgrade 1
+1796	Bipennis Gem Upgrade 1
+1797	Warrior Axe Gem Upgrade 1
+1798	Broad Axe Gem Upgrade 1
+1799	Hammer Gem Upgrade 1
+1800	Mace Gem Upgrade 1
+1801	Morning Star Gem Upgrade 1
+1802	Great Mallet Gem Upgrade 1
+1803	Battle Hammer Gem Upgrade 1
+1804	Spiked Knuckle Gem Upgrade 1
+1805	Hobnail Knuckle Gem Upgrade 1
+1806	Short Bow Gem Upgrade 1
+1807	Long Bow Gem Upgrade 1
+1808	Composite Bow Gem Upgrade 1
+1809	Crossbow Gem Upgrade 1
+1810	Leather Long Bow Gem Upgrade 1
+1811	Long Sword Gem Upgrade 1
+1812	Beholder's Sword Gem Upgrade 1
+1813	Melee Wand Gem Upgrade 1
+1814	Gem Repair 1
+1815	Gem Repair 1
+1816	Gem Repair 1
+1817	Gem Repair 1
+1818	Gem Repair 1
+1819	Gem Repair 1
+1820	Gem Repair 1
+1821	Gem Repair 1
+1822	Wand Gem Upgrade 1
+1823	Gem Repair 1
+1824	Sharpens the blade of the sword to increase its critical rate.
+1825	Sharpens the blade of the sword to increase its critical rate.
+1826	Sharpens the blade of the sword to increase its critical rate.
+1827	Sharpens the blade of the sword to increase its critical rate.
+1828	Hardens the surface of the sword through tempering.
+1829	Hardens the surface of the sword through tempering.
+1830	Hardens the surface of the sword through tempering.
+1831	Hardens the surface of the sword through tempering.
+1832	Hardens the surface of the sword through tempering.
+1833	Molds the body of a sword to enhance its attack rate.
+1834	Molds the body of a sword to enhance its attack rate.
+1835	Enhances the balance of a weapon by adjusting its weight so it's easier to wield.
+1836	Decreases the amount of mana used by suspending the flow of mana, but this also reduces damage done.
+1837	Decreases the amount of mana used by suspending the flow of mana, but this also reduces damage done.
+1838	Decreases the amount of mana used by suspending the flow of mana, but this also reduces damage done.
+1839	Decreases the amount of mana used by suspending the flow of mana, but this also reduces damage done.
+1840	Decreases the amount of mana used by suspending the flow of mana, but this also reduces damage done.
+1841	Enhances the charging speed of magic by boosting the flow of mana. 
+1842	Enhances the charging speed of magic by boosting the flow of mana. 
+1843	Enhances the charging speed of magic by boosting the flow of mana. 
+1844	Enhances the charging speed of magic by boosting the flow of mana. 
+1845	Enhances the charging speed of magic by boosting the flow of mana. 
+1846	Enhances the charging speed of magic by boosting the flow of mana. 
+1847	Enhances the charging speed of magic by boosting the flow of mana. 
+1848	Decreases the amount of mana used by suspending the flow of mana, but this also reduces damage done.
+1849	Enhances the charging speed of magic by boosting the flow of mana. 
+1850	Enhances the charging speed of magic by boosting the flow of mana. 
+1851	Condenses mana to enhance the power of magic.
+1852	Condenses mana to enhance the power of magic.
+1853	Condenses mana to enhance the power of magic.
+1854	Condenses mana to enhance the power of magic.
+1855	Enhances the charging speed of magic by boosting the flow of mana. 
+1856	Condenses mana to enhance the power of magic.
+1857	Controls the wand's mana amplification to reduce mana usage during a magic charge.
+1858	Controls the wand's mana amplification to reduce mana usage during a magic charge.
+1859	Controls the wand's mana amplification to reduce mana usage during a magic charge.
+1860	Controls the wand's mana amplification to reduce mana usage during a magic charge.
+1861	Controls the wand's mana amplification to reduce mana usage during a magic charge.
+1862	Strengthens the surface of the shield to increase its defense rate.
+1863	Specially treats the surface of a shield to increase the rate of auto-defending a melee attack.
+1864	Specially treats the surface of the shield to increases the auto-defend rate for long-range attacks.
+1865	Specially treats the surface of the shield to increases the auto-defend rate for magic attacks.
+1866	Adjusts the tip where the bowstring is tied so it can be drawn more powerfully.
+1867	Adjusts the tip where the bowstring is tied so it can be drawn more powerfully.
+1868	Adjusts the tip where the bowstring is tied so it can be drawn more powerfully.
+1869	Adjusts the tip where the bowstring is tied so it can be drawn more powerfully.
+1870	Increases the bowstring's elasticity to increase attack rate.
+1871	Increases the bowstring's elasticity to increase attack rate.
+1872	Increases the bowstring's elasticity to increase attack rate.
+1873	Increases the bowstring's elasticity to increase attack rate.
+1874	Increases the bowstring's elasticity to increase attack rate.
+1875	Enhances the Ring Bow's attack rate.
+1876	Enhances the Ring Bow's attack rate.
+1877	Enhances the Ring Bow's attack rate.
+1878	Adjusts the tip where the bowstring is tied so it can be drawn more powerfully.
+1879	Adjusts the tip where the bowstring is tied so it can be drawn more powerfully.
+1880	Adjusts the tip where the bowstring is tied so it can be drawn more powerfully.
+1881	Increases the bowstring's elasticity to increase attack rate.
+1882	Increases the bowstring's elasticity to increase attack rate.
+1883	Increases the bowstring's elasticity to increase attack rate.
+1884	Increases the bowstring's elasticity to increase attack rate.
+1885	Increases the bowstring's elasticity to increase attack rate.
+1886	Replaces the bowstring to increase attack range.
+1887	Enhances the Wing Bow's attack rate.
+1888	Enhances the Wing Bow's attack rate.
+1889	Extends the bottom part of the handle to increase attack range.
+1890	Sharpens the sword tip using a gem.
+1891	Sharpens the sword tip using a gem.
+1892	Attaches a gem to the handle.
+1893	Attaches a gem to the sword body.
+1894	Attaches a gem to the sword body.
+1895	Attaches a gem to the sword body.
+1896	Attaches a gem to the sword body.
+1897	Attaches a gem to the sword body.
+1898	Attaches a gem to the sword body.
+1899	Attaches a gem to the sword body.
+1900	Attaches a gem to the sword body.
+1901	Attaches a gem to the sword body.
+1902	Attaches a gem to the sword body.
+1903	Attaches a gem to the handle.
+1904	Attaches a gem to the handle.
+1905	Attaches a gem to the handle.
+1906	Attaches a gem to the axe blade.
+1907	Attaches a gem to the handle.
+1908	Attaches a gem to the handle.
+1909	Attaches a gem to the handle.
+1910	Attaches a gem to the handle.
+1911	Attaches a gem to the handle.
+1912	Replaces the hobnail with a gem.
+1913	Replaces the hobnail with a gem.
+1914	Attaches a gem on the back of the bow.
+1915	Attaches a gem on the back of the bow.
+1916	Attaches a gem on the back of the bow.
+1917	Attaches a gem on the back of the bow.
+1918	Attaches a gem on the back of the bow.
+1919	Attaches a gem to the sword body.
+1920	Attaches a gem to the sword body.
+1921	Attaches a gem to the handle.
+1922	Attaches a gem on the damaged part of the item.
+1923	Attaches a gem on the damaged part of the item.
+1924	Attaches a gem on the damaged part of the item.
+1925	Attaches a gem on the damaged part of the item.
+1926	Attaches a gem on the damaged part of the item.
+1927	Attaches a gem on the damaged part of the item.
+1928	Attaches a gem on the damaged part of the item.
+1929	Attaches a gem on the damaged part of the item.
+1930	Attaches a gem to the handle.
+1931	Attaches a gem on the damaged part of the item.
+1932	Nerys's Noble's Sword Tuning
+1933	Weight Adjustment 1
+1934	Weight Adjustment 2
+1935	Weight Adjustment 3
+1936	Weight Adjustment 4
+1937	Blade Refinement 1
+1938	Blade Refinement 2
+1939	Blade Refinement 3
+1940	Blade Refinement 4
+1941	Blade Refinement 5
+1942	Tempering
+1943	Blade Edge Sharpening
+1944	Hilt Change
+1945	Elen's Holy Moon Sword Enhancement
+1946	Edern Holy Moon Sword Modification
+1947	Bow Back Refinement 1
+1948	Bow Back Refinement 2
+1949	Bow Back Refinement 3
+1950	Bow Back Refinement 4
+1951	Bowstring Enhancement 1
+1952	Bowstring Enhancement 2
+1953	Bowstring Enhancement 3
+1954	Bowstring Enhancement 4
+1955	Bowstring Enhancement 5
+1956	Sight Change
+1957	Bow Tip Enhancement
+1958	Oiling
+1959	Aranwen Shaoranen Knight Bow Enhancement
+1960	Ferghus Shaoranen Knight Bow Modification
+1961	Weight Adjustment 1
+1962	Weight Adjustment 2
+1963	Weight Adjustment 3
+1964	Weight Adjustment 4
+1965	Annealing 1
+1966	Annealing 2
+1967	Annealing 3
+1968	Annealing 4
+1969	Annealing 5
+1970	Weight Reduction
+1971	부챗살 깎기
+1972	Hilt Change
+1973	Trefor 여월비설 단자반접 Enhancement
+1974	Edern 여월비설 단자반접 Enhancement
+1975	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1976	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1977	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1978	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+1979	Refines the shape of the blade for a higher attack rate.
+1980	Refines the shape of the blade for a higher attack rate.
+1981	Refines the shape of the blade for a higher attack rate.
+1982	Refines the shape of the blade for a higher attack rate.
+1983	Refines the shape of the blade for a higher attack rate.
+1984	Anneals a blade edge to further harden its surface.
+1985	Sharpens the blade edge for increased critical rate.
+1986	Reinforces the connection between the hilt and blade.
+1987	Modifies a weapon to allow it to deal more powerful damage.
+1988	Modifies a weapon to make it more stable..
+1989	Adjusts the flexibility of the bow to increase the weapon's balance.
+1990	Adjusts the flexibility of the bow to increase the weapon's balance.
+1991	Adjusts the flexibility of the bow to increase the weapon's balance.
+1992	Adjusts the flexibility of the bow to increase the weapon's balance.
+1993	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+1994	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+1995	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+1996	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+1997	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+1998	Replaces the sight to improve the weapon's aim.
+1999	Ties down a bowstring so that it can be drawn with stronger force.
+2000	Greases the back of the Bow to harden it.
+2001	Modifies a stable bow to improve it.
+2002	Reinforces the Shaoranen Knight's Bow to increease power.
+2003	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2004	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2005	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2006	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2007	담금질을 하여 부챗살의 표면을 더욱 단단하게 만든다.
+2008	담금질을 하여 부챗살의 표면을 더욱 단단하게 만든다.
+2009	담금질을 하여 부챗살의 표면을 더욱 단단하게 만든다.
+2010	담금질을 하여 부챗살의 표면을 더욱 단단하게 만든다.
+2011	담금질을 하여 부챗살의 표면을 더욱 단단하게 만든다.
+2012	손잡이와 부챗살 부분의 무게를 줄여서 공격력을 높힌다.
+2013	부챗살을 뾰족하게 깎아서 크리티컬 확률을 높힌다.
+2014	손잡이와 부챗살 연결부위를 좀 더 튼튼하게 한다.
+2015	Modifies a weapon for maximum attack rate.
+2016	여월비설 단자반접의 modification that maximizes characteristics.
+2017	Strengthen Bow Tip 1
+2018	Strengthen Bow Tip 2
+2019	Strengthen Bow Tip 3
+2020	Strengthen Bow Tip 4
+2021	Replace Sight
+2022	Bowstring Enhancement 1
+2023	Bowstring Enhancement 2
+2024	Bowstring Enhancement 3
+2025	Replace Bowstring
+2026	Meles's Strengthening
+2027	Meles's Upgrade
+2028	Tempering 1
+2029	Tempering 2
+2030	Tempering 3
+2031	Tempering 4
+2032	Sharpen Blade 1
+2033	Sharpen Blade 2
+2034	Sharpen Blade 3
+2035	Sharpen Blade 4
+2036	Weight Reduction
+2037	Edern's Strengthening
+2038	Nicca's Strengthening
+2039	Nerys's Strengthening
+2040	Weight Reduction
+2041	Hilt Grip
+2042	Weight Adjustment 1
+2043	Weight Adjustment 2
+2044	Weight Adjustment 3
+2045	Weight Adjustment 4
+2046	Tempering
+2047	Replace Head
+2048	Taunes's Strengthening
+2049	Krug's Strengthening
+2050	Strengthening Bow Tip
+2051	Replace Sight
+2052	Bowstring Enhancement 1
+2053	Bowstring Enhancement 2
+2054	Bowstring Enhancement 3
+2055	Bowstring Enhancement 4
+2056	Bowstring Enhancement 5
+2057	Replace Bowstring
+2058	Grease
+2059	Meles's Strengthening
+2060	Meles's Upgrade
+2061	Recast Edge 1
+2062	Recast Edge 2
+2063	Recast Edge 3
+2064	Recast Edge 4
+2065	Weight Reduction
+2066	Sharpen Blade 1
+2067	Sharpen Blade 2
+2068	Sharpen Blade 3
+2069	Sharpen Blade 4
+2070	Krug's Strengthening
+2071	Taunes's Strengthening
+2072	Punch Dagger 1
+2073	Punch Dagger 2
+2074	Punch Dagger 3
+2075	Punch Dagger 4
+2076	Punch Dagger 5
+2077	Replace Band
+2078	Sewing 1
+2079	Sewing 2
+2080	Wanst's Strengthening
+2081	Wanst's Upgrade
+2082	Tempering 1
+2083	Tempering 2
+2084	Tempering 3
+2085	Tempering 4
+2086	Sharpen Blade 1
+2087	Sharpen Blade 2
+2088	Sharpen Blade 3
+2089	Weight Reduction
+2090	Ferghus's Strengthening
+2091	Edern's Strengthening
+2092	Nicca's Strengthening
+2093	Tempering 1
+2094	Tempering 2
+2095	Tempering 3
+2096	Tempering 4
+2097	Sharpen Blade 1
+2098	Sharpen Blade 2
+2099	Sharpen Blade 3
+2100	Sharpen Blade 4
+2101	Weight Reduction
+2102	Nerys's Strengthening
+2103	Edern's Strengthening
+2104	Nicca's Strengthening
+2105	Anti-glare Treatment 1
+2106	Anti-glare Treatment 2
+2107	Anti-glare Treatment 3
+2108	Anti-glare Treatment 4
+2109	Sharpen Blade
+2110	Weight Reduction 1
+2111	Weight Reduction 2
+2112	Replace Handle
+2113	Heavyweight
+2114	Meles's Strengthening
+2115	Meles's Upgrade
+2116	Edern's Upgrade
+2117	Japanese Two-Handed Sword Gem Upgrade 1
+2118	Masamune Gem Upgrade 1
+2119	Muramasa Gem Upgrade 1
+2120	Japanese One-Handed Sword Gem Upgrade 1
+2121	Japanese Dagger Gem Upgrade 1
+2122	Gem Repair 1
+2123	Gem Protection Upgrade
+2124	Gem Special Upgrade
+2125	Gem Defense Upgrade
+2126	Round Shield Gem Upgrade 1
+2127	Light Hetero Shield Gem Upgrade 1
+2128	Kite Shield Gem Upgrade 1
+2129	Hetero Kite Shield Gem Upgrade 1
+2130	Tortoise Shell Shield Gem Upgrade 1
+2131	Bronze Shield Gem Upgrade 1
+2132	Beholder's Shield Gem Upgrade 1
+2133	Dragon Shield Upgrade 1
+2134	Surface Enhancement
+2135	Heater Shield Special Upgrade 1
+2136	Heater Shield Special Upgrade 2
+2137	Heater Shield Special Upgrade 3
+2138	Heater Shield Gem Upgrade 1
+2139	Surface Enhancement
+2140	Heater Shield Special Upgrade 1
+2141	Heater Shield Special Upgrade 2
+2142	Heater Shield Special Upgrade 3
+2143	Heater Shield Gem Upgrade 1
+2144	Surface Enhancement
+2145	Heater Shield Special Upgrade 1
+2146	Heater Shield Special Upgrade 2
+2147	Heater Shield Special Upgrade 3
+2148	Heater Shield Gem Upgrade 1
+2149	Adjusts the tip where the bowstring is tied so it can be drawn more powerfully.
+2150	Adjusts the tip where the bowstring is tied so it can be drawn more powerfully.
+2151	Adjusts the tip where the bowstring is tied so it can be drawn more powerfully.
+2152	Adjusts the tip where the bowstring is tied so it can be drawn more powerfully.
+2153	Replaces the sight to allow more accurate aim.
+2154	Increases the bowstring's elasticity to increase attack rate.
+2155	Increases the bowstring's elasticity to increase attack rate.
+2156	Increases the bowstring's elasticity to increase attack rate.
+2157	Replaces the bowstring to increase attack range.
+2158	Modifies a weapon to make it more powerful.
+2159	Modifies a weapon to make it more efficient.
+2160	Hardens the surface of the sword by tempering it.
+2161	Hardens the surface of the sword by tempering it.
+2162	Hardens the surface of the sword by tempering it.
+2163	Hardens the surface of the sword by tempering it.
+2164	Sharpens the blade of the sword to increase its critical rate.
+2165	Sharpens the blade of the sword to increase its critical rate.
+2166	Sharpens the blade of the sword to increase its critical rate.
+2167	Sharpens the blade of the sword to increase its critical rate.
+2168	Reduces the weight on the handle and sword to increase attack rate.
+2169	Modifies a weapon to make it more powerful.
+2170	Modifies a weapon to make it more powerful.
+2171	Modifies a weapon to make it more powerful.
+2172	Reduces the weight to increase attack rate.
+2173	Reinforces the connection between the handle and head.
+2174	Enhances the balance of a weapon by adjusting its weight so it's easier to wield.
+2175	Enhances the balance of a weapon by adjusting its weight so it's easier to wield.
+2176	Enhances the balance of a weapon by adjusting its weight so it's easier to wield.
+2177	Enhances the balance of a weapon by adjusting its weight so it's easier to wield.
+2178	Makes the weapon more solid through tempering.
+2179	Replaces the head of the Mace with something heavy.
+2180	Modifies a weapon to make it more powerful.
+2181	Modifies a weapon to make it more powerful.
+2182	Adjusts the tip where the bowstring is tied so it can be drawn more powerfully.
+2183	Replaces the sight to allow more accurate aim.
+2184	Increases the bowstring's elasticity to increase attack rate.
+2185	Increases the bowstring's elasticity to increase attack rate.
+2186	Increases the bowstring's elasticity to increase attack rate.
+2187	Increases the bowstring's elasticity to increase attack rate.
+2188	Increases the bowstring's elasticity to increase attack rate.
+2189	Replaces the sight to allow more accurate aim.
+2190	Rubs the back of the bow with grease to make it more solid.
+2191	Modifies a weapon to make it more efficient.
+2192	Modifies a weapon to make it more powerful.
+2193	Molds the body of a sword to increase its attack rate.
+2194	Molds the body of a sword to increase its attack rate.
+2195	Molds the body of a sword to increase its attack rate.
+2196	Molds the body of a sword to increase its attack rate.
+2197	Reduces the weight on the handle and sword to increase attack rate.
+2198	Sharpens the blade of the sword to increase its critical rate.
+2199	Sharpens the blade of the sword to increase its critical rate.
+2200	Sharpens the blade of the sword to increase its critical rate.
+2201	Sharpens the blade of the sword to increase its critical rate.
+2202	Modifies a weapon to make it more powerful.
+2203	Modifies a weapon to make it more powerful.
+2204	Sharpens the hobnail to increase attack rate.
+2205	Sharpens the hobnail to increase attack rate.
+2206	Sharpens the hobnail to increase attack rate.
+2207	Sharpens the hobnail to increase attack rate.
+2208	Sharpens the hobnail to increase attack rate.
+2209	Replaces the band to fit the hand so that it can be equipped easily.
+2210	Reinforces the hobnail and the band by sewing it tightly in place.
+2211	Reinforces the hobnail and the band by sewing it tightly in place.
+2212	Modifies a weapon to make it more powerful.
+2213	Modifies a weapon to make it more powerful.
+2214	Hardens the surface of the sword by tempering it.
+2215	Hardens the surface of the sword by tempering it.
+2216	Hardens the surface of the sword by tempering it.
+2217	Hardens the surface of the sword by tempering it.
+2218	Sharpens the blade of the sword to increase its critical rate.
+2219	Sharpens the blade of the sword to increase its critical rate.
+2220	Sharpens the blade of the sword to increase its critical rate.
+2221	Reduces the weight on the handle and sword to increase attack rate.
+2222	Modifies a weapon to make it more powerful.
+2223	Modifies a weapon to make it more powerful.
+2224	Modifies a weapon to make it more powerful.
+2225	Hardens the surface of the sword by tempering it.
+2226	Hardens the surface of the sword by tempering it.
+2227	Hardens the surface of the sword by tempering it.
+2228	Hardens the surface of the sword by tempering it.
+2229	Sharpens the blade of the sword to increase its critical rate.
+2230	Sharpens the blade of the sword to increase its critical rate.
+2231	Sharpens the blade of the sword to increase its critical rate.
+2232	Sharpens the blade of the sword to increase its critical rate.
+2233	Reduces the weight on the handle and sword to increase attack rate.
+2234	Modifies a weapon to make it more powerful.
+2235	Modifies a weapon to make it more powerful.
+2236	Modifies a weapon to make it more powerful.
+2237	Applies a non-reflection treatment on the sword so that the blade doesn't shine, thereby increasing the sneak attack effect.
+2238	Applies a non-reflection treatment on the sword so that the blade doesn't shine, thereby increasing the sneak attack effect.
+2239	Applies a non-reflection treatment on the sword so that the blade doesn't shine, thereby increasing the sneak attack effect.
+2240	Applies a non-reflection treatment on the sword so that the blade doesn't shine, thereby increasing the sneak attack effect.
+2241	Sharpens the blade of the sword to increase its critical rate.
+2242	Reduces the weight on the handle and sword to increase attack rate.
+2243	Reduces the weight on the handle and sword to increase attack rate.
+2244	Reinforces the connection between the handle and sword.
+2245	Increases the sword's weight to enhance its attack rate.
+2246	Modifies a weapon to make it more powerful.
+2247	Modifies a weapon to make it more powerful.
+2248	Modifies a weapon to make it more powerful.
+2249	Extends the lower part of the handle to increase the striking distance during range attacks.
+2250	Sharpens the sword tip using a gem.
+2251	Attaches a gem to the sword body.
+2252	Attaches a gem to the sword body.
+2253	Attaches a gem to the sword body.
+2254	Attaches a gem on the damaged part of the item.
+2255	Strengthens the surface of a shield with a gem to increase protection.
+2256	Specially treats the surface of a shield to increase the rate of auto-defending a melee attack.
+2257	Strengthens the surface of the shield with a gem to increase its defense rate.
+2258	Attaches a gem on the damaged part of the item.
+2259	Specially treats the surface of a shield to increase the rate of auto-defending a melee attack.
+2260	Specially treats the surface of the shield to increases the auto-defend rate for long-range attacks.
+2261	Attaches a gem on the damaged part of the item.
+2262	Specially treats the surface of the shield to increases the auto-defend rate for magic attacks.
+2263	Specially treats the surface of the shield to increases the auto-defend rate for long-range attacks.
+2264	Specially treats the surface of a shield to increase the rate of auto-defending a melee attack.
+2265	Strengthens the surface of the shield with a gem to increase its defense rate.
+2266	Strengthens the surface of the shield to increase its defense rate.
+2267	Specially treats the surface of a shield to increase the rate of auto-defending a melee attack.
+2268	Specially treats the surface of the shield to increases the auto-defend rate for long-range attacks.
+2269	Specially treats the surface of the shield to increases the auto-defend rate for magic attacks.
+2270	Strengthens the surface of the shield with a gem to increase its defense rate.
+2271	Strengthens the surface of the shield to increase its defense rate.
+2272	Specially treats the shield's surface to increase its auto-defense rate for melee attacks.
+2273	Specially treats the shield's surface to increase its auto-defense rate for long-range attacks.
+2274	Specially treats the shield's surface to increase its auto-defense rate for magic attacks.
+2275	Strengthens the surface of the shield with a gem to increase its defense rate.
+2276	Strengthens the surface of the shield to increase its defense rate.
+2277	Specially treats the shield's surface to increase its auto-defense rate for melee attacks.
+2278	Specially treats the shield's surface to increase its auto-defense rate for long-range attacks.
+2279	Specially treats the shield's surface to increase its auto-defense rate for magic attacks.
+2280	Strengthens the surface of the shield with a gem to increase its defense rate.
+2281	Muramasa Gem Upgrade 1
+2282	Surface Enhancement
+2283	Tikka Shield Special Upgrade 1
+2284	Tikka Shield Special Upgrade 2
+2285	Tikka Shield Special Upgrade 3
+2286	Tikka Shield Gem Upgrade 1
+2287	Surface Enhancement
+2288	Vales Shield Special Upgrade 1
+2289	Vales Shield Special Upgrade 2
+2290	Vales Shield Special Upgrade 3
+2291	Vales Shield Gem Upgrade 1
+2292	Strengthens the surface of the shield to increase its defense rate.
+2293	Specially treats the shield's surface to increase its auto-defense rate for melee attacks.
+2294	Specially treats the shield's surface to increase its auto-defense rate for long-range attacks.
+2295	Specially treats the shield's surface to increase its auto-defense rate for magic attacks.
+2296	Strengthens the surface of the shield with a gem to increase its defense rate.
+2297	Strengthens the surface of the shield to increase its defense rate.
+2298	Specially treats the shield's surface to increase its auto-defense rate for melee attacks.
+2299	Specially treats the shield's surface to increase its auto-defense rate for long-range attacks.
+2300	Specially treats the shield's surface to increase its auto-defense rate for magic attacks.
+2301	Strengthens the surface of the shield with a gem to increase its defense rate.
+2302	Yoshimitus Gem Upgrade 1
+2303	Attaches a gem to the sword body.
+2304	Specially treats the shield's surface to increase its auto-defense rate for magic attacks.
+2305	Dustin Silver Knight Sword Gem Upgrade 1
+2306	Surface Enhancement
+2307	Composite Shield Special Upgrade 1
+2308	Composite Shield Special Upgrade 2
+2309	Composite Shield Special Upgrade 3
+2310	Composite Shield Gem Upgrade 1
+2311	Iron Armor Gem Upgrade 1
+2312	Edern Crystal Sword Modification
+2313	Annealing 1
+2314	Annealing 2
+2315	Annealing 3
+2316	Annealing 4
+2317	Annealing 5
+2318	Blade Refinement 1
+2319	Blade Refinement 2
+2320	Blade Refinement 3
+2321	Blade Refinement 4
+2322	Blade Refinement 5
+2323	Karpfen's Strengthening
+2324	Karpfen's Upgrade
+2325	Blade Edge Sharpening
+2326	Andras's Strengthening
+2327	Andras's Upgrade
+2328	War Sword Gem Upgrade 1
+2329	Blade Tip Sharpening 1
+2330	Blade Tip Sharpening 2
+2331	Blade Tip Sharpening 3
+2332	Blade Tip Sharpening 4
+2333	Annealing 1
+2334	Annealing 2
+2335	Annealing 3
+2336	Annealing 4
+2337	Annealing 5
+2338	Blade Edge Sharpening
+2339	Weight Reduction
+2340	Executioner's Sword Special Upgrade 1
+2341	Executioner's Sword Special Upgrade 2
+2342	Hilt Change
+2343	Karpfen's Strengthening
+2344	Karpfen's Upgrade
+2345	Executioner's Sword Gem Upgrade 1
+2346	발톱 갈기1
+2347	발톱 갈기2
+2348	발톱 갈기3
+2349	발톱 갈기4
+2350	Sewing 1
+2351	Sewing 2
+2352	Sewing 3
+2353	Sewing 4
+2354	Sewing 5
+2355	Weight Reduction
+2356	Band Reinforcement
+2357	Weight Adjustment
+2358	Wanst Reinforcement
+2359	Wanst Modification
+2360	Iron Armor Special Modification 1
+2361	Iron Armor Special Modification 2
+2362	Weight Adjustment 1
+2363	Weight Adjustment 2
+2364	Weight Adjustment 3
+2365	Weight Adjustment 4
+2366	Gem Enhancement 1
+2367	Gem Enhancement 2
+2368	Gem Enhancement 3
+2369	Gem Enhancement 4
+2370	Gem Enhancement 5
+2371	Weight Reduction
+2372	Blade Edge Sharpening
+2373	Hilt Change
+2374	Elen Crystal Sword Enhancement
+2375	Ferghus Crystal Sword Modification
+2376	Attaches a gem to the handle.
+2377	Increases defense by strengthening the surface of the shell.
+2378	Upgrades a shield's surface to increase its auto-defense rate for melee attacks.
+2379	Upgrades a shield's surface to increase its auto-defense rate for long-range attacks.
+2380	Upgrades a shield's surface to increase its auto-defense rate for magic attacks.
+2381	Attaches a gem on the damaged part of the item.
+2382	Reinforce your claws with gems.
+2383	A modification that emphasizes the characteristis of the Crystal Sword.
+2384	Anneals the item to further harden its surface.
+2385	Anneals the item to further harden its surface.
+2386	Anneals the item to further harden its surface.
+2387	Anneals the item to further harden its surface.
+2388	Anneals the item to further harden its surface.
+2389	Refines the shape of the blade for increased attack rate.
+2390	Refines the shape of the blade for increased attack rate.
+2391	Refines the shape of the blade for increased attack rate.
+2392	Refines the shape of the blade for increased attack rate.
+2393	Refines the shape of the blade for increased attack rate.
+2394	Modifies a weapon to make it more efficient.
+2395	Optimizes a short bow's unique strengths.
+2396	Sharpens the blade edge for a higher critical rate.
+2397	Modifies a weapon to make it more efficient.
+2398	Optimizes a short bow's unique strengths. 
+2399	Attaches a gem to the handle.
+2400	Sharpens the tip of the blade to increase jab damage.
+2401	Sharpens the tip of the blade to increase jab damage.
+2402	Sharpens the tip of the blade to increase jab damage.
+2403	Sharpens the tip of the blade to increase jab damage.
+2404	Anneals the blade to further harden its surface.
+2405	Anneals the blade to further harden its surface.
+2406	Anneals the blade to further harden its surface.
+2407	Anneals the blade to further harden its surface.
+2408	Anneals the blade to further harden its surface.
+2409	Sharpens the blade edge for a higher critical rate.
+2410	Reduces the weight of the hilt and blade for a higher attack rate.
+2411	Adds a special upgrade to the surface of the blade to increase attack range.
+2412	Adds a special upgrade to the surface of the blade to increase damage dealt.
+2413	Reinforces the connection between the hilt and blade.
+2414	Modifies a weapon to make it more efficient.
+2415	Optimizes a short bow's unique strengths.
+2416	Attaches a gem to the handle.
+2417	Sharpen the claws to increase attack power.
+2418	Sharpen the claws to increase attack power.
+2419	Sharpen the claws to increase attack power.
+2420	Sharpen the claws to increase attack power.
+2421	Stitch the claws and band more firmly.
+2422	Stitch the claws and band more firmly.
+2423	Stitch the claws and band more firmly.
+2424	Stitch the claws and band more firmly.
+2425	Stitch the claws and band more firmly.
+2426	Increases attack rate by making the hilt and head of the axe lighter.
+2427	Changes the band to make it easier to wield.
+2428	Adjust the weight of the claws and band for easier swining.
+2429	Modification to emphasize the characteristics of Iron Armor.
+2430	Modifies a weapon for maximum attack rate.
+2431	The claws are specially treated to enhance range while striking.
+2432	The claws specially treated to enhance follow through attack while striking.
+2433	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2434	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2435	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2436	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2437	Strengthens the crystal to harden the surface of the sword.
+2438	Strengthens the crystal to harden the surface of the sword.
+2439	Strengthens the crystal to harden the surface of the sword.
+2440	Strengthens the crystal to harden the surface of the sword.
+2441	Strengthens the crystal to harden the surface of the sword.
+2442	Increases the damage rate by specially treating the blade.
+2443	Hardens a Morning Star's surface through tempering.
+2444	Reinforces the connection between the hilt and blade.
+2445	Modifies a weapon to make it more stable..
+2446	Modification to emphasize the characteristics of the Crystal Sword.
+2447	Special Annealing
+2448	Special Annealing
+2449	Special Annealing
+2450	Special Annealing
+2451	Hilt Change
+2452	Heavyweight
+2453	Weight Reduction
+2454	Berched's Combat Wand Upgrade
+2455	An annealing method specially created for the Royal Castle Guard.
+2456	An annealing method specially created for the Royal Castle Guard.
+2457	An annealing method specially created for the Royal Castle Guard.
+2458	An annealing method specially created for the Royal Castle Guard.
+2459	Upgrades the wand to have a stronger handle.
+2460	Increases the attack rate of the wand by increasing its weight.
+2461	Increases the attack speed of the item by decreasing its weight.
+2462	An upgrade method that contains the experienced know-how of Berched.
+2463	Emporium Special Upgrade
+2464	Emporium Special Upgrade
+2465	Emporium Special Upgrade
+2466	A special annealing method developed at the Tara Emporium.
+2467	A special annealing method developed at the Tara Emporium.
+2468	A special annealing method developed at the Tara Emporium.
+2469	Weight Adjustment 1
+2470	Weight Adjustment 2
+2471	Weight Adjustment 3
+2472	Weight Adjustment 4
+2473	Blade Refinement 1
+2474	Blade Refinement 2
+2475	Blade Refinement 3
+2476	Blade Refinement 4
+2477	Blade Refinement 5
+2478	Tempering
+2479	Blade Edge Sharpening
+2480	Lumina's Holy Moon Sword Special Modification
+2481	Elen Lumina's Holy Moon Sword Enhancement
+2482	Edern Lumina's Holy Moon Sword Modification
+2483	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2484	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2485	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2486	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2487	Refines the shape of the blade for a higher attack rate.
+2488	Refines the shape of the blade for a higher attack rate.
+2489	Refines the shape of the blade for a higher attack rate.
+2490	Refines the shape of the blade for a higher attack rate.
+2491	Refines the shape of the blade for a higher attack rate.
+2492	Anneals a blade edge to further harden its surface.
+2493	Hardens a Morning Star's surface through tempering.
+2494	Adds a special upgrade to the surface of the blade to increase attack range.
+2495	Modifies a weapon to allow it to deal more powerful damage.
+2496	Modifies a weapon to make it more stable..
+2497	Seam Strengthening
+2498	Surface Enhancement 1
+2499	Surface Enhancement 2
+2500	Surface Enhancement 3
+2501	Surface Enhancement 4
+2502	멘텀식 Armor Mod
+2503	Gem Repair 1
+2504	Trigger Change
+2505	Reinforces the seam of armor for enhanced durability.
+2506	Reinforces the armor's surface for enhanced defense.
+2507	Reinforces the armor's surface for enhanced protection.
+2508	Reinforces the armor's surface for enhanced defense and protection.
+2509	Reinforces the armor's surface for enhanced defense.
+2510	멘탐만의 style modification.
+2511	Attaches a gem on the damaged part of the item.
+2512	Replaces the old trigger of the weapon with a more precise one.
+2513	Holy Moon Sword Gem Upgrade 1
+2514	Attaches a gem to the sword body.
+2515	Weight Adjustment 1
+2516	Weight Adjustment 2
+2517	Weight Adjustment 3
+2518	Weight Adjustment 4
+2519	Blade Sharpening 1
+2520	Blade Sharpening 2
+2521	Blade Sharpening 3
+2522	Blade Sharpening 4
+2523	Blade Sharpening 5
+2524	Weight Reduction
+2525	Blade Edge Sharpening
+2526	Handle Reinforcement
+2527	Edern Bronze Mirror Blade Enhancement
+2528	Bronze Mirror Blade Gem Upgrade 1
+2529	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2530	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2531	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2532	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+2533	Sharpen the blade to enhance attack power.
+2534	Sharpen the blade to enhance attack power.
+2535	Sharpen the blade to enhance attack power.
+2536	Sharpen the blade to enhance attack power.
+2537	Sharpen the blade to enhance attack power.
+2538	Increases the damage rate by specially treating the blade.
+2539	Hardens a Morning Star's surface through tempering.
+2540	Handle reinforcement.
+2541	Modifies a weapon for maximum attack rate.
+2542	Attaches a gem to the sword body.
+2543	{0}'s Weight Reduction 1
+2544	{0}'s Weight Reduction 2
+2545	{0}'s Weight Reduction 3
+2546	{0}'s Weight Reduction 4
+2547	{0}'s Weight Reduction 5
+2548	{0}'s Water Pressure Boost 1
+2549	{0}'s Water Pressure Boost 2
+2550	{0}'s Water Pressure Boost 3
+2551	{0}'s Water Pressure Boost 4
+2552	{0}'s Water Pressure Boost 5
+2553	Reduces the weight of the cylinder.
+2554	Reduces the weight of the cylinder.
+2555	Reduces the weight of the cylinder.
+2556	Reduces the weight of the cylinder.
+2557	Reduces the weight of the cylinder.
+2558	Modifies the valve to boost water pressure.
+2559	Modifies the valve to boost water pressure.
+2560	Modifies the valve to boost water pressure.
+2561	Modifies the valve to boost water pressure.
+2562	Modifies the valve to boost water pressure.
+2563	Edern's Dagger Enhancement
+2564	Ferghus's Dagger Upgrade
+2565	Elen's Short Sword Enhancement
+2566	Ferghus's Short Sword Upgrade
+2567	Anti Reflection Treatment 1
+2568	Anti Reflection Treatment 2
+2569	Anti Reflection Treatment 3
+2570	Anti Reflection Treatment 4
+2571	Anti Reflection Treatment 5
+2572	Elen's Short Sword Enhancement
+2573	Ferghus's Short Sword Upgrade
+2574	Blade Tip Sharpening 5
+2575	Ranald's Longsword Enhancement
+2576	Ferghus's Longsword Upgrade
+2577	Ranald's Broadsword Enhancement
+2578	Nerys's Broadsword Upgrade
+2579	Nerys's Bastard Sword Enhancement
+2580	Elen's Bastard Sword Upgrade
+2581	Ranald's Two-handed Sword Enhancement
+2582	Edern's Two-handed Sword Upgrade
+2583	Elen's Claymore Enhancement
+2584	Edern's Claymore Upgrade
+2585	Deian's Wooden Stick Enhancement
+2586	Ferghus's Wooden Stick Upgrade
+2587	Pruning 1
+2588	Pruning 2
+2589	Pruning 3
+2590	Pruning 4
+2591	Edge Making 1
+2592	Edge Making 2
+2593	Edge Making 3
+2594	Edge Making 4
+2595	Edge Making 5
+2596	Wood Trimming
+2597	Pruning 1
+2598	Pruning 2
+2599	Pruning 3
+2600	Pruning 4
+2601	Edge Making 1
+2602	Edge Making 2
+2603	Edge Making 3
+2604	Edge Making 4
+2605	Edge Making 5
+2606	Hilt Making
+2607	Wood Trimming
+2608	Deian's Branch Enhancement
+2609	Ferghus' Branch Upgrade
+2610	Wooden Blade Wiping 1
+2611	Wooden Blade Wiping 2
+2612	Wooden Blade Wiping 3
+2613	Wooden Blade Wiping 4
+2614	Blade Carving 1
+2615	Blade Carving 2
+2616	Blade Carving 3
+2617	Blade Carving 4
+2618	Blade Carving 5
+2619	Wood Trimming
+2620	Ranald's Wooden Blade Enhancement
+2621	Ferghus's Wooden Blade Upgrade
+2622	Hilt Making
+2623	Club Trimming 1
+2624	Club Trimming 2
+2625	Club Trimming 3
+2626	Club Trimming 4
+2627	Hilt Making
+2628	Club Weight Reduction
+2629	Deian's Club Enhancement
+2630	Ranald's Club Upgrade
+2631	Aranwen's Short Bow Enhancement
+2632	Nerys's Short Bow Upgrade
+2633	Aranwen's Long Bow Enhancement
+2634	Ferghus's Long Bow Upgrade
+2635	Oiling
+2636	Oiling
+2637	Aranwen's Composite Bow Enhancement
+2638	Edern's Composite Bow Upgrade
+2639	Tiller Strengthening 1
+2640	Tiller Strengthening 2
+2641	Tiller Strengthening 3
+2642	Tiller Strengthening 4
+2643	Nut Change
+2644	Bow Back Strengthening
+2645	Nerys's Crossbow Enhancement
+2646	Aranwen's Crossbow Upgrade
+2647	Trefor's Hatchet Enhancement
+2648	Ferghus's Hatchet Upgrade
+2649	Trefor's Hammer Enhancement
+2650	Edern's Hammer Upgrade
+2651	Endelyon's Lute Tuning
+2652	Walter's Lute Care
+2653	Tuning 1
+2654	Tuning 2
+2655	Tuning 3
+2656	Tuning 4
+2657	Oiling 1
+2658	Oiling 2
+2659	Oiling 3
+2660	Oiling 4
+2661	Oiling 5
+2662	Neck Adjustment
+2663	String Change
+2664	Bridge Change
+2665	Endelyon's Mandolin Tuning
+2666	Walter's Mandolin Care
+2667	Tuning 1
+2668	Tuning 2
+2669	Tuning 3
+2670	Tuning 4
+2671	Oiling 1
+2672	Oiling 2
+2673	Oiling 3
+2674	Oiling 4
+2675	Oiling 5
+2676	Neck Adjustment
+2677	String Change
+2678	Bridge Change
+2679	Tuning 1
+2680	Tuning 2
+2681	Tuning 3
+2682	Tuning 4
+2683	Oiling 1
+2684	Oiling 2
+2685	Oiling 3
+2686	Oiling 4
+2687	Oiling 5
+2688	Neck Adjustment
+2689	String Change
+2690	Bridge Change
+2691	Endelyon's Ukulele Tuning
+2692	Walter's Ukulele Care
+2693	Tracy's Gathering Axe Care
+2694	Deian's Gathering Knife Care
+2695	Edern's Blacksmith Hammer Care
+2696	Weight Adjustment
+2697	Pickaxe Carving
+2698	Elen's Pickaxe Care
+2699	Weight Adjustment
+2700	Weight Adjustment
+2701	Sickle Sharpening
+2702	Elen's Sickle Care
+2703	Weight Adjustment
+2704	Weight Adjustment
+2705	Walter's Weeding Hoe Care
+2706	Tailoring
+2707	Lining Attachment 1
+2708	Lining Attachment 2
+2709	Lining Attachment 3
+2710	Simon's Cloth Armor Special Repair
+2711	Elen's Light Armor Ugrade
+2712	Seam Strengthening
+2713	Surface Enhancement 1
+2714	Surface Enhancement 2
+2715	Surface Enhancement 3
+2716	Surface Enhancement 4
+2717	Edern's Heavy Armor Upgrade
+2718	Ranald's Gladius Enhancement
+2719	Nerys's Gladius Upgrade
+2720	Annealing 1
+2721	Annealing 2
+2722	Hook Carving
+2723	Weight Adjustment 4
+2724	Annealing 1
+2725	Annealing 2
+2726	Hook Carving
+2727	Trefor's Mace Enhancement
+2728	Edern's Mace Upgrade
+2729	Weight Adjustment 1
+2730	Weight Adjustment 2
+2731	Weight Adjustment 3
+2732	Weight Adjustment 4
+2733	Annealing 1
+2734	Annealing 2
+2735	Weight Adjustment 1
+2736	Weight Adjustment 2
+2737	Weight Adjustment 3
+2738	Weight Adjustment 4
+2739	Annealing 1
+2740	Annealing 2
+2741	Annealing 5
+2742	Axe Edge Sharpening
+2743	Trefor's Bipennis Enhancement
+2744	Ferghus' Bipennis Upgrade
+2745	Bow Back Refinement 1
+2746	Bow Back Refinement 2
+2747	Bow Back Refinement 3
+2748	Bow Back Refinement 4
+2749	Oiling
+2750	Bow Back Refinement 1
+2751	Bow Back Refinement 2
+2752	Bow Back Refinement 3
+2753	Bow Back Refinement 4
+2754	Bowstring Enhancement 1
+2755	Bowstring Enhancement 2
+2756	Bowstring Enhancement 3
+2757	Bowstring Enhancement 4
+2758	Bowstring Enhancement 5
+2759	Bow Tip Enhancement
+2760	Oiling
+2761	Aranwen's Leather Long Bow Enhancement
+2762	Ferghus's Leather Long Bow Upgrade
+2763	Fleta Heavy Armor Upgrade
+2764	Weight Adjustment 1
+2765	Weight Adjustment 2
+2766	Weight Adjustment 3
+2767	Weight Adjustment 1
+2768	Weight Adjustment 2
+2769	Weight Adjustment 3
+2770	Weight Adjustment 4
+2771	Annealing 1
+2772	Annealing 2
+2773	Annealing 5
+2774	Hilt Change
+2775	Weight Adjustment 5
+2776	Oiling
+2777	Axe Edge Sharpening
+2778	Hilt Change
+2779	Axe Edge Sharpening
+2780	Hilt Change
+2781	Hilt Change
+2782	Hilt Change
+2783	Bow Back Refinement 1
+2784	Bow Back Refinement 2
+2785	Bow Back Refinement 3
+2786	Bow Back Refinement 4
+2787	Bowstring Enhancement 1
+2788	Bowstring Enhancement 2
+2789	Bowstring Enhancement 3
+2790	Bowstring Enhancement 4
+2791	Bowstring Enhancement 5
+2792	Sight Change
+2793	Bow Tip Enhancement
+2794	Oiling
+2795	Weight Reduction
+2796	Hilt Change
+2797	Weight Reduction
+2798	Hilt Change
+2799	Weight Reduction
+2800	Hilt Change
+2801	Weight Reduction
+2802	Blade Edge Sharpening
+2803	Hilt Change
+2804	Weight Adjustment 1
+2805	Weight Adjustment 2
+2806	Weight Adjustment 3
+2807	Weight Adjustment 4
+2808	Annealing 1
+2809	Annealing 2
+2810	Annealing 5
+2811	Weight Reduction
+2812	Blade Edge Sharpening
+2813	Hilt Change
+2814	Blade Tip Sharpening 1
+2815	Blade Tip Sharpening 2
+2816	Blade Tip Sharpening 3
+2817	Blade Tip Sharpening 4
+2818	Weight Adjustment 1
+2819	Weight Adjustment 2
+2820	Weight Adjustment 3
+2821	Weight Adjustment 4
+2822	Weight Adjustment 5
+2823	Weight Reduction
+2824	Blade Edge Sharpening
+2825	Hilt Change
+2826	Weight Adjustment
+2827	Bowstring Enhancement 1
+2828	Bowstring Enhancement 2
+2829	Bowstring Enhancement 3
+2830	Bowstring Enhancement 4
+2831	Bowstring Enhancement 5
+2832	Bowstring Enhancement 1
+2833	Bowstring Enhancement 2
+2834	Bowstring Enhancement 3
+2835	Bowstring Enhancement 4
+2836	Bowstring Enhancement 5
+2837	Weight Adjustment 1
+2838	Weight Adjustment 2
+2839	Weight Adjustment 3
+2840	Weight Adjustment 4
+2841	Blade Edge Sharpening
+2842	Hilt Change
+2843	Bow Back Refinement 1
+2844	Bow Back Refinement 2
+2845	Bow Back Refinement 3
+2846	Bow Back Refinement 4
+2847	Bowstring Enhancement 1
+2848	Bowstring Enhancement 2
+2849	Bowstring Enhancement 3
+2850	Bowstring Enhancement 4
+2851	Bowstring Enhancement 5
+2852	Sight Change
+2853	Bow Tip Enhancement
+2854	Oiling
+2855	Weight Adjustment 1
+2856	Weight Adjustment 2
+2857	Weight Adjustment 3
+2858	Weight Adjustment 4
+2859	Annealing 1
+2860	Annealing 2
+2861	Annealing 3
+2862	Annealing 4
+2863	Annealing 5
+2864	Weight Reduction
+2865	Hilt Change
+2866	Sight Change
+2867	Annealing 1
+2868	Annealing 2
+2869	Annealing 3
+2870	Annealing 4
+2871	Weight Reduction
+2872	Weight Reduction
+2873	Hilt Polishing
+2874	Weight Adjustment 1
+2875	Weight Adjustment 2
+2876	Weight Adjustment 3
+2877	Weight Adjustment 4
+2878	Bow Tip Enhancement
+2879	Sight Change
+2880	Oiling
+2881	Weight Reduction
+2882	Annealing 1
+2883	Annealing 2
+2884	Annealing 3
+2885	Annealing 4
+2886	Weight Reduction
+2887	Annealing 1
+2888	Annealing 2
+2889	Annealing 3
+2890	Annealing 4
+2891	Weight Reduction
+2892	Blade Edge Sharpening
+2893	Hilt Change
+2894	Lightning Elemental Resonance
+2895	Lassar's Lightning Elemental Resonance
+2896	Lightning Elemental Control
+2897	Stewart's Enhancement
+2898	Lightning Elemental Control Amplify 1
+2899	Lightning Elemental Control Amplify 2
+2900	Lightning Elemental Control Amplify 3
+2901	Lightning Elemental Control Amplify 4
+2902	Fire Elemental Resonance
+2903	Heulfryn's Fire Elemental Resonance
+2904	Fire Elemental Control
+2905	Stewart's Fire Elemental Control
+2906	Fire Elemental Amplify 1
+2907	Fire Elemental Amplify 2
+2908	Fire Elemental Amplify 3
+2909	Fire Elemental Amplify 4
+2910	Ice Elemental Resonance
+2911	Lassar's Ice Elemental Resonance
+2912	Ice Elemental Control
+2913	Heulfryn's Ice Elemental Control
+2914	Ice Elemental Amplify 1
+2915	Ice Elemental Amplify 2
+2916	Ice Elemental Amplify 3
+2917	Ice Elemental Amplify 4
+2918	Elemental Amplification 1
+2919	Elemental Amplification 2
+2920	Elemental Amplification 3
+2921	Elemental Amplification 4
+2922	Elemental Amplification 5
+2923	Lightning Elemental Restraint 1
+2924	Lightning Elemental Restraint 2
+2925	Lightning Elemental Restraint 3
+2926	Lightning Elemental Restraint 4
+2927	Lightning Elemental Restraint 5
+2928	Lightning Elemental Acceleration 1
+2929	Lightning Elemental Acceleration 2
+2930	Lightning Elemental Acceleration 3
+2931	Lightning Elemental Acceleration 1
+2932	Lightning Elemental Acceleration 2
+2933	Lightning Elemental Acceleration 3
+2934	Lightning Elemental Acceleration 4
+2935	Fire Elemental Restraint
+2936	Lassar's Elemental Acceleration
+2937	Stewart's Elemental Acceleration
+2938	Ice Elemental Condensation 1
+2939	Ice Elemental Condensation 2
+2940	Ice Elemental Condensation 3
+2941	Ice Elemental Condensation 4
+2942	Ice Elemental Acceleration
+2943	Heulfryn's Elemental Condensation
+2944	Elemental Amplification 1
+2945	Elemental Amplification 2
+2946	Elemental Amplification 3
+2947	Elemental Amplification 4
+2948	Elemental Amplification 5
+2949	Gem Protection Upgrade
+2950	Gem Special Upgrade
+2951	Gem Defense Upgrade
+2952	Annealing 1
+2953	Annealing 2
+2954	Annealing 3
+2955	Annealing 4
+2956	Annealing 5
+2957	Blade Refinement 1
+2958	Blade Refinement 2
+2959	Blade Refinement 3
+2960	Blade Refinement 4
+2961	Blade Refinement 5
+2962	Blade Tip Sharpening 1
+2963	Blade Tip Sharpening 2
+2964	Blade Tip Sharpening 3
+2965	Blade Tip Sharpening 4
+2966	Annealing 1
+2967	Annealing 2
+2968	Annealing 3
+2969	Annealing 4
+2970	Annealing 5
+2971	Weight Reduction
+2972	Hilt Change
+2973	Weight Reduction
+2974	Weight Adjustment 1
+2975	Weight Adjustment 2
+2976	Weight Adjustment 3
+2977	Weight Adjustment 4
+2978	Weight Reduction
+2979	Blade Edge Sharpening
+2980	Hilt Change
+2981	Hilt Change
+2982	Weight Reduction
+2983	Weight Adjustment 1
+2984	Weight Adjustment 2
+2985	Weight Adjustment 3
+2986	Weight Adjustment 4
+2987	Blade Refinement 1
+2988	Blade Refinement 2
+2989	Blade Refinement 3
+2990	Blade Refinement 4
+2991	Blade Refinement 5
+2992	Blade Edge Sharpening
+2993	Seam Strengthening
+2994	Surface Enhancement 1
+2995	Surface Enhancement 2
+2996	Surface Enhancement 3
+2997	Surface Enhancement 4
+2998	Gem Repair 1
+2999	Trigger Change
+3000	Weight Adjustment 1
+3001	Weight Adjustment 2
+3002	Weight Adjustment 3
+3003	Weight Adjustment 4
+3004	Weight Reduction
+3005	Blade Edge Sharpening
+3006	Applies a non-reflection treatment on a sword so that the blade doesn't shine, increasing its sneak attack effect.
+3007	Optimizes a broadsword's unique strengths.
+3008	Shepard's method of making a weapon out of a wooden stick.
+3009	Modifies a wooden stick into a powerful weapon.
+3010	Trims small branches off a wooden stick to make it smooth.
+3011	Trims small branches off a wooden stick to make it smooth.
+3012	Trims small branches off a wooden stick to make it smooth.
+3013	Trims small branches off a wooden stick to make it smooth.
+3014	Carves wood to form an edge.
+3015	Carves wood to form an edge.
+3016	Carves wood to form an edge.
+3017	Carves wood to form an edge.
+3018	Carves wood to form an edge.
+3019	Sharpens wood for an increased attack rate.
+3020	Oils an item to strengthen it.
+3021	Trims small branches off a wooden stick to make it smooth.
+3022	Trims small branches off a wooden stick to make it smooth.
+3023	Trims small branches off a wooden stick to make it smooth.
+3024	Trims small branches off a wooden stick to make it smooth.
+3025	Carves wood to form an edge.
+3026	Carves wood to form an edge.
+3027	Carves wood to form an edge.
+3028	Carves wood to form an edge.
+3029	Carves wood to form an edge.
+3030	Sharpens wood for an increased attack rate.
+3031	Oils an item to strengthen it.
+3032	Shepard's method of upgrading a weapon made out of a branch.
+3033	Modifies a branch into a powerful weapon.
+3034	Polishes a wooden sword to cleanse its surface.
+3035	Polishes a wooden sword to cleanse its surface.
+3036	Polishes a wooden sword to cleanse its surface.
+3037	Polishes a wooden sword to cleanse its surface.
+3038	Carves the blade of a wooden sword for higher attack rate.
+3039	Carves the blade of a wooden sword for higher attack rate.
+3040	Carves the blade of a wooden sword for higher attack rate.
+3041	Carves the blade of a wooden sword for higher attack rate.
+3042	Carves the blade of a wooden sword for higher attack rate.
+3043	Trims a weapon's grip to make it easier to swing.
+3044	Sharpen the tip of the wooden blade for higher attack rate.
+3045	Modifies a wooden blade into a more powerful weapon.
+3046	Trims a weapon's grip to make it easier to swing.
+3047	Trims and refines a club to make its surface smooth.
+3048	Trims and refines a club to make its surface smooth.
+3049	Trims and refines a club to make its surface smooth.
+3050	Trims and refines a club to make its surface smooth.
+3051	Trims a weapon's grip to make it easier to swing.
+3052	Oils an item to strengthen it.
+3053	Strengthens Shepard's club.
+3054	Modifies a clup into a more powerful weapon
+3055	Improves the elasticity of a bowstring to increase its shooting range.
+3056	Improves the elasticity of a bowstring to increase its shooting range.
+3057	Improves the elasticity of a bowstring to increase its shooting range.
+3058	Improves the elasticity of a bowstring to increase its shooting range.
+3059	Improves the elasticity of a bowstring to increase its shooting range.
+3060	Oils a bow to strengthen it.
+3061	Oils a bow to strengthen it.
+3062	Optimizes a composite bow's unique strengths.
+3063	Hardens a crossbow to increase its balance.
+3064	Hardens a crossbow to increase its balance.
+3065	Hardens a crossbow to increase its balance.
+3066	Hardens a crossbow to increase its balance.
+3067	Changes a weapon's trigger to improve its accuracy.
+3068	Changes the nut that holds the string to allow the weapon to shoot more powerfully.
+3069	Strengthens the bow back to better endure the weapon's power.
+3070	Optimizes a hatchet's unique strengths.
+3071	Anneals a hammer head to further harden its surface.
+3072	Anneals a hammer head to further harden its surface.
+3073	Anneals a hammer head to further harden its surface.
+3074	Anneals a hammer head to further harden its surface.
+3075	Anneals a hammer head to further harden its surface.
+3076	Reduces the weight of the hilt and hammer head for a higher attack rate.
+3077	Sharpens the hammer hook to raise the weapon's critical rate.
+3078	Reinforces the connection between the hilt and hammer head.
+3079	Optimizes a hammer's unique strengths.
+3080	Tunes the lute for a more beautiful sound.
+3081	Tunes the instrument and improves its balance to make it sound better.
+3082	Tunes the instrument and improves its balance to make it sound better.
+3083	Tunes the instrument and improves its balance to make it sound better.
+3084	Tunes the instrument and improves its balance to make it sound better.
+3085	Oils the wooden body of a musical instrument to strengthen it.
+3086	Oils the wooden body of a musical instrument to strengthen it.
+3087	Oils the wooden body of a musical instrument to strengthen it.
+3088	Oils the wooden body of a musical instrument to strengthen it.
+3089	Oils the wooden body of a musical instrument to strengthen it.
+3090	Straightens the neck of an instrument that is warped.
+3091	Replaces an old string with a new one.
+3092	Replaces an instrument's old bridge with a new one.
+3093	Tunes the mandolin for a more beautiful sound.
+3094	Tunes the instrument and improves its balance to make it sound better.
+3095	Tunes the instrument and improves its balance to make it sound better.
+3096	Tunes the instrument and improves its balance to make it sound better.
+3097	Tunes the instrument and improves its balance to make it sound better.
+3098	Oils the wooden body of a musical instrument to strengthen it.
+3099	Oils the wooden body of a musical instrument to strengthen it.
+3100	Oils the wooden body of a musical instrument to strengthen it.
+3101	Oils the wooden body of a musical instrument to strengthen it.
+3102	Oils the wooden body of a musical instrument to strengthen it.
+3103	Straightens the neck of an instrument that is warped.
+3104	Replaces an old string with a new one.
+3105	Replaces an instrument's old bridge with a new one.
+3106	Tunes the instrument and improves its balance to make it sound better.
+3107	Tunes the instrument and improves its balance to make it sound better.
+3108	Tunes the instrument and improves its balance to make it sound better.
+3109	Tunes the instrument and improves its balance to make it sound better.
+3110	Oils the wooden body of a musical instrument to strengthen it.
+3111	Oils the wooden body of a musical instrument to strengthen it.
+3112	Oils the wooden body of a musical instrument to strengthen it.
+3113	Oils the wooden body of a musical instrument to strengthen it.
+3114	Oils the wooden body of a musical instrument to strengthen it.
+3115	Straightens the neck of an instrument that is warped.
+3116	Replaces an old string with a new one.
+3117	Replaces an instrument's old bridge with a new one.
+3118	Tunes the ukulele for a more beautiful sound.
+3119	Reduces the weight of the hilt and blade edge.
+3120	Sharpens the edge for increased sharpness.
+3121	Reinforces the connection between the hilt and blade.
+3122	Repairs broken parts and strengthens them.
+3123	Repairs broken parts and strengthens them.
+3124	Anneals a hammer to further harden its surface.
+3125	Anneals a hammer to further harden its surface.
+3126	Reduces the weight of the hilt and hammer head.
+3127	Reinforces the connection between the hilt and hammer head.
+3128	Repairs broken parts and strengthens them.
+3129	Repairs broken parts and strengthens them.
+3130	Reduces the weight of the hilt and pickaxe head.
+3131	Sharpens the tip of the pickaxe for increased sharpness.
+3132	Reinforces the connection between the hilt and pickaxe head.
+3133	Repairs broken parts and strengthens them.
+3134	Repairs broken parts and strengthens them.
+3135	Anneals a sickle to further harden its surface.
+3136	Anneals a sickle to further harden its surface.
+3137	Reduces the weight of the hilt and edge.
+3138	Sharpens the edge for increased sharpness.
+3139	Reinforces the connection between the hilt and edge.
+3140	Repairs broken parts and strengthens them.
+3141	Repairs broken parts and strengthens them.
+3142	Anneals a weeding hoe to further harden its surface.
+3143	Anneals a weeding hoe to further harden its surface.
+3144	Reduces the weight of the weeding hoe.
+3145	Reinforces the connection of the hilt.
+3146	Repairs broken parts and strengthens them.
+3147	Tailors the seams to make the clothes fit better.
+3148	Attaches lining to raise defense.
+3149	Attaches lining to raise protection.
+3150	Attaches lining to raise both defense and protection.
+3151	Repairs cloth armor using Simon's unique method.
+3152	Upgrades light armor using Elen's own unique method.
+3153	Reinforces the seam of armor for enhanced durability.
+3154	Reinforces the armor's surface for enhanced defense.
+3155	Reinforces the armor's surface for enhanced protection.
+3156	Reinforces the armor's surface for enhanced defense and protection.
+3157	Reinforces the armor's surface for enhanced defense and protection.
+3158	Modifies heavy armor using Edernish's unique method.
+3159	Anneals a mace head to further harden its surface.
+3160	Anneals a mace head to further harden its surface.
+3161	Anneals a mace head to further harden its surface.
+3162	Anneals a mace head to further harden its surface.
+3163	Anneals a mace head to further harden its surface.
+3164	Reduces the weight of the hilt and mace head for a higher attack rate.
+3165	Sharpens the mace hook to raise the weapon's critical rate.
+3166	Reinforces the connection between the hilt and mace head.
+3167	Optimizes a mace's unique strengths.
+3168	Anneals an axe blade to further harden its surface.
+3169	Anneals an axe blade to further harden its surface.
+3170	Tightly secures the band and spikes through sewing.
+3171	Tightly secures the band and spikes through sewing.
+3172	Reinforces the connection between the handle and axe blade.
+3173	Optimizes a bipennis' unique strengths.
+3174	Adjusts the flexibility of the bow to increase the weapon's balance.
+3175	Adjusts the flexibility of the bow to increase the weapon's balance.
+3176	Adjusts the flexibility of the bow to increase the weapon's balance.
+3177	Adjusts the flexibility of the bow to increase the weapon's balance.
+3178	Oils a bow to strengthen it.
+3179	Adjusts the flexibility of the bow to increase the weapon's balance.
+3180	Adjusts the flexibility of the bow to increase the weapon's balance.
+3181	Adjusts the flexibility of the bow to increase the weapon's balance.
+3182	Adjusts the flexibility of the bow to increase the weapon's balance.
+3183	Oils a bow to strengthen it.
+3184	Modifies a stable bow to improve it.
+3185	Modifies heavy armor using Fleta's unique method.
+3186	Optimizes a Fluted Short Sword's unique strengths.
+3187	Optimizes a Gladius's unique strengths.
+3188	Modifies a stable bow to improve it.
+3189	Modifies a Short Bow into a more powerful weapon.
+3190	Modifies a stable crossbow to improve it.
+3191	Optimizes a crossbow's damage.
+3192	Optimizes a dagger's unique strengths.
+3193	Optimizes a Short Sword's unique strengths.
+3194	Trims a weapon's grip to make it easier to swing.
+3195	Oils an item to strengthen it.
+3196	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3197	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3198	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3199	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3200	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3201	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3202	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3203	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3204	Anneals an axe blade to further harden its surface.
+3205	Anneals an axe blade to further harden its surface.
+3206	Anneals an axe blade to further harden its surface.
+3207	Anneals an axe blade to further harden its surface.
+3208	Anneals an axe blade to further harden its surface.
+3209	Tightly secures the band and spikes through sewing.
+3210	Tightly secures the band and spikes through sewing.
+3211	Reinforces the connection between the handle and axe blade.
+3212	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3213	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3214	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3215	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3216	Anneals an axe blade to further harden its surface.
+3217	Anneals an axe blade to further harden its surface.
+3218	Anneals an axe blade to further harden its surface.
+3219	Anneals an axe blade to further harden its surface.
+3220	Anneals an axe blade to further harden its surface.
+3221	Tightly secures the band and spikes through sewing.
+3222	Tightly secures the band and spikes through sewing.
+3223	Reinforces the connection between the handle and axe blade.
+3224	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3225	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3226	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3227	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3228	Modifies a weapon to make it more stable..
+3229	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3230	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3231	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3232	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3233	Modifies a weapon to make it more stable..
+3234	Modifies a weapon to make it more stable..
+3235	Adjusts the flexibility of the bow to increase the weapon's balance.
+3236	Adjusts the flexibility of the bow to increase the weapon's balance.
+3237	Adjusts the flexibility of the bow to increase the weapon's balance.
+3238	Adjusts the flexibility of the bow to increase the weapon's balance.
+3239	Replaces the sight to improve the weapon's aim.
+3240	Sharpens the tip of the blade to increase jab damage.
+3241	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3242	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3243	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3244	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3245	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3246	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3247	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3248	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3249	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3250	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3251	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3252	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3253	Reinforces the connection between the hilt and blade.
+3254	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3255	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3256	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3257	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3258	Reinforces the connection between the hilt and blade.
+3259	Modifies a weapon to make it more stable..
+3260	Sharpens the tip of the blade to increase jab damage.
+3261	Sharpens the tip of the blade to increase jab damage.
+3262	Sharpens the tip of the blade to increase jab damage.
+3263	Sharpens the tip of the blade to increase jab damage.
+3264	Reinforces the connection between the hilt and blade.
+3265	Modifies a weapon to make it more stable..
+3266	Modifies a stable bow to improve it.
+3267	Modifies a Long Bow into a more powerful weapon.
+3268	Modifies a weapon with a lethal blow.
+3269	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3270	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3271	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3272	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3273	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3274	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3275	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3276	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3277	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3278	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3279	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3280	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3281	Anneals a blade edge to further harden its surface.
+3282	Reinforces the connection between the hilt and blade.
+3283	Modifies a weapon to allow it to deal more powerful damage.
+3284	Modifies a weapon to make it more stable..
+3285	Adjusts the flexibility of the bow to increase the weapon's balance.
+3286	Adjusts the flexibility of the bow to increase the weapon's balance.
+3287	Adjusts the flexibility of the bow to increase the weapon's balance.
+3288	Adjusts the flexibility of the bow to increase the weapon's balance.
+3289	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3290	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3291	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3292	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3293	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3294	Replaces the sight to improve the weapon's aim.
+3295	Modifies a stable bow to improve it.
+3296	Modifies a Leather Long Bow into a more powerful weapon.
+3297	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3298	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3299	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3300	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3301	Modifies a weapon for maximum attack rate.
+3302	Ties down a bowstring so that it can be drawn with stronger force.
+3303	Ties down a bowstring so that it can be drawn with stronger force.
+3304	Ties down a bowstring so that it can be drawn with stronger force.
+3305	Replaces the sight to improve the weapon's aim.
+3306	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3307	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3308	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3309	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3310	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3311	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3312	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3313	Ties down a bowstring so that it can be drawn with stronger force.
+3314	Replaces the sight to improve the weapon's aim.
+3315	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3316	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3317	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3318	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3319	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3320	Increases the damage rate by specially treating the blade.
+3321	Anneals a blade to further harden its surface.
+3322	Increases the damage rate by specially treating the blade.
+3323	Anneals a blade to further harden its surface.
+3324	Anneals a blade to further harden its surface.
+3325	Anneals a blade to further harden its surface.
+3326	Anneals a blade to further harden its surface.
+3327	Hardens a Morning Star's surface through tempering.
+3328	Hardens a Morning Star's surface through tempering.
+3329	Hardens a Morning Star's surface through tempering.
+3330	Increases the damage rate by specially treating the blade.
+3331	Applies a non-reflection treatment on a sword so that the blade doesn't shine, increasing its sneak attack effect.
+3332	Applies a non-reflection treatment on a sword so that the blade doesn't shine, increasing its sneak attack effect.
+3333	Applies a non-reflection treatment on a sword so that the blade doesn't shine, increasing its sneak attack effect.
+3334	Applies a non-reflection treatment on a sword so that the blade doesn't shine, increasing its sneak attack effect.
+3335	Hardens a Morning Star's surface through tempering.
+3336	Increases the damage rate by specially treating the blade.
+3337	Increases the damage rate by specially treating the blade.
+3338	Reinforces the connection between the hilt and blade.
+3339	Reduces the amount of mana used during magic charge and strengthens the weapon balance by controlled the Wand's mana resonance.
+3340	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+3341	Reduces the amount of mana vaporized during a Wand switch by controlling the Wand's mana flow.
+3342	Reduces the amount of mana vaporized during a Wand switch and increases attack rate by controlling the Wand's mana flow.
+3343	Amplifies the Wand's mana flow to allow an additional 1 Lightning Bolt to be charged.
+3344	Amplifies the Wand's mana flow to allow an additional 2 Lightning Bolts to be charged.
+3345	Amplifies the Wand's mana flow to allow an additional 3 Lightning Bolts to be charged.
+3346	Amplifies the Wand's mana flow to allow an additional 4 Lightning Bolts to be charged.
+3347	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+3348	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+3349	Reduces the amount of mana vaporized during a Wand switch by controlling the Wand's mana flow.
+3350	Reduces the amount of mana vaporized during a Wand switch and increases attack rate by controlling the Wand's mana flow.
+3351	Amplifies the Wand's mana flow to allow an additional 1 Firebolt to be charged.
+3352	Amplifies the Wand's mana flow to allow an additional 2 Firebolts to be charged.
+3353	Amplifies the Wand's mana flow to allow an additional 3 Firebolts to be charged.
+3354	Amplifies the Wand's mana flow to allow an additional 4 Firebolts to be charged.
+3355	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+3356	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+3357	Reduces the amount of mana vaporized during a Wand switch by controlling the Wand's mana flow.
+3358	Reduces the amount of mana vaporized during a Wand switch and increases attack rate by controlling the Wand's mana flow.
+3359	Amplifies the Wand's mana flow to allow an additional 1 Icebolt to be charged.
+3360	Amplifies the Wand's mana flow to allow an additional 2 Icebolts to be charged.
+3361	Amplifies the Wand's mana flow to allow an additional 3 Icebolts to be charged.
+3362	Amplifies the Wand's mana flow to allow an additional 4 Icebolts to be charged.
+3363	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+3364	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+3365	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+3366	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+3367	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+3368	Decreases the amount of mana used by suspending the flow of mana, but this also reduces damage done.
+3369	Decreases the amount of mana used by suspending the flow of mana, but this also reduces damage done.
+3370	Decreases the amount of mana used by suspending the flow of mana, but this also reduces damage done.
+3371	Decreases the amount of mana used by suspending the flow of mana, but this also reduces damage done.
+3372	Decreases the amount of mana used by suspending the flow of mana, but this also reduces damage done.
+3373	Enhances the charging speed of magic by boosting the flow of mana. 
+3374	Enhances the charging speed of magic by boosting the flow of mana. 
+3375	Enhances the charging speed of magic by boosting the flow of mana. 
+3376	Enhances the charging speed of magic by boosting the flow of mana. 
+3377	Enhances the charging speed of magic by boosting the flow of mana. 
+3378	Enhances the charging speed of magic by boosting the flow of mana. 
+3379	Enhances the charging speed of magic by boosting the flow of mana. 
+3380	Decreases the amount of mana used by suspending the flow of mana, but this also reduces damage done.
+3381	Enhances the charging speed of magic by boosting the flow of mana. 
+3382	Enhances the charging speed of magic by boosting the flow of mana. 
+3383	Condenses mana to enhance the power of magic.
+3384	Condenses mana to enhance the power of magic.
+3385	Condenses mana to enhance the power of magic.
+3386	Condenses mana to enhance the power of magic.
+3387	Enhances the charging speed of magic by boosting the flow of mana. 
+3388	Condenses mana to enhance the power of magic.
+3389	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+3390	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+3391	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+3392	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+3393	Reduces the amount of mana used during magic charge and increases the weapon's balance by controlling the Wand's mana resonance.
+3394	Strengthens the surface of a shield with a gem to increase protection.
+3395	Specially treats the surface of a shield to increase the rate of auto-defending a melee attack.
+3396	Anneals the surface to further harden it.
+3397	Anneals the surface to further harden it.
+3398	Refines the shape of the blade for a higher attack rate.
+3399	Refines the shape of the blade for a higher attack rate.
+3400	Refines the shape of the blade for a higher attack rate.
+3401	Refines the shape of the blade for a higher attack rate.
+3402	Refines the shape of the blade for a higher attack rate.
+3403	Sharpens the tip of the blade to increase jab damage.
+3404	Sharpens the tip of the blade to increase jab damage.
+3405	Sharpens the tip of the blade to increase jab damage.
+3406	Sharpens the tip of the blade to increase jab damage.
+3407	Anneals a blade to further harden its surface.
+3408	Anneals a blade to further harden its surface.
+3409	Anneals a blade to further harden its surface.
+3410	Anneals a blade to further harden its surface.
+3411	Anneals a blade to further harden its surface.
+3412	Reinforces the connection between the hilt and blade.
+3413	Increases attack rate by making the hilt and head of the axe lighter.
+3414	Modifies a weapon for maximum attack rate.
+3415	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3416	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3417	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3418	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3419	Increases the damage rate by specially treating the blade.
+3420	Hardens a Morning Star's surface through tempering.
+3421	Reinforces the connection between the hilt and blade.
+3422	Modifies a weapon to make it more stable..
+3423	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3424	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3425	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3426	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3427	Refines the shape of the blade for a higher attack rate.
+3428	Refines the shape of the blade for a higher attack rate.
+3429	Refines the shape of the blade for a higher attack rate.
+3430	Refines the shape of the blade for a higher attack rate.
+3431	Refines the shape of the blade for a higher attack rate.
+3432	Anneals a blade edge to further harden its surface.
+3433	Hardens a Morning Star's surface through tempering.
+3434	Modifies a weapon to allow it to deal more powerful damage.
+3435	Modifies a weapon to make it more stable..
+3436	Reinforces the seam of armor for enhanced durability.
+3437	Reinforces the armor's surface for enhanced defense.
+3438	Reinforces the armor's surface for enhanced protection.
+3439	Reinforces the armor's surface for enhanced defense and protection.
+3440	Reinforces the armor's surface for enhanced defense.
+3441	Attaches a gem on the damaged part of the item.
+3442	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3443	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3444	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3445	Adjust the weight of a weapon to better suit the wielder's hand and improves overall weapon balance.
+3446	Increases the damage rate by specially treating the blade.
+3447	Hardens a Morning Star's surface through tempering.
+3448	Modifies a weapon for maximum attack rate.
+3453	{0}'s Barrier Spikes Enhancement 1
+3454	{0}'s Barrier Spikes Enhancement 2
+3455	{0}'s Barrier Spikes Enhancement 3
+3456	{0}'s Barrier Spikes Enhancement 4
+3457	{0}'s Barrier Spikes Enhancement 5
+3458	{0}'s Freeze Enhancement 1
+3459	{0}'s Freeze Zone Enhancement 1
+3460	{0}'s Freeze Enhancement 2
+3461	Modifies the pressure system to increase fire power.
+3462	Modifies the pressure system to increase fire power.
+3463	Modifies the pressure system to increase fire power.
+3464	Modifies the pressure system to increase fire power.
+3465	Transmutes the spikes so they're more sturdy.
+3466	Transmutes the spikes so they're more sturdy.
+3467	Transmutes the spikes so they're more sturdy.
+3468	Transmutes the spikes so they're more sturdy.
+3469	Transmutes the spikes so they're more sturdy.
+3470	Modifies the crystal storage location, extending the freeze duration of the Frozen Blast skill.
+3471	Modifies the valve, extending the freeze zone of the Frozen Blast skill.
+3472	Modifies the crystal storage location, extending the freeze duration of the Frozen Blast skill.
+3473	{0}'s Fire Power Enhancement 1
+3474	{0}'s Fire Power Enhancement 2
+3475	{0}'s Fire Power Enhancement 3
+3476	{0}'s Fire Power Enhancement 4
+3477	Weight Adjustment 1
+3478	Weight Adjustment 2
+3479	Weight Adjustment 3
+3480	Tempering 1
+3481	Tempering 2
+3482	Tempering 3
+3483	Tempering 4
+3484	Tempering 5
+3485	Weight Reduction 1
+3486	Weight Reduction 2
+3487	Weight Reduction 3
+3488	Weight Reduction 4
+3489	Weight Reduction 5
+3490	Blade Edge Sharpening 1
+3491	Blade Edge Sharpening 2
+3492	Blade Edge Sharpening 3
+3493	Blade Edge Sharpening 4
+3494	Blade Edge Sharpening 5
+3495	Hilt Change
+3496	Edern's Falcata Enhancement
+3497	Ferghus's Falcata Upgrade
+3498	Emporium Special Upgrade
+3499	Falcata Gem Upgrade 1
+3500	Weight Adjustment
+3501	Crossguard Reinforcement 1
+3502	Crossguard Reinforcement 2
+3503	Crossguard Reinforcement 3
+3504	Crossguard Reinforcement 4
+3505	Crossguard Reinforcement 5
+3506	Weight Reduction 1
+3507	Weight Reduction 2
+3508	Weight Reduction 3
+3509	Blade Edge Sharpening
+3510	Hilt Change 1
+3511	Hilt Change 2
+3515	Emporium Special Upgrade
+3517	Adjusts the weight of a weapon to better suit the wielder's hand and improve overall weapon balance.
+3518	Adjusts the weight of a weapon to better suit the wielder's hand and improve overall weapon balance.
+3519	Adjusts the weight of a weapon to better suit the wielder's hand and improve overall weapon balance.
+3520	Anneals a blade to further harden its surface.
+3521	Anneals a blade to further harden its surface.
+3522	Anneals a blade to further harden its surface.
+3523	Anneals a blade to further harden its surface.
+3524	Anneals a blade to further harden its surface.
+3525	Reduces the weight between the handle and sword to increase attack rate.
+3526	Reduces the weight between the handle and sword to increase attack rate.
+3527	Reduces the weight between the handle and sword to increase attack rate.
+3528	Reduces the weight between the handle and sword to increase attack rate.
+3529	Reduces the weight between the handle and sword to increase attack rate.
+3530	Sharpens the blade edge for a higher critical rate.
+3531	Sharpens the blade edge for a higher critical rate.
+3532	Sharpens the blade edge for a higher critical rate.
+3533	Sharpens the blade edge for a higher critical rate.
+3534	Sharpens the blade edge for a higher critical rate.
+3535	Reinforces the connection between the hilt and blade.
+3536	Optimizes a Falcata's unique strengths.
+3537	Modifies a weapon to make it more stable.
+3538	A special annealing method developed at the Tara Emporium.
+3539	Attaches a gem to the sword body.
+3540	Adjusts the weight of a weapon to better suit the wielder's hand and improve overall weapon balance.
+3541	Refines the shape of the blade for a higher attack rate.
+3542	Refines the shape of the blade for a higher attack rate.
+3543	Refines the shape of the blade for a higher attack rate.
+3544	Refines the shape of the blade for a higher attack rate.
+3545	Refines the shape of the blade for a higher attack rate.
+3546	Reduces the weight between the handle and sword to increase attack rate.
+3547	Reduces the weight between the handle and sword to increase attack rate.
+3548	Reduces the weight between the handle and sword to increase attack rate.
+3549	Sharpens the blade edge for a higher critical rate.
+3550	Reinforces the connection between the hilt and blade.
+3551	Reinforces the connection between the hilt and blade.
+3552	Modifies a weapon to allow it to deal more powerful damage.
+3553	Adds a special upgrade to the surface of the blade to increase attack range.
+3554	Adds a special upgrade to the surface of the blade to increase damage dealt.
+3555	A special annealing method developed at the Tara Emporium.
+3556	Sharpens the sword tip using a gem.
+3557	Bow Back Refinement 1
+3558	Bow Back Refinement 2
+3559	Bow Back Refinement 3
+3560	Bow Back Refinement 4
+3561	Bowstring Enhancement 1
+3562	Bowstring Enhancement 2
+3563	Bowstring Enhancement 3
+3564	Bowstring Enhancement 4
+3565	Bowstring Enhancement 5
+3566	Sight Change
+3567	Bow Tip Enhancement
+3568	Oiling
+3571	Emporium Special Upgrade
+3573	Adjusts the flexibility of a bow to increase the weapon's balance.
+3574	Adjusts the flexibility of a bow to increase the weapon's balance.
+3575	Adjusts the flexibility of a bow to increase the weapon's balance.
+3576	Adjusts the flexibility of a bow to increase the weapon's balance.
+3577	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3578	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3579	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3580	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3581	Improves the elasticity of a bowstring to increase the weapon's shooting range.
+3582	Replaces the sight to improve the weapon's aim.
+3583	Ties down a bowstring so that it can be drawn with stronger force.
+3584	Oils a bow to strengthen it.
+3585	Modifies a Highlander Long Bow to make it more powerful.
+3586	Modifies a bow to make it more stable.
+3587	Attaches a gem on the back of the bow.
+3588	Weight Adjustment
+3589	Annealing 1
+3590	Annealing 2
+3591	Annealing 3
+3592	Annealing 4
+3593	Annealing 5
+3594	Weight Reduction 1
+3595	Weight Reduction 2
+3596	Weight Reduction 3
+3597	Weight Reduction 4
+3598	Axe Edge Sharpening 1
+3599	Axe Edge Sharpening 2
+3600	Axe Edge Sharpening 3
+3601	Hilt Change
+3602	Edern's Francisca Enhancement
+3603	Trefor's Francisca Enhancement
+3604	Emporium Special Upgrade
+3605	Francisca Gem Upgrade 1
+3606	Surface Enhancement
+3607	Targe Special Upgrade 1
+3608	Targe Special Upgrade 2
+3609	Targe Special Upgrade 3
+3610	Targe Gem Upgrade 1
+3611	A special upgrade method developed at the Tara Emporium.
+3612	Adjusts the weight of a weapon to better suit the wielder's hand and improve overall weapon balance.
+3613	Anneals an axe blade to further harden its surface.
+3614	Anneals an axe blade to further harden its surface.
+3615	Anneals an axe blade to further harden its surface.
+3616	Anneals an axe blade to further harden its surface.
+3617	Anneals an axe blade to further harden its surface.
+3618	Increases attack rate by making the hilt and head of the axe lighter.
+3619	Increases attack rate by making the hilt and head of the axe lighter.
+3620	Increases attack rate by making the hilt and head of the axe lighter.
+3621	Increases attack rate by making the hilt and head of the axe lighter.
+3622	Increases the chance of getting critical hits by sharpening the axe blade.
+3623	Increases the chance of getting critical hits by sharpening the axe blade.
+3624	Increases the chance of getting critical hits by sharpening the axe blade.
+3625	Reinforces the connection between the handle and axe blade.
+3626	Modifies a weapon for maximum attack rate.
+3627	Modifies an axe to make it more stable.
+3628	A special annealing method developed at the Tara Emporium.
+3629	Attaches a gem to the handle.
+3630	Increases defense by strengthening the surface of the shell.
+3631	Upgrades a shield's surface to increase its auto-defense rate for melee attacks.
+3632	Upgrades a shield's surface to increase its auto-defense rate for long-range attacks.
+3633	Upgrades a shield's surface to increase its auto-defense rate for magic attacks.
+3634	Attaches a gem to the damaged part of the item.
+3635	Edern's Special Enhancement
+3636	Edern's Special Upgrade 1
+3637	Edern's Special Upgrade 2
+3638	Edern's Gem Upgrade 1
+3639	Edern's Special Enhancement
+3640	Nerys's Special Upgrade
+3641	Edern's Gem Upgrade 1
+3642	Quiver Refinement 1
+3643	Quiver Refinement 2
+3644	Quiver Refinement 3
+3645	Quiver Refinement 4
+3646	Quiver Adjustment 1
+3647	Quiver Adjustment 2
+3648	Quiver Adjustment 3
+3649	Quiver Adjustment 4
+3650	Quiver Adjustment 5
+3651	Sight Change
+3652	Quiver Enhancement
+3653	Oiling
+3654	Aranwen's Confetti Bow Enhancement
+3655	Nerys's Confetti Bow Upgrade
+3656	Nicca's Confetti Bow Enhancement
+3657	Nicca's Confetti Bow Upgrade
+3658	Meles's Confetti Bow Enhancement
+3659	Meles's Confetti Bow Upgrade
+3660	Ferghus's Confetti Bow Enhancement
+3661	Confetti Bow Gem Upgrade 1
+3662	Adjusts the quiver to increase weapon balance.
+3663	Adjusts the quiver to increase weapon balance.
+3664	Adjusts the quiver to increase weapon balance.
+3665	Adjusts the quiver to increase weapon balance.
+3666	Expands the quiver to increase shooting range.
+3667	Expands the quiver to increase shooting range.
+3668	Expands the quiver to increase shooting range.
+3669	Expands the quiver to increase shooting range.
+3670	Expands the quiver to increase shooting range.
+3671	Replaces the sight for better aim.
+3672	Adjusts the quiver to enhance firing power.
+3673	Oils the quiver to strengthen it.
+3674	Modifies a bow to make it more stable.
+3675	Modifies a Confetti Bow to make it more powerful.
+3676	Modifies a bow to make it more stable.
+3677	Modifies a Confetti Bow to make it more powerful.
+3678	Modifies a weapon to make it more powerful.
+3679	Optimizes a Confetti Bow's unique strengths.
+3680	Modifies a bow to make it more stable.
+3681	Attaches a gem on the quiver.
+3682	Artisan Upgrade
+3683	Artisan Upgrade
+3684	Artisan Upgrade
+3685	Artisan Upgrade
+3686	Artisan Upgrade
+3687	Artisan Upgrade
+3688	Artisan Upgrade
+3689	Artisan Upgrade
+3690	Artisan Upgrade
+3691	Artisan Upgrade
+3692	Artisan Upgrade
+3693	Artisan Upgrade
+3694	Artisan Upgrade
+3695	Artisan Upgrade
+3696	Artisan Upgrade
+3697	Artisan Upgrade
+3698	Artisan Upgrade
+3699	Artisan Upgrade
+3700	Artisan Upgrade
+3701	Artisan Upgrade
+3702	Artisan Upgrade
+3703	Artisan Upgrade
+3704	Artisan Upgrade
+3705	Artisan Upgrade
+3706	Artisan Upgrade
+3707	Artisan Upgrade
+3708	Artisan Upgrade
+3709	Artisan Upgrade
+3710	Artisan Upgrade
+3711	Artisan Upgrade
+3712	Artisan Upgrade
+3713	Artisan Upgrade
+3714	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3715	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3716	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3717	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3718	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3719	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3720	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3721	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3722	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3723	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3724	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3725	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3726	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3727	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3728	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3729	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3730	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3731	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3732	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3733	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3734	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3735	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3736	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3737	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3738	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3739	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3740	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3741	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3742	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3743	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3744	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3745	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3746	Test Attack Power Increase
+3747	Increases the attack power of all weapons.
+3748	Artisan Upgrade
+3749	Artisan Upgrade
+3750	Artisan Upgrade
+3751	Artisan Upgrade
+3752	Artisan Upgrade
+3753	Artisan Upgrade
+3754	Artisan Upgrade
+3755	Artisan Upgrade
+3756	Artisan Upgrade
+3757	Artisan Upgrade
+3758	Artisan Upgrade
+3759	Artisan Upgrade
+3760	Artisan Upgrade
+3761	Artisan Upgrade
+3762	Artisan Upgrade
+3763	Artisan Upgrade
+3764	Artisan Upgrade
+3765	Artisan Upgrade
+3766	Artisan Upgrade
+3767	Artisan Upgrade
+3768	Artisan Upgrade
+3769	Artisan Upgrade
+3770	Artisan Upgrade
+3771	Artisan Upgrade
+3772	Artisan Upgrade
+3773	Artisan Upgrade
+3774	Artisan Upgrade
+3775	Artisan Upgrade
+3776	Artisan Upgrade
+3777	Artisan Upgrade
+3778	Artisan Upgrade
+3779	Artisan Upgrade
+3780	Artisan Upgrade
+3781	Artisan Upgrade
+3782	Artisan Upgrade
+3783	Artisan Upgrade
+3784	Artisan Upgrade
+3785	Artisan Upgrade
+3786	Artisan Upgrade
+3787	Artisan Upgrade
+3788	Artisan Upgrade
+3789	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3790	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3791	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3792	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3793	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3794	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3795	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3796	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3797	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3798	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3799	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3800	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3801	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3802	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3803	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3804	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3805	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3806	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3807	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3808	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3809	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3810	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3811	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3812	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3813	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3814	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3815	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3816	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3817	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3818	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3819	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3820	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3821	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3822	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3823	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3824	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3825	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3826	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3827	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3828	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3829	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3830	Ice Elemental Condensation 1
+3831	Ice Elemental Condensation 2
+3832	Artisan Upgrade
+3833	Trinity Staff Gem Upgrade 1
+3834	Reinforce 1
+3835	Reinforce 2
+3836	Reinforce 3
+3837	Reinforce 4
+3838	Artisan Upgrade
+3839	Dragon Fang Gem Upgrade 1
+3840	Reinforce 1
+3841	Reinforce 2
+3842	Reinforce 3
+3843	Reinforce 4
+3844	Artisan Upgrade
+3845	Glorwy Sword Gem Upgrade 1
+3846	Concentrantes the mana to increase magic power.
+3847	Concentrantes the mana to increase magic power.
+3848	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3849	Increases magic power with the help of the gems.
+3850	The Sword's surface is hardened through reinforcement.
+3851	The Sword's surface is hardened through reinforcement.
+3852	The Sword's surface is hardened through reinforcement.
+3853	The Sword's surface is hardened through reinforcement.
+3854	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3855	The Knife's tip was sharpend with the gems.
+3856	The Sword's surface is hardened through reinforcement.
+3857	The Sword's surface is hardened through reinforcement.
+3858	The Sword's surface is hardened through reinforcement.
+3859	The Sword's surface is hardened through reinforcement.
+3860	Entrust the equipment to the skills of the crafstmen.  Unpredictable outcome.
+3861	The Knife's tip was sharpend with the gems.
+3862	Gem Upgrade 1
+3863	Attack the Gem to damaged area.
