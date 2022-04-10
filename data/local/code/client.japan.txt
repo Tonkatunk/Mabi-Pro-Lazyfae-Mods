@@ -471,25 +471,25 @@ msg.pet.remain_time	Time remaining : {0} min.
 msg.pet.separate_mate_control	You have ended the relationship.
 msg.pet.separate_mate_summon	{0} has ended the relationship.
 msg.pet.start_other_collect	Allow others to gather from the pet.
-msg.pet.started_attack	{0} has started attacking {1}.
+msg.pet.started_attack	
 msg.pet.started_keeper	{0} has started to protect the Personal Shop.
-msg.pet.status_dead	{0} is unconscious.
-msg.pet.status_hunger1	{0} seems to be very hungry.
-msg.pet.status_hunger2	{0} seems to be hungry.
-msg.pet.status_hunger3	{0} seems to be just a bit hungry.
-msg.pet.status_hunger4	{0} seems to be full.
-msg.pet.status_hunger5	{0} seems to be very much full.
-msg.pet.status_life1	{} became unconscious.
-msg.pet.status_life2	{0} seems to be in need of immediate help.
-msg.pet.status_life3	{0} seems to be in need of care.
-msg.pet.status_life4	{0} seems to be a little sick.
-msg.pet.status_life5	{0} seems to be healthy.
-msg.pet.status_life6	{0} seems to be very healthy.
+msg.pet.status_dead	
+msg.pet.status_hunger1	
+msg.pet.status_hunger2	
+msg.pet.status_hunger3	
+msg.pet.status_hunger4	
+msg.pet.status_hunger5	
+msg.pet.status_life1	
+msg.pet.status_life2	
+msg.pet.status_life3	
+msg.pet.status_life4	
+msg.pet.status_life5	
+msg.pet.status_life6	
 msg.pet.stop_other_collect	Disallow others from gathering from this pet.
 msg.pet.stopped_keeper	{0} has stopped protecting the Personal Shop
 msg.pet.summon_status_title	Message
 msg.pet.summon_timeout_warning	{0}'s summoning time has {1} min. left
-msg.pet.summoned_msg	You have summoned {0}.
+msg.pet.summoned_msg	
 msg.pet.support_ai_on	You have ordered to help out during battles.
 msg.pet.time_limit	You have used up all the summoning time of {0}.
 msg.pet.time_remain_msg	{0}'s summoning time has {1} min. left
