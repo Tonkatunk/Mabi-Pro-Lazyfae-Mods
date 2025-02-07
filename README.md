@@ -10,8 +10,10 @@ ___
 ___
 
 
+EDIT: There were some mods I kept in the past, such as dungeon defog or minimap zooms, that with kanan or astral are redundant. They have been removed.
+
 data/db/ai<br>
-If local/aidescdata_human is the only file, it's an auto-play instrument mod.
+Removed. Used to be an auto-play instrument mod, can look elsewhere if you really need it.
 ___
 data/db/cutscene<br>
 skip cutscene mods.  As of 10/20/20, does not include custom content skips.  Should not cause crashing or lock ups on any vanilla content.<br>
@@ -25,15 +27,18 @@ data/db/npc<br>
 Swaps female blunt ego to look like female bow ego.
 ___
 data/db/aircraftdesc.xml<br>
+EDIT: Removed.<br>
 Enhances flying pet's ascension, descension, and turning speeds as well as making them all constant.  If you want to adjust any of the speeds for yourself, look for rising, drop, or rotation.  Use replace all in a text editor and change the numbers in the quotes, higher is faster and lower is slower.  Do not touch velocity!!
 ___
 data/db/charactercondition.xml<br>
 Paints Characters in Deadly as red, and Mana Shield as blue.
 ___
 data/db/collectingform.xml<br>
-Allows infinite range gather from Cow, Sheep, Chickens, and Elemental Sprites.  If you are not next to the creature though, the items will drop roughly half the distance between you.
+EDIT: Removed.<br>
+Felt niche and wasn't interested in maintaining it. If anyone wants to pick it up, cross reference the production items in collecting form, with the data/db/itemd.xml and get the names. The name there should be enough to tell you what you're changing, aka enough context for the actions.
 ___
 data/db<br>
+EDIT: Removed.<br>
 dungeon_ruin.xml and dungeondb2.xml will remove dungeon fog.  Unlike dll mods, this will still work if you log into a dungeon lobby.  While not related to the mod, you will lose draw distance in game, if you log in to a dungeon lobby and don't head out the entrance and go back in.<br>
 dungeon_ruin.xml greatly increases the green color and lighting for Pantay.
 ___
@@ -41,12 +46,14 @@ data/db/gametip.xml<br>
 Removes the game tips from loading screen and the tips that pop up when you use demi.
 ___
 data/db/itemdb.xml<br>
-Some fairly broad edits here.  Update some items name and/or descriptions.  Applied my own Item Filter, which consists of decreasing text size of items I don't normally pick up as well as removing the item appearance when laying on the ground.  Functionality wise, the items can still be picked up and used.<br>
+Some fairly broad edits here. Applied my own Item Filter, which consists of decreasing text size of items I don't normally pick up as well as removing the item appearance when laying on the ground. Functionality wise, the items can still be picked up and used.<br>
 Fomor Scrolls now tell you the reward amount for collecting the set amount, it does not factor in the server gold bonus.  Evidence of Boss Monster tells you the monster it was dropped from.<br>
 Phoenix feathers were renamed to Life Crystal and given a unique description.  There other mods to change appearance, data/gfx/char/item/mesh/item_feather_001.pmg and data/gfx/imgage/item_phoenix_feather.dds<br>
+I had previously edited some untranslated items, with names/descriptions I could find from other sources, due to a hiatus I have reverted this and may re-translate in the future. Wanted to minimize potential problems during a large update.<br>
+Item Bags will just give you the total bag space, so it will look like Item Bag (80) instead of Item Bag(8x10) for example. Also attempting to differentiate between bag types, you can't equip multiple different bags but not two bags of the same type. Wanted this distinction to be clearer.<br>
 ___
 data/db/minimapinfo.xml<br>
-Adds zoom to minimap regions that will support it.  Removes fog from all minimaps outside of dungeons.  This will reveal places like Solea and Ant Hell.  Also will remove the fog/exploration done for Iria's minimaps.
+EDIT: Zoome will not be included anymore. Adds zoom to minimap regions that will support it. Removes fog from all minimaps outside of dungeons.  This will reveal places like Solea and Ant Hell.  Also will remove the fog/exploration done for Iria's minimaps.
 ___
 data/db/partyboardcategory.xml<br>
 Improves some features allowed for Party Board Restrictions.  More "Total Levels" restrictions are added, and text changed from Accrued Levels or w/e was previously used.  Production Mastery has been moved up on the list, to be right under Total Levels category, should make setting up a production party more convenient.  Carpentry has been added as a possible restriction, and placed right under Production Mastery.  "Mediation" has been fixed to read as "Meditation."<br>
@@ -59,11 +66,13 @@ data/db/propdb.xml<br>
 Will cause most sign text to now float in the air.  Some signs are at awkward heights though, such as Tara's Jousting signs, up by Lileas.  The text will instead float at a peculiar height above or below these signs, there is no proper fix for this without affecting other signs.  Any sign without floating text, should need clicked and servers an extra function besides just hovering over it to see the text.
 ___
 data/db/race.xml<br>
+EDIT: Removed<br>
 NOTICE FROM PRO'S STAFF: Do not edit race.xml for anything outside of visual edits.  Targeting sleeping mimics and books is allowed at this point in time.<br>
 Mimics and Flying Books no longer sleep, can target them and see their name normally.  Haunting will now use the Wisp model, instead of Ghost.<br>
 Word of warning to mod creators/editors.  While I have checked and got the okay from a mod, about editing race for mimics/books, that does not mean it is a favorable mod, only tolerated.  Please be respectful of our staffs' decisions, don't create drama, and don't go beyond the permitted edits.
 ___
 data/db/undergroundmaze.xml<br>
+EDIT: Removed<br>
 Maxes draw distance for Ant Hell and Solea.
 ___
 data/gfx/char<br>

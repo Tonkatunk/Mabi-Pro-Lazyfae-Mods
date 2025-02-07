@@ -168,14 +168,14 @@ interface_standardapi_gamemonth.3	DUNGEON MAPS CHANGE EVEN IF THE SAME ITEM IS D
 interface_standardapi_gamemonth.4	INCREASE IN ITEM DROP RATE FROM ANIMALS AND NATURE.\tDECREASE IN PRICES FOR ITEMS IN SHOPS.\tDECREASE IN BANK TRANSACTION FEES.\tINCREASE IN EXP EARNED FOR COMPLETE MASTERY OF THE SKILL.
 interface_standardapi_gamemonth.5	INCREASE IN SUCCESS RATE FOR ENCHANTS.\tINCREASE IN RANK-UP BONUS FOR MAGIC SKILLS.\tINCREASE IN PROFICIENCY FOR EQUIPMENTS.
 interface_standardapi_gamemonth.6	DECREASE IN PENALTIES WHEN KNOCKED UNCONSCIOUS.\tALL POTIONS BECOME MORE POTENT.\tINCREASE IN REWARDS FOR COMPLETING PART-TIME JOBS.
-interface_standardapi_gamemonth.7	As you age and grow, you will obtain AP.\tThe food's basic effects will increase over time.\tThe L-Rod's effects will increase over time.\tYou will be able to even sketch monsters that move slightly.
+interface_standardapi_gamemonth.7	As you age and grow, you will obtain AP.\nThe food's basic effects will increase over time.\nThe L-Rod's effects will increase over time.\nYou will be able to even sketch monsters that move slightly.\nIncrease in success rates for Alchemy skills.
 interface_standardapi_gamemonth.8	INCREASE IN CRITICAL HIT RATE.\nINCREASE IN LUCKY FINISH RATE.\nINCREASE IN SUCCESS RATE FOR INSTRUMENT PLAYING.\nINCREASE IN SUCCESS RATE FOR MAGIC MUSIC.\nINCREASE IN TAMING RATE USING MAGIC MUSIC.
 interface_standardapi_gamemonth.9	INCREASE IN SUCCESS RATE FOR PRODUCTION SKILLS.\nINCREASE IN RANK-UP BONUS FOR LIFE SKILLS.\nINCREASE IN QUALITY OF OUTPUT FOR PRODUCTIONS.
 interface_standardapi_gamemonth.10	DUNGEON MAPS CHANGE EVEN IF THE SAME ITEM IS DROPPED.\nINCREASE IN DUNGEON ITEM DROP RATE.\nINCREASE IN RANK-UP BONUS FOR COMBAT SKILLS.
 interface_standardapi_gamemonth.11	INCREASE IN ITEM DROP RATE FROM ANIMALS AND NATURE.\nDECREASE IN PRICES FOR ITEMS IN SHOPS.\nDECREASE IN BANK TRANSACTION FEES.\nINCREASE IN EXP EARNED FOR COMPLETE MASTERY OF THE SKILL.
 interface_standardapi_gamemonth.12	INCREASE IN SUCCESS RATE FOR ENCHANTS.\nINCREASE IN RANK-UP BONUS FOR MAGIC SKILLS.\nINCREASE IN PROFICIENCY FOR EQUIPMENTS.
 interface_standardapi_gamemonth.13	DECREASE IN PENALTIES WHEN KNOCKED UNCONSCIOUS.\nALL POTIONS BECOME MORE POTENT.\nINCREASE IN REWARDS FOR COMPLETING PART-TIME JOBS.
-interface_standardapi_gamemonth.14	As you age and grow, you will obtain AP.\tThe food's basic effects will increase over time.\tThe L-Rod's effects will increase over time.\tYou will be able to even sketch monsters that move slightly.
+interface_standardapi_gamemonth.14	As you age and grow, you will obtain AP.\nThe food's basic effects will increase over time.\nThe L-Rod's effects will increase over time.\nYou will be able to even sketch monsters that move slightly.\nIncrease in success rates for Alchemy skills.
 interface_standardapi_gamemonth.15	CHARACTER AGES ONE YEAR.\tINCREASE IN FOOD EFFECTS.
 interface_standardapi_gamemonth.16	CHARACTER AGES ONE YEAR.\nINCREASE IN FOOD EFFECTS.
 interface_standardapi_gamemonth.17	After {0} Day(s), {1} Hour(s), {2} Minute, and {3} Second(s)

@@ -3152,7 +3152,7 @@ pli_windowroulettegame.2	Spin the wheel with your mouse and let go.
 pli_windowroulettegame.3	Cancel
 pli_windowroulettegame.4	Chance!\nYou get to select an even better color.
 pli_windowroulettegame.5	Chat Color Change Potion
-pli_windowroulettegame.6	Chang Name/Chat color.
+pli_windowroulettegame.6	Change Name/Chat color.
 pli_windowschool.1	There's no deadline.
 pli_windowselectrespawn.1	Revive Here\nRevive from the same spot
 pli_windowselectrespawn.2	Revive from the same spot.
@@ -4610,7 +4610,7 @@ window.pet_pvp.mana	MP
 window.pet_pvp.my_gold	Gold
 window.pet_pvp.my_reward	Item to give
 window.pet_pvp.openstat	Show stats
-window.pet_pvp.prepare Complete
+window.pet_pvp.prepare	완료 Complete
 window.pet_pvp.prepare_attack	damage
 window.pet_pvp.prepare_critical	critical
 window.pet_pvp.prepare_give_item	give item
@@ -4626,7 +4626,7 @@ window.pet_pvp.prepare_stat	Ability
 window.pet_pvp.prepare_stat_open	Ability Window
 window.pet_pvp.prepare_str	Str
 window.pet_pvp.prepare_title	Pet Match\nPet Match
-window.pet_pvp.prepare_wait	Wait
+window.pet_pvp.prepare_wait	대기 Wait
 window.pet_pvp.prepare_waiting	Waiting for order
 window.pet_pvp.prepare_wattack	Wound
 window.pet_pvp.reward	Item to receive
@@ -4703,7 +4703,7 @@ window.popup_item.house_stop_sell	Stop Selling
 window.popup_item.open_button	Open
 window.popup_item.pickup_button	Pick Up
 window.popup_item.read_button	Read
-window.popup_item.rental_free	Set Rental Fee
+window.popup_item.rental_free	사용료 설정 Set Rental Fee
 window.popup_item.see_egoweapon	See info on the Spirit Weapon
 window.popup_item.set_brownie_message	Set Ad Message
 window.popup_item.set_price	Set Price
@@ -4711,7 +4711,7 @@ window.popup_item.take_button	Pick Up
 window.popup_item.talk_with_egoweapon	Speak with the Spirit
 window.popup_item.title	<bold>Item Menu</large>
 window.popup_item.use_button	Use
-window.popup_item_direction	Change Direction
+window.popup_item_direction	방향 바꾸기 Change Direction
 window.production.cancel_button	Cancel
 window.production.detail_text	Work Process: Last Stage\nDifficulty: {0}\nCurrent Skill Level: {1}\nSuccess Rate: {2}%
 window.production.detail_text2	Work Process: {0}%\n Difficulty: {1}\nCurrent Skill Level: {2}\nSuccess Rate: {3}%
@@ -4857,7 +4857,7 @@ window.respawn.tooltip.dungeon_button	Revive at the Statue of Goddess at the dun
 window.respawn.tooltip.here_button	Revive at the current location.\n\n- HP Recovery 5 \n- Additional Injury matching 50% of Life\n- {0} EXP Loss\n
 window.respawn.tooltip.here_button_no_exp	Insufficient EXP. You cannot revive on site.
 window.respawn.tooltip.here_perfect_button	Revive at the current location.\n\n- HP Recovery 100%\n- Injury Recovery 100%
-window.respawn.tooltip.here_perfectly_button	Resurrects on teh spot\n100% health and wound recovery.
+window.respawn.tooltip.here_perfectly_button	Resurrects on the spot\n100% health and wound recovery.
 window.respawn.tooltip.in_camp	Revive at the camp.\n\n- HP Recovery 25% \n- Additional Injury equal to 10% of Life\n- {0} EXP Loss
 window.respawn.tooltip.last_warp_point_button	Revive at the previous Warp Point\n\n- Recover 100% HP\n- Recover 50% Injury\n- {0} EXP Loss
 window.respawn.tooltip.statue_button	Revive at the last Statue of Goddess you passed by.\n\n- HP Recovery 25% \n- Additional Injury matching 10% of HP\n- {0} EXP Loss
@@ -5188,7 +5188,7 @@ window.stack_pocket.time_text_second	{0} sec
 window.stack_pocket.title	Temporary Inventory
 window.stack_pocket.warning_msg	Please organize this item.
 window.stack_pocket.warning_msg_time	Organize the items within <color=2>{0:time}</color> .
-window.stack_pocket.warning_text	Organize your inventory to make room for this item. Otherwise, the item will be dropped to the ground.
+window.stack_pocket.warning_text	Organize your inventory to make room for this item. Otherwise, you will be slowed down.
 window.system.conquest_page	Open a Support Ticket
 window.system.continent.msg.text	You will be teleported to {0}.\nOnce you teleport, you will not be able to teleport again until 12 o'clock AM, or 12 o'clock PM, Erinn time,\ndepending on when you arrive at your destination.\nWould you like to teleport now?
 window.system.continent.msg.title	Continent Warp
@@ -5214,7 +5214,7 @@ window.system.tooltip.option_button	This will allow you to change various game s
 window.system.tooltip.screenshot_button	This will allow you to take a screenshot.
 window.system.tooltip.wmode_button	Switch to Windowed Mode.\n(Press Alt + Enter)
 window.system.wmode_button	Windowed Mode
-window.system_knowledge_page	Content Polls
+window.system_knowledge_page	Game Guides
 window.system_shop_page	Donate Bitcoin
 window.task_bar.advance_item_arrived	Today's advanced item has arrived.\nClick to accept it.
 window.taskbar.action_button_l	Actio<color=2>n</color>
