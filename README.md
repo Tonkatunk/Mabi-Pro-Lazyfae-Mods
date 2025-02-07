@@ -1,6 +1,8 @@
 # Mabi Pro Lazyfae Mods
  
-There is a variety of different mods available here.  You can just download and use all, or pick and choose.  Either way, I strongly recommend you know how to check for outdated mods at the very least, because I will not generally notify and make updates for the public, so much as myself.  So if I'm not active or forget to update via github, crashing is expected.
+If you have an existing data folder, BACK IT UP BEFORE DOWNLOADING!!! This is just a copy/paste, if you have existing files that conflict with my mods, the copy/paste will replace your files. So make sure you have your data folder backed up to prevent losing mods you use.<br>
+
+There is a variety of different mods available here.  You can just download and use all, or pick and choose.  To install all, just download from releases, then move the "data" folder into your Mabi Pro directory, that's all. You can safely remove any other files/folders, as well as any desktop.ini files you find. To uninstall, you do need to manually remove the data folder files. You can check which ones from the github or if you kept a backup of the data folder somehwere on your pc.<br>
 
 Link to a guide currently on mabi.pro forums, to finding outdated files.  This doesn't cover manually updating, just seeing if they're a potential problem.<br>
 <http://mabi.pro/thread/4136-checking-for-outdated-mods-data-folder#post13806>
